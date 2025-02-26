@@ -1,0 +1,1258 @@
+{
+  "projectName": "ATOMS",
+  "description": "Agent-based Token Market Simulation",
+  "agentCount": 50,
+  "createdAt": "2025-02-20T09:30:00.000Z",
+  "agents": [
+  {
+      "id": 1,
+      "publicKey": "AFDCQSJbC2aQ33VNDJxEnmbAHUnvZY6zuTdDZHyFfLKr",
+      "balance": 8,
+      "occupation": "Tech Professional",
+      "tradingPersonality": "Professional Trader",
+      "name": "Agent Nakamoto",
+      "age": 34,
+      "gender": "male",
+      "riskTolerance": 7,
+      "tradingFrequency": 4,
+      "timeHorizon": "Medium-term",
+      "primaryInformationSources": [
+        "Technical Analysis",
+        "Tech News"
+      ],
+      "preferredStrategies": [
+        "Swing Trading",
+        "Technical Analysis"
+      ],
+      "description": "Uses technical analysis and market knowledge for strategic trading",
+      "socialInfluence": 6,
+      "technicalAnalysisSkill": 9,
+      "emotionalTrading": 3
+    },
+    {
+      "id": 2,
+      "publicKey": "CoRgWd3CyXShXggnCHzGh9S2WY8NEMQ5cJa26916HPqZ",
+      "balance": 3,
+      "occupation": "Sales Professional",
+      "tradingPersonality": "Retail Investor",
+      "name": "Agent Rivera",
+      "age": 28,
+      "gender": "female",
+      "riskTolerance": 8,
+      "tradingFrequency": 4,
+      "timeHorizon": "Short to medium-term",
+      "primaryInformationSources": [
+        "Network Intelligence",
+        "Market Sentiment"
+      ],
+      "preferredStrategies": [
+        "Momentum Trading",
+        "News Trading"
+      ],
+      "description": "Emotionally driven, influenced by social media and trends",
+      "socialInfluence": 9,
+      "technicalAnalysisSkill": 3,
+      "emotionalTrading": 8
+    },
+    {
+      "id": 3,
+      "publicKey": "C5bxcjtZqRW18sCe4RQTJtGzcHYLVjMrCJXGMB73i6Xn",
+      "balance": 7,
+      "occupation": "Investment Professional",
+      "tradingPersonality": "Professional Trader",
+      "name": "Agent Patel",
+      "age": 41,
+      "gender": "male",
+      "riskTolerance": 6,
+      "tradingFrequency": 5,
+      "timeHorizon": "Medium-term",
+      "primaryInformationSources": [
+        "Technical Analysis",
+        "Market Data"
+      ],
+      "preferredStrategies": [
+        "Position Trading",
+        "Technical Analysis"
+      ],
+      "description": "Uses technical analysis and market knowledge for strategic trading",
+      "socialInfluence": 5,
+      "technicalAnalysisSkill": 9,
+      "emotionalTrading": 2
+    },
+    {
+      "id": 4,
+      "publicKey": "6KWtjFgeSS1su8pnPwnfJViTRJ9nAuMDnosEshh2KDRk",
+      "balance": 3,
+      "occupation": "Retail Worker",
+      "tradingPersonality": "Retail Investor",
+      "name": "Agent Zhang",
+      "age": 25,
+      "gender": "female",
+      "riskTolerance": 7,
+      "tradingFrequency": 3,
+      "timeHorizon": "Short to medium-term",
+      "primaryInformationSources": [
+        "Social Media",
+        "Popular News"
+      ],
+      "preferredStrategies": [
+        "Momentum Trading",
+        "FOMO-based"
+      ],
+      "description": "Emotionally driven, influenced by social media and trends",
+      "socialInfluence": 7,
+      "technicalAnalysisSkill": 2,
+      "emotionalTrading": 9
+    },
+    {
+      "id": 5,
+      "publicKey": "AbQZ2o15GRh9LRxfZdrJfh9wK2epy36kDmto4KVsaHWu",
+      "balance": 5,
+      "occupation": "Professor/Researcher",
+      "tradingPersonality": "Long-term Holder",
+      "name": "Agent Rodriguez",
+      "age": 59,
+      "gender": "female",
+      "riskTolerance": 3,
+      "tradingFrequency": 2,
+      "timeHorizon": "Long-term",
+      "primaryInformationSources": [
+        "Academic Research",
+        "Economic Theory"
+      ],
+      "preferredStrategies": [
+        "Buy and Hold",
+        "Fundamental Analysis"
+      ],
+      "description": "Value-focused, less frequent trading, believes in fundamentals",
+      "socialInfluence": 6,
+      "technicalAnalysisSkill": 7,
+      "emotionalTrading": 2
+    },
+    {
+      "id": 6,
+      "publicKey": "GhLHKW9DxnFSHrdHT9GuepreqxPZ7ai2qkQZDUtf8r44",
+      "balance": 3,
+      "occupation": "Sales Professional",
+      "tradingPersonality": "Professional Trader",
+      "name": "Agent Gupta",
+      "age": 32,
+      "gender": "male",
+      "riskTolerance": 7,
+      "tradingFrequency": 4,
+      "timeHorizon": "Medium-term",
+      "primaryInformationSources": [
+        "Network Intelligence",
+        "Market Sentiment"
+      ],
+      "preferredStrategies": [
+        "Swing Trading",
+        "Position Trading"
+      ],
+      "description": "Uses technical analysis and market knowledge for strategic trading",
+      "socialInfluence": 8,
+      "technicalAnalysisSkill": 6,
+      "emotionalTrading": 5
+    },
+    {
+      "id": 7,
+      "publicKey": "JCjgr15SA3RCgUdx7VUFvzZtLFmGFfDEwY8NdFBM5TnH",
+      "balance": 8,
+      "occupation": "Tech Professional",
+      "tradingPersonality": "Arbitrage Bot",
+      "name": "Agent Lee",
+      "age": 29,
+      "gender": "male",
+      "riskTolerance": 6,
+      "tradingFrequency": 5,
+      "timeHorizon": "Immediate",
+      "primaryInformationSources": [
+        "Technical Analysis",
+        "Tech News"
+      ],
+      "preferredStrategies": [
+        "Cross-exchange Arbitrage",
+        "Statistical Arbitrage"
+      ],
+      "description": "Seeks to exploit price differences across markets or tokens",
+      "socialInfluence": 3,
+      "technicalAnalysisSkill": 10,
+      "emotionalTrading": 1
+    },
+    {
+      "id": 8,
+      "publicKey": "5hraMFVrhNWtVuggHcEKubz3Yr3CCshovVphAC9wJbsk",
+      "balance": 3,
+      "occupation": "Retail Worker",
+      "tradingPersonality": "Retail Investor",
+      "name": "Agent Okafor",
+      "age": 26,
+      "gender": "female",
+      "riskTolerance": 7,
+      "tradingFrequency": 3,
+      "timeHorizon": "Short to medium-term",
+      "primaryInformationSources": [
+        "Social Media",
+        "Popular News"
+      ],
+      "preferredStrategies": [
+        "FOMO-based",
+        "Momentum Trading"
+      ],
+      "description": "Emotionally driven, influenced by social media and trends",
+      "socialInfluence": 8,
+      "technicalAnalysisSkill": 3,
+      "emotionalTrading": 8
+    },
+    {
+      "id": 9,
+      "publicKey": "BreR5FFaCDkXhcArxMKYF9G4i3xPLazTH2ftjL1nzrt7",
+      "balance": 2,
+      "occupation": "Retail Worker",
+      "tradingPersonality": "Long-term Holder",
+      "name": "Agent Johnson",
+      "age": 42,
+      "gender": "male",
+      "riskTolerance": 4,
+      "tradingFrequency": 2,
+      "timeHorizon": "Long-term",
+      "primaryInformationSources": [
+        "Social Media",
+        "Popular News"
+      ],
+      "preferredStrategies": [
+        "Buy and Hold",
+        "Dollar Cost Averaging"
+      ],
+      "description": "Value-focused, less frequent trading, believes in fundamentals",
+      "socialInfluence": 5,
+      "technicalAnalysisSkill": 4,
+      "emotionalTrading": 6
+    },
+    {
+      "id": 10,
+      "publicKey": "C2zAdUkZFweJCrfQtvCoUM7c7D48XT44qGeWQyYRBGLt",
+      "balance": 9,
+      "occupation": "Business Owner",
+      "tradingPersonality": "Market Maker",
+      "name": "Agent Tanaka",
+      "age": 47,
+      "gender": "female",
+      "riskTolerance": 5,
+      "tradingFrequency": 5,
+      "timeHorizon": "Very short-term",
+      "primaryInformationSources": [
+        "Market Sentiment",
+        "Economic Indicators"
+      ],
+      "preferredStrategies": [
+        "Spread Trading",
+        "Liquidity Provision"
+      ],
+      "description": "Focused on providing liquidity and capturing small price differences",
+      "socialInfluence": 6,
+      "technicalAnalysisSkill": 8,
+      "emotionalTrading": 3
+    },
+    {
+      "id": 11,
+      "publicKey": "8N73QyiL1TJxSYrgBndK4uZNfWLBkZRsw3VZp12yzoSN",
+      "balance": 10,
+      "occupation": "Medical Professional",
+      "tradingPersonality": "Long-term Holder",
+      "name": "Agent Hassan",
+      "age": 52,
+      "gender": "male",
+      "riskTolerance": 3,
+      "tradingFrequency": 2,
+      "timeHorizon": "Long-term",
+      "primaryInformationSources": [
+        "Research Reports",
+        "Professional Networks"
+      ],
+      "preferredStrategies": [
+        "Fundamental Analysis",
+        "Buy and Hold"
+      ],
+      "description": "Value-focused, less frequent trading, believes in fundamentals",
+      "socialInfluence": 7,
+      "technicalAnalysisSkill": 5,
+      "emotionalTrading": 2
+    },
+    {
+      "id": 12,
+      "publicKey": "EHM8mgi6L7mEEoHnED9rnSrdWBo9VLi7qVhGEh4eBHWM",
+      "balance": 3,
+      "occupation": "Retail Worker",
+      "tradingPersonality": "Retail Investor",
+      "name": "Agent Thompson",
+      "age": 24,
+      "gender": "female",
+      "riskTolerance": 8,
+      "tradingFrequency": 3,
+      "timeHorizon": "Short to medium-term",
+      "primaryInformationSources": [
+        "Social Media",
+        "Popular News"
+      ],
+      "preferredStrategies": [
+        "News Trading",
+        "Momentum Trading"
+      ],
+      "description": "Emotionally driven, influenced by social media and trends",
+      "socialInfluence": 9,
+      "technicalAnalysisSkill": 2,
+      "emotionalTrading": 8
+    },
+    {
+      "id": 13,
+      "publicKey": "7V8Aunc492zUbr3B5eLtT1sbBWQrAQPr9x7U4mr3S9zd",
+      "balance": 2,
+      "occupation": "College Student",
+      "tradingPersonality": "Retail Investor",
+      "name": "Agent Kim",
+      "age": 21,
+      "gender": "male",
+      "riskTolerance": 9,
+      "tradingFrequency": 4,
+      "timeHorizon": "Short to medium-term",
+      "primaryInformationSources": [
+        "Social Media",
+        "Peer Discussion"
+      ],
+      "preferredStrategies": [
+        "FOMO-based",
+        "Momentum Trading"
+      ],
+      "description": "Emotionally driven, influenced by social media and trends",
+      "socialInfluence": 8,
+      "technicalAnalysisSkill": 3,
+      "emotionalTrading": 9
+    },
+    {
+      "id": 14,
+      "publicKey": "3tSHf2R6zGWb5siqzsR1vA5TBBM7YSrCnqqWMh9ZdSbV",
+      "balance": 4,
+      "occupation": "Financial Advisor",
+      "tradingPersonality": "Long-term Holder",
+      "name": "Agent Wilson",
+      "age": 39,
+      "gender": "female",
+      "riskTolerance": 4,
+      "tradingFrequency": 3,
+      "timeHorizon": "Long-term",
+      "primaryInformationSources": [
+        "Economic Indicators",
+        "Fundamental Analysis"
+      ],
+      "preferredStrategies": [
+        "Buy and Hold",
+        "Dollar Cost Averaging"
+      ],
+      "description": "Value-focused, less frequent trading, believes in fundamentals",
+      "socialInfluence": 6,
+      "technicalAnalysisSkill": 7,
+      "emotionalTrading": 3
+    },
+    {
+      "id": 15,
+      "publicKey": "45mGCVRzTuAcE9Febht2UbGuXPmZdvLFC7rfUGLXpAE2",
+      "balance": 9,
+      "occupation": "Business Owner",
+      "tradingPersonality": "Professional Trader",
+      "name": "Agent Nguyen",
+      "age": 44,
+      "gender": "male",
+      "riskTolerance": 6,
+      "tradingFrequency": 4,
+      "timeHorizon": "Medium-term",
+      "primaryInformationSources": [
+        "Market Sentiment",
+        "Economic Indicators"
+      ],
+      "preferredStrategies": [
+        "Position Trading",
+        "Swing Trading"
+      ],
+      "description": "Uses technical analysis and market knowledge for strategic trading",
+      "socialInfluence": 7,
+      "technicalAnalysisSkill": 8,
+      "emotionalTrading": 4
+    },
+    {
+      "id": 16,
+      "publicKey": "QSwsHVGkxrNw918KA7GvYNAwBndnyUuAeCDtEYPA4os",
+      "balance": 1,
+      "occupation": "College Student",
+      "tradingPersonality": "Retail Investor",
+      "name": "Agent Garcia",
+      "age": 19,
+      "gender": "female",
+      "riskTolerance": 10,
+      "tradingFrequency": 5,
+      "timeHorizon": "Short to medium-term",
+      "primaryInformationSources": [
+        "Social Media",
+        "Peer Discussion"
+      ],
+      "preferredStrategies": [
+        "FOMO-based",
+        "News Trading"
+      ],
+      "description": "Emotionally driven, influenced by social media and trends",
+      "socialInfluence": 9,
+      "technicalAnalysisSkill": 2,
+      "emotionalTrading": 10
+    },
+    {
+      "id": 17,
+      "publicKey": "x64EAu2UU3qDhaq3k5QBoqUREWaSbmLw4YnfMPenahb",
+      "balance": 3,
+      "occupation": "Retail Worker",
+      "tradingPersonality": "Long-term Holder",
+      "name": "Agent Singh",
+      "age": 31,
+      "gender": "male",
+      "riskTolerance": 5,
+      "tradingFrequency": 2,
+      "timeHorizon": "Long-term",
+      "primaryInformationSources": [
+        "Social Media",
+        "Popular News"
+      ],
+      "preferredStrategies": [
+        "Dollar Cost Averaging",
+        "Buy and Hold"
+      ],
+      "description": "Value-focused, less frequent trading, believes in fundamentals",
+      "socialInfluence": 5,
+      "technicalAnalysisSkill": 4,
+      "emotionalTrading": 6
+    },
+    {
+      "id": 18,
+      "publicKey": "EdjXim1GL5ssbo1jb8G91SRCeKDXqJtHbECRgTdjJ5C4",
+      "balance": 3,
+      "occupation": "Retail Worker",
+      "tradingPersonality": "Retail Investor",
+      "name": "Agent Williams",
+      "age": 27,
+      "gender": "female",
+      "riskTolerance": 7,
+      "tradingFrequency": 3,
+      "timeHorizon": "Short to medium-term",
+      "primaryInformationSources": [
+        "Social Media",
+        "Popular News"
+      ],
+      "preferredStrategies": [
+        "News Trading",
+        "Momentum Trading"
+      ],
+      "description": "Emotionally driven, influenced by social media and trends",
+      "socialInfluence": 8,
+      "technicalAnalysisSkill": 3,
+      "emotionalTrading": 8
+    },
+    {
+      "id": 19,
+      "publicKey": "HZQxcNXjPsCtuFvhaqZG6Zjkfy5mdpQL2NJ5AhNFEBYZ",
+      "balance": 9,
+      "occupation": "Investment Professional",
+      "tradingPersonality": "Professional Trader",
+      "name": "Agent Wang",
+      "age": 36,
+      "gender": "male",
+      "riskTolerance": 7,
+      "tradingFrequency": 5,
+      "timeHorizon": "Medium-term",
+      "primaryInformationSources": [
+        "Technical Analysis",
+        "Market Data"
+      ],
+      "preferredStrategies": [
+        "Swing Trading",
+        "Technical Analysis"
+      ],
+      "description": "Uses technical analysis and market knowledge for strategic trading",
+      "socialInfluence": 5,
+      "technicalAnalysisSkill": 9,
+      "emotionalTrading": 3
+    },
+    {
+      "id": 20,
+      "publicKey": "AU6WuRbFZzege2mjw9xhq3pZfbc4CQJuz5SixvqXbc5a",
+      "balance": 6,
+      "occupation": "Professor/Researcher",
+      "tradingPersonality": "Market Maker",
+      "name": "Agent Ahmed",
+      "age": 48,
+      "gender": "female",
+      "riskTolerance": 5,
+      "tradingFrequency": 4,
+      "timeHorizon": "Very short-term",
+      "primaryInformationSources": [
+        "Academic Research",
+        "Economic Theory"
+      ],
+      "preferredStrategies": [
+        "Spread Trading",
+        "Volume Analysis"
+      ],
+      "description": "Focused on providing liquidity and capturing small price differences",
+      "socialInfluence": 4,
+      "technicalAnalysisSkill": 9,
+      "emotionalTrading": 2
+    },
+    {
+      "id": 21,
+      "publicKey": "G9gpfwD6sYvHgsiD8Cw4Les7meReAyKNNESakDH192d9",
+      "balance": 7,
+      "occupation": "Sales Professional",
+      "tradingPersonality": "Professional Trader",
+      "name": "Agent Brown",
+      "age": 34,
+      "gender": "male",
+      "riskTolerance": 7,
+      "tradingFrequency": 4,
+      "timeHorizon": "Medium-term",
+      "primaryInformationSources": [
+        "Network Intelligence",
+        "Market Sentiment"
+      ],
+      "preferredStrategies": [
+        "Position Trading",
+        "Swing Trading"
+      ],
+      "description": "Uses technical analysis and market knowledge for strategic trading",
+      "socialInfluence": 8,
+      "technicalAnalysisSkill": 7,
+      "emotionalTrading": 5
+    },
+    {
+      "id": 22,
+      "publicKey": "3DzpURBYqsZgBvFdP9WQ9zUdmspQC6xnowSSi5RomfnK",
+      "balance": 8,
+      "occupation": "Tech Professional",
+      "tradingPersonality": "Arbitrage Bot",
+      "name": "Agent Lopez",
+      "age": 31,
+      "gender": "female",
+      "riskTolerance": 6,
+      "tradingFrequency": 5,
+      "timeHorizon": "Immediate",
+      "primaryInformationSources": [
+        "Technical Analysis",
+        "Tech News"
+      ],
+      "preferredStrategies": [
+        "Triangle Arbitrage",
+        "Statistical Arbitrage"
+      ],
+      "description": "Seeks to exploit price differences across markets or tokens",
+      "socialInfluence": 3,
+      "technicalAnalysisSkill": 10,
+      "emotionalTrading": 1
+    },
+    {
+      "id": 23,
+      "publicKey": "7ohUFJ5oT6JwH9tToyWfmsibN6ie4BH3A3yFUFyBENVV",
+      "balance": 4,
+      "occupation": "Financial Advisor",
+      "tradingPersonality": "Long-term Holder",
+      "name": "Agent Davis",
+      "age": 45,
+      "gender": "female",
+      "riskTolerance": 4,
+      "tradingFrequency": 2,
+      "timeHorizon": "Long-term",
+      "primaryInformationSources": [
+        "Economic Indicators",
+        "Fundamental Analysis"
+      ],
+      "preferredStrategies": [
+        "Buy and Hold",
+        "Fundamental Analysis"
+      ],
+      "description": "Value-focused, less frequent trading, believes in fundamentals",
+      "socialInfluence": 7,
+      "technicalAnalysisSkill": 6,
+      "emotionalTrading": 3
+    },
+    {
+      "id": 24,
+      "publicKey": "HnSNWcmkrSwQXfsnSisuNx9NggWeVQpYcuRP7UpiLzpV",
+      "balance": 10,
+      "occupation": "Medical Professional",
+      "tradingPersonality": "Professional Trader",
+      "name": "Agent Müller",
+      "age": 40,
+      "gender": "male",
+      "riskTolerance": 5,
+      "tradingFrequency": 3,
+      "timeHorizon": "Medium-term",
+      "primaryInformationSources": [
+        "Research Reports",
+        "Professional Networks"
+      ],
+      "preferredStrategies": [
+        "Position Trading",
+        "Technical Analysis"
+      ],
+      "description": "Uses technical analysis and market knowledge for strategic trading",
+      "socialInfluence": 6,
+      "technicalAnalysisSkill": 8,
+      "emotionalTrading": 3
+    },
+    {
+      "id": 25,
+      "publicKey": "7mn5z4VA3FkVPBxBQwfFL9HoaxC4YP4gg4gRuJetgegh",
+      "balance": 2,
+      "occupation": "College Student",
+      "tradingPersonality": "Professional Trader",
+      "name": "Agent Choi",
+      "age": 22,
+      "gender": "female",
+      "riskTolerance": 8,
+      "tradingFrequency": 4,
+      "timeHorizon": "Medium-term",
+      "primaryInformationSources": [
+        "Social Media",
+        "Peer Discussion"
+      ],
+      "preferredStrategies": [
+        "Swing Trading",
+        "Technical Analysis"
+      ],
+      "description": "Uses technical analysis and market knowledge for strategic trading",
+      "socialInfluence": 7,
+      "technicalAnalysisSkill": 6,
+      "emotionalTrading": 5
+    },
+    {
+      "id": 26,
+      "publicKey": "CddAmWgYzgY1T8tyQAkTzvU4DMPDbqubyFNq6XBPsKMP",
+      "balance": 10,
+      "occupation": "Medical Professional",
+      "tradingPersonality": "Long-term Holder",
+      "name": "Agent Martin",
+      "age": 55,
+      "gender": "female",
+      "riskTolerance": 3,
+      "tradingFrequency": 2,
+      "timeHorizon": "Long-term",
+      "primaryInformationSources": [
+        "Research Reports",
+        "Professional Networks"
+      ],
+      "preferredStrategies": [
+        "Buy and Hold",
+        "Fundamental Analysis"
+      ],
+      "description": "Value-focused, less frequent trading, believes in fundamentals",
+      "socialInfluence": 6,
+      "technicalAnalysisSkill": 5,
+      "emotionalTrading": 2
+    },
+    {
+      "id": 27,
+      "publicKey": "3tzRcdUoigi6CfoF6CnCEnpNcfhDQaGgJjtrHHMJ25kc",
+      "balance": 8,
+      "occupation": "Tech Professional",
+      "tradingPersonality": "Professional Trader",
+      "name": "Agent Cohen",
+      "age": 37,
+      "gender": "male",
+      "riskTolerance": 7,
+      "tradingFrequency": 4,
+      "timeHorizon": "Medium-term",
+      "primaryInformationSources": [
+        "Technical Analysis",
+        "Tech News"
+      ],
+      "preferredStrategies": [
+        "Swing Trading",
+        "Position Trading"
+      ],
+      "description": "Uses technical analysis and market knowledge for strategic trading",
+      "socialInfluence": 5,
+      "technicalAnalysisSkill": 9,
+      "emotionalTrading": 3
+    },
+    {
+      "id": 28,
+      "publicKey": "5R1FtSWTw3W8Tkx6tBLginBQBTc4s4S6GbwRSmgJh8fo",
+      "balance": 9,
+      "occupation": "Medical Professional",
+      "tradingPersonality": "Professional Trader",
+      "name": "Agent Diaz",
+      "age": 42,
+      "gender": "female",
+      "riskTolerance": 5,
+      "tradingFrequency": 3,
+      "timeHorizon": "Medium-term",
+      "primaryInformationSources": [
+        "Research Reports",
+        "Professional Networks"
+      ],
+      "preferredStrategies": [
+        "Position Trading",
+        "Technical Analysis"
+      ],
+      "description": "Uses technical analysis and market knowledge for strategic trading",
+      "socialInfluence": 6,
+      "technicalAnalysisSkill": 7,
+      "emotionalTrading": 4
+    },
+    {
+      "id": 29,
+      "publicKey": "GzPjkZbtcsj85mdZTRxPL3TkCRzqcShoKzsfDmbrGSka",
+      "balance": 7,
+      "occupation": "Tech Professional",
+      "tradingPersonality": "Arbitrage Bot",
+      "name": "Agent Suzuki",
+      "age": 33,
+      "gender": "male",
+      "riskTolerance": 6,
+      "tradingFrequency": 5,
+      "timeHorizon": "Immediate",
+      "primaryInformationSources": [
+        "Technical Analysis",
+        "Tech News"
+      ],
+      "preferredStrategies": [
+        "Cross-exchange Arbitrage",
+        "Triangle Arbitrage"
+      ],
+      "description": "Seeks to exploit price differences across markets or tokens",
+      "socialInfluence": 4,
+      "technicalAnalysisSkill": 10,
+      "emotionalTrading": 2
+    },
+    {
+      "id": 30,
+      "publicKey": "3tDfgxVXau4dvejmS4HdhduqXE3JyoB97cA8QC5Pw5hw",
+      "balance": 5,
+      "occupation": "Professor/Researcher",
+      "tradingPersonality": "Long-term Holder",
+      "name": "Agent Jackson",
+      "age": 57,
+      "gender": "male",
+      "riskTolerance": 3,
+      "tradingFrequency": 2,
+      "timeHorizon": "Long-term",
+      "primaryInformationSources": [
+        "Academic Research",
+        "Economic Theory"
+      ],
+      "preferredStrategies": [
+        "Buy and Hold",
+        "Fundamental Analysis"
+      ],
+      "description": "Value-focused, less frequent trading, believes in fundamentals",
+      "socialInfluence": 6,
+      "technicalAnalysisSkill": 7,
+      "emotionalTrading": 2
+    },
+    {
+      "id": 31,
+      "publicKey": "3sLWfVjJ9mpU8MP7iaQg4hagNvygQSDugVKjRbKpVuy8",
+      "balance": 7,
+      "occupation": "Investment Professional",
+      "tradingPersonality": "Professional Trader",
+      "name": "Agent Taylor",
+      "age": 39,
+      "gender": "female",
+      "riskTolerance": 6,
+      "tradingFrequency": 5,
+      "timeHorizon": "Medium-term",
+      "primaryInformationSources": [
+        "Technical Analysis",
+        "Market Data"
+      ],
+      "preferredStrategies": [
+        "Swing Trading",
+        "Technical Analysis"
+      ],
+      "description": "Uses technical analysis and market knowledge for strategic trading",
+      "socialInfluence": 5,
+      "technicalAnalysisSkill": 9,
+      "emotionalTrading": 3
+    },
+    {
+      "id": 32,
+      "publicKey": "2UADJe4wAbVepBfLucBhzBHHXtHzCXMpe3s5R1o9QWHo",
+      "balance": 9,
+      "occupation": "Business Owner",
+      "tradingPersonality": "Professional Trader",
+      "name": "Agent Kumar",
+      "age": 46,
+      "gender": "male",
+      "riskTolerance": 6,
+      "tradingFrequency": 4,
+      "timeHorizon": "Medium-term",
+      "primaryInformationSources": [
+        "Market Sentiment",
+        "Economic Indicators"
+      ],
+      "preferredStrategies": [
+        "Position Trading",
+        "Swing Trading"
+      ],
+      "description": "Uses technical analysis and market knowledge for strategic trading",
+      "socialInfluence": 7,
+      "technicalAnalysisSkill": 8,
+      "emotionalTrading": 4
+    },
+    {
+      "id": 33,
+      "publicKey": "3TMryDm37MoDc6mJQirrG1mC3ySxkJzYabpFR6bADrY4",
+      "balance": 9,
+      "occupation": "Business Owner",
+      "tradingPersonality": "Market Maker",
+      "name": "Agent White",
+      "age": 49,
+      "gender": "female",
+      "riskTolerance": 5,
+      "tradingFrequency": 5,
+      "timeHorizon": "Very short-term",
+      "primaryInformationSources": [
+        "Market Sentiment",
+        "Economic Indicators"
+      ],
+      "preferredStrategies": [
+        "Spread Trading",
+        "Liquidity Provision"
+      ],
+      "description": "Focused on providing liquidity and capturing small price differences",
+      "socialInfluence": 6,
+      "technicalAnalysisSkill": 9,
+      "emotionalTrading": 3
+    },
+    {
+      "id": 34,
+      "publicKey": "HDDbqdKXTsnBNWiVk6CZP4UjTw1b5LpGdPqKoWAPKh6h",
+      "balance": 1,
+      "occupation": "College Student",
+      "tradingPersonality": "Retail Investor",
+      "name": "Agent Martinez",
+      "age": 20,
+      "gender": "male",
+      "riskTolerance": 9,
+      "tradingFrequency": 4,
+      "timeHorizon": "Short to medium-term",
+      "primaryInformationSources": [
+        "Social Media",
+        "Peer Discussion"
+      ],
+      "preferredStrategies": [
+        "FOMO-based",
+        "Momentum Trading"
+      ],
+      "description": "Emotionally driven, influenced by social media and trends",
+      "socialInfluence": 9,
+      "technicalAnalysisSkill": 3,
+      "emotionalTrading": 8
+    },
+    {
+      "id": 35,
+      "publicKey": "9BASDfjWgQ9Ct5RjrH8dWijVmLCsJwRsVSnpMLDDfTH6",
+      "balance": 10,
+      "occupation": "Medical Professional",
+      "tradingPersonality": "Long-term Holder",
+      "name": "Agent Sharma",
+      "age": 51,
+      "gender": "male",
+      "riskTolerance": 3,
+      "tradingFrequency": 1,
+      "timeHorizon": "Long-term",
+      "primaryInformationSources": [
+        "Research Reports",
+        "Professional Networks"
+      ],
+      "preferredStrategies": [
+        "Buy and Hold",
+        "Fundamental Analysis"
+      ],
+      "description": "Value-focused, less frequent trading, believes in fundamentals",
+      "socialInfluence": 7,
+      "technicalAnalysisSkill": 5,
+      "emotionalTrading": 2
+    },
+    {
+      "id": 36,
+      "publicKey": "2ioL8yZ9gCTrZnbsWgfesAL4dvfW2cGfJD4qpZq5Lh5h",
+      "balance": 5,
+      "occupation": "Professor/Researcher",
+      "tradingPersonality": "Long-term Holder",
+      "name": "Agent Thomas",
+      "age": 56,
+      "gender": "female",
+      "riskTolerance": 3,
+      "tradingFrequency": 2,
+      "timeHorizon": "Long-term",
+      "primaryInformationSources": [
+        "Academic Research",
+        "Economic Theory"
+      ],
+      "preferredStrategies": [
+        "Buy and Hold",
+        "Dollar Cost Averaging"
+      ],
+      "description": "Value-focused, less frequent trading, believes in fundamentals",
+      "socialInfluence": 5,
+      "technicalAnalysisSkill": 7,
+      "emotionalTrading": 2
+    },
+    {
+      "id": 37,
+      "publicKey": "Ca6KHAuGuhhZqLJWppQeUhevGvEG4rLAWVjVpQYy6oh5",
+      "balance": 3,
+      "occupation": "Retail Worker",
+      "tradingPersonality": "Retail Investor",
+      "name": "Agent Anderson",
+      "age": 29,
+      "gender": "male",
+      "riskTolerance": 7,
+      "tradingFrequency": 3,
+      "timeHorizon": "Short to medium-term",
+      "primaryInformationSources": [
+        "Social Media",
+        "Popular News"
+      ],
+      "preferredStrategies": [
+        "News Trading",
+        "FOMO-based"
+      ],
+      "description": "Emotionally driven, influenced by social media and trends",
+      "socialInfluence": 7,
+      "technicalAnalysisSkill": 3,
+      "emotionalTrading": 8
+    },
+    {
+      "id": 38,
+      "publicKey": "6MfXp7nXzq9LYC9Xyq5NwQQcn8vCHJvsRyRMoZKfRwtY",
+      "balance": 7,
+      "occupation": "Sales Professional",
+      "tradingPersonality": "Professional Trader",
+      "name": "Agent Yamamoto",
+      "age": 36,
+      "gender": "female",
+      "riskTolerance": 7,
+      "tradingFrequency": 4,
+      "timeHorizon": "Medium-term",
+      "primaryInformationSources": [
+        "Network Intelligence",
+        "Market Sentiment"
+      ],
+      "preferredStrategies": [
+        "Swing Trading",
+        "Position Trading"
+      ],
+      "description": "Uses technical analysis and market knowledge for strategic trading",
+      "socialInfluence": 8,
+      "technicalAnalysisSkill": 7,
+      "emotionalTrading": 5
+    },
+    {
+      "id": 39,
+      "publicKey": "GYjMwDr42W86RUKftdrnGJhCUpgsnvCx1BShzZ33LHwT",
+      "balance": 9,
+      "occupation": "Business Owner",
+      "tradingPersonality": "Professional Trader",
+      "name": "Agent Gonzalez",
+      "age": 43,
+      "gender": "female",
+      "riskTolerance": 6,
+      "tradingFrequency": 4,
+      "timeHorizon": "Medium-term",
+      "primaryInformationSources": [
+        "Market Sentiment",
+        "Economic Indicators"
+      ],
+      "preferredStrategies": [
+        "Position Trading",
+        "Technical Analysis"
+      ],
+      "description": "Uses technical analysis and market knowledge for strategic trading",
+      "socialInfluence": 7,
+      "technicalAnalysisSkill": 8,
+      "emotionalTrading": 4
+    },
+    {
+      "id": 40,
+      "publicKey": "CnmEfgqKUreBHDYitma8sEdC7ZZmN3Y71D9ej2pWKGju",
+      "balance": 4,
+      "occupation": "Financial Advisor",
+      "tradingPersonality": "Long-term Holder",
+      "name": "Agent Cooper",
+      "age": 47,
+      "gender": "male",
+      "riskTolerance": 4,
+      "tradingFrequency": 2,
+      "timeHorizon": "Long-term",
+      "primaryInformationSources": [
+        "Economic Indicators",
+        "Fundamental Analysis"
+      ],
+      "preferredStrategies": [
+        "Buy and Hold",
+        "Fundamental Analysis"
+      ],
+      "description": "Value-focused, less frequent trading, believes in fundamentals",
+      "socialInfluence": 6,
+      "technicalAnalysisSkill": 7,
+      "emotionalTrading": 3
+    },
+    {
+      "id": 41,
+      "publicKey": "D5v9uL45PWq2GER6r1tPwH61w3aiyU8rnJm8cR3VBznB",
+      "balance": 6,
+      "occupation": "Sales Professional",
+      "tradingPersonality": "Professional Trader",
+      "name": "Agent Lewis",
+      "age": 31,
+      "gender": "female",
+      "riskTolerance": 7,
+      "tradingFrequency": 4,
+      "timeHorizon": "Medium-term",
+      "primaryInformationSources": [
+        "Network Intelligence",
+        "Market Sentiment"
+      ],
+      "preferredStrategies": [
+        "Swing Trading",
+        "Position Trading"
+      ],
+      "description": "Uses technical analysis and market knowledge for strategic trading",
+      "socialInfluence": 8,
+      "technicalAnalysisSkill": 6,
+      "emotionalTrading": 5
+    },
+    {
+      "id": 42,
+      "publicKey": "8vcFFdahPPwX1hKnUMkt4oK7HMpqsFqMerixXW6GqaSV",
+      "balance": 1,
+      "occupation": "College Student",
+      "tradingPersonality": "Retail Investor",
+      "name": "Agent Park",
+      "age": 21,
+      "gender": "male",
+      "riskTolerance": 9,
+      "tradingFrequency": 5,
+      "timeHorizon": "Short to medium-term",
+      "primaryInformationSources": [
+        "Social Media",
+        "Peer Discussion"
+      ],
+      "preferredStrategies": [
+        "Momentum Trading",
+        "FOMO-based"
+      ],
+      "description": "Emotionally driven, influenced by social media and trends",
+      "socialInfluence": 9,
+      "technicalAnalysisSkill": 2,
+      "emotionalTrading": 9
+    },
+    {
+      "id": 43,
+      "publicKey": "ifGqegu2Pw5YQ7VpMDEYfyXD8Zi7cynx5i9gWmyifQS",
+      "balance": 2,
+      "occupation": "Retail Worker",
+      "tradingPersonality": "Long-term Holder",
+      "name": "Agent Mitchell",
+      "age": 32,
+      "gender": "female",
+      "riskTolerance": 5,
+      "tradingFrequency": 2,
+      "timeHorizon": "Long-term",
+      "primaryInformationSources": [
+        "Social Media",
+        "Popular News"
+      ],
+      "preferredStrategies": [
+        "Dollar Cost Averaging",
+        "Buy and Hold"
+      ],
+      "description": "Value-focused, less frequent trading, believes in fundamentals",
+      "socialInfluence": 6,
+      "technicalAnalysisSkill": 4,
+      "emotionalTrading": 5
+    },
+    {
+      "id": 44,
+      "publicKey": "d4TcEAQg3tRKUXWoHUswiMG2daxVnP5cjapEhuMHLqW",
+      "balance": 1,
+      "occupation": "College Student",
+      "tradingPersonality": "Professional Trader",
+      "name": "Agent Santos",
+      "age": 22,
+      "gender": "male",
+      "riskTolerance": 8,
+      "tradingFrequency": 5,
+      "timeHorizon": "Medium-term",
+      "primaryInformationSources": [
+        "Social Media",
+        "Peer Discussion"
+      ],
+      "preferredStrategies": [
+        "Swing Trading",
+        "Technical Analysis"
+      ],
+      "description": "Uses technical analysis and market knowledge for strategic trading",
+      "socialInfluence": 7,
+      "technicalAnalysisSkill": 5,
+      "emotionalTrading": 6
+    },
+    {
+      "id": 45,
+      "publicKey": "exRo1Cf1pE5gYsVXniXQjQ6Lm4DYWZqk1UficnNJraA",
+      "balance": 2,
+      "occupation": "College Student",
+      "tradingPersonality": "Retail Investor",
+      "name": "Agent Adams",
+      "age": 20,
+      "gender": "female",
+      "riskTolerance": 9,
+      "tradingFrequency": 4,
+      "timeHorizon": "Short to medium-term",
+      "primaryInformationSources": [
+        "Social Media",
+        "Peer Discussion"
+      ],
+      "preferredStrategies": [
+        "FOMO-based",
+        "News Trading"
+      ],
+      "description": "Emotionally driven, influenced by social media and trends",
+      "socialInfluence": 8,
+      "technicalAnalysisSkill": 3,
+      "emotionalTrading": 9
+    },
+    {
+      "id": 46,
+      "publicKey": "7SqbFALAXFTYu44ZJwhA3V6PVA7h7ssvhWN4GbeeMkyC",
+      "balance": 5,
+      "occupation": "Sales Professional",
+      "tradingPersonality": "Professional Trader",
+      "name": "Agent Clark",
+      "age": 33,
+      "gender": "male",
+      "riskTolerance": 6,
+      "tradingFrequency": 4,
+      "timeHorizon": "Medium-term",
+      "primaryInformationSources": [
+        "Network Intelligence",
+        "Market Sentiment"
+      ],
+      "preferredStrategies": [
+        "Position Trading",
+        "Swing Trading"
+      ],
+      "description": "Uses technical analysis and market knowledge for strategic trading",
+      "socialInfluence": 7,
+      "technicalAnalysisSkill": 7,
+      "emotionalTrading": 4
+    },
+    {
+      "id": 47,
+      "publicKey": "5S9V7xLHnMADy2SjYHkccdZKYj7xLL5zdt6FAsYCskLz",
+      "balance": 9,
+      "occupation": "Investment Professional",
+      "tradingPersonality": "Arbitrage Bot",
+      "name": "Agent Wong",
+      "age": 38,
+      "gender": "female",
+      "riskTolerance": 5,
+      "tradingFrequency": 5,
+      "timeHorizon": "Immediate",
+      "primaryInformationSources": [
+        "Technical Analysis",
+        "Market Data"
+      ],
+      "preferredStrategies": [
+        "Cross-exchange Arbitrage",
+        "Statistical Arbitrage"
+      ],
+      "description": "Seeks to exploit price differences across markets or tokens",
+      "socialInfluence": 4,
+      "technicalAnalysisSkill": 10,
+      "emotionalTrading": 2
+    },
+    {
+      "id": 48,
+      "publicKey": "7PTrDLKJB72hu3VpuV8pURVxY8GapUPXXrG4U59mgLdJ",
+      "balance": 4,
+      "occupation": "Financial Advisor",
+      "tradingPersonality": "Market Maker",
+      "name": "Agent Evans",
+      "age": 44,
+      "gender": "male",
+      "riskTolerance": 5,
+      "tradingFrequency": 4,
+      "timeHorizon": "Very short-term",
+      "primaryInformationSources": [
+        "Economic Indicators",
+        "Fundamental Analysis"
+      ],
+      "preferredStrategies": [
+        "Spread Trading",
+        "Liquidity Provision"
+      ],
+      "description": "Focused on providing liquidity and capturing small price differences",
+      "socialInfluence": 6,
+      "technicalAnalysisSkill": 8,
+      "emotionalTrading": 3
+    },
+    {
+      "id": 49,
+      "publicKey": "HLPZgRz5BFEKfux3rK7f82NreFXXM1WiZaMUgcHhJQyP",
+      "balance": 3,
+      "occupation": "Sales Professional",
+      "tradingPersonality": "Retail Investor",
+      "name": "Agent Nguyen",
+      "age": 29,
+      "gender": "female",
+      "riskTolerance": 7,
+      "tradingFrequency": 3,
+      "timeHorizon": "Short to medium-term",
+      "primaryInformationSources": [
+        "Network Intelligence",
+        "Market Sentiment"
+      ],
+      "preferredStrategies": [
+        "News Trading",
+        "Momentum Trading"
+      ],
+      "description": "Emotionally driven, influenced by social media and trends",
+      "socialInfluence": 8,
+      "technicalAnalysisSkill": 4,
+      "emotionalTrading": 7
+    },
+    {
+      "id": 50,
+      "publicKey": "5zDHZN3CfLsWEnp8LRvkG4HzaKrfQsKwFuoHKHTBmiL7",
+      "balance": 9,
+      "occupation": "Investment Professional",
+      "tradingPersonality": "Arbitrage Bot",
+      "name": "Agent Stewart",
+      "age": 35,
+      "gender": "male",
+      "riskTolerance": 6,
+      "tradingFrequency": 5,
+      "timeHorizon": "Immediate",
+      "primaryInformationSources": [
+        "Technical Analysis",
+        "Market Data"
+      ],
+      "preferredStrategies": [
+        "Triangle Arbitrage",
+        "Cross-exchange Arbitrage"
+      ],
+      "description": "Seeks to exploit price differences across markets or tokens",
+      "socialInfluence": 3,
+      "technicalAnalysisSkill": 10,
+      "emotionalTrading": 1
+    }
+ ]
+}
