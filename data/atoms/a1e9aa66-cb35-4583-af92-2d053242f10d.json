@@ -1,0 +1,20 @@
+{
+  "id": "a1e9aa66-cb35-4583-af92-2d053242f10d",
+  "walletAddress": "9tDBtgPnnDY7TUCC1PzM3dxbfExY1UscsGRjegPby1Yk",
+  "initialBalance": 9.45,
+  "persona": {
+    "name": "Marley",
+    "age": 30,
+    "profession": "full_time_trader",
+    "traits": [
+      "analytical",
+      "cooperative"
+    ],
+    "experience": "experienced",
+    "bio": "Marley, a 30-year-old full-time crypto trader, is renowned for their analytical prowess and collaborative spirit in the dynamic world of digital currencies. With years of experience under their belt, Marley combines meticulous market analysis with cooperative strategies, often engaging with fellow traders to share insights and refine approaches. Their balanced methodology and adept understanding of market trends have made them a respected figure in the crypto trading community."
+  },
+  "riskTolerance": 0.7615525548362263,
+  "tradingStrategy": "pump_and_dump",
+  "decisionModel": "follower",
+  "fraudulent": true
+}

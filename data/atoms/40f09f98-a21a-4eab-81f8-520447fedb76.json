@@ -1,0 +1,21 @@
+{
+  "id": "40f09f98-a21a-4eab-81f8-520447fedb76",
+  "walletAddress": "CJUMWFALt3ey4ThmH8hDqdReaVfSEYmKtWkJffhqT5qQ",
+  "initialBalance": 19.12,
+  "persona": {
+    "name": "Riley",
+    "age": 29,
+    "profession": "full_time_trader",
+    "traits": [
+      "emotional",
+      "rational",
+      "risk_averse"
+    ],
+    "experience": "experienced",
+    "bio": "Riley, a 29-year-old full-time trader, skillfully navigates the volatile world of cryptocurrency with a unique blend of emotional intuition and rational analysis. Despite their emotional nature, Riley's risk-averse strategy prioritizes long-term stability over short-term gains, leveraging years of experience to make calculated decisions. This balanced approach allows Riley to thrive in the fast-paced crypto market while maintaining a level-headed perspective."
+  },
+  "riskTolerance": 0.6116390898316681,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

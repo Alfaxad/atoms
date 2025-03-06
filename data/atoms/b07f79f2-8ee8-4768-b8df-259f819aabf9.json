@@ -1,0 +1,20 @@
+{
+  "id": "b07f79f2-8ee8-4768-b8df-259f819aabf9",
+  "walletAddress": "HzZ3MtjwpQErtkfKFx2258swqebqBmCitocmoqTd4mBQ",
+  "initialBalance": 9.45,
+  "persona": {
+    "name": "Aspen",
+    "age": 26,
+    "profession": "full_time_trader",
+    "traits": [
+      "impulsive",
+      "trendsetting"
+    ],
+    "experience": "intermediate",
+    "bio": "Aspen, a 26-year-old full-time crypto trader, is known for their impulsive yet trendsetting approach to the ever-evolving world of digital currencies. With an intermediate level of trading experience, Aspen thrives on the adrenaline of fast-paced market shifts, often diving headfirst into emerging trends and setting new paths for fellow investors. Their bold decisions and knack for spotting breakout opportunities have positioned them as a dynamic force in the crypto community."
+  },
+  "riskTolerance": 0.7625971527786708,
+  "tradingStrategy": "rug_pull",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": true
+}

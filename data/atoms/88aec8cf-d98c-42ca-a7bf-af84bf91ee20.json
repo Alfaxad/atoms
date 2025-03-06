@@ -1,0 +1,20 @@
+{
+  "id": "88aec8cf-d98c-42ca-a7bf-af84bf91ee20",
+  "walletAddress": "AqwfbcRntuch1k2rxXPzF2iTvvrMuTBpnMNYFdJ6QRfF",
+  "initialBalance": 14.7,
+  "persona": {
+    "name": "Blair",
+    "age": 48,
+    "profession": "full_time_trader",
+    "traits": [
+      "competitive",
+      "rational"
+    ],
+    "experience": "expert",
+    "bio": "Blair, a 48-year-old full-time crypto trader, is known for their competitive edge and rational decision-making. With expert-level experience in the crypto market, Blair meticulously analyzes trends and data to make informed investments, consistently staying ahead in the fast-paced world of digital currencies. Their strategic mindset and unwavering focus have earned them a reputation as a formidable force in the trading community."
+  },
+  "riskTolerance": 0.5963137012525285,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

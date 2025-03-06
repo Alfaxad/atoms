@@ -1,0 +1,20 @@
+{
+  "id": "bbe5465d-8224-47de-abfd-85eef64e46cc",
+  "walletAddress": "2g7vrTdnftaWWtj2inCnG3SzkWjk3CnmdhUkcGVLCRiE",
+  "initialBalance": 25.64,
+  "persona": {
+    "name": "Sam",
+    "age": 62,
+    "profession": "full_time_trader",
+    "traits": [
+      "frugal",
+      "trendsetting"
+    ],
+    "experience": "expert",
+    "bio": "Sam, a 62-year-old full-time trader, has carved a niche in the crypto world with his expert trading skills and frugal yet trendsetting approach. Known for his keen eye on emerging trends, Sam consistently maximizes returns while minimizing risks, embodying a disciplined and forward-thinking strategy. His ability to balance caution with innovation has made him a respected figure among both veteran and novice traders alike."
+  },
+  "riskTolerance": 0.8271893162368698,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

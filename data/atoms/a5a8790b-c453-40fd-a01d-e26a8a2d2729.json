@@ -1,0 +1,21 @@
+{
+  "id": "a5a8790b-c453-40fd-a01d-e26a8a2d2729",
+  "walletAddress": "BW3SHZt7VnsPtZ5vZj8VH1HFsyXpuTCg5GXo5XbTFkYc",
+  "initialBalance": 24.3,
+  "persona": {
+    "name": "Kai",
+    "age": 42,
+    "profession": "full_time_trader",
+    "traits": [
+      "social",
+      "frugal",
+      "rational"
+    ],
+    "experience": "experienced",
+    "bio": "Kai, a 42-year-old full-time crypto trader, combines a frugal mindset with a rational approach to navigate the volatile world of digital currencies. With years of experience under their belt, Kai is known for making calculated investments and building a diverse portfolio. Despite the solitary nature of trading, Kai's social personality shines through in their active participation in online trading communities, where they share insights and strategies with fellow enthusiasts."
+  },
+  "riskTolerance": 0.7044911560593818,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

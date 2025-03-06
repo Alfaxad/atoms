@@ -1,0 +1,20 @@
+{
+  "id": "1e41bb46-5ca6-46cd-8472-a82d894ba1c0",
+  "walletAddress": "CoN5mTx9U6onHZZjJcdYHoeohBKCxCy35Nk1GvmnGVJY",
+  "initialBalance": 11.3,
+  "persona": {
+    "name": "Cameron",
+    "age": 43,
+    "profession": "full_time_trader",
+    "traits": [
+      "competitive",
+      "cautious"
+    ],
+    "experience": "experienced",
+    "bio": "Cameron, a 43-year-old full-time crypto trader, combines years of experience with a keen competitive edge and a cautious strategy. Known for meticulously analyzing market trends and minimizing risks, Cameron has built a reputation for making calculated decisions that consistently yield profitable results. Their balanced approach to trading reflects a deep understanding of the volatile crypto landscape, making them a respected figure among peers."
+  },
+  "riskTolerance": 0.6383110841620931,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

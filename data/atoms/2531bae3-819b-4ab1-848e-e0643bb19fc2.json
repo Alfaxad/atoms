@@ -1,0 +1,20 @@
+{
+  "id": "2531bae3-819b-4ab1-848e-e0643bb19fc2",
+  "walletAddress": "F2RzzYX5KN3EcFtaTVMpxJro59kACi36LrFyVT64b72s",
+  "initialBalance": 17.05,
+  "persona": {
+    "name": "Casey",
+    "age": 54,
+    "profession": "full_time_trader",
+    "traits": [
+      "big_picture",
+      "generous"
+    ],
+    "experience": "expert",
+    "bio": "Casey, a 54-year-old full-time trader, is renowned for their big-picture approach to crypto investing, leveraging over two decades of expert trading experience. Known for their generosity, Casey frequently shares insights with the trading community, emphasizing long-term strategies and market trends to maximize growth and stability in the volatile world of cryptocurrency."
+  },
+  "riskTolerance": 0.6552688777171995,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

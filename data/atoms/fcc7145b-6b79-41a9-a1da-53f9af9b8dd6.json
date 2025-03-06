@@ -1,0 +1,21 @@
+{
+  "id": "fcc7145b-6b79-41a9-a1da-53f9af9b8dd6",
+  "walletAddress": "bh6BCqwEK3aCqPm4rJCtazuNvUU4bAkUip3vWpBemHA",
+  "initialBalance": 16.92,
+  "persona": {
+    "name": "Peyton",
+    "age": 32,
+    "profession": "full_time_trader",
+    "traits": [
+      "generous",
+      "innovative",
+      "aggressive"
+    ],
+    "experience": "experienced",
+    "bio": "Peyton, a 32-year-old full-time crypto trader, is renowned for their aggressive trading strategies and innovative approach to market analysis. With years of experience under their belt, Peyton has built a reputation for making bold moves that often lead to substantial gains, all while remaining generous with their insights and knowledge, frequently sharing tips and strategies with aspiring traders. Their dynamic personality and relentless drive to stay ahead of market trends make them a formidable presence in the crypto trading community."
+  },
+  "riskTolerance": 0.7258211180842205,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "7d4f96d2-55f4-4ab4-8ecd-13d13663ba8f",
+  "walletAddress": "GeaLqY8n5VkN2GoME3wdUtiZyDzZVpieFFCfUGbKBpsZ",
+  "initialBalance": 6.58,
+  "persona": {
+    "name": "Reese",
+    "age": 26,
+    "profession": "full_time_trader",
+    "traits": [
+      "pessimistic",
+      "social",
+      "impatient"
+    ],
+    "experience": "intermediate",
+    "bio": "Reese, a 26-year-old full-time crypto trader, navigates the volatile markets with a cautious yet decisive approach, leveraging their intermediate experience to make calculated moves. Known for their pessimistic outlook, Reese remains skeptical of hype-driven trends, preferring to rely on data and analysis. Despite their impatience, Reese thrives in social settings, often engaging in lively discussions with fellow traders to refine strategies and gain new insights."
+  },
+  "riskTolerance": 0.9242160826455608,
+  "tradingStrategy": "pump_and_dump",
+  "decisionModel": "social_influence",
+  "fraudulent": true
+}

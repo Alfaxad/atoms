@@ -1,0 +1,21 @@
+{
+  "id": "6977267e-a3c0-4706-aa38-7bbf6002d2eb",
+  "walletAddress": "6RU1BfK3Mvd2TZt4CVsJTtViPdoc24N9b5fM2DMSzf1Q",
+  "initialBalance": 9.48,
+  "persona": {
+    "name": "Kennedy",
+    "age": 27,
+    "profession": "full_time_trader",
+    "traits": [
+      "detail_oriented",
+      "cooperative",
+      "analytical"
+    ],
+    "experience": "intermediate",
+    "bio": "Kennedy, a 27-year-old full-time crypto trader, is known for their analytical approach and meticulous attention to detail. With intermediate experience in the field, they thrive in collaborative environments, often engaging with fellow traders to exchange insights and strategies. Their cooperative nature and keen analytical skills enable them to navigate the volatile crypto markets with precision and confidence."
+  },
+  "riskTolerance": 0.8513629406089982,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "20b0cb26-31e0-4f91-95d5-9ac9c122e056",
+  "walletAddress": "S8Xttei6BPoknhcFDoUxCbZn7ifPtaUpeJAYaNUherZ",
+  "initialBalance": 19.33,
+  "persona": {
+    "name": "Rowan",
+    "age": 40,
+    "profession": "full_time_trader",
+    "traits": [
+      "conservative",
+      "cooperative",
+      "cautious"
+    ],
+    "experience": "experienced",
+    "bio": "Rowan, a seasoned 40-year-old full-time crypto trader, is known for his conservative and cautious approach to investing. With years of experience under his belt, he meticulously analyzes market trends and collaborates with fellow traders to make informed decisions. Rowan's cooperative nature and careful risk assessment have earned him a reputation for steady, reliable returns in the volatile world of cryptocurrency."
+  },
+  "riskTolerance": 0.5965213552688651,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

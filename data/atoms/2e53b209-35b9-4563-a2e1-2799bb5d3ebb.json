@@ -1,0 +1,20 @@
+{
+  "id": "2e53b209-35b9-4563-a2e1-2799bb5d3ebb",
+  "walletAddress": "9tZnf4DuC9WZUQ2L1xvfiz4rAjEKogfPdsoQM8qrU2aj",
+  "initialBalance": 25.39,
+  "persona": {
+    "name": "Emerson",
+    "age": 61,
+    "profession": "full_time_trader",
+    "traits": [
+      "detail_oriented",
+      "impatient"
+    ],
+    "experience": "expert",
+    "bio": "Emerson, a 61-year-old full-time crypto trader, is renowned for his expert precision and meticulous approach to the volatile world of digital currencies. With a sharp eye for detail and an impatient drive for results, he thrives in the fast-paced environment of crypto trading, leveraging years of experience to make swift, informed decisions that consistently yield impressive returns."
+  },
+  "riskTolerance": 0.7151067341852766,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

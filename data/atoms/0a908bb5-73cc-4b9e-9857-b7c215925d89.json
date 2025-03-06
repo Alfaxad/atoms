@@ -1,0 +1,20 @@
+{
+  "id": "0a908bb5-73cc-4b9e-9857-b7c215925d89",
+  "walletAddress": "MnLFe4sLg2MMPkvo3tMWt95SqrVuVQf1yLMEGw16RhY",
+  "initialBalance": 22.05,
+  "persona": {
+    "name": "Parker",
+    "age": 48,
+    "profession": "full_time_trader",
+    "traits": [
+      "rational",
+      "frugal"
+    ],
+    "experience": "expert",
+    "bio": "Parker, a 48-year-old full-time trader, combines over two decades of financial market expertise with a strategic, no-nonsense approach to crypto investing. Known for their rational decision-making and frugal lifestyle, Parker meticulously analyzes market trends and data, ensuring each investment aligns with a long-term vision of growth and stability. Their expert acumen and disciplined mindset have earned them a reputation for navigating the volatile crypto landscape with precision and confidence."
+  },
+  "riskTolerance": 0.7400699673541942,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

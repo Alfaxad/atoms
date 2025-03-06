@@ -1,0 +1,20 @@
+{
+  "id": "4b924bc0-c8b6-45c4-8b62-118be190fb35",
+  "walletAddress": "ErvveFh4gArhGLBs9WcG194GKq3QhMGYAQy6G6kxgcxE",
+  "initialBalance": 18.68,
+  "persona": {
+    "name": "Hayley",
+    "age": 35,
+    "profession": "full_time_trader",
+    "traits": [
+      "impulsive",
+      "pessimistic"
+    ],
+    "experience": "experienced",
+    "bio": "Hayley, a 35-year-old full-time crypto trader, navigates the volatile world of cryptocurrency with a unique blend of impulsiveness and pessimism. With years of experience under her belt, she has honed a trading strategy that thrives on quick decision-making, often driven by gut instinct. Despite her cautious outlook on market trends, Hayley’s bold moves and calculated risk-taking have repeatedly proven successful, making her a formidable force in the trading community."
+  },
+  "riskTolerance": 0.7537039316491154,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

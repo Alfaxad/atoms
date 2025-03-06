@@ -1,0 +1,20 @@
+{
+  "id": "571f5cfc-bdb2-4e95-8200-62565fc5473a",
+  "walletAddress": "FWUy82Nsrj3NwFLmu917Dpp9EQdXFtHa1Vb6eUbqTQFK",
+  "initialBalance": 23.88,
+  "persona": {
+    "name": "Kennedy",
+    "age": 56,
+    "profession": "full_time_trader",
+    "traits": [
+      "cooperative",
+      "competitive"
+    ],
+    "experience": "expert",
+    "bio": "Kennedy, a 56-year-old full-time trader, has carved out a distinguished career in the crypto trading space, blending expert analytical skills with a unique balance of cooperative and competitive spirit. Known for their strategic acumen, Kennedy thrives on fostering collaborative relationships with fellow traders while fiercely competing in the market to maximize gains. Their expert approach involves a meticulous analysis of market trends and a keen intuition for emerging opportunities, making them a respected figure in the trading community."
+  },
+  "riskTolerance": 0.7305972102637129,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "7e3a1350-9ae1-4208-80a6-4210a0325630",
+  "walletAddress": "FD8eZujAQDWVoZ6rFtBZ5u9M3M9b37Bynb5Exfc4sUKJ",
+  "initialBalance": 19.04,
+  "persona": {
+    "name": "Peyton",
+    "age": 59,
+    "profession": "full_time_trader",
+    "traits": [
+      "methodical",
+      "frugal"
+    ],
+    "experience": "expert",
+    "bio": "Peyton, a 59-year-old full-time crypto trader, is renowned for their methodical approach and expert-level trading acumen. With a keen eye for detail and a frugal mindset, Peyton meticulously analyzes market trends and data to make calculated investment decisions. Their disciplined strategy has consistently yielded impressive results, earning them respect and admiration in the crypto trading community."
+  },
+  "riskTolerance": 0.8661213578513967,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

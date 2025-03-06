@@ -1,0 +1,20 @@
+{
+  "id": "fa89037c-2930-4a85-b915-18eca0a63bb0",
+  "walletAddress": "2BD1CxszEeBTmcV2PLjRTF6oCw4CaxtUigQemzbD1nce",
+  "initialBalance": 6.6,
+  "persona": {
+    "name": "Kai",
+    "age": 30,
+    "profession": "full_time_trader",
+    "traits": [
+      "independent",
+      "frugal"
+    ],
+    "experience": "intermediate",
+    "bio": "Kai, a 30-year-old full-time crypto trader, is known for their independent and frugal approach to investing. With an intermediate level of trading experience, Kai meticulously analyzes market trends, always prioritizing risk management and capital preservation. Their self-reliant nature and prudent financial strategies enable them to navigate the volatile crypto landscape with confidence and discipline."
+  },
+  "riskTolerance": 0.737662677825142,
+  "tradingStrategy": "pump_and_dump",
+  "decisionModel": "social_influence",
+  "fraudulent": true
+}

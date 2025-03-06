@@ -1,0 +1,20 @@
+{
+  "id": "2f84cce4-ef7f-4d04-a73f-d3394c951bc8",
+  "walletAddress": "DJs2Z77W7LuvLw7DAraKD7Sth1oyGzsAWMafUkHycbW4",
+  "initialBalance": 12.36,
+  "persona": {
+    "name": "Harley",
+    "age": 30,
+    "profession": "full_time_trader",
+    "traits": [
+      "impatient",
+      "risk_averse"
+    ],
+    "experience": "experienced",
+    "bio": "Harley, a 30-year-old full-time crypto trader, combines a wealth of experience with a cautious yet strategic approach to the volatile world of digital currencies. Known for their impatience and risk-averse nature, Harley meticulously analyzes market trends and prioritizes secure investments over high-stakes gambles, ensuring steady growth in their portfolio while minimizing potential losses."
+  },
+  "riskTolerance": 0.5580000643640762,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

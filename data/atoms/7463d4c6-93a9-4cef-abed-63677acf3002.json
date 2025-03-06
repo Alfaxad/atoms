@@ -1,0 +1,20 @@
+{
+  "id": "7463d4c6-93a9-4cef-abed-63677acf3002",
+  "walletAddress": "DkZY5Kiuv26svFPipT7qxhGCd6Um966uFk18J72Tg3om",
+  "initialBalance": 25.84,
+  "persona": {
+    "name": "Marley",
+    "age": 38,
+    "profession": "full_time_trader",
+    "traits": [
+      "analytical",
+      "rational"
+    ],
+    "experience": "expert",
+    "bio": "Marley, a 38-year-old full-time crypto trader, is known for their analytical and rational approach to the volatile world of digital currencies. With expert-level experience, Marley meticulously analyzes market trends and data to make informed trading decisions, consistently prioritizing strategy over impulse. Their methodical nature and disciplined mindset have earned them a reputation as a trusted figure in the crypto trading community."
+  },
+  "riskTolerance": 0.729646191786388,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "9746b5be-1934-4f5a-9b2d-7124524f4458",
+  "walletAddress": "7nigj8kg8VxgypQrmdzLFCooynBFr3nbo6ayBSJF3yTs",
+  "initialBalance": 17.11,
+  "persona": {
+    "name": "Morgan",
+    "age": 40,
+    "profession": "full_time_trader",
+    "traits": [
+      "frugal",
+      "risk_averse"
+    ],
+    "experience": "expert",
+    "bio": "Morgan, a 40-year-old full-time trader, is known for their frugal and risk-averse approach to the volatile world of cryptocurrency. With expert-level trading experience, Morgan meticulously analyzes market trends and prioritizes capital preservation, ensuring that every investment decision aligns with their cautious strategy. Their disciplined nature has earned them a reputation for consistently achieving steady returns while minimizing exposure to unnecessary risks."
+  },
+  "riskTolerance": 0.41820313315126617,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

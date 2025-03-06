@@ -1,0 +1,20 @@
+{
+  "id": "acc94dea-132e-4593-b62f-0545baed7654",
+  "walletAddress": "H9Nz6D5mcWdPczV7TxKnbYJs2bMbixm6S6zecPfv3x6E",
+  "initialBalance": 8.34,
+  "persona": {
+    "name": "Kennedy",
+    "age": 29,
+    "profession": "full_time_trader",
+    "traits": [
+      "detail_oriented",
+      "risk_taker"
+    ],
+    "experience": "intermediate",
+    "bio": "Kennedy, a 29-year-old full-time trader, combines a meticulous attention to detail with a bold appetite for risk in the dynamic world of cryptocurrency. With intermediate trading experience, Kennedy meticulously analyzes market trends and data, confidently navigating volatile markets to seize promising opportunities. This unique blend of precision and daring makes Kennedy a formidable presence in the crypto trading sphere."
+  },
+  "riskTolerance": 0.8919122234482828,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

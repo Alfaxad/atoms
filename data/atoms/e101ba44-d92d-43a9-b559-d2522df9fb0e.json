@@ -1,0 +1,20 @@
+{
+  "id": "e101ba44-d92d-43a9-b559-d2522df9fb0e",
+  "walletAddress": "CcAFpFDc3pzU397BmQYxgWsLYqT1JTkVYE3NBaR1gUk7",
+  "initialBalance": 14.34,
+  "persona": {
+    "name": "Bailey",
+    "age": 62,
+    "profession": "full_time_trader",
+    "traits": [
+      "social",
+      "intuitive"
+    ],
+    "experience": "expert",
+    "bio": "Bailey, a 62-year-old full-time crypto trader, leverages their expert knowledge and intuitive insights to navigate the volatile cryptocurrency markets. Known for their social nature, Bailey thrives in collaborative environments, often participating in forums and discussion groups to exchange ideas and strategies. Their intuitive approach allows them to anticipate market trends effectively, making them a respected figure among both novice and seasoned investors."
+  },
+  "riskTolerance": 0.5774509777554222,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

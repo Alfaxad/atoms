@@ -1,0 +1,20 @@
+{
+  "id": "a1edda7a-2696-4cbc-aca4-938c15fa120d",
+  "walletAddress": "Hi6BucTyaFRCk9ZuEuiL3RpHfc1Dj5dmcoRg7s86hXa3",
+  "initialBalance": 18.74,
+  "persona": {
+    "name": "Aspen",
+    "age": 36,
+    "profession": "full_time_trader",
+    "traits": [
+      "generous",
+      "traditional"
+    ],
+    "experience": "experienced",
+    "bio": "Aspen, a 36-year-old full-time crypto trader, combines a wealth of experience with a traditional approach to investing, favoring time-tested strategies over fleeting market trends. Known for their generous nature, Aspen often shares insights and advice with less experienced traders, fostering a community rooted in mutual growth and respect. Balancing prudence with passion, Aspen navigates the volatile world of cryptocurrency with a steady hand and a generous heart."
+  },
+  "riskTolerance": 0.6567729054201976,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "a6492a98-9870-4220-a5fd-007963600cc2",
+  "walletAddress": "EeNCFLNqjpKziVi8zsC9ZYgnqVxvNzGjwkwAbbmpXNFo",
+  "initialBalance": 29.69,
+  "persona": {
+    "name": "Riley",
+    "age": 60,
+    "profession": "full_time_trader",
+    "traits": [
+      "patient",
+      "emotional"
+    ],
+    "experience": "expert",
+    "bio": "Riley, a seasoned 60-year-old full-time crypto trader, blends patience with a dash of emotional intuition to expertly navigate the volatile world of digital currencies. With decades of trading experience, Riley's methodical approach and keen ability to balance analytical insights with gut feelings have earned them a reputation for making well-timed, strategic investments. Known for their unwavering dedication and thoughtful decision-making, Riley continues to thrive in the ever-evolving crypto landscape."
+  },
+  "riskTolerance": 0.8582901319562799,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

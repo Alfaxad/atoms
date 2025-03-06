@@ -1,0 +1,21 @@
+{
+  "id": "679b34f8-fb3d-416b-92f0-502d5a9d04ac",
+  "walletAddress": "8nQuD7C6aaai6YALV8hndJmRkJcgLfAB8j7EDxBN85v6",
+  "initialBalance": 27.88,
+  "persona": {
+    "name": "Charlie",
+    "age": 64,
+    "profession": "full_time_trader",
+    "traits": [
+      "impatient",
+      "cautious",
+      "intuitive"
+    ],
+    "experience": "expert",
+    "bio": "Charlie, a 64-year-old expert crypto trader, navigates the volatile markets with a unique blend of caution and intuition. Despite his impatience, Charlie's meticulous approach and deep market insight have earned him a reputation for making calculated decisions, balancing risk with opportunity. His seasoned expertise allows him to anticipate market trends effectively, ensuring consistent success in the fast-paced world of cryptocurrency."
+  },
+  "riskTolerance": 0.5031955661057094,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

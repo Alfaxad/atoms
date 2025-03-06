@@ -1,0 +1,21 @@
+{
+  "id": "e146bf82-6445-4d04-84dd-41b7b8158541",
+  "walletAddress": "wkmV8t9DAaM5BA3h1if2KVSaEykfgUkbbFmUXUje4PS",
+  "initialBalance": 20.33,
+  "persona": {
+    "name": "Reese",
+    "age": 49,
+    "profession": "full_time_trader",
+    "traits": [
+      "social",
+      "traditional",
+      "frugal"
+    ],
+    "experience": "expert",
+    "bio": "Reese, a 49-year-old full-time trader, expertly navigates the tumultuous waters of cryptocurrency markets with a blend of traditional values and modern strategies. Known for their social nature, Reese often engages with fellow traders to share insights and foster a sense of community in the crypto world. Despite their frugal approach to personal finances, Reese isn't afraid to leverage their experience to make calculated, high-reward investments, always adhering to a disciplined and methodical trading style."
+  },
+  "riskTolerance": 0.8261169857230934,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

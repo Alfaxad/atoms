@@ -1,0 +1,20 @@
+{
+  "id": "a0a2f421-e454-46b1-9a52-b1d19dfa4554",
+  "walletAddress": "7PsMCC4KpYvdPFG8ppy4sL7NFG5G5BuSfC2WLfeNfJEa",
+  "initialBalance": 12.41,
+  "persona": {
+    "name": "Ellis",
+    "age": 47,
+    "profession": "full_time_trader",
+    "traits": [
+      "generous",
+      "pessimistic"
+    ],
+    "experience": "expert",
+    "bio": "Ellis, a 47-year-old expert crypto trader, is known for his sharp analytical skills and cautious approach to the volatile world of cryptocurrency. Despite his generous nature, often sharing insights with budding traders, his natural pessimism keeps him grounded, leading him to meticulously assess risks before making investment decisions. Ellis balances his full-time trading profession by fostering a community of like-minded investors, where he emphasizes the importance of due diligence and strategic planning."
+  },
+  "riskTolerance": 0.7621076088210378,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

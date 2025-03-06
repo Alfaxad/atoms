@@ -1,0 +1,21 @@
+{
+  "id": "8e0c4d1a-6a15-4464-97d1-5b83f251621f",
+  "walletAddress": "2UA5e1xfjyM6JQEXKhn2CZrkH2gCGHE1Tszv1DjTeRTr",
+  "initialBalance": 8.77,
+  "persona": {
+    "name": "River",
+    "age": 27,
+    "profession": "full_time_trader",
+    "traits": [
+      "conservative",
+      "cautious",
+      "frugal"
+    ],
+    "experience": "intermediate",
+    "bio": "River, a 27-year-old full-time crypto trader, navigates the volatile world of digital currencies with a conservative and cautious approach. Known for their frugal mindset, River meticulously analyzes market trends and makes well-researched decisions, ensuring calculated risks align with their intermediate experience. This prudent strategy has earned them a reputation for steady, reliable gains in the often unpredictable crypto landscape."
+  },
+  "riskTolerance": 0.8420090034503273,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

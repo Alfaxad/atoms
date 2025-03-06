@@ -1,0 +1,20 @@
+{
+  "id": "c14b2b8a-abce-4075-b07f-c9140926ebfd",
+  "walletAddress": "3VYZEHuzUajp6DA8K9iqc37gaXz2hfsqR4F7oVwrCXuT",
+  "initialBalance": 19.04,
+  "persona": {
+    "name": "Nico",
+    "age": 32,
+    "profession": "full_time_trader",
+    "traits": [
+      "independent",
+      "cooperative"
+    ],
+    "experience": "experienced",
+    "bio": "Nico, a 32-year-old seasoned full-time crypto trader, skillfully balances independence with a cooperative spirit, making them a respected figure in the crypto community. With years of experience under their belt, Nico combines keen market analysis with collaborative insights, fostering a dynamic approach to trading that emphasizes adaptability and strategic partnerships. Their independent nature drives innovation, while their cooperative mindset ensures they remain connected with industry trends and fellow traders."
+  },
+  "riskTolerance": 0.6499648403248125,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

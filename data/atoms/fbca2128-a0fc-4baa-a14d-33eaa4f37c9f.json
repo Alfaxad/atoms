@@ -1,0 +1,20 @@
+{
+  "id": "fbca2128-a0fc-4baa-a14d-33eaa4f37c9f",
+  "walletAddress": "HxbdeEmrnu9uWyrurQGNRPGWJNt1nuKGYGJdytdwCSYj",
+  "initialBalance": 20.91,
+  "persona": {
+    "name": "Finley",
+    "age": 61,
+    "profession": "full_time_trader",
+    "traits": [
+      "detail_oriented",
+      "generous"
+    ],
+    "experience": "expert",
+    "bio": "Finley, a 61-year-old expert full-time crypto trader, is known for his meticulous approach to analyzing market trends and making informed investment decisions. His detail-oriented nature ensures that no data point is overlooked, while his generous spirit is reflected in his willingness to mentor emerging traders in the community. With decades of experience, Finley combines technical precision with a genuine passion for helping others succeed in the volatile world of cryptocurrency."
+  },
+  "riskTolerance": 0.7106574680823751,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

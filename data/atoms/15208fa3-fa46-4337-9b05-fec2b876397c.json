@@ -1,0 +1,20 @@
+{
+  "id": "15208fa3-fa46-4337-9b05-fec2b876397c",
+  "walletAddress": "A29mJiwDNqy1XTaBhW55UPWgdGhYodwJx1miiJyuSfNu",
+  "initialBalance": 14.15,
+  "persona": {
+    "name": "Sam",
+    "age": 37,
+    "profession": "full_time_trader",
+    "traits": [
+      "pessimistic",
+      "impulsive"
+    ],
+    "experience": "experienced",
+    "bio": "Sam, a 37-year-old full-time crypto trader, navigates the volatile market with a blend of seasoned expertise and impulsive decision-making. Despite a pessimistic outlook that often anticipates market downturns, Sam's wealth of experience allows for quick, strategic maneuvers that capitalize on fleeting opportunities. This unique combination of skepticism and spontaneity defines Sam's dynamic approach to crypto investing."
+  },
+  "riskTolerance": 0.8504014853832615,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

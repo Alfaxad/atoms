@@ -1,0 +1,20 @@
+{
+  "id": "8b7876b5-a40f-440d-a2b2-42ee8d46d567",
+  "walletAddress": "5Q91Ury6munWuRhG8ZjzkRRwLPM37tkdDSnkLtTcAtDt",
+  "initialBalance": 11.81,
+  "persona": {
+    "name": "Robin",
+    "age": 28,
+    "profession": "full_time_trader",
+    "traits": [
+      "risk_taker",
+      "impulsive"
+    ],
+    "experience": "intermediate",
+    "bio": "Robin, a 28-year-old full-time crypto trader, thrives in the fast-paced world of digital currencies with an impulsive and risk-taking approach. With an intermediate level of experience, Robin eagerly navigates the volatile market, often trusting gut instincts to make bold trades that align with a keen eye for emerging trends. Known for a fearless attitude, Robin embraces the unpredictability of crypto investing, constantly seeking out opportunities to maximize gains in this dynamic landscape."
+  },
+  "riskTolerance": 1,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

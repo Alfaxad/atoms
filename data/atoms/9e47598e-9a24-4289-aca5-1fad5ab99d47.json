@@ -1,0 +1,21 @@
+{
+  "id": "9e47598e-9a24-4289-aca5-1fad5ab99d47",
+  "walletAddress": "AZssmCimLiVSTtbasTNKAK6UbA7zTHXNwqu1er5DcA1E",
+  "initialBalance": 17.9,
+  "persona": {
+    "name": "Jordan",
+    "age": 64,
+    "profession": "full_time_trader",
+    "traits": [
+      "conservative",
+      "methodical",
+      "intuitive"
+    ],
+    "experience": "expert",
+    "bio": "Jordan, a 64-year-old full-time crypto trader, is known for their conservative yet intuitive approach to investing. With decades of trading experience, Jordan employs a methodical strategy, meticulously analyzing market trends to make informed decisions. As an expert in the field, they balance caution with insight, ensuring a steady and calculated growth in their portfolio."
+  },
+  "riskTolerance": 0.6761216331550326,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

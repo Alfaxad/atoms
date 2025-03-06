@@ -1,0 +1,21 @@
+{
+  "id": "7862118b-3b87-46e6-8779-a08c2de89cbb",
+  "walletAddress": "5xsDTRAvdyg5nawBDpgNL86SgHmqXeQSzufUyz3PvTNh",
+  "initialBalance": 18.45,
+  "persona": {
+    "name": "Tatum",
+    "age": 61,
+    "profession": "full_time_trader",
+    "traits": [
+      "competitive",
+      "social",
+      "generous"
+    ],
+    "experience": "expert",
+    "bio": "Tatum, a 61-year-old full-time trader, is a seasoned expert in the crypto market known for his competitive edge and strategic acumen. With a career spanning decades, he combines deep market analysis with a social approach, often sharing insights and collaborating with fellow traders. His generous nature extends beyond trading, as he frequently mentors newcomers, guiding them through the volatile world of cryptocurrency investing."
+  },
+  "riskTolerance": 0.6328672232338464,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

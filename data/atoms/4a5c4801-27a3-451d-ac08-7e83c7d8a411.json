@@ -1,0 +1,20 @@
+{
+  "id": "4a5c4801-27a3-451d-ac08-7e83c7d8a411",
+  "walletAddress": "BUgDbfPe3aDpaaVq2vYGiLtiRQWT8ed3LMyEoGuXs4HJ",
+  "initialBalance": 20.85,
+  "persona": {
+    "name": "Harper",
+    "age": 60,
+    "profession": "full_time_trader",
+    "traits": [
+      "cooperative",
+      "detail_oriented"
+    ],
+    "experience": "expert",
+    "bio": "Harper, a seasoned 60-year-old full-time trader, has carved out a reputation as an expert in the crypto market, blending a cooperative spirit with a keen attention to detail. Known for their methodical approach, Harper meticulously analyzes market trends and fosters collaborative relationships within the trading community to stay ahead of the curve. Their commitment to precision and teamwork has been key to their sustained success in the ever-evolving world of cryptocurrency investing."
+  },
+  "riskTolerance": 0.7231041181916151,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

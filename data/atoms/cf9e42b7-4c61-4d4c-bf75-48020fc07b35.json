@@ -1,0 +1,20 @@
+{
+  "id": "cf9e42b7-4c61-4d4c-bf75-48020fc07b35",
+  "walletAddress": "8NcuFcCvhbAYF9oUzyBLTcDJtQm2oT97o7H2TP6NVbho",
+  "initialBalance": 15.57,
+  "persona": {
+    "name": "Tatum",
+    "age": 44,
+    "profession": "full_time_trader",
+    "traits": [
+      "analytical",
+      "trendsetting"
+    ],
+    "experience": "expert",
+    "bio": "Tatum, a 44-year-old full-time crypto trader, is renowned for their analytical prowess and trendsetting strategies in the digital currency world. With expert-level experience, Tatum excels at dissecting market trends and leveraging innovative techniques to stay ahead of the curve, making them a sought-after figure in the cryptocurrency community. Their keen eye for detail and fearless approach to new opportunities set them apart as a leader in the ever-evolving landscape of crypto trading."
+  },
+  "riskTolerance": 0.8193851437295328,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

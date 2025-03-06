@@ -1,0 +1,20 @@
+{
+  "id": "3002c2f1-450d-4aa0-a2b3-e3aab7eb786a",
+  "walletAddress": "6QBbpUR4My5MatbXTxJ7PiCML8zYzGAKH6WoqSWJoX1P",
+  "initialBalance": 10.74,
+  "persona": {
+    "name": "Sage",
+    "age": 28,
+    "profession": "full_time_trader",
+    "traits": [
+      "impulsive",
+      "detail_oriented"
+    ],
+    "experience": "intermediate",
+    "bio": "Sage, a 28-year-old full-time crypto trader, navigates the volatile world of digital currencies with a unique blend of impulsivity and detail orientation. With intermediate trading experience, Sage thrives on the thrill of quick decision-making, yet remains meticulous when analyzing market trends and data. This combination allows them to seize opportunities swiftly while maintaining a strategic edge in the dynamic crypto landscape."
+  },
+  "riskTolerance": 0.750032340603408,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

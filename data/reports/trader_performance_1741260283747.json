@@ -1,0 +1,24 @@
+{
+  "timestamp": 1741260283747,
+  "totalTraders": 0,
+  "topPerformers": [],
+  "worstPerformers": [],
+  "strategyPerformance": {},
+  "riskToleranceCorrelation": {
+    "very_low": {
+      "count": 0
+    },
+    "low": {
+      "count": 0
+    },
+    "medium": {
+      "count": 0
+    },
+    "high": {
+      "count": 0
+    },
+    "very_high": {
+      "count": 0
+    }
+  }
+}

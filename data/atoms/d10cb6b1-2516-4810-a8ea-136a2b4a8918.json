@@ -1,0 +1,20 @@
+{
+  "id": "d10cb6b1-2516-4810-a8ea-136a2b4a8918",
+  "walletAddress": "2zbT3kf5jWNwMmbRReiqECdAUWrYZioxiXB7S2MXcugQ",
+  "initialBalance": 10.61,
+  "persona": {
+    "name": "Aspen",
+    "age": 37,
+    "profession": "full_time_trader",
+    "traits": [
+      "social",
+      "emotional"
+    ],
+    "experience": "expert",
+    "bio": "Aspen, a 37-year-old full-time crypto trader, combines expert trading skills with a keen emotional intuition, making them a formidable force in the volatile world of digital currencies. Known for their social nature, Aspen thrives in collaborative environments, often hosting virtual meet-ups to share insights and strategies with fellow traders. Their empathetic approach to market analysis allows them to navigate the highs and lows of crypto investing with a unique blend of precision and passion."
+  },
+  "riskTolerance": 0.8706687569157674,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

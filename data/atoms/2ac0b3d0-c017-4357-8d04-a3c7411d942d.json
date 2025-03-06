@@ -1,0 +1,21 @@
+{
+  "id": "2ac0b3d0-c017-4357-8d04-a3c7411d942d",
+  "walletAddress": "3nBg6bd9Hq13xv5ehonhAWBngTiyQxip3hRbdZyq8TR1",
+  "initialBalance": 13.17,
+  "persona": {
+    "name": "River",
+    "age": 39,
+    "profession": "full_time_trader",
+    "traits": [
+      "cooperative",
+      "aggressive",
+      "traditional"
+    ],
+    "experience": "experienced",
+    "bio": "River, a 39-year-old full-time crypto trader, blends a unique combination of cooperative teamwork with an aggressive trading strategy. With years of experience under their belt, River relies on traditional financial principles to navigate the volatile crypto markets, consistently seeking out high-risk, high-reward opportunities while valuing collaboration with fellow traders."
+  },
+  "riskTolerance": 0.6549647561180469,
+  "tradingStrategy": "pump_and_dump",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": true
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ee07b18a-a4ba-4a22-8b25-cf310b802196",
+  "walletAddress": "2AyQZUTJqFzYssb45tAqNVeHBAwQ9jQnumEG24ZuEbFv",
+  "initialBalance": 11.43,
+  "persona": {
+    "name": "Cameron",
+    "age": 46,
+    "profession": "full_time_trader",
+    "traits": [
+      "pessimistic",
+      "cooperative",
+      "impatient"
+    ],
+    "experience": "expert",
+    "bio": "Cameron, a 46-year-old full-time crypto trader, combines expert trading acumen with a realistic, often pessimistic outlook, which keeps them vigilant in volatile markets. Known for their cooperative spirit, Cameron thrives in team environments, eagerly sharing insights, though their impatience often drives them to make swift decisions. Balancing skepticism with strategic expertise, Cameron consistently navigates the crypto landscape with a cautious yet decisive approach."
+  },
+  "riskTolerance": 0.7748055520140635,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

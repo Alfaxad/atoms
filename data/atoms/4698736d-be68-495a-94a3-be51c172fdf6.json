@@ -1,0 +1,21 @@
+{
+  "id": "4698736d-be68-495a-94a3-be51c172fdf6",
+  "walletAddress": "Etvyaq3DhfgbgrEDDaWsdmX48NesqwKbxckGajmjnSEH",
+  "initialBalance": 8.22,
+  "persona": {
+    "name": "Elliot",
+    "age": 29,
+    "profession": "full_time_trader",
+    "traits": [
+      "generous",
+      "detail_oriented",
+      "methodical"
+    ],
+    "experience": "intermediate",
+    "bio": "Elliot, a 29-year-old full-time trader, has carved a niche in the crypto world with his methodical and detail-oriented approach to investing. With an intermediate level of experience, he meticulously analyzes market trends to make informed decisions, while his generous nature drives him to share insights and strategies with fellow traders. Elliot's disciplined trading style is a testament to his commitment to mastering the crypto landscape."
+  },
+  "riskTolerance": 0.6810695847219066,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "09e98b13-7b0b-4127-bb84-7bbe70bcece6",
+  "walletAddress": "7CNKqJoyMWjV9XHfBHxR2GaNydNixqZsTDthuSpDrUAx",
+  "initialBalance": 21.07,
+  "persona": {
+    "name": "Nico",
+    "age": 45,
+    "profession": "full_time_trader",
+    "traits": [
+      "optimistic",
+      "emotional",
+      "generous"
+    ],
+    "experience": "expert",
+    "bio": "Nico, a 45-year-old full-time crypto trader, combines his expert trading experience with an optimistic outlook and emotional intuition to navigate the volatile cryptocurrency markets. Known for his generous nature, Nico often shares his insights and strategies with budding traders, fostering a supportive community. His approach emphasizes a balanced mix of technical analysis and gut feeling, allowing him to capitalize on opportunities while inspiring others with his unwavering belief in the potential of digital assets."
+  },
+  "riskTolerance": 0.7204627470444318,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

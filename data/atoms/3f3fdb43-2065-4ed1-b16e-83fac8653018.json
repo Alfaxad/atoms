@@ -1,0 +1,20 @@
+{
+  "id": "3f3fdb43-2065-4ed1-b16e-83fac8653018",
+  "walletAddress": "Bb5KwVwWpgbsuQNFqKAtVnt7GrQBAHCeayRC7sWgyCQM",
+  "initialBalance": 23.21,
+  "persona": {
+    "name": "Remy",
+    "age": 40,
+    "profession": "full_time_trader",
+    "traits": [
+      "impulsive",
+      "intuitive"
+    ],
+    "experience": "experienced",
+    "bio": "Remy, a 40-year-old full-time crypto trader, is known for their impulsive yet intuitive approach to the volatile world of digital currencies. With years of experience under their belt, Remy thrives on quick decision-making and gut instincts, often capitalizing on market fluctuations that others might overlook. Their fearless nature and deep market insights have earned them a reputation as a dynamic force in the crypto trading community."
+  },
+  "riskTolerance": 0.5690949911943484,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

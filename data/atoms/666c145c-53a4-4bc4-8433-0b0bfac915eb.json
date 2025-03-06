@@ -1,0 +1,21 @@
+{
+  "id": "666c145c-53a4-4bc4-8433-0b0bfac915eb",
+  "walletAddress": "FrcFz5C1DddncfLrMj57sfnDGSt2q97g9qL1SriHtmdn",
+  "initialBalance": 17.02,
+  "persona": {
+    "name": "Spencer",
+    "age": 29,
+    "profession": "full_time_trader",
+    "traits": [
+      "impulsive",
+      "innovative",
+      "analytical"
+    ],
+    "experience": "intermediate",
+    "bio": "Spencer, a 29-year-old full-time crypto trader, is known for his impulsive yet innovative trading style, skillfully balancing risk and opportunity. With an intermediate level of experience, his analytical mindset enables him to swiftly adapt to market fluctuations, often leveraging cutting-edge strategies to stay ahead. Spencer's dynamic approach reflects his passion for exploring uncharted territories in the crypto world, making him a formidable presence in the trading community."
+  },
+  "riskTolerance": 0.9481447294115647,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

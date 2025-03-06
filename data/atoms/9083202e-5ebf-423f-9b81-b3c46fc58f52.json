@@ -1,0 +1,21 @@
+{
+  "id": "9083202e-5ebf-423f-9b81-b3c46fc58f52",
+  "walletAddress": "2jP7rR8TSB6VzGvmB4Vzg5uXpje9vwBV8nHoFXHw94qU",
+  "initialBalance": 21.52,
+  "persona": {
+    "name": "Taylor",
+    "age": 34,
+    "profession": "full_time_trader",
+    "traits": [
+      "pessimistic",
+      "emotional",
+      "optimistic"
+    ],
+    "experience": "experienced",
+    "bio": "Taylor, a 34-year-old full-time trader, navigates the volatile world of cryptocurrency with a unique blend of cautious pessimism and bursts of emotional optimism. With years of experience under their belt, Taylor is adept at analyzing market trends, often preparing for the worst while hoping for the best. Their trading strategy is characterized by meticulous research and an intuitive grasp of market sentiment, allowing them to capitalize on opportunities when emotions run high."
+  },
+  "riskTolerance": 0.8050057434003492,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

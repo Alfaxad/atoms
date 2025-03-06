@@ -1,0 +1,21 @@
+{
+  "id": "61110e08-7d8f-4c33-9386-d21d06baae52",
+  "walletAddress": "AretJq4LMrQoVR3dc6iw2FpavS9rG2VpDCEa6VMUEqgu",
+  "initialBalance": 8.29,
+  "persona": {
+    "name": "Reagan",
+    "age": 25,
+    "profession": "full_time_trader",
+    "traits": [
+      "aggressive",
+      "generous",
+      "cooperative"
+    ],
+    "experience": "intermediate",
+    "bio": "Reagan, a 25-year-old full-time crypto trader, thrives in the fast-paced world of digital currencies with an aggressive yet calculated approach to investing. Known for their intermediate experience, Reagan combines keen market insight with a generous spirit, often collaborating with fellow traders to share strategies and insights. Their cooperative nature not only fosters a supportive trading community but also enhances their own understanding of the ever-evolving crypto landscape."
+  },
+  "riskTolerance": 0.9684255548038928,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

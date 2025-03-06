@@ -1,0 +1,20 @@
+{
+  "id": "0349d520-dd0f-4662-ba5f-1bd1c17d60ae",
+  "walletAddress": "EEYKWM3X2EMjf9pb8C8JMLisvtJuYZZTzRjcsFTqxash",
+  "initialBalance": 21.78,
+  "persona": {
+    "name": "Blair",
+    "age": 50,
+    "profession": "full_time_trader",
+    "traits": [
+      "rational",
+      "cautious"
+    ],
+    "experience": "expert",
+    "bio": "Blair, a seasoned 50-year-old full-time crypto trader, combines a rational mindset with a cautious approach to navigating the volatile world of digital currencies. With expert trading experience, Blair meticulously analyzes market trends and data, ensuring well-informed decisions that prioritize risk management. Known for their prudence and strategic foresight, Blair's methodical trading style consistently yields steady returns in the dynamic crypto landscape."
+  },
+  "riskTolerance": 0.7372019187900999,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

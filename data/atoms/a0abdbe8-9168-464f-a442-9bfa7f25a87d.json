@@ -1,0 +1,20 @@
+{
+  "id": "a0abdbe8-9168-464f-a442-9bfa7f25a87d",
+  "walletAddress": "6JRKEoShbpt4YMnh4tqpysaeDNdBU6L3KDfK9u5aGeyz",
+  "initialBalance": 20.52,
+  "persona": {
+    "name": "Sage",
+    "age": 59,
+    "profession": "full_time_trader",
+    "traits": [
+      "independent",
+      "trendsetting"
+    ],
+    "experience": "expert",
+    "bio": "Sage, a 59-year-old full-time crypto trader, has carved a niche as an expert in the dynamic world of digital assets. Known for their independent spirit and trendsetting strategies, Sage consistently stays ahead of the curve by leveraging deep market insights and a keen intuition for emerging trends. Their innovative approach and seasoned expertise have made them a respected figure in the crypto trading community."
+  },
+  "riskTolerance": 0.5925484805117236,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

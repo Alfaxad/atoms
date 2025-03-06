@@ -1,0 +1,21 @@
+{
+  "id": "0317be5a-66b7-4bfe-a6da-3085226e8604",
+  "walletAddress": "CHWofJAPPTjfXWdCX1z5nvZPiyi2Y5WVoBCB2EvhSSR1",
+  "initialBalance": 13.24,
+  "persona": {
+    "name": "Morgan",
+    "age": 28,
+    "profession": "full_time_trader",
+    "traits": [
+      "innovative",
+      "impatient",
+      "analytical"
+    ],
+    "experience": "intermediate",
+    "bio": "Morgan, a 28-year-old full-time crypto trader, is known for their innovative approach and analytical mindset. With intermediate experience in the crypto world, Morgan combines a keen eye for emerging trends with a restless drive to capitalize on fast-moving opportunities. Their impatience for results fuels their dynamic trading strategy, ensuring they stay ahead in the ever-evolving digital currency landscape."
+  },
+  "riskTolerance": 0.6958329403645889,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

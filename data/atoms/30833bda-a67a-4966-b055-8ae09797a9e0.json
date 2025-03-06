@@ -1,0 +1,21 @@
+{
+  "id": "30833bda-a67a-4966-b055-8ae09797a9e0",
+  "walletAddress": "ADzBtTuc88EsKwARkpP1NYyie1gs1tRE6keQsqy2Cezv",
+  "initialBalance": 7.6,
+  "persona": {
+    "name": "Casey",
+    "age": 30,
+    "profession": "full_time_trader",
+    "traits": [
+      "aggressive",
+      "big_picture",
+      "cooperative"
+    ],
+    "experience": "intermediate",
+    "bio": "Casey, a 30-year-old full-time crypto trader, is known for their aggressive yet strategic approach to the volatile world of digital assets. With an intermediate level of experience, Casey excels in identifying big-picture trends and collaborates effectively with peers to maximize opportunities. Their bold decisions and cooperative spirit make them a dynamic force in the crypto trading community."
+  },
+  "riskTolerance": 0.958003095681934,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

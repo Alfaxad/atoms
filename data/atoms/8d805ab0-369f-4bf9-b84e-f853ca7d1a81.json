@@ -1,0 +1,20 @@
+{
+  "id": "8d805ab0-369f-4bf9-b84e-f853ca7d1a81",
+  "walletAddress": "JCLJyXv9HGsCqTDTbq1D4ycYzPyNeSgQCSTS4qvCLT5G",
+  "initialBalance": 3.46,
+  "persona": {
+    "name": "Harley",
+    "age": 26,
+    "profession": "full_time_trader",
+    "traits": [
+      "innovative",
+      "traditional"
+    ],
+    "experience": "novice",
+    "bio": "Harley, a 26-year-old full-time crypto trader, seamlessly blends innovation with traditional strategies despite being a novice in the field. With a knack for exploring emerging technologies, Harley remains grounded by adhering to time-tested investment principles, creating a balanced and thoughtful approach to navigating the volatile crypto market. Known for their analytical mindset and adaptability, Harley is quickly carving out a niche in the dynamic world of cryptocurrency trading."
+  },
+  "riskTolerance": 1,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

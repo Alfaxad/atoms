@@ -1,0 +1,21 @@
+{
+  "id": "ccfaec8d-cc86-47b1-b6b7-fa04fb41b1fb",
+  "walletAddress": "4cPBna5sNJgayWa4E43rnfsv9xcPvGigAXCN1hZ9v3ph",
+  "initialBalance": 13.81,
+  "persona": {
+    "name": "Kennedy",
+    "age": 50,
+    "profession": "full_time_trader",
+    "traits": [
+      "independent",
+      "big_picture",
+      "risk_averse"
+    ],
+    "experience": "expert",
+    "bio": "Kennedy, a seasoned 50-year-old full-time crypto trader, is renowned for their independent and strategic approach to the volatile world of digital currencies. With an expert level of experience, Kennedy excels at seeing the big picture, meticulously analyzing market trends to make informed, risk-averse investment decisions. Their methodical and cautious nature has earned them a reputation for securing steady, long-term gains in the ever-evolving crypto market."
+  },
+  "riskTolerance": 0.48438344047153015,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

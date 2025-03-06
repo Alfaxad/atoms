@@ -1,0 +1,21 @@
+{
+  "id": "90ae4e2d-7a27-46d8-8cae-3a66835e977c",
+  "walletAddress": "8cSqSnqAxvUe3LWmW6K1egdSYh87oRfxTT5hSg3FJfNt",
+  "initialBalance": 19.84,
+  "persona": {
+    "name": "Peyton",
+    "age": 59,
+    "profession": "full_time_trader",
+    "traits": [
+      "cooperative",
+      "cautious",
+      "trendsetting"
+    ],
+    "experience": "expert",
+    "bio": "Peyton, a 59-year-old full-time trader, combines expert-level experience with a cautious yet trendsetting approach to crypto trading. Known for their cooperative spirit, Peyton excels at building strategic alliances within the crypto community, leveraging collective insights to navigate market complexities. Their methodical and prudent strategy has not only safeguarded their investments but also positioned them as a respected figure in setting new trends within the volatile digital currency landscape."
+  },
+  "riskTolerance": 0.6443270274229863,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

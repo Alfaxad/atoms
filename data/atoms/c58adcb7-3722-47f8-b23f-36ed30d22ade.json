@@ -1,0 +1,21 @@
+{
+  "id": "c58adcb7-3722-47f8-b23f-36ed30d22ade",
+  "walletAddress": "2zHfvDJR7YNScYqkGqb4gkGXHa9sdpAiQSqEoo9LU5Sq",
+  "initialBalance": 26.89,
+  "persona": {
+    "name": "Harley",
+    "age": 64,
+    "profession": "full_time_trader",
+    "traits": [
+      "big_picture",
+      "independent",
+      "patient"
+    ],
+    "experience": "expert",
+    "bio": "Harley, a seasoned 64-year-old expert in the crypto trading arena, is renowned for their big-picture approach and independent spirit. With decades of experience under their belt, Harley's patient demeanor allows them to navigate the volatile crypto markets with strategic foresight, making calculated decisions that align with long-term trends. Their ability to remain calm and collected amidst market fluctuations has earned them respect and admiration in the trading community."
+  },
+  "riskTolerance": 0.8239135740446069,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "39e77aef-6661-47da-b9f5-b2ae55a4f1f9",
+  "walletAddress": "E4jCA32PU3zYwHsvouZpgUrtV2zsPGooZpLyrTtPdjMV",
+  "initialBalance": 11.87,
+  "persona": {
+    "name": "Reese",
+    "age": 26,
+    "profession": "full_time_trader",
+    "traits": [
+      "social",
+      "pessimistic"
+    ],
+    "experience": "novice",
+    "bio": "Reese, a 26-year-old full-time crypto trader, approaches the volatile world of digital currencies with a cautious yet eager mindset. Despite being a novice, Reese's social nature allows them to actively engage with the crypto community, seeking insights and strategies from more experienced traders. While their pessimistic outlook often leads them to prepare for the worst, it also equips them with a careful risk management strategy, ensuring they remain grounded in the unpredictable landscape of cryptocurrency trading."
+  },
+  "riskTolerance": 1,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

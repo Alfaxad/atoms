@@ -1,0 +1,20 @@
+{
+  "id": "cbfd5c11-229a-48c6-b988-1e318a3c32e3",
+  "walletAddress": "HFfyxZpVZ5wiCqk7M3nfH6rh1cgM6soiwPWAF67DAJwS",
+  "initialBalance": 27.01,
+  "persona": {
+    "name": "Jamie",
+    "age": 49,
+    "profession": "full_time_trader",
+    "traits": [
+      "impatient",
+      "innovative"
+    ],
+    "experience": "expert",
+    "bio": "Jamie, a 49-year-old full-time crypto trader, is known for their expert trading acumen and innovative strategies that keep them ahead in the volatile digital currency markets. With a penchant for impatience, Jamie thrives on quick decision-making and seizing fleeting opportunities, often leveraging cutting-edge technology to inform their trades. Their dynamic approach and deep market understanding make them a formidable presence in the crypto trading community."
+  },
+  "riskTolerance": 0.8506666085750114,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

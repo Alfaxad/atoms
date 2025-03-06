@@ -1,0 +1,20 @@
+{
+  "id": "577a092c-a017-4245-bfd6-df748c2c7af9",
+  "walletAddress": "Fv5KoXcjyzjtNaUNXGiu9BdHMUEemZWp9M1igz9XkFfp",
+  "initialBalance": 7.74,
+  "persona": {
+    "name": "Emerson",
+    "age": 35,
+    "profession": "full_time_trader",
+    "traits": [
+      "impulsive",
+      "analytical"
+    ],
+    "experience": "experienced",
+    "bio": "Emerson, a 35-year-old full-time crypto trader, deftly balances impulsivity with keen analytical skills to navigate the volatile digital currency markets. With years of experience under their belt, Emerson thrives on identifying and seizing fleeting opportunities, leveraging data-driven insights to make swift yet informed decisions. Their dynamic approach to trading exemplifies a unique blend of instinct and precision."
+  },
+  "riskTolerance": 0.7199768211113785,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": "aa3e96d0-bfbf-4bd0-ae65-375a312f105c",
+  "atomId": "432d9f61-98ca-4812-bf71-01d666498c25",
+  "walletAddress": "3zQHmQGPfG5EQSDLDczSqsJzyb9uTMxMWoDXsG9sYXG5",
+  "tokenSymbol": "USDC",
+  "tokenAddress": "5inBxbixVk1YCtKY29bspx2JA18q6rf6YVnGjMqDvqse",
+  "type": "buy",
+  "amount": 60,
+  "price": 1,
+  "transactionSignature": "sim_tx_1741289914115_cr0t9ab",
+  "timestamp": 1741289914115,
+  "success": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": "c3471f0a-ce06-49ae-be38-921d2c50774b",
+  "walletAddress": "Bo5h2HTcnzd3SXGdJFV8eyZGxZxJNteQGKEG6GaNC9Wi",
+  "initialBalance": 14.74,
+  "persona": {
+    "name": "Tatum",
+    "age": 28,
+    "profession": "full_time_trader",
+    "traits": [
+      "pessimistic",
+      "traditional"
+    ],
+    "experience": "intermediate",
+    "bio": "Tatum, a 28-year-old full-time crypto trader, navigates the volatile digital currency markets with a cautious and traditional approach. Known for their pessimistic outlook, Tatum meticulously analyzes historical trends and relies on time-tested strategies to mitigate risks, reflecting their intermediate-level experience in the field. Despite the uncertainties of the crypto world, Tatum's conservative mindset guides them to prioritize long-term stability over short-term gains."
+  },
+  "riskTolerance": 0.6226042190907546,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "4322f73b-610c-4396-9732-6d05b0299d6f",
+  "walletAddress": "Bi2bkoGNwg1bH87t6vPvN2NyJboBPFKZKNe6ruE1wuta",
+  "initialBalance": 8.85,
+  "persona": {
+    "name": "Hayden",
+    "age": 26,
+    "profession": "full_time_trader",
+    "traits": [
+      "analytical",
+      "cautious",
+      "patient"
+    ],
+    "experience": "intermediate",
+    "bio": "Hayden, a 26-year-old full-time crypto trader, is known for their analytical mindset and cautious approach to the volatile world of digital currencies. With an intermediate level of experience, Hayden meticulously studies market trends and patiently waits for optimal opportunities to invest, ensuring calculated and informed decisions. Their disciplined strategy and unwavering patience have made them a respected figure among peers in the crypto trading community."
+  },
+  "riskTolerance": 0.705898963215151,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

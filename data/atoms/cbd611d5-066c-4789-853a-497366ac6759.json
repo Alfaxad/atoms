@@ -1,0 +1,20 @@
+{
+  "id": "cbd611d5-066c-4789-853a-497366ac6759",
+  "walletAddress": "4oEAvDh5uGXo7KRDvHMFiZX9mfreZKztu4dfyqWe9koK",
+  "initialBalance": 10.93,
+  "persona": {
+    "name": "Rowan",
+    "age": 32,
+    "profession": "full_time_trader",
+    "traits": [
+      "risk_taker",
+      "aggressive"
+    ],
+    "experience": "experienced",
+    "bio": "Rowan, a 32-year-old full-time crypto trader, thrives in the fast-paced world of digital currencies with an aggressive and risk-taking approach. With years of experience under their belt, Rowan is known for making bold moves and capitalizing on volatile market swings, consistently seeking high-reward opportunities. Their fearless strategy and keen market sense have earned them a reputation as a formidable force in the crypto trading community."
+  },
+  "riskTolerance": 0.8510675501734386,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

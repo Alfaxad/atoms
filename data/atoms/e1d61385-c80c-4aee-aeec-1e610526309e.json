@@ -1,0 +1,20 @@
+{
+  "id": "e1d61385-c80c-4aee-aeec-1e610526309e",
+  "walletAddress": "5GhxFMhoejmYffRkeTKLkSfFnTeUYsHSk7qtCej5oGZX",
+  "initialBalance": 17.36,
+  "persona": {
+    "name": "Jaden",
+    "age": 35,
+    "profession": "full_time_trader",
+    "traits": [
+      "trendsetting",
+      "cooperative"
+    ],
+    "experience": "experienced",
+    "bio": "Jaden, a 35-year-old full-time crypto trader, is renowned for his trendsetting strategies and cooperative spirit within the trading community. With years of experience under his belt, Jaden excels at identifying emerging market trends and leveraging them for maximum gains, all while fostering collaboration and knowledge-sharing among fellow traders. His innovative approach and commitment to teamwork have cemented his reputation as a forward-thinking leader in the world of cryptocurrency trading."
+  },
+  "riskTolerance": 0.6419623868700777,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

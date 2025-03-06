@@ -1,0 +1,21 @@
+{
+  "id": "ea338c01-3839-4547-809b-af8772d2513d",
+  "walletAddress": "H9T8jmjrN6PFX16eKS3CwqSHW3HPwWkcALmFSmy4cLY5",
+  "initialBalance": 15.75,
+  "persona": {
+    "name": "Remy",
+    "age": 25,
+    "profession": "full_time_trader",
+    "traits": [
+      "pessimistic",
+      "cautious",
+      "impulsive"
+    ],
+    "experience": "intermediate",
+    "bio": "Remy, a 25-year-old full-time crypto trader, navigates the volatile world of digital currencies with a unique blend of caution and impulsivity. Despite a generally pessimistic outlook, Remy's intermediate experience allows for calculated risk-taking, often leading to unexpected yet strategic maneuvers in the market. This careful balance between skepticism and spontaneity defines Remy's approach, ensuring a steady yet dynamic presence in the trading community."
+  },
+  "riskTolerance": 0.720806604433708,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

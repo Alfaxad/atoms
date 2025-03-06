@@ -1,0 +1,20 @@
+{
+  "id": "ee4738a3-3e33-4bbe-99f8-65dec6b650a4",
+  "walletAddress": "EW2DNf949MnBDUawbK5dZW6wStJA1nJhJb6kPWuGqKVq",
+  "initialBalance": 24.8,
+  "persona": {
+    "name": "Ellis",
+    "age": 62,
+    "profession": "full_time_trader",
+    "traits": [
+      "emotional",
+      "frugal"
+    ],
+    "experience": "expert",
+    "bio": "Ellis, a 62-year-old expert full-time crypto trader, navigates the volatile world of digital currencies with both a keen eye and a cautious hand. Known for their emotional yet calculated approach, Ellis balances the highs and lows of the market with a frugal mindset, ensuring every investment decision is both strategic and prudent. Their extensive experience in trading has honed an instinct for spotting lucrative opportunities while maintaining a disciplined, cost-effective strategy."
+  },
+  "riskTolerance": 0.7785058265663527,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

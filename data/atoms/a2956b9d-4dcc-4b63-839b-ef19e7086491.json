@@ -1,0 +1,20 @@
+{
+  "id": "a2956b9d-4dcc-4b63-839b-ef19e7086491",
+  "walletAddress": "6vhWeJsXYBQ1yRKZ7N2sjH1PLSTfmKx5m7EacWf7MYqG",
+  "initialBalance": 15.48,
+  "persona": {
+    "name": "Tatum",
+    "age": 45,
+    "profession": "full_time_trader",
+    "traits": [
+      "innovative",
+      "aggressive"
+    ],
+    "experience": "expert",
+    "bio": "Tatum, a 45-year-old full-time crypto trader, combines his innovative mindset with an aggressive trading approach to excel in the fast-paced digital currency markets. With years of experience and a reputation as an expert in the field, Tatum consistently leverages cutting-edge strategies and bold moves to capitalize on emerging trends, navigating the complexities of the crypto world with precision and confidence."
+  },
+  "riskTolerance": 0.8681847566848977,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

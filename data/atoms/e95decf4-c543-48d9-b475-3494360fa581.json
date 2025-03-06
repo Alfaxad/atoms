@@ -1,0 +1,20 @@
+{
+  "id": "e95decf4-c543-48d9-b475-3494360fa581",
+  "walletAddress": "7jC1SqRSPi7cKodGWzX4yP8fNDZCuxSMxqtPzxfxh2WR",
+  "initialBalance": 14.05,
+  "persona": {
+    "name": "Skyler",
+    "age": 32,
+    "profession": "full_time_trader",
+    "traits": [
+      "social",
+      "innovative"
+    ],
+    "experience": "intermediate",
+    "bio": "Skyler, a 32-year-old full-time crypto trader, thrives in the dynamic world of digital currencies with an innovative and social approach. With intermediate trading experience, Skyler leverages a keen eye for emerging trends and actively engages with a vibrant community of traders to refine strategies and seize lucrative opportunities. Their personable nature and forward-thinking mindset enable them to navigate the complexities of the market while fostering valuable connections."
+  },
+  "riskTolerance": 0.7100507899214309,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

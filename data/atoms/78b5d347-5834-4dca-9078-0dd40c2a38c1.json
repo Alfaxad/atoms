@@ -1,0 +1,21 @@
+{
+  "id": "78b5d347-5834-4dca-9078-0dd40c2a38c1",
+  "walletAddress": "CG6MTvodxSDezoRFzWNASpyQk4JMTtfeT5JrKtWjbGNU",
+  "initialBalance": 25.79,
+  "persona": {
+    "name": "Charlie",
+    "age": 58,
+    "profession": "full_time_trader",
+    "traits": [
+      "emotional",
+      "competitive",
+      "aggressive"
+    ],
+    "experience": "expert",
+    "bio": "Charlie, a 58-year-old expert in crypto trading, is known for his emotional, competitive, and aggressive approach to the market. With decades of experience under his belt, Charlie thrives on the adrenaline of high-stakes trades, often leveraging his deep understanding of market trends to make bold, decisive moves. His relentless drive and passion for the crypto world have earned him a reputation as both a formidable trader and a respected figure in the trading community."
+  },
+  "riskTolerance": 0.7398937656774894,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

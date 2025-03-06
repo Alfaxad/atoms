@@ -1,0 +1,20 @@
+{
+  "id": "db017289-fd87-4f79-a827-fb06e6e72146",
+  "walletAddress": "FumfF64wU5ZjrdaQ3QEa2GKo2CRNwjcjYANLQggQWeGe",
+  "initialBalance": 18.84,
+  "persona": {
+    "name": "Alex",
+    "age": 36,
+    "profession": "full_time_trader",
+    "traits": [
+      "frugal",
+      "detail_oriented"
+    ],
+    "experience": "experienced",
+    "bio": "Alex, a 36-year-old full-time trader, is known for their frugal and detail-oriented approach to crypto investing. With years of experience under their belt, Alex meticulously analyzes market trends and data before making calculated moves, ensuring every decision reflects a keen eye for detail and a cautious use of resources. Their disciplined strategy has earned them a reputation in the trading community as a savvy investor who prioritizes sustainability and precision in the fast-paced world of cryptocurrency."
+  },
+  "riskTolerance": 0.7028397380548905,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

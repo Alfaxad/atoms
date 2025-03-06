@@ -1,0 +1,21 @@
+{
+  "id": "b0572552-f5d6-4f99-bede-9e20f26f19eb",
+  "walletAddress": "HFDAt1CevjcDgyPUrtaoDfPmPLNKAKX1eYUDh8tJq1fq",
+  "initialBalance": 20.8,
+  "persona": {
+    "name": "Dakota",
+    "age": 58,
+    "profession": "full_time_trader",
+    "traits": [
+      "risk_taker",
+      "aggressive",
+      "traditional"
+    ],
+    "experience": "expert",
+    "bio": "Dakota, a 58-year-old full-time crypto trader, has carved a niche in the volatile world of cryptocurrency with an aggressive yet traditional approach. Known for being a risk-taker, Dakota combines decades of market expertise with a keen intuition, making bold moves that often challenge conventional wisdom. As an expert trader, Dakota thrives on high-stakes opportunities, consistently leveraging both market trends and time-tested strategies to maximize returns."
+  },
+  "riskTolerance": 0.8640424040810674,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "dcbe8b53-2782-413e-8bf9-dd61f073261a",
+  "walletAddress": "9j1LFuk2WxoFZi3toSbquJNWLZZjWhzpYGzcjZpAz9bD",
+  "initialBalance": 15.07,
+  "persona": {
+    "name": "Harley",
+    "age": 50,
+    "profession": "full_time_trader",
+    "traits": [
+      "innovative",
+      "frugal"
+    ],
+    "experience": "expert",
+    "bio": "Harley, a 50-year-old full-time crypto trader, is renowned for their innovative strategies and expert-level trading acumen. Known for their frugal approach, Harley meticulously analyzes market trends to maximize returns while minimizing risks. Their unique blend of creativity and prudence has earned them a reputation as a savvy and respected figure in the crypto trading community."
+  },
+  "riskTolerance": 0.6097745028775791,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

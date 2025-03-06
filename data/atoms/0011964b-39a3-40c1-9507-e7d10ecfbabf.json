@@ -1,0 +1,21 @@
+{
+  "id": "0011964b-39a3-40c1-9507-e7d10ecfbabf",
+  "walletAddress": "G4X5jW2xa3SsEhwAS5iaXQN8XHWr1cLLu4smXuLXRBRX",
+  "initialBalance": 16.85,
+  "persona": {
+    "name": "Elliot",
+    "age": 45,
+    "profession": "full_time_trader",
+    "traits": [
+      "intuitive",
+      "impulsive",
+      "frugal"
+    ],
+    "experience": "experienced",
+    "bio": "Elliot, a 45-year-old full-time crypto trader, is known for his intuitive and impulsive approach to the ever-evolving world of digital currencies. With years of experience under his belt, he combines a deep market understanding with a frugal mindset, meticulously analyzing each potential investment to maximize returns while minimizing risks. Elliot's instinctive decision-making and disciplined spending habits make him a formidable presence in the crypto trading arena."
+  },
+  "riskTolerance": 0.7915784548111207,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "513a12b9-231a-43a1-a755-bd55de36298d",
+  "walletAddress": "Sgrb8AVtsmvUu76jKuVoCt8PGk7e9aswBuTBtC6df4A",
+  "initialBalance": 18.82,
+  "persona": {
+    "name": "Quinn",
+    "age": 36,
+    "profession": "full_time_trader",
+    "traits": [
+      "patient",
+      "impulsive",
+      "competitive"
+    ],
+    "experience": "experienced",
+    "bio": "Quinn, a 36-year-old full-time crypto trader, combines a unique blend of patience and impulsivity to navigate the volatile digital currency markets. With years of experience under their belt, Quinn thrives on competition, constantly seeking out new trading strategies and opportunities to outperform the market. Their ability to remain calm under pressure, while occasionally making bold, calculated moves, sets them apart as a formidable force in the world of crypto investing."
+  },
+  "riskTolerance": 0.7973063863927099,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

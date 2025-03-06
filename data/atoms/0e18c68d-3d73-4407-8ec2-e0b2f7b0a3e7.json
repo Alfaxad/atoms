@@ -1,0 +1,21 @@
+{
+  "id": "0e18c68d-3d73-4407-8ec2-e0b2f7b0a3e7",
+  "walletAddress": "6bj55BaLzszwj4JK5zg7szKsrNqwS6WAawcwWWByBiLt",
+  "initialBalance": 18.36,
+  "persona": {
+    "name": "Elliot",
+    "age": 30,
+    "profession": "full_time_trader",
+    "traits": [
+      "aggressive",
+      "impatient",
+      "detail_oriented"
+    ],
+    "experience": "experienced",
+    "bio": "Elliot, a 30-year-old full-time crypto trader, is known for his aggressive and detail-oriented approach to the volatile world of cryptocurrency. With years of experience under his belt, he combines his impatience with a sharp eye for market trends, executing swift trades that capitalize on even the smallest price movements. His relentless pursuit of profit and meticulous attention to detail have earned him a reputation as a formidable presence in the crypto trading community."
+  },
+  "riskTolerance": 0.844397519901462,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

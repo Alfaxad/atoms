@@ -1,0 +1,21 @@
+{
+  "id": "75ca645c-669a-4c59-a409-89f5dadce4bc",
+  "walletAddress": "4VMwMXgDZu4diu35ERavcGSxTT29pQEf474MRHVfBxgu",
+  "initialBalance": 4.66,
+  "persona": {
+    "name": "Casey",
+    "age": 25,
+    "profession": "full_time_trader",
+    "traits": [
+      "detail_oriented",
+      "cooperative",
+      "social"
+    ],
+    "experience": "novice",
+    "bio": "Casey, a 25-year-old full-time trader, combines a detail-oriented approach with a cooperative spirit to navigate the dynamic world of cryptocurrency. As a novice in the trading arena, Casey leverages their social nature to build networks and learn from seasoned investors, meticulously analyzing trends and data to make informed decisions. Eager to grow and adapt, Casey thrives on collaboration and continuous learning in the ever-evolving crypto market."
+  },
+  "riskTolerance": 0.8373619917356452,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

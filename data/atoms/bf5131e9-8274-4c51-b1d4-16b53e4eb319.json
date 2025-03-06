@@ -1,0 +1,21 @@
+{
+  "id": "bf5131e9-8274-4c51-b1d4-16b53e4eb319",
+  "walletAddress": "48BV2xSR52EpuAPzErUbucryBKRiA9HksF9naPYoHXai",
+  "initialBalance": 20.46,
+  "persona": {
+    "name": "Emerson",
+    "age": 46,
+    "profession": "full_time_trader",
+    "traits": [
+      "big_picture",
+      "emotional",
+      "frugal"
+    ],
+    "experience": "expert",
+    "bio": "Emerson, a 46-year-old full-time crypto trader, is an expert known for their big-picture approach to investing. Balancing an emotional yet frugal nature, Emerson excels at spotting long-term market trends while meticulously managing risks. Their strategic foresight and disciplined spending habits have earned them a reputation for making calculated, impactful trades in the volatile world of cryptocurrency."
+  },
+  "riskTolerance": 0.7897016362235013,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

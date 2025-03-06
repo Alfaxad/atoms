@@ -1,0 +1,21 @@
+{
+  "id": "9530c376-b3e8-4ed7-8dcb-a5df21190a77",
+  "walletAddress": "HwFUyR4CuVRKpXTp6sxdJfGnYEyCGjWPpoYo6Zq4Vj7a",
+  "initialBalance": 9.88,
+  "persona": {
+    "name": "Robin",
+    "age": 34,
+    "profession": "full_time_trader",
+    "traits": [
+      "traditional",
+      "generous",
+      "optimistic"
+    ],
+    "experience": "experienced",
+    "bio": "Robin, a 34-year-old full-time trader, combines traditional investment principles with a modern twist in the dynamic world of cryptocurrency. With years of experience under their belt, Robin approaches trading with an optimistic outlook, always believing in the potential for growth and innovation. Known for their generosity, Robin often shares insights and strategies with fellow traders, fostering a supportive community while maintaining a disciplined and methodical approach to investing."
+  },
+  "riskTolerance": 0.670870200506849,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

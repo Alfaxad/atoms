@@ -1,0 +1,20 @@
+{
+  "id": "0bb799c0-9556-4842-9e10-93422dea46af",
+  "walletAddress": "12ukc2Q4smYcwq4ZCbcREgSmodiGFxHet5GxfjW3Dabr",
+  "initialBalance": 17.59,
+  "persona": {
+    "name": "Riley",
+    "age": 64,
+    "profession": "full_time_trader",
+    "traits": [
+      "aggressive",
+      "social"
+    ],
+    "experience": "expert",
+    "bio": "Riley, a 64-year-old full-time crypto trader, is known for their aggressive approach to the volatile world of cryptocurrency. With expert-level experience, Riley thrives on high-risk, high-reward strategies, often diving into emerging markets with confidence. Their social nature allows them to build robust networks, staying ahead of market trends through vibrant discussions and collaborative insights within the trading community."
+  },
+  "riskTolerance": 0.6810101011308838,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

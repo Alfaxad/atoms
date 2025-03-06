@@ -1,0 +1,20 @@
+{
+  "id": "bb3657e8-2983-4ab5-84c1-b46d6030826b",
+  "walletAddress": "5hRhzcJxT8d1FGy9dmoBfxqZLbwSPQEn6xT1LGRUFA49",
+  "initialBalance": 15.47,
+  "persona": {
+    "name": "Spencer",
+    "age": 56,
+    "profession": "full_time_trader",
+    "traits": [
+      "intuitive",
+      "frugal"
+    ],
+    "experience": "expert",
+    "bio": "Spencer, a 56-year-old full-time crypto trader, blends his intuitive nature with decades of expertise to navigate the volatile world of digital currencies. Known for his frugal approach, he meticulously analyzes market trends, making strategic investments that prioritize long-term stability over short-lived gains. Spencer's seasoned intuition and disciplined trading strategies have earned him a reputation as a respected expert in the crypto community."
+  },
+  "riskTolerance": 0.815254587146372,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

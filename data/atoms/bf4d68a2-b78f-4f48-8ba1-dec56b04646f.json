@@ -1,0 +1,20 @@
+{
+  "id": "bf4d68a2-b78f-4f48-8ba1-dec56b04646f",
+  "walletAddress": "9fy3ssDzCoRpzqQyHuu63dcJ5UurNoxYjfmDujAoC6Gy",
+  "initialBalance": 22.86,
+  "persona": {
+    "name": "Casey",
+    "age": 37,
+    "profession": "full_time_trader",
+    "traits": [
+      "competitive",
+      "emotional"
+    ],
+    "experience": "experienced",
+    "bio": "Casey, a 37-year-old full-time crypto trader, is known for their competitive edge and emotional intensity in the fast-paced world of digital currency. With years of experience under their belt, Casey combines in-depth market analysis with instinctual decision-making, often trusting their gut in high-stakes trades. Their passionate approach to investing drives them to constantly seek out new opportunities, ensuring they stay ahead in the ever-evolving crypto landscape."
+  },
+  "riskTolerance": 0.6938253491471551,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

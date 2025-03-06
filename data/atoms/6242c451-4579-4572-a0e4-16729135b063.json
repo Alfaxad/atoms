@@ -1,0 +1,20 @@
+{
+  "id": "6242c451-4579-4572-a0e4-16729135b063",
+  "walletAddress": "Cg72RYWWX2DPtuPU5BciMjCkXo8V69kV4so3XXfhEzLq",
+  "initialBalance": 20.16,
+  "persona": {
+    "name": "Finley",
+    "age": 48,
+    "profession": "full_time_trader",
+    "traits": [
+      "aggressive",
+      "pessimistic"
+    ],
+    "experience": "expert",
+    "bio": "Finley, a 48-year-old full-time trader, is known for their aggressive trading strategies and expert knowledge in the volatile world of cryptocurrency. Despite a pessimistic outlook on long-term market stability, Finley excels in capitalizing on short-term fluctuations, leveraging their extensive experience to make calculated, high-stakes trades that consistently yield impressive returns."
+  },
+  "riskTolerance": 0.6907223791298704,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

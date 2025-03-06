@@ -1,0 +1,20 @@
+{
+  "id": "c9ec51e6-08b6-4761-a973-1797b7a486b3",
+  "walletAddress": "ZNTNRTWLhawWgSknRJiQq5HeKRaZ5kGw3KzSD2JxVSJ",
+  "initialBalance": 8.7,
+  "persona": {
+    "name": "Sage",
+    "age": 53,
+    "profession": "full_time_trader",
+    "traits": [
+      "pessimistic",
+      "generous"
+    ],
+    "experience": "experienced",
+    "bio": "Sage, a 53-year-old full-time crypto trader, is known for their cautious yet generous approach to the volatile world of digital currencies. With years of experience under their belt, Sage navigates the crypto markets with a pessimistic lens, always anticipating downturns and preparing accordingly. Despite their cautious outlook, Sage is committed to sharing their wealth of knowledge and often mentors novice traders, emphasizing risk management and strategic planning."
+  },
+  "riskTolerance": 0.7267953568112411,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

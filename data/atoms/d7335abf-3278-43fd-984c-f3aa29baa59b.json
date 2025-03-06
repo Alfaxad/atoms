@@ -1,0 +1,21 @@
+{
+  "id": "d7335abf-3278-43fd-984c-f3aa29baa59b",
+  "walletAddress": "CEXBULr8rVHCrGo9at1ufuCQpM23hAediGoxNSwaAFcF",
+  "initialBalance": 8.91,
+  "persona": {
+    "name": "Kai",
+    "age": 26,
+    "profession": "full_time_trader",
+    "traits": [
+      "independent",
+      "rational",
+      "trendsetting"
+    ],
+    "experience": "novice",
+    "bio": "Kai, a 26-year-old full-time trader, is carving a niche in the crypto world with a fresh, independent approach. Despite being a novice, Kai's rational analysis and trendsetting instincts drive a unique trading strategy, focused on emerging trends and innovative digital assets. With a keen eye for spotting potential in the ever-evolving crypto landscape, Kai is poised to make a significant impact in the world of digital currency trading."
+  },
+  "riskTolerance": 0.7105929289695683,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

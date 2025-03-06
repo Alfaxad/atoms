@@ -1,0 +1,20 @@
+{
+  "id": "366b337c-c364-4a07-8eb6-64d9982718c6",
+  "walletAddress": "57fz3W7H6y4fjyWP2XVZT89kpVM6fDcWZBKYrfvYXkjX",
+  "initialBalance": 5.85,
+  "persona": {
+    "name": "Sage",
+    "age": 29,
+    "profession": "full_time_trader",
+    "traits": [
+      "social",
+      "trendsetting"
+    ],
+    "experience": "intermediate",
+    "bio": "Sage, a 29-year-old full-time crypto trader, is known for their social and trendsetting approach in the dynamic world of digital currencies. With an intermediate level of trading experience, Sage thrives on staying ahead of market trends and connecting with fellow traders to share insights and strategies. Their knack for spotting emerging opportunities and engaging with the crypto community makes Sage a respected and influential figure in the trading arena."
+  },
+  "riskTolerance": 0.8792195875892562,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

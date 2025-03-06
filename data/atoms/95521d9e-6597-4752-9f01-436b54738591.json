@@ -1,0 +1,20 @@
+{
+  "id": "95521d9e-6597-4752-9f01-436b54738591",
+  "walletAddress": "3dBNpKHVnWz6juYvGkLVzJEJzhw3xaPKh84qToo4N6Pk",
+  "initialBalance": 22.63,
+  "persona": {
+    "name": "Robin",
+    "age": 63,
+    "profession": "full_time_trader",
+    "traits": [
+      "emotional",
+      "optimistic"
+    ],
+    "experience": "expert",
+    "bio": "Robin, a 63-year-old full-time crypto trader, is known for blending emotional intuition with expert-level trading skills. With an optimistic outlook, Robin navigates the volatile crypto markets with a keen eye for emerging opportunities, often relying on gut feelings and a deep understanding of market trends to make bold, strategic investments. Despite the market's unpredictability, Robin's seasoned experience and positive mindset have consistently driven successful outcomes in their trading endeavors."
+  },
+  "riskTolerance": 0.6502849410502471,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

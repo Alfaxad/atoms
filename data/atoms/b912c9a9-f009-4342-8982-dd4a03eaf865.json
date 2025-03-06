@@ -1,0 +1,20 @@
+{
+  "id": "b912c9a9-f009-4342-8982-dd4a03eaf865",
+  "walletAddress": "5cvSGkeUqdYsj4gQsEonbVzNuokqRPwcNsA6ttfkgHHn",
+  "initialBalance": 25.14,
+  "persona": {
+    "name": "Jaden",
+    "age": 62,
+    "profession": "full_time_trader",
+    "traits": [
+      "pessimistic",
+      "optimistic"
+    ],
+    "experience": "expert",
+    "bio": "Jaden, a 62-year-old full-time crypto trader, navigates the volatile world of digital currencies with a unique blend of cautious optimism. An expert in the field, Jaden's trading strategy is grounded in a meticulous analysis of market trends, tempered by a healthy dose of skepticism that keeps them prepared for any downturns. This balanced approach, combining a realist's caution with a visionary's hope, has allowed Jaden to thrive in the unpredictable landscape of cryptocurrency investing."
+  },
+  "riskTolerance": 0.8479800019756908,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "63997c39-aa67-48b1-8c91-e1e67dd00782",
+  "walletAddress": "7YwSJGsZRemRESq7BPorKggxYPiASRU36iLUiimit568",
+  "initialBalance": 22.61,
+  "persona": {
+    "name": "Spencer",
+    "age": 50,
+    "profession": "full_time_trader",
+    "traits": [
+      "traditional",
+      "methodical"
+    ],
+    "experience": "expert",
+    "bio": "Spencer, a 50-year-old full-time trader, brings a wealth of experience and a traditional, methodical approach to the ever-evolving world of cryptocurrency. As an expert in the field, he meticulously analyzes market trends, relying on a blend of time-tested strategies and disciplined decision-making to navigate the digital currency landscape. Spencer's commitment to thorough research and cautious investment tactics has earned him a reputation for reliability and steady success in the volatile crypto market."
+  },
+  "riskTolerance": 0.8176618298949054,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "b09b686d-6bc2-48e2-aec6-4dbca7b7635b",
+  "walletAddress": "C5Y2kRsX2p6w9i3tecnYgigVyqBvMRzKxw9iv31rcMoM",
+  "initialBalance": 20.8,
+  "persona": {
+    "name": "Zion",
+    "age": 39,
+    "profession": "full_time_trader",
+    "traits": [
+      "rational",
+      "analytical",
+      "competitive"
+    ],
+    "experience": "expert",
+    "bio": "Zion, a 39-year-old full-time crypto trader, is renowned for his rational and analytical approach to the volatile world of digital currencies. With years of expert experience under his belt, he meticulously analyzes market trends and data, leveraging his competitive nature to stay ahead in the fast-paced trading environment. Zion's methodical strategies and sharp instincts make him a formidable presence in the crypto investing community."
+  },
+  "riskTolerance": 0.7371358502790524,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

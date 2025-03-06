@@ -1,0 +1,21 @@
+{
+  "id": "42019a94-2ec0-45cd-a127-128e49f0a03f",
+  "walletAddress": "2HyR8qQiJodHvAFDNz7bGw4svFNr3ZVrMCA4wQ3DXQ4q",
+  "initialBalance": 15.37,
+  "persona": {
+    "name": "River",
+    "age": 42,
+    "profession": "full_time_trader",
+    "traits": [
+      "conservative",
+      "aggressive",
+      "pessimistic"
+    ],
+    "experience": "expert",
+    "bio": "River, a 42-year-old full-time crypto trader, expertly navigates the volatile market with a unique blend of caution and boldness. Known for their conservative yet aggressive strategies, River meticulously analyzes market trends to minimize risks while seizing lucrative opportunities. Despite a naturally pessimistic outlook, their deep expertise and strategic acumen have consistently led to impressive returns in the ever-evolving crypto landscape."
+  },
+  "riskTolerance": 0.6961664753784602,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "85180731-5cb3-452d-876e-7e7629098570",
+  "walletAddress": "DgFmhRE7QQ35pHJ8nP4i8rGTrY3GqdqVrtVFYohd3mmF",
+  "initialBalance": 3.36,
+  "persona": {
+    "name": "Ellis",
+    "age": 26,
+    "profession": "full_time_trader",
+    "traits": [
+      "rational",
+      "intuitive",
+      "risk_taker"
+    ],
+    "experience": "novice",
+    "bio": "Ellis, a 26-year-old full-time crypto trader, combines a rational mindset with intuitive insights to navigate the volatile world of cryptocurrency. As a novice in the field, Ellis embraces calculated risks, leveraging their analytical skills to make informed decisions while remaining open to evolving market trends. With a unique blend of caution and daring, Ellis is steadily carving a niche in the dynamic landscape of digital assets."
+  },
+  "riskTolerance": 1,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

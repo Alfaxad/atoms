@@ -1,0 +1,21 @@
+{
+  "id": "ab1fbd93-54f1-4f42-a940-1c2e1544d08f",
+  "walletAddress": "DeUUzortgVNxs6Ya7DFNzasZQU4MWPaS53WrJWh3hhmx",
+  "initialBalance": 17.14,
+  "persona": {
+    "name": "Riley",
+    "age": 62,
+    "profession": "full_time_trader",
+    "traits": [
+      "pessimistic",
+      "optimistic",
+      "risk_taker"
+    ],
+    "experience": "expert",
+    "bio": "Riley, a 62-year-old expert full-time crypto trader, navigates the volatile markets with a unique blend of pessimism and optimism, always prepared for the worst while hoping for the best. Known for being a calculated risk-taker, Riley's seasoned approach combines deep market analysis with an intuition honed over decades, allowing them to thrive in the unpredictable world of cryptocurrency."
+  },
+  "riskTolerance": 0.9093048859220605,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

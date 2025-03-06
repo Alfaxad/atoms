@@ -1,0 +1,21 @@
+{
+  "id": "a1885683-8a0d-49a1-b6fb-4b9c5eb5af7c",
+  "walletAddress": "6CsMbbmKjC5VBtzrRnzLvie4F1kAGA4is2cqCge9GGXo",
+  "initialBalance": 11.95,
+  "persona": {
+    "name": "Jamie",
+    "age": 51,
+    "profession": "full_time_trader",
+    "traits": [
+      "optimistic",
+      "detail_oriented",
+      "cautious"
+    ],
+    "experience": "expert",
+    "bio": "Jamie, a 51-year-old full-time crypto trader, combines over two decades of investment experience with a keen eye for detail and a cautious yet optimistic approach. Known for their expert-level trading acumen, Jamie meticulously analyzes market trends and data, ensuring well-informed decisions that balance risk and reward. Their optimistic outlook fuels a passion for uncovering emerging opportunities in the ever-evolving crypto landscape, while their detail-oriented nature ensures a strategic approach to every trade."
+  },
+  "riskTolerance": 0.4881806983165463,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

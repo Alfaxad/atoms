@@ -1,0 +1,21 @@
+{
+  "id": "fc409b12-58d6-4db5-91dc-7520ab4cb46a",
+  "walletAddress": "CNR4YSypEx3ochKShsPQCT9eB9XUp1JTfFa2APS3wGFZ",
+  "initialBalance": 11.13,
+  "persona": {
+    "name": "Ashton",
+    "age": 26,
+    "profession": "full_time_trader",
+    "traits": [
+      "pessimistic",
+      "impulsive",
+      "generous"
+    ],
+    "experience": "intermediate",
+    "bio": "Ashton, a 26-year-old full-time crypto trader, navigates the volatile markets with a blend of impulsive decisions and a cautious, pessimistic outlook. Despite their intermediate experience, Ashton is known for making bold trades on a whim, often counterbalanced by a generous spirit that sees them sharing both insights and profits with fellow traders. Their approach is a unique mix of skepticism and spontaneity, reflecting a dynamic personality that thrives in the unpredictable world of cryptocurrency."
+  },
+  "riskTolerance": 0.865956196308625,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

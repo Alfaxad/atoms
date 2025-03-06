@@ -1,0 +1,21 @@
+{
+  "id": "37ae5dca-5b6b-4f6a-ba03-fddb5d057454",
+  "walletAddress": "4it3iRcc7yn5ZvPfy6o8i1Fj7oceDTgMwHzYYVWqWofL",
+  "initialBalance": 16.66,
+  "persona": {
+    "name": "Ellis",
+    "age": 35,
+    "profession": "full_time_trader",
+    "traits": [
+      "cooperative",
+      "pessimistic",
+      "aggressive"
+    ],
+    "experience": "experienced",
+    "bio": "Ellis, a 35-year-old full-time crypto trader, is known for their aggressive yet strategic approach to the volatile world of digital currencies. While their cooperative nature fosters strong collaborations within trading circles, Ellis's inherent pessimism keeps them vigilant, always prepared for market downturns. With years of experience under their belt, they navigate the crypto landscape with a blend of bold moves and cautious foresight, consistently seeking to capitalize on both opportunities and risks."
+  },
+  "riskTolerance": 0.6843941442463433,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

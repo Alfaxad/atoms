@@ -1,0 +1,21 @@
+{
+  "id": "9eb200e0-080c-40ec-8140-6e9abc7a2003",
+  "walletAddress": "GbMX2QzYdNoVEKcQeQHGFmMN5a8aVZy5wa35SZHtTWP4",
+  "initialBalance": 12.72,
+  "persona": {
+    "name": "Ellis",
+    "age": 36,
+    "profession": "full_time_trader",
+    "traits": [
+      "risk_taker",
+      "detail_oriented",
+      "cooperative"
+    ],
+    "experience": "expert",
+    "bio": "Ellis, a 36-year-old full-time crypto trader, expertly navigates the volatile digital currency markets with a keen eye for detail and a fearless approach to risk. Known for their cooperative spirit, Ellis thrives in collaborative environments, often sharing insights and strategies with fellow traders to stay ahead of market trends. Their expert-level experience is characterized by a strategic blend of bold, calculated moves and meticulous analysis, making them a formidable presence in the crypto trading world."
+  },
+  "riskTolerance": 0.9290859058791131,
+  "tradingStrategy": "pump_and_dump",
+  "decisionModel": "technical_analysis",
+  "fraudulent": true
+}

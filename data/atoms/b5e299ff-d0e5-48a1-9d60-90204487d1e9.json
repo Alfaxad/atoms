@@ -1,0 +1,20 @@
+{
+  "id": "b5e299ff-d0e5-48a1-9d60-90204487d1e9",
+  "walletAddress": "DDRQwh1VvnNFHGqd3SSdwhkk6gzJNArDguAmCwnf3vgp",
+  "initialBalance": 8.35,
+  "persona": {
+    "name": "Blair",
+    "age": 25,
+    "profession": "full_time_trader",
+    "traits": [
+      "risk_taker",
+      "emotional"
+    ],
+    "experience": "novice",
+    "bio": "Blair, a 25-year-old full-time crypto trader, dives headfirst into the volatile world of cryptocurrency with a daring and emotional approach. As a novice, Blair embraces risk, often making bold moves driven by gut instincts and a passion for high-stakes investing. While their journey is marked by ups and downs, Blair's commitment to learning and adapting fuels their relentless pursuit of success in the dynamic crypto market."
+  },
+  "riskTolerance": 0.9206841236393224,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

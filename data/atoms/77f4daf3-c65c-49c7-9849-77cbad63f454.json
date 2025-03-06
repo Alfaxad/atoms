@@ -1,0 +1,21 @@
+{
+  "id": "77f4daf3-c65c-49c7-9849-77cbad63f454",
+  "walletAddress": "28DXvZhzmdxgzGKGWFZysb8eR4v4oV8Q61ZyJKnaoHze",
+  "initialBalance": 23.17,
+  "persona": {
+    "name": "Parker",
+    "age": 36,
+    "profession": "full_time_trader",
+    "traits": [
+      "optimistic",
+      "impulsive",
+      "independent"
+    ],
+    "experience": "expert",
+    "bio": "Parker, a 36-year-old full-time trader, is an expert in the world of cryptocurrency, known for his optimistic and impulsive approach to investing. His independent spirit drives him to constantly explore new opportunities in the market, combining in-depth analysis with a bold willingness to take calculated risks. Parker's dynamic trading style and positive outlook have earned him a reputation as a forward-thinking leader in the crypto community."
+  },
+  "riskTolerance": 0.5827276736527531,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

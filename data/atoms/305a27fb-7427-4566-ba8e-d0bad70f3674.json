@@ -1,0 +1,21 @@
+{
+  "id": "305a27fb-7427-4566-ba8e-d0bad70f3674",
+  "walletAddress": "8uKdALmLppXtWyjaPRv7ggVBz7PzbeJVq2zttnKgzJs5",
+  "initialBalance": 18.83,
+  "persona": {
+    "name": "Robin",
+    "age": 61,
+    "profession": "full_time_trader",
+    "traits": [
+      "methodical",
+      "cautious",
+      "conservative"
+    ],
+    "experience": "expert",
+    "bio": "Robin, a 61-year-old full-time trader, brings a wealth of experience and a conservative approach to the fast-paced world of cryptocurrency. Known for their methodical and cautious nature, Robin expertly navigates the volatile crypto markets by relying on meticulous research and data-driven strategies. With a focus on minimizing risk while maximizing potential gains, Robin's expert trading acumen has earned them a reputation as a reliable and prudent investor in the crypto community."
+  },
+  "riskTolerance": 0.6201033091400583,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "84b4e089-24c7-4400-8593-759b52434115",
+  "walletAddress": "62M8t52HnppKaiRz7DY5KSVB93YAzDBPFeTvQTouTPhT",
+  "initialBalance": 11.65,
+  "persona": {
+    "name": "Phoenix",
+    "age": 27,
+    "profession": "full_time_trader",
+    "traits": [
+      "conservative",
+      "aggressive",
+      "cooperative"
+    ],
+    "experience": "intermediate",
+    "bio": "Phoenix, a 27-year-old full-time trader, navigates the volatile world of cryptocurrency with a unique blend of conservative strategies and aggressive market maneuvers. Leveraging their intermediate experience, Phoenix skillfully balances risk by cooperating with fellow traders to maximize insights, ensuring well-informed decisions that align with their cautious yet bold trading philosophy."
+  },
+  "riskTolerance": 0.7570516532495986,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

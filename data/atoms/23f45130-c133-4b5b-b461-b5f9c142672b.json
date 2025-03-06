@@ -1,0 +1,20 @@
+{
+  "id": "23f45130-c133-4b5b-b461-b5f9c142672b",
+  "walletAddress": "22GPipQJf7VegjGUKD9F6ffZEeSYNkBHZrrD34MbT2YL",
+  "initialBalance": 14.33,
+  "persona": {
+    "name": "Kennedy",
+    "age": 64,
+    "profession": "full_time_trader",
+    "traits": [
+      "methodical",
+      "social"
+    ],
+    "experience": "expert",
+    "bio": "Kennedy, a 64-year-old full-time crypto trader, combines a methodical approach with a keen social acumen to navigate the volatile world of digital currencies. With years of expert experience, he meticulously analyzes market trends and data, while maintaining a robust network of industry connections to stay informed and share insights. His disciplined strategies and sociable nature make him a respected figure in the crypto trading community."
+  },
+  "riskTolerance": 0.6042547528886465,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

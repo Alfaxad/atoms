@@ -1,0 +1,12 @@
+{
+  "symbol": "ATOM1",
+  "name": "ATOM Community Token 1",
+  "mintAddress": "26MX65skPsDp8UhHnQnq7NJPP1ZbgTdjbfNejYSwRZis",
+  "decimals": 9,
+  "initialSupply": 500000,
+  "currentPrice": 0.5,
+  "totalVolume": 0,
+  "creator": "5D4uAEsvnrTCVj5dpAJP27bB5rTBEF2vLCdWWXEZgbVQmbSQUbkpQs7n9WJH1QxKA2TMatAspL4nvbYtEirZFhKJ",
+  "createdAt": 1741269340001,
+  "fraudScore": 0
+}

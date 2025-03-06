@@ -1,0 +1,21 @@
+{
+  "id": "c57f2041-4d70-499b-b20e-82ad8b0d22b4",
+  "walletAddress": "2PUbBRSGnaXsvgXbjjCRYcnWS2vjLjv4fdLhurkpX4NR",
+  "initialBalance": 20.46,
+  "persona": {
+    "name": "Sage",
+    "age": 48,
+    "profession": "full_time_trader",
+    "traits": [
+      "impulsive",
+      "methodical",
+      "pessimistic"
+    ],
+    "experience": "experienced",
+    "bio": "Sage, a 48-year-old full-time crypto trader, navigates the volatile market with a unique blend of impulsive decision-making and a methodical approach. Despite their deep experience, Sage maintains a pessimistic outlook, always preparing for the worst while strategically leveraging opportunities that align with their meticulous analyses. This cautious yet bold trading style has earned them a reputation for both resilience and unpredictability in the crypto community."
+  },
+  "riskTolerance": 0.5511139480888573,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

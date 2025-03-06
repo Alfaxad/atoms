@@ -1,0 +1,21 @@
+{
+  "id": "69a8ba2d-bf47-43b5-b749-c6cf3e4710f4",
+  "walletAddress": "FN91xfYT4eq8KoVYsdtb18LdsmVbGjczzPfhVYy7Mwg4",
+  "initialBalance": 15.74,
+  "persona": {
+    "name": "Nico",
+    "age": 33,
+    "profession": "full_time_trader",
+    "traits": [
+      "innovative",
+      "traditional",
+      "optimistic"
+    ],
+    "experience": "experienced",
+    "bio": "Nico, a 33-year-old full-time crypto trader, seamlessly blends innovation with traditional strategies to navigate the dynamic world of digital currencies. Known for their optimistic outlook, Nico leverages extensive experience to identify promising opportunities while maintaining a cautious respect for time-tested investment principles, making them a respected figure in the crypto community."
+  },
+  "riskTolerance": 0.7547620788256046,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

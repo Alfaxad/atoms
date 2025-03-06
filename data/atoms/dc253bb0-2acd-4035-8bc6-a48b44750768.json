@@ -1,0 +1,21 @@
+{
+  "id": "dc253bb0-2acd-4035-8bc6-a48b44750768",
+  "walletAddress": "EoMhftTCwgiBHC1xhtvfQZYJhJF4C7q97dsNPM7gHaEQ",
+  "initialBalance": 19.77,
+  "persona": {
+    "name": "Reese",
+    "age": 57,
+    "profession": "full_time_trader",
+    "traits": [
+      "trendsetting",
+      "analytical",
+      "conservative"
+    ],
+    "experience": "expert",
+    "bio": "Reese, a 57-year-old full-time crypto trader, is renowned for their trendsetting yet conservative approach to the digital currency market. With expert-level experience, Reese combines keen analytical skills with a cautious strategy, ensuring they stay ahead of market shifts while minimizing risk. Their innovative insights and methodical trading style have earned them a reputation as both a leader and a mentor in the crypto trading community."
+  },
+  "riskTolerance": 0.839221132480614,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

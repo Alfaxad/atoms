@@ -1,0 +1,20 @@
+{
+  "id": "f1380cc5-59b1-4cc7-b31f-54e6114d7a77",
+  "walletAddress": "7qE9DCHcowrEPd7g4g7U3Hd2C6q26UzZ24SSbFwyw9JV",
+  "initialBalance": 21.7,
+  "persona": {
+    "name": "Skyler",
+    "age": 44,
+    "profession": "full_time_trader",
+    "traits": [
+      "big_picture",
+      "patient"
+    ],
+    "experience": "experienced",
+    "bio": "Skyler, a 44-year-old seasoned full-time cryptocurrency trader, is renowned for their big-picture approach to investing. With a patient demeanor and years of experience, Skyler excels at identifying long-term trends in the volatile crypto market, making strategic decisions that balance risk and reward. Their ability to remain calm and focused in fluctuating markets has earned them a reputation for consistent success and insightful market analysis."
+  },
+  "riskTolerance": 0.8295672094121311,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

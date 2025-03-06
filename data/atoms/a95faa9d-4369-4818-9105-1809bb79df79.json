@@ -1,0 +1,20 @@
+{
+  "id": "a95faa9d-4369-4818-9105-1809bb79df79",
+  "walletAddress": "9NFXZ64hefUCuaQLFrYmGeJacvNcqhsBSruAemvJP2DW",
+  "initialBalance": 7.2,
+  "persona": {
+    "name": "Harper",
+    "age": 26,
+    "profession": "full_time_trader",
+    "traits": [
+      "intuitive",
+      "generous"
+    ],
+    "experience": "novice",
+    "bio": "Harper, a 26-year-old full-time crypto trader, brings an intuitive flair to the world of digital currencies, often relying on gut instinct and emerging trends to guide their novice trading strategies. Despite being new to the field, Harper's generous nature fosters a supportive community of fellow traders, where they eagerly share insights and learn collaboratively. With a passion for exploration and growth, Harper approaches crypto investing with an open mind and a willingness to adapt."
+  },
+  "riskTolerance": 0.9713723818050668,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

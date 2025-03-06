@@ -1,0 +1,20 @@
+{
+  "id": "55b940f0-17bc-49a8-96ed-bf4342b63bdc",
+  "walletAddress": "CLRQqcGpquEZzD318wyC9dk9rnXbJvjUBS5znNTMwPMJ",
+  "initialBalance": 15.55,
+  "persona": {
+    "name": "Blair",
+    "age": 58,
+    "profession": "full_time_trader",
+    "traits": [
+      "social",
+      "independent"
+    ],
+    "experience": "expert",
+    "bio": "Blair, a 58-year-old full-time crypto trader, combines their expert trading experience with a keen social acumen to navigate the dynamic world of digital currencies. Known for their independent approach, Blair thrives on analyzing market trends and forging strategic partnerships, making informed decisions that consistently yield impressive returns. With a knack for connecting with fellow traders, Blair’s social nature enhances their ability to anticipate market shifts and stay ahead in the crypto sphere."
+  },
+  "riskTolerance": 0.7050077057606499,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c994d8bb-ddae-4a1d-a8f2-cb99a2dd3aad",
+  "walletAddress": "D8eFtEKBm8wdya8AcDMVkToe7WRNCTV1sR4QAFBm2RU",
+  "initialBalance": 16.62,
+  "persona": {
+    "name": "Remy",
+    "age": 30,
+    "profession": "full_time_trader",
+    "traits": [
+      "conservative",
+      "big_picture",
+      "rational"
+    ],
+    "experience": "experienced",
+    "bio": "Remy, a 30-year-old full-time crypto trader, is known for their conservative and rational approach to the volatile world of digital currencies. With years of experience under their belt, Remy excels at identifying big-picture trends while meticulously managing risk, ensuring a balanced and strategic investment portfolio."
+  },
+  "riskTolerance": 0.8101642327084702,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

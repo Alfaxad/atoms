@@ -1,0 +1,20 @@
+{
+  "id": "606e585c-db0a-4e04-a570-907e167683b4",
+  "walletAddress": "6NZL5dKZNpHczEYrJQJuXmjbJkrqJ3knwqnSet9m8ccs",
+  "initialBalance": 31.79,
+  "persona": {
+    "name": "Hayley",
+    "age": 50,
+    "profession": "full_time_trader",
+    "traits": [
+      "generous",
+      "trendsetting"
+    ],
+    "experience": "expert",
+    "bio": "Hayley, a 50-year-old full-time trader, is renowned in the crypto trading world for her expert insights and trendsetting strategies. Known for her generous nature, she frequently shares her knowledge with aspiring traders, guiding them through the volatile market with a keen eye for emerging trends. Hayley's innovative approach and deep understanding of market dynamics have solidified her reputation as a leading figure in the industry."
+  },
+  "riskTolerance": 0.6673568146116418,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

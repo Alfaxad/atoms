@@ -1,0 +1,20 @@
+{
+  "id": "14b032a6-fbf3-4301-983b-1c3557cb828f",
+  "walletAddress": "2NhpjW6QKTiP9zVWjS3aTZFM568Lv2CAEZzrN9WZdeRe",
+  "initialBalance": 14.12,
+  "persona": {
+    "name": "Charlie",
+    "age": 34,
+    "profession": "full_time_trader",
+    "traits": [
+      "analytical",
+      "impulsive"
+    ],
+    "experience": "experienced",
+    "bio": "Charlie, a seasoned 34-year-old full-time crypto trader, blends analytical prowess with a touch of impulsive flair to navigate the volatile world of cryptocurrency. With years of experience under his belt, Charlie excels at dissecting market trends and making swift decisions, often trusting his instincts to seize fleeting opportunities. His dynamic approach balances meticulous research with a bold readiness to embrace calculated risks, setting him apart in the fast-paced trading arena."
+  },
+  "riskTolerance": 0.7287171541433175,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

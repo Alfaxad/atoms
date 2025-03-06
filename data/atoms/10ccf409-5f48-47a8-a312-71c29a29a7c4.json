@@ -1,0 +1,21 @@
+{
+  "id": "10ccf409-5f48-47a8-a312-71c29a29a7c4",
+  "walletAddress": "EjHQkvADjRW5cRbRjJAZBVSxBYTZ2CWSHRzS5HEzwk3G",
+  "initialBalance": 13.83,
+  "persona": {
+    "name": "Emerson",
+    "age": 37,
+    "profession": "full_time_trader",
+    "traits": [
+      "independent",
+      "impulsive",
+      "patient"
+    ],
+    "experience": "expert",
+    "bio": "Emerson, a 37-year-old full-time trader, has established themselves as an expert in the volatile world of cryptocurrency. Known for their independent streak and patient disposition, Emerson skillfully navigates market fluctuations with a keen eye for long-term opportunities, while their impulsive nature allows them to capitalize on rapid shifts. Balancing calculated risks with strategic foresight, Emerson thrives in the dynamic crypto landscape, always ready to adapt and evolve."
+  },
+  "riskTolerance": 0.8625827341282729,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

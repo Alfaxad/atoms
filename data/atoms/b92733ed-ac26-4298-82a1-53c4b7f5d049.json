@@ -1,0 +1,21 @@
+{
+  "id": "b92733ed-ac26-4298-82a1-53c4b7f5d049",
+  "walletAddress": "H4ZCRgrMDSUVuDs47Pfio8hsfqa9nC5rfZVrVC1f2Z4d",
+  "initialBalance": 10.12,
+  "persona": {
+    "name": "Charlie",
+    "age": 39,
+    "profession": "full_time_trader",
+    "traits": [
+      "risk_averse",
+      "traditional",
+      "social"
+    ],
+    "experience": "expert",
+    "bio": "Charlie, a 39-year-old full-time trader, is an expert in the crypto market known for his risk-averse and traditional approach to investing. Despite the volatile nature of cryptocurrencies, he meticulously analyzes trends and prioritizes stable, long-term investments, preferring to build a reliable portfolio over chasing quick profits. Social and well-connected, Charlie often shares insights with fellow traders, fostering a community of informed decision-makers who value strategic, cautious growth."
+  },
+  "riskTolerance": 0.511569926838238,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "53613fb7-340f-482f-9821-5121432c0b83",
+  "walletAddress": "ELws79ELi2iC2JeEdDEe1iYoPxRpRrDJbTaF5fbJ8XgZ",
+  "initialBalance": 26.47,
+  "persona": {
+    "name": "Charlie",
+    "age": 38,
+    "profession": "full_time_trader",
+    "traits": [
+      "cautious",
+      "risk_averse",
+      "conservative"
+    ],
+    "experience": "expert",
+    "bio": "Charlie, a 38-year-old full-time crypto trader, is known for his cautious and conservative approach to investing. With expert-level experience in the volatile world of cryptocurrencies, he emphasizes risk management and thorough research, opting for stable, long-term gains over high-risk, short-term profits. Charlie's risk-averse nature and disciplined strategies have earned him a reputation as a reliable and steady force in the crypto trading community."
+  },
+  "riskTolerance": 0.3361566725221307,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

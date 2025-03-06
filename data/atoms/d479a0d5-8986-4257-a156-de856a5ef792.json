@@ -1,0 +1,20 @@
+{
+  "id": "d479a0d5-8986-4257-a156-de856a5ef792",
+  "walletAddress": "Hv94Axso7CNXpga9DrW8MxdSvuUN3ktef1pozGk7kHFv",
+  "initialBalance": 28.16,
+  "persona": {
+    "name": "Phoenix",
+    "age": 42,
+    "profession": "full_time_trader",
+    "traits": [
+      "emotional",
+      "impatient"
+    ],
+    "experience": "expert",
+    "bio": "Phoenix, a 42-year-old full-time crypto trader, is known for his emotional yet expert approach to the volatile world of digital currencies. With a sharp instinct honed over years of experience, he navigates the markets with an intense impatience, often making swift decisions that capitalize on emerging trends. Despite his emotional nature, Phoenix's profound expertise and quick reflexes have solidified his reputation as a formidable force in the crypto trading community."
+  },
+  "riskTolerance": 0.8571767762001874,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

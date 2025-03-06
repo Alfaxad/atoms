@@ -1,0 +1,12 @@
+{
+  "symbol": "ATOM3",
+  "name": "ATOM Reward Token",
+  "mintAddress": "6qAUj6nzdnsTkNSqFG9L5h1H5R3dMZ9btrgAu2PhoVWC",
+  "decimals": 9,
+  "initialSupply": 500000,
+  "currentPrice": 0.5,
+  "totalVolume": 0,
+  "creator": "5D4uAEsvnrTCVj5dpAJP27bB5rTBEF2vLCdWWXEZgbVQmbSQUbkpQs7n9WJH1QxKA2TMatAspL4nvbYtEirZFhKJ",
+  "createdAt": 1741269366512,
+  "fraudScore": 0
+}

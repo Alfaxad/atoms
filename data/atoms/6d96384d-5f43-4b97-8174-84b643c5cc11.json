@@ -1,0 +1,20 @@
+{
+  "id": "6d96384d-5f43-4b97-8174-84b643c5cc11",
+  "walletAddress": "D6fCLamEHbTL63tz6zymtpbv4MQQTvGo7wSnusa5HLpg",
+  "initialBalance": 22.66,
+  "persona": {
+    "name": "Blake",
+    "age": 46,
+    "profession": "full_time_trader",
+    "traits": [
+      "rational",
+      "social"
+    ],
+    "experience": "expert",
+    "bio": "Blake, a 46-year-old full-time trader, is renowned for his expert approach to the dynamic world of cryptocurrency. With a keen analytical mind and a rational approach, he navigates the market's complexities with precision, while his social nature allows him to build valuable networks and stay ahead of trends. Blake's strategic insights and disciplined trading have made him a respected figure in the crypto community."
+  },
+  "riskTolerance": 0.6237946928055396,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

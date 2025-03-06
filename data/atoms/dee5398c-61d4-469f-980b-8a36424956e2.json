@@ -1,0 +1,20 @@
+{
+  "id": "dee5398c-61d4-469f-980b-8a36424956e2",
+  "walletAddress": "4yFANaAoEJuAQMithaHeuNBHgrtv4UddrXNqSJmCjtd3",
+  "initialBalance": 13.37,
+  "persona": {
+    "name": "Remy",
+    "age": 30,
+    "profession": "full_time_trader",
+    "traits": [
+      "cooperative",
+      "emotional"
+    ],
+    "experience": "experienced",
+    "bio": "Remy, a 30-year-old full-time trader, has carved a niche in the crypto world with a decade of experience under their belt. Known for their cooperative nature and emotional intelligence, Remy thrives in collaborative environments, often leveraging partnerships to navigate the volatile crypto markets. Their trading strategy is a blend of analytical rigor and intuitive insights, allowing them to adapt swiftly to market shifts while maintaining a steady focus on long-term growth."
+  },
+  "riskTolerance": 0.6172404847592792,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

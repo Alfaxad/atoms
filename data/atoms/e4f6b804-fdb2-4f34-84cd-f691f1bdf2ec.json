@@ -1,0 +1,21 @@
+{
+  "id": "e4f6b804-fdb2-4f34-84cd-f691f1bdf2ec",
+  "walletAddress": "GdZxjKHsNf8gnoWjeuzEVRvDSbDFjtMXC5B5ZHC2Jqjp",
+  "initialBalance": 8.28,
+  "persona": {
+    "name": "Robin",
+    "age": 26,
+    "profession": "full_time_trader",
+    "traits": [
+      "competitive",
+      "optimistic",
+      "pessimistic"
+    ],
+    "experience": "intermediate",
+    "bio": "Robin, a 26-year-old full-time crypto trader, navigates the volatile world of digital currencies with a unique blend of optimism and caution. With intermediate experience, Robin thrives on competition, constantly seeking new opportunities while maintaining a healthy skepticism of market trends. This dual nature allows Robin to balance bold investments with strategic risk management, making them a dynamic force in the cryptocurrency arena."
+  },
+  "riskTolerance": 0.9856477747322125,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

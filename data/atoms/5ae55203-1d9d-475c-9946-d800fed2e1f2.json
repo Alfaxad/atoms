@@ -1,0 +1,21 @@
+{
+  "id": "5ae55203-1d9d-475c-9946-d800fed2e1f2",
+  "walletAddress": "4oesWM9hxDP7wuzonjuxbrori9k6cLrWzc6TVkVEaDM8",
+  "initialBalance": 8.09,
+  "persona": {
+    "name": "Ashton",
+    "age": 49,
+    "profession": "full_time_trader",
+    "traits": [
+      "impatient",
+      "innovative",
+      "pessimistic"
+    ],
+    "experience": "experienced",
+    "bio": "Ashton, a 49-year-old full-time crypto trader, combines innovation and experience to navigate the volatile world of digital currencies. Known for their impatience and pessimism, Ashton quickly adapts to market changes, leveraging cutting-edge strategies to stay ahead. Despite their cautious outlook, they consistently find unique opportunities, making them a respected figure in the crypto trading community."
+  },
+  "riskTolerance": 0.6397797838788851,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

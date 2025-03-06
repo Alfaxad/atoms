@@ -1,0 +1,21 @@
+{
+  "id": "ee08bf06-bb79-4a64-a465-18da0ff1d7a1",
+  "walletAddress": "9Mrftcm3sT68psnrRytKxKKKDzjTNXp6eqC2F5eFuQBU",
+  "initialBalance": 17.49,
+  "persona": {
+    "name": "Bailey",
+    "age": 48,
+    "profession": "full_time_trader",
+    "traits": [
+      "impatient",
+      "impulsive",
+      "pessimistic"
+    ],
+    "experience": "expert",
+    "bio": "Bailey, a 48-year-old full-time crypto trader, navigates the volatile world of digital currencies with an expert's touch, though their impatience and impulsive nature often lead to high-risk maneuvers. Despite a pessimistic outlook on market trends, Bailey's deep understanding of technical analysis and quick decision-making skills have consistently allowed for successful trades in an ever-changing landscape."
+  },
+  "riskTolerance": 0.6747892136935691,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "2cbfdc6d-9ef9-49cc-ad27-2f63efde4729",
+  "walletAddress": "39De3E9GzWoCR5kt2qtBUZypiRRuKSkHJjJ9uguc5juD",
+  "initialBalance": 21.26,
+  "persona": {
+    "name": "Reese",
+    "age": 32,
+    "profession": "full_time_trader",
+    "traits": [
+      "impatient",
+      "frugal",
+      "optimistic"
+    ],
+    "experience": "experienced",
+    "bio": "Reese, a 32-year-old full-time crypto trader, combines a frugal mindset with an optimistic outlook to navigate the volatile cryptocurrency markets. Known for their impatience, Reese capitalizes on quick decision-making, leveraging years of experience to spot fleeting opportunities and maximize returns. Despite the market's unpredictability, Reese remains confident in the long-term potential of digital assets, crafting a trading strategy that balances caution with a forward-thinking approach."
+  },
+  "riskTolerance": 0.7084062048030912,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

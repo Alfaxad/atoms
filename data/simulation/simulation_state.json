@@ -1,0 +1,20 @@
+{
+  "timestamp": 1741290494982,
+  "cycleCount": 5,
+  "simulationStartTime": 1741289908395,
+  "simulationCurrentTime": 1741313450195,
+  "realStartTime": 1741289908395,
+  "lastUpdateTime": 1741290379231,
+  "isRunning": false,
+  "isPaused": false,
+  "simTimeMultiplier": 50,
+  "status": {
+    "isRunning": false,
+    "isPaused": false,
+    "cycleCount": 5,
+    "realTimeElapsed": 586587,
+    "simulationTimeElapsed": 29329350,
+    "simulationDays": 0.33946006944444446,
+    "timeAcceleration": 50
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "644cb79c-a080-401c-8419-361a820cf168",
+  "walletAddress": "8ScgxujvP2ALnbRqjasuZ975saFvwmKA1Acb5WEnpFbz",
+  "initialBalance": 11.32,
+  "persona": {
+    "name": "Elliot",
+    "age": 48,
+    "profession": "full_time_trader",
+    "traits": [
+      "competitive",
+      "risk_taker",
+      "cooperative"
+    ],
+    "experience": "expert",
+    "bio": "Elliot, a 48-year-old full-time trader, has carved out a reputation as an expert in the crypto market, characterized by his competitive spirit and willingness to take calculated risks. Renowned for his cooperative nature, Elliot thrives in collaborative environments, often exchanging insights with fellow traders to stay ahead of the curve. His strategic approach to investing combines bold decision-making with a keen understanding of market dynamics, allowing him to consistently navigate the volatile world of cryptocurrency."
+  },
+  "riskTolerance": 0.8527658812514793,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "b71f5bb8-fc6f-449b-a285-cb55ee92b82e",
+  "walletAddress": "9tN9KWRAqkUBQLYp4WqHjLmg2Jowv7JNiGThBuUqKUPT",
+  "initialBalance": 24.63,
+  "persona": {
+    "name": "Ellis",
+    "age": 52,
+    "profession": "full_time_trader",
+    "traits": [
+      "impulsive",
+      "risk_taker"
+    ],
+    "experience": "experienced",
+    "bio": "Ellis is a 52-year-old full-time trader known for their impulsive nature and penchant for high-stakes risk-taking in the volatile world of cryptocurrency. With years of experience under their belt, Ellis thrives on the adrenaline of the market's unpredictability, often making bold moves that others might shy away from. Their intuitive approach and fearless decision-making have earned them a reputation as a seasoned trader who navigates the crypto landscape with both daring and expertise."
+  },
+  "riskTolerance": 0.8701766572259741,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "e6cc759e-1f74-44d7-b690-3d40894906d9",
+  "walletAddress": "3CkTWyQiP9MGU7mVegpRws3qsMyctqNAexudvg5hp4xf",
+  "initialBalance": 11.09,
+  "persona": {
+    "name": "River",
+    "age": 31,
+    "profession": "full_time_trader",
+    "traits": [
+      "cautious",
+      "traditional",
+      "conservative"
+    ],
+    "experience": "intermediate",
+    "bio": "River, a 31-year-old full-time crypto trader, is known for their cautious and conservative approach to investing. With an intermediate level of trading experience, River meticulously analyzes market trends and prefers traditional, well-established cryptocurrencies over volatile newcomers. Their methodical strategy reflects a deep commitment to minimizing risk while steadily growing their portfolio."
+  },
+  "riskTolerance": 0.5756172241041484,
+  "tradingStrategy": "pump_and_dump",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": "1fdab742-77da-4936-a464-3cb144f03ae0",
+  "walletAddress": "8xMsUr2ymkyAXXyQrugihiPVEwDtfvjgQgw2YVcDcfMo",
+  "initialBalance": 18.14,
+  "persona": {
+    "name": "Jordan",
+    "age": 28,
+    "profession": "full_time_trader",
+    "traits": [
+      "trendsetting",
+      "big_picture"
+    ],
+    "experience": "experienced",
+    "bio": "Jordan, a 28-year-old full-time crypto trader, is known for being a trendsetter with an exceptional ability to grasp the big picture in the ever-evolving digital currency market. With years of experience under their belt, Jordan combines deep market analysis with a forward-thinking approach, consistently staying ahead of industry shifts and setting new benchmarks in crypto investing. Their innovative strategies and visionary outlook make them a standout figure in the trading community."
+  },
+  "riskTolerance": 0.8386038809407066,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "1e52fdd1-3e16-4175-bc94-87c64cd6ac87",
+  "walletAddress": "HtbiDZ1XCr5RPQMuG1HC2xwZ8R4ZdUsdzfsjVXcJa43C",
+  "initialBalance": 15.47,
+  "persona": {
+    "name": "Skyler",
+    "age": 35,
+    "profession": "full_time_trader",
+    "traits": [
+      "conservative",
+      "frugal"
+    ],
+    "experience": "experienced",
+    "bio": "Skyler, a 35-year-old seasoned full-time crypto trader, is known for their conservative and frugal approach to investing. With years of experience navigating the volatile crypto markets, Skyler meticulously analyzes trends and data, prioritizing long-term stability over risky ventures. Their disciplined strategy and prudent financial management make them a respected figure in the trading community."
+  },
+  "riskTolerance": 0.7613257362745596,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

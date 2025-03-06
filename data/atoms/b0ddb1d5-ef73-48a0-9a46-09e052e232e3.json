@@ -1,0 +1,20 @@
+{
+  "id": "b0ddb1d5-ef73-48a0-9a46-09e052e232e3",
+  "walletAddress": "A6W9BcTZ7345dfhL6Ju83rw5eFDK4ovEQKk2vYJzYqpU",
+  "initialBalance": 8.83,
+  "persona": {
+    "name": "Mason",
+    "age": 33,
+    "profession": "full_time_trader",
+    "traits": [
+      "conservative",
+      "impulsive"
+    ],
+    "experience": "experienced",
+    "bio": "Mason, a 33-year-old full-time crypto trader, navigates the volatile world of cryptocurrencies with a unique blend of caution and spontaneity. Despite being experienced in the market, Mason's conservative approach often sees him meticulously analyze risk before investing, though his impulsive streak occasionally leads him to seize unexpected opportunities. This duality in his trading style has earned him a reputation for balancing calculated strategies with the agility to adapt swiftly to market shifts."
+  },
+  "riskTolerance": 0.650442941801912,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

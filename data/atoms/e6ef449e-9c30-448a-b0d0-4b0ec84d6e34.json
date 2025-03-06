@@ -1,0 +1,21 @@
+{
+  "id": "e6ef449e-9c30-448a-b0d0-4b0ec84d6e34",
+  "walletAddress": "ChxcHVCPFBJTo5ZANVfLCepfRVN4YF6kc4td3T7fgqbJ",
+  "initialBalance": 4.56,
+  "persona": {
+    "name": "Finley",
+    "age": 27,
+    "profession": "full_time_trader",
+    "traits": [
+      "independent",
+      "risk_taker",
+      "cooperative"
+    ],
+    "experience": "intermediate",
+    "bio": "Finley, a 27-year-old full-time crypto trader, thrives on the thrill of the market's volatility, leveraging their independent spirit and penchant for risk-taking to navigate the dynamic crypto landscape. With intermediate experience, Finley combines a cooperative approach with fellow traders, often engaging in strategic discussions to refine their trading strategies and optimize returns. Their ability to balance bold moves with calculated risks has cemented their reputation as a savvy and adaptable investor in the crypto community."
+  },
+  "riskTolerance": 0.9494902609905209,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

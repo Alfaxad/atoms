@@ -1,0 +1,20 @@
+{
+  "id": "71d9a6bb-d9c6-4861-a54e-94430334db73",
+  "walletAddress": "Peo7tgNPsm13BNjdjqaiEw6Fd2fwTLLqeRsQ1c14TKD",
+  "initialBalance": 13.4,
+  "persona": {
+    "name": "Reese",
+    "age": 28,
+    "profession": "full_time_trader",
+    "traits": [
+      "patient",
+      "intuitive"
+    ],
+    "experience": "intermediate",
+    "bio": "Reese, a 28-year-old full-time crypto trader, combines patience and intuition to navigate the volatile world of digital currencies. With an intermediate level of experience, Reese meticulously analyzes market trends and relies on gut feelings to make timely decisions, achieving a balanced and strategic investment portfolio. Their calm demeanor and keen insight allow them to thrive in the ever-changing landscape of cryptocurrency trading."
+  },
+  "riskTolerance": 0.7215376274360963,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

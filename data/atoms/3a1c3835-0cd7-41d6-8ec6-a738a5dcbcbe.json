@@ -1,0 +1,20 @@
+{
+  "id": "3a1c3835-0cd7-41d6-8ec6-a738a5dcbcbe",
+  "walletAddress": "5vxbMhGrfZ5ei9XhGmfjzA1LEFjb2aZ6yC7yHGjtwuAy",
+  "initialBalance": 21.86,
+  "persona": {
+    "name": "Reagan",
+    "age": 61,
+    "profession": "full_time_trader",
+    "traits": [
+      "cautious",
+      "generous"
+    ],
+    "experience": "expert",
+    "bio": "Reagan, a seasoned 61-year-old full-time crypto trader, is known for his cautious yet strategic approach to the volatile world of digital currencies. With decades of experience under his belt, Reagan expertly navigates the market, prioritizing risk management and thorough analysis in his trading decisions. Generous by nature, he frequently shares his insights and knowledge with budding traders, fostering a supportive and informed trading community."
+  },
+  "riskTolerance": 0.5401980374348212,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

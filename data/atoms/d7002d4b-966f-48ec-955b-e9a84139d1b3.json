@@ -1,0 +1,21 @@
+{
+  "id": "d7002d4b-966f-48ec-955b-e9a84139d1b3",
+  "walletAddress": "4JdriyyVRCcYp37TrRqJGqkkcpPnCpt4Z1dWg1EuFy44",
+  "initialBalance": 31.35,
+  "persona": {
+    "name": "Jamie",
+    "age": 64,
+    "profession": "full_time_trader",
+    "traits": [
+      "traditional",
+      "pessimistic",
+      "cooperative"
+    ],
+    "experience": "expert",
+    "bio": "Jamie, a 64-year-old full-time trader, combines decades of financial market expertise with a cautious approach to crypto investing. Known for their traditional and pessimistic outlook, Jamie meticulously analyzes market trends, preferring stable, long-term investments over speculative ventures. Despite their conservative stance, Jamie remains open to collaboration, often working with other traders to navigate the volatile crypto landscape."
+  },
+  "riskTolerance": 0.5950089168235648,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

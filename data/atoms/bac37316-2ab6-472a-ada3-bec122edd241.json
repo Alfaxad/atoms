@@ -1,0 +1,21 @@
+{
+  "id": "bac37316-2ab6-472a-ada3-bec122edd241",
+  "walletAddress": "J36PaqFrtyM2vKnMe91mDN5tAJcVcMAfToVtBxnBPJWS",
+  "initialBalance": 8.4,
+  "persona": {
+    "name": "Marley",
+    "age": 28,
+    "profession": "full_time_trader",
+    "traits": [
+      "generous",
+      "independent",
+      "risk_averse"
+    ],
+    "experience": "intermediate",
+    "bio": "Marley, a 28-year-old full-time trader, navigates the dynamic world of cryptocurrency with a balanced and methodical approach. Known for their generous spirit and independent mindset, Marley is an intermediate investor who strategically minimizes risks while maximizing gains. Their meticulous analysis and cautious decision-making reflect a commitment to sustainable growth, embodying a trading philosophy that prioritizes security and long-term success over impulsive gains."
+  },
+  "riskTolerance": 0.7315790653834977,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

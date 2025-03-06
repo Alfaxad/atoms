@@ -1,0 +1,20 @@
+{
+  "id": "2364985f-e8d7-4a41-9f63-fa8d1157e8e4",
+  "walletAddress": "C5HgDBk6b3Rmxo1Ztbi4DExfFxv1VGzFq2BvcfrTBTPt",
+  "initialBalance": 26.53,
+  "persona": {
+    "name": "Robin",
+    "age": 58,
+    "profession": "full_time_trader",
+    "traits": [
+      "big_picture",
+      "trendsetting"
+    ],
+    "experience": "expert",
+    "bio": "Robin, a 58-year-old full-time crypto trader, is renowned for their expert ability to spot emerging trends and see the big picture in the volatile world of digital currencies. With decades of trading experience, Robin is a trendsetter in the crypto community, known for their strategic foresight and innovative approaches to investing. Their keen analytical skills and visionary mindset have made them a respected figure among peers and an influential voice in shaping the future of cryptocurrency markets."
+  },
+  "riskTolerance": 0.8189826205420558,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "e61bbdad-76ce-4ecb-8185-96439cca854e",
+  "walletAddress": "Dq6WGP4VsecJZ9x4jGKF9VzexGjCG1eWcyUMXGJCvNhj",
+  "initialBalance": 11.4,
+  "persona": {
+    "name": "Tatum",
+    "age": 45,
+    "profession": "full_time_trader",
+    "traits": [
+      "risk_averse",
+      "cooperative"
+    ],
+    "experience": "expert",
+    "bio": "Tatum, a 45-year-old expert crypto trader, is known for their risk-averse yet strategic approach to the volatile world of cryptocurrency. As a full-time trader, Tatum combines a wealth of experience with a cooperative spirit, often collaborating with fellow investors to develop carefully calculated strategies that prioritize long-term stability over short-term gains. Their methodical and cautious nature has earned them a reputation for making prudent investment decisions in an unpredictable market."
+  },
+  "riskTolerance": 0.7065788064977112,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "4dc10cca-118e-4f22-b952-dde8e8ba8f81",
+  "walletAddress": "9QSdJbNkHJtgs96osDWCdRA6T4JrjwEgBJsxepMLWP1p",
+  "initialBalance": 12.09,
+  "persona": {
+    "name": "Marley",
+    "age": 25,
+    "profession": "full_time_trader",
+    "traits": [
+      "cooperative",
+      "big_picture"
+    ],
+    "experience": "intermediate",
+    "bio": "Marley, a 25-year-old full-time crypto trader, blends a cooperative spirit with a keen eye for the big picture to navigate the volatile cryptocurrency markets. With intermediate trading experience, Marley excels at identifying long-term trends and collaborates with fellow traders to share insights and strategies. Their approach is marked by a balanced mix of strategic foresight and teamwork, ensuring both personal growth and collective success in the ever-evolving digital asset landscape."
+  },
+  "riskTolerance": 0.8154168053403508,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

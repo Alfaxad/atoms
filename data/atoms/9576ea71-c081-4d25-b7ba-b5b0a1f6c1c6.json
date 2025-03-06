@@ -1,0 +1,21 @@
+{
+  "id": "9576ea71-c081-4d25-b7ba-b5b0a1f6c1c6",
+  "walletAddress": "FWX5UT9XBFrRc9L17qZesvx2euvnxENTgdB6DazG51Vi",
+  "initialBalance": 25.47,
+  "persona": {
+    "name": "Charlie",
+    "age": 36,
+    "profession": "full_time_trader",
+    "traits": [
+      "social",
+      "risk_averse",
+      "impulsive"
+    ],
+    "experience": "expert",
+    "bio": "Charlie, a 36-year-old expert crypto trader, navigates the volatile world of digital currencies with a unique blend of cautious strategy and occasional impulsive decisions. Despite being risk-averse by nature, Charlie's social demeanor allows him to build a vast network of fellow traders, providing insights that enhance his trading acumen. His approach balances meticulous research with the occasional bold move, making him a respected figure in the trading community."
+  },
+  "riskTolerance": 0.5293993968623478,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

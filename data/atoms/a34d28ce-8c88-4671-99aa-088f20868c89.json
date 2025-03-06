@@ -1,0 +1,20 @@
+{
+  "id": "a34d28ce-8c88-4671-99aa-088f20868c89",
+  "walletAddress": "8AP9WihdiPQEz81xNo8XZxREN7CUXogUrFZJNfA4F21L",
+  "initialBalance": 15.78,
+  "persona": {
+    "name": "Mason",
+    "age": 61,
+    "profession": "full_time_trader",
+    "traits": [
+      "trendsetting",
+      "independent"
+    ],
+    "experience": "expert",
+    "bio": "Mason, a 61-year-old full-time crypto trader, is renowned for his trendsetting strategies and independent approach to investing. With decades of expert trading experience, he consistently stays ahead of market shifts, leveraging his keen intuition and innovative techniques to navigate the volatile world of cryptocurrencies. His independent spirit and forward-thinking mindset have established him as a respected figure in the crypto community, inspiring both novice and seasoned investors alike."
+  },
+  "riskTolerance": 0.684286726673599,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

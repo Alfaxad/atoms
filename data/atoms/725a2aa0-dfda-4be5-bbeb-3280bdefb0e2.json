@@ -1,0 +1,20 @@
+{
+  "id": "725a2aa0-dfda-4be5-bbeb-3280bdefb0e2",
+  "walletAddress": "FW2mroX48ECYUhftH7FyEJBM1FVRxEfBEmySp3B5fZiB",
+  "initialBalance": 8.05,
+  "persona": {
+    "name": "Riley",
+    "age": 35,
+    "profession": "full_time_trader",
+    "traits": [
+      "big_picture",
+      "aggressive"
+    ],
+    "experience": "experienced",
+    "bio": "Riley, a 35-year-old full-time crypto trader, is known for their aggressive yet strategic approach to the volatile world of digital currencies. With years of experience under their belt, Riley excels at spotting big-picture trends and making bold moves that often pay off in the fast-paced crypto market. Their ability to anticipate shifts and act decisively has earned them a reputation as a savvy and fearless investor."
+  },
+  "riskTolerance": 0.7788152824818895,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

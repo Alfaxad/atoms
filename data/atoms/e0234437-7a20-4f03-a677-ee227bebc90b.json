@@ -1,0 +1,20 @@
+{
+  "id": "e0234437-7a20-4f03-a677-ee227bebc90b",
+  "walletAddress": "64f71sMAU3JUffvnZKYeSXC38j19FEZBf1RLjwSKffvV",
+  "initialBalance": 9.49,
+  "persona": {
+    "name": "Casey",
+    "age": 55,
+    "profession": "full_time_trader",
+    "traits": [
+      "trendsetting",
+      "patient"
+    ],
+    "experience": "expert",
+    "bio": "Casey, a 55-year-old expert full-time trader, is renowned for their trendsetting strategies and patient approach to cryptocurrency markets. With decades of experience, Casey has a keen eye for emerging trends, consistently staying ahead of the curve by blending meticulous research with innovative techniques. Their calm and composed demeanor allows them to navigate the volatile crypto landscape with precision and confidence, making them a respected figure in the trading community."
+  },
+  "riskTolerance": 0.8373545893269068,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

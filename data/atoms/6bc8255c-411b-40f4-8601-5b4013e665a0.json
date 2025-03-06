@@ -1,0 +1,20 @@
+{
+  "id": "6bc8255c-411b-40f4-8601-5b4013e665a0",
+  "walletAddress": "3bmAxX4BsTFdACtfNcxRk5eX3UQib8A5efDbZLVgUspw",
+  "initialBalance": 18.34,
+  "persona": {
+    "name": "Taylor",
+    "age": 40,
+    "profession": "full_time_trader",
+    "traits": [
+      "cautious",
+      "independent"
+    ],
+    "experience": "expert",
+    "bio": "Taylor, a 40-year-old expert crypto trader, has built a successful career by blending cautious analysis with independent decision-making. Known for their meticulous approach, Taylor navigates the volatile crypto markets with a keen eye for risk management, ensuring steady growth in their portfolio. Their independent nature enables them to remain unfazed by market hype, focusing instead on long-term strategies and data-driven insights."
+  },
+  "riskTolerance": 0.5570878606325431,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

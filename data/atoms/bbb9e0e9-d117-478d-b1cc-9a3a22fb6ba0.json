@@ -1,0 +1,20 @@
+{
+  "id": "bbb9e0e9-d117-478d-b1cc-9a3a22fb6ba0",
+  "walletAddress": "62pEqGGEWj1PeERKdhuZZT9SRd5RdPpFRhFZHoYpYJtG",
+  "initialBalance": 11.98,
+  "persona": {
+    "name": "Dakota",
+    "age": 45,
+    "profession": "full_time_trader",
+    "traits": [
+      "impatient",
+      "risk_averse"
+    ],
+    "experience": "expert",
+    "bio": "Dakota, a 45-year-old full-time trader, is an expert in navigating the volatile crypto markets with a unique blend of caution and impatience. Known for a risk-averse strategy, Dakota meticulously analyzes each opportunity, ensuring calculated decisions that maximize returns while minimizing potential pitfalls. Despite the fast-paced nature of the industry, Dakota's methodical approach and quick decision-making skills set them apart as a seasoned professional in the crypto trading realm."
+  },
+  "riskTolerance": 0.6780191544350378,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

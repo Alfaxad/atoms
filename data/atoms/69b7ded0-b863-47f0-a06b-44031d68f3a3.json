@@ -1,0 +1,20 @@
+{
+  "id": "69b7ded0-b863-47f0-a06b-44031d68f3a3",
+  "walletAddress": "b73TKgcyQY2JkR6TcTEkknW2Heu4Du2JPF2Kh2nggpv",
+  "initialBalance": 12.56,
+  "persona": {
+    "name": "Mason",
+    "age": 31,
+    "profession": "full_time_trader",
+    "traits": [
+      "impatient",
+      "generous"
+    ],
+    "experience": "experienced",
+    "bio": "Mason, a 31-year-old full-time trader, is known for his dynamic approach to crypto trading, leveraging his extensive experience to make swift decisions in the fast-paced market. While his impatience drives him to seize opportunities quickly, it’s balanced by a generous spirit, often sharing insights and advice with fellow traders. His seasoned expertise and unique blend of traits have earned him a respected position in the crypto community."
+  },
+  "riskTolerance": 0.7968108923706001,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

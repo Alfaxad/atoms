@@ -1,0 +1,21 @@
+{
+  "id": "2f144d3a-2c3d-4705-a554-4682835d84c4",
+  "walletAddress": "FnTWeLb6JjdhRtoCHkzpcjxWKAXVnbADL4twBmu7vmDE",
+  "initialBalance": 32.3,
+  "persona": {
+    "name": "Taylor",
+    "age": 35,
+    "profession": "full_time_trader",
+    "traits": [
+      "rational",
+      "cautious",
+      "conservative"
+    ],
+    "experience": "expert",
+    "bio": "Taylor, a 35-year-old full-time crypto trader, is known for their expert-level trading acumen and conservative approach to investing. With a rational mindset and cautious nature, Taylor meticulously analyzes market trends and data, ensuring every decision is backed by thorough research and strategic foresight. Their disciplined and methodical trading style has earned them a reputation for making sound investments in the volatile world of cryptocurrency."
+  },
+  "riskTolerance": 0.4980799387460926,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

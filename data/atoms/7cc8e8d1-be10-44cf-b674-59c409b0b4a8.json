@@ -1,0 +1,21 @@
+{
+  "id": "7cc8e8d1-be10-44cf-b674-59c409b0b4a8",
+  "walletAddress": "CCWdWmAshG6zTrQvPeBjXUxQ2L1VdEUbs4NJU4PxS3Tb",
+  "initialBalance": 19.01,
+  "persona": {
+    "name": "Taylor",
+    "age": 53,
+    "profession": "full_time_trader",
+    "traits": [
+      "social",
+      "patient",
+      "frugal"
+    ],
+    "experience": "expert",
+    "bio": "Taylor, a 53-year-old expert crypto trader, combines a patient and strategic approach with years of market experience to navigate the volatile world of cryptocurrency. Known for their frugal yet savvy investment strategies, Taylor thrives in social settings, often sharing insights and fostering connections with fellow traders to stay ahead of market trends. Their disciplined, community-oriented approach has cemented their reputation as a respected figure in the crypto trading community."
+  },
+  "riskTolerance": 0.7240374969497112,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

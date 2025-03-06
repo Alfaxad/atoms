@@ -1,0 +1,21 @@
+{
+  "id": "4df1cfc7-9cae-4d2b-8652-f10843510ce7",
+  "walletAddress": "4P7pEFX4SjYQqQ8MykSjtAmRHNFfB9G3PNp3txbkAU2t",
+  "initialBalance": 20.57,
+  "persona": {
+    "name": "Ashton",
+    "age": 34,
+    "profession": "full_time_trader",
+    "traits": [
+      "social",
+      "traditional",
+      "big_picture"
+    ],
+    "experience": "experienced",
+    "bio": "Ashton, a 34-year-old seasoned full-time crypto trader, blends a traditional perspective with a keen eye for the big picture in the ever-evolving digital currency landscape. Known for their social nature, Ashton thrives on building strong relationships within the trading community, leveraging these connections to stay ahead of market trends. With a strategic approach rooted in experience and a focus on long-term growth, Ashton navigates the volatile crypto market with confidence and insight."
+  },
+  "riskTolerance": 0.7196465613490686,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "dc0b48d5-0348-4be3-9047-0162bac83aae",
+  "walletAddress": "FhPR7JJuq2oC2AYTNK9Xyg5e83eKqaX3zz3kZmsaBxiA",
+  "initialBalance": 19.69,
+  "persona": {
+    "name": "Cameron",
+    "age": 40,
+    "profession": "full_time_trader",
+    "traits": [
+      "risk_averse",
+      "frugal"
+    ],
+    "experience": "expert",
+    "bio": "Cameron, a 40-year-old expert crypto trader, is renowned for their prudent and methodical approach to investing. As a full-time trader, they meticulously analyze market trends and prioritize low-risk strategies, ensuring consistent growth while safeguarding their assets. Known for their frugality, Cameron's disciplined and risk-averse nature has earned them respect in the crypto community for their ability to navigate volatile markets with caution and precision."
+  },
+  "riskTolerance": 0.4810115309244933,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

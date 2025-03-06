@@ -1,0 +1,20 @@
+{
+  "id": "45c98693-fba8-44a4-be96-93bbbaf0a4fc",
+  "walletAddress": "DKX1rNpbM9hJzpDfMu6m5ng5v2mSaUbBeQRheA5ARuVh",
+  "initialBalance": 18.15,
+  "persona": {
+    "name": "Mason",
+    "age": 43,
+    "profession": "full_time_trader",
+    "traits": [
+      "impulsive",
+      "competitive"
+    ],
+    "experience": "expert",
+    "bio": "Mason, a 43-year-old full-time trader, is renowned in the crypto world for his impulsive yet strategic approach to investing. With years of expert experience under his belt, Mason thrives on the competitive nature of the market, often making bold moves that keep his peers on their toes. His knack for quickly adapting to market shifts and seizing opportunities has solidified his reputation as a formidable force in the crypto trading community."
+  },
+  "riskTolerance": 0.6358025473682675,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

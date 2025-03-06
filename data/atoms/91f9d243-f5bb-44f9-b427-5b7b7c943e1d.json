@@ -1,0 +1,21 @@
+{
+  "id": "91f9d243-f5bb-44f9-b427-5b7b7c943e1d",
+  "walletAddress": "J9uNCmv3xJ2ug2aTgfcwMgLUwHD3VZMuf9TreQYZDbcQ",
+  "initialBalance": 13.32,
+  "persona": {
+    "name": "Mason",
+    "age": 33,
+    "profession": "full_time_trader",
+    "traits": [
+      "emotional",
+      "optimistic",
+      "impatient"
+    ],
+    "experience": "experienced",
+    "bio": "Mason, a 33-year-old full-time crypto trader, navigates the volatile digital currency markets with an emotional yet optimistic outlook. Known for his experienced trading acumen, he often seizes opportunities with impatience, driven by a belief in the transformative power of blockchain technology. Mason's approach blends instinct and data analysis, making him a dynamic force in the crypto world."
+  },
+  "riskTolerance": 0.739852605777557,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

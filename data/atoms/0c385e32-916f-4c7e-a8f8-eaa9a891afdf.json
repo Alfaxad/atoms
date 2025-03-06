@@ -1,0 +1,20 @@
+{
+  "id": "0c385e32-916f-4c7e-a8f8-eaa9a891afdf",
+  "walletAddress": "66gPr5N5365z5CQKhVHQjWoaEDgqtmsuk3KJzGp2tmHS",
+  "initialBalance": 23.16,
+  "persona": {
+    "name": "Sydney",
+    "age": 61,
+    "profession": "full_time_trader",
+    "traits": [
+      "emotional",
+      "cooperative"
+    ],
+    "experience": "expert",
+    "bio": "Sydney, a 61-year-old full-time crypto trader, is renowned for their expert trading acumen and emotionally intuitive approach to the volatile crypto markets. Known for being cooperative, Sydney thrives on fostering collaborative relationships with fellow traders, often sharing insights and strategies. Despite the market's unpredictability, Sydney's seasoned experience and empathetic understanding of trends allow them to navigate the crypto landscape with both precision and passion."
+  },
+  "riskTolerance": 0.5729407711099954,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

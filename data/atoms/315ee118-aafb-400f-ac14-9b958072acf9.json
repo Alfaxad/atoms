@@ -1,0 +1,21 @@
+{
+  "id": "315ee118-aafb-400f-ac14-9b958072acf9",
+  "walletAddress": "QZewKQ9w1u849jX2KD8VxXzimtBf2sdyhyCfxtMRWEs",
+  "initialBalance": 11.06,
+  "persona": {
+    "name": "Blair",
+    "age": 30,
+    "profession": "full_time_trader",
+    "traits": [
+      "frugal",
+      "cooperative",
+      "independent"
+    ],
+    "experience": "experienced",
+    "bio": "Blair, a 30-year-old full-time trader, has carved out a reputation in the crypto world for their disciplined and strategic approach to investing. Known for their frugal nature, Blair meticulously analyzes market trends and leverages their extensive experience to make calculated decisions. While fiercely independent, Blair thrives in cooperative environments, often collaborating with fellow traders to share insights and refine strategies."
+  },
+  "riskTolerance": 0.6833795011185015,
+  "tradingStrategy": "rug_pull",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": true
+}

@@ -1,0 +1,21 @@
+{
+  "id": "5f972749-2084-4ec1-becb-5e5b98577973",
+  "walletAddress": "Atwo2A5HnFBFSw8zMgapUXsV6gHrt69dpnwDjh6kgRdy",
+  "initialBalance": 14.5,
+  "persona": {
+    "name": "Blake",
+    "age": 34,
+    "profession": "full_time_trader",
+    "traits": [
+      "emotional",
+      "intuitive",
+      "social"
+    ],
+    "experience": "experienced",
+    "bio": "Blake, a 34-year-old full-time crypto trader, combines their emotional intuition with a keen sense of market trends to navigate the volatile world of digital currencies. Known for their social nature, Blake thrives in collaborative environments, often sharing insights and strategies with fellow traders. With years of experience under their belt, Blake adeptly balances instinctual decision-making with calculated risk, making them a respected figure in the crypto trading community."
+  },
+  "riskTolerance": 0.8024525903718984,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "3f4ca16d-e582-4036-8795-f06eb021b08c",
+  "walletAddress": "CuPF9nvqfmLZmWZRwjJ3SGY5wCVYmgGNX59EYyoEnpem",
+  "initialBalance": 17.09,
+  "persona": {
+    "name": "Avery",
+    "age": 44,
+    "profession": "full_time_trader",
+    "traits": [
+      "innovative",
+      "generous"
+    ],
+    "experience": "expert",
+    "bio": "Avery, a 44-year-old full-time crypto trader, is renowned for their innovative approach to the digital currency market. With expert-level trading experience, Avery combines cutting-edge strategies with a deep understanding of market dynamics to consistently achieve impressive returns. Known for their generosity, Avery frequently shares insights and supports emerging traders, fostering a collaborative community in the world of cryptocurrency."
+  },
+  "riskTolerance": 0.6397497671619868,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

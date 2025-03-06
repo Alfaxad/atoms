@@ -1,0 +1,20 @@
+{
+  "id": "9b0e3489-bd69-46e1-9416-c1bc7650fd54",
+  "walletAddress": "6gPdZgZY6jVxSpryetvoZRoZRLuWNmveUBkBWSFDYc4a",
+  "initialBalance": 25.44,
+  "persona": {
+    "name": "Tatum",
+    "age": 38,
+    "profession": "full_time_trader",
+    "traits": [
+      "independent",
+      "rational"
+    ],
+    "experience": "expert",
+    "bio": "Tatum, a 38-year-old full-time trader, is known for their independent and rational approach to the cryptocurrency market. With expert-level experience, Tatum meticulously analyzes data and trends to make well-informed decisions, prioritizing calculated risk over impulsive trades. Their disciplined strategy and keen analytical skills have earned them a reputation as a reliable and successful figure in the crypto trading community."
+  },
+  "riskTolerance": 0.58145517025531,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

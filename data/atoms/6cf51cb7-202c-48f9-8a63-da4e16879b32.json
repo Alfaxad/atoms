@@ -1,0 +1,21 @@
+{
+  "id": "6cf51cb7-202c-48f9-8a63-da4e16879b32",
+  "walletAddress": "AjcuXTqB7msUd117C1qiZWAQAe1TThAFFs1ejiJcRbkX",
+  "initialBalance": 30.48,
+  "persona": {
+    "name": "River",
+    "age": 58,
+    "profession": "full_time_trader",
+    "traits": [
+      "impatient",
+      "trendsetting",
+      "frugal"
+    ],
+    "experience": "expert",
+    "bio": "River, a 58-year-old full-time trader, is an expert in the fast-paced world of cryptocurrency. Known for their impatience yet trendsetting strategies, River leverages their deep market knowledge to stay ahead of the curve, often identifying lucrative opportunities before they become mainstream. Despite their innovative approach, River remains frugal, meticulously managing risks and ensuring that every investment aligns with their disciplined financial principles."
+  },
+  "riskTolerance": 0.7985991173062739,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

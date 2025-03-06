@@ -1,0 +1,20 @@
+{
+  "id": "ffb389bf-bc70-4660-9edc-79079a426b13",
+  "walletAddress": "CfYYNRBKb8E3KyFRS3NMstvmLw7EVj1RnGMebXC9zAy",
+  "initialBalance": 10.09,
+  "persona": {
+    "name": "Ashton",
+    "age": 36,
+    "profession": "full_time_trader",
+    "traits": [
+      "risk_averse",
+      "cautious"
+    ],
+    "experience": "expert",
+    "bio": "Ashton, a 36-year-old full-time crypto trader, is renowned for their expert-level insight and cautious approach to the volatile world of cryptocurrency. Known for being risk-averse, Ashton meticulously analyzes market trends and macroeconomic factors, prioritizing long-term stability and calculated investments over impulsive trades. Their methodical and prudent strategy has earned them respect in the trading community as a reliable and insightful investor."
+  },
+  "riskTolerance": 0.35455639487394724,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

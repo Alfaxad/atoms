@@ -1,0 +1,21 @@
+{
+  "id": "bce5ee02-e5ac-4d60-8b16-10e284464882",
+  "walletAddress": "CxHL15Lodu8LnabyBL5orxDghPtKrABVaNeE9mC8DiV8",
+  "initialBalance": 5.03,
+  "persona": {
+    "name": "Charlie",
+    "age": 25,
+    "profession": "full_time_trader",
+    "traits": [
+      "detail_oriented",
+      "social",
+      "optimistic"
+    ],
+    "experience": "novice",
+    "bio": "Charlie, a 25-year-old full-time crypto trader, is known for his detail-oriented approach that meticulously considers every market trend and data point. Despite being a novice, his optimistic outlook fuels a passion for learning and adaptation in the dynamic crypto landscape. Charlie’s social nature enables him to build a vibrant network of fellow traders, where he eagerly shares insights and strategies to refine his skills."
+  },
+  "riskTolerance": 1,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

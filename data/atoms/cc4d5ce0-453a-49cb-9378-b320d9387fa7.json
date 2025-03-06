@@ -1,0 +1,20 @@
+{
+  "id": "cc4d5ce0-453a-49cb-9378-b320d9387fa7",
+  "walletAddress": "GabbbJD9t7p3PYMmbZjr4TwRjp7fZsswFLxerq84MSWH",
+  "initialBalance": 15.17,
+  "persona": {
+    "name": "Jordan",
+    "age": 52,
+    "profession": "full_time_trader",
+    "traits": [
+      "competitive",
+      "pessimistic"
+    ],
+    "experience": "expert",
+    "bio": "Jordan, a 52-year-old full-time crypto trader, is an expert in the field with a keen competitive edge that drives their strategic approach to the volatile market. Despite a pessimistic outlook that often anticipates the worst, Jordan's adeptness at navigating downturns and capitalizing on market inefficiencies has solidified their reputation as a formidable force in the crypto trading arena."
+  },
+  "riskTolerance": 0.7652572511728726,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

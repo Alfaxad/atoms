@@ -1,0 +1,21 @@
+{
+  "id": "a3a07bfa-708f-454d-b4a5-83b726f8e0cd",
+  "walletAddress": "EdRNUrLNrCo8R2xuc73L7UAxThzZfk6y2TKiYLhbQAPp",
+  "initialBalance": 5.18,
+  "persona": {
+    "name": "Elliot",
+    "age": 28,
+    "profession": "full_time_trader",
+    "traits": [
+      "frugal",
+      "social",
+      "risk_taker"
+    ],
+    "experience": "intermediate",
+    "bio": "Elliot, a 28-year-old full-time crypto trader, blends his frugal nature with a keen eye for high-risk opportunities to craft a distinctive trading strategy. Known for his social acumen, Elliot actively engages with the crypto community, leveraging insights and trends to navigate the volatile markets with intermediate expertise. His approach balances cautious budgeting with calculated risks, aiming to achieve consistent growth while staying connected with fellow enthusiasts."
+  },
+  "riskTolerance": 1,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

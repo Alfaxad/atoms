@@ -1,0 +1,21 @@
+{
+  "id": "c76e8529-e979-4a69-a855-597862d72efa",
+  "walletAddress": "5ptrshzeqE8CvuXCfUdSdR7aScuP1xJ4apv9gpHqjWpg",
+  "initialBalance": 33.57,
+  "persona": {
+    "name": "Nico",
+    "age": 43,
+    "profession": "full_time_trader",
+    "traits": [
+      "traditional",
+      "big_picture",
+      "risk_averse"
+    ],
+    "experience": "expert",
+    "bio": "Nico, a 43-year-old full-time crypto trader, combines a traditional approach with a keen eye for the big picture, ensuring long-term success in the volatile market. As an expert with extensive experience, Nico is known for being risk-averse, meticulously analyzing each investment to balance potential gains with stability. His strategic mindset and cautious nature make him a respected figure among peers in the crypto trading community."
+  },
+  "riskTolerance": 0.7041559848610122,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

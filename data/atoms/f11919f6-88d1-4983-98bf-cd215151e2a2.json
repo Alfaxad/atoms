@@ -1,0 +1,21 @@
+{
+  "id": "f11919f6-88d1-4983-98bf-cd215151e2a2",
+  "walletAddress": "FYZS3bjQ6KLJnS42fmbvUodwdRmqfSHwRwsNqhCNsLJH",
+  "initialBalance": 30.42,
+  "persona": {
+    "name": "Zion",
+    "age": 58,
+    "profession": "full_time_trader",
+    "traits": [
+      "frugal",
+      "aggressive",
+      "cooperative"
+    ],
+    "experience": "expert",
+    "bio": "Zion, a 58-year-old full-time crypto trader, blends his frugal nature with an aggressive trading strategy, expertly navigating the volatile crypto markets. Known for his cooperative spirit, he frequently collaborates with fellow traders to share insights and refine his approach. With years of experience under his belt, Zion leverages his deep market knowledge to maximize returns while maintaining a disciplined, cost-effective trading regimen."
+  },
+  "riskTolerance": 0.7655472627485684,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

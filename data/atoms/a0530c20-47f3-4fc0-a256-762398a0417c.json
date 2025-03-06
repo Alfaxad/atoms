@@ -1,0 +1,20 @@
+{
+  "id": "a0530c20-47f3-4fc0-a256-762398a0417c",
+  "walletAddress": "D5zENX65bgYc6UvGwcSZpUse4zQRNmZNfp5YXPCRHacx",
+  "initialBalance": 18.52,
+  "persona": {
+    "name": "Harper",
+    "age": 56,
+    "profession": "full_time_trader",
+    "traits": [
+      "patient",
+      "intuitive"
+    ],
+    "experience": "expert",
+    "bio": "Harper, a 56-year-old full-time crypto trader, is renowned for their patient and intuitive approach to the volatile world of cryptocurrency. With expert-level experience, Harper skillfully navigates market fluctuations, leveraging their keen instincts and deep understanding of digital assets to make informed investment decisions. Their calm demeanor and strategic foresight have earned them a respected reputation among fellow traders."
+  },
+  "riskTolerance": 0.6176245276895347,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

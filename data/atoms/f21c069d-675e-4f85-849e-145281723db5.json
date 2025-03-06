@@ -1,0 +1,20 @@
+{
+  "id": "f21c069d-675e-4f85-849e-145281723db5",
+  "walletAddress": "EdmiQiNMBrTs3vAkvsLcEujo2W96WaehspPVfiUVefyu",
+  "initialBalance": 9.15,
+  "persona": {
+    "name": "Sydney",
+    "age": 32,
+    "profession": "full_time_trader",
+    "traits": [
+      "impulsive",
+      "analytical"
+    ],
+    "experience": "experienced",
+    "bio": "Sydney, a 32-year-old full-time crypto trader, is known for their unique blend of impulsiveness and analytical prowess. With years of trading experience under their belt, Sydney thrives in the fast-paced world of cryptocurrency, using sharp instincts to make swift decisions while relying on meticulous data analysis to inform their strategies. This dynamic approach has earned them a reputation as a savvy investor who can navigate the volatility of the crypto markets with confidence and precision."
+  },
+  "riskTolerance": 0.5488671816862435,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

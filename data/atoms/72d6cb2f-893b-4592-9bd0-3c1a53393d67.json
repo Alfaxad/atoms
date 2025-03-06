@@ -1,0 +1,21 @@
+{
+  "id": "72d6cb2f-893b-4592-9bd0-3c1a53393d67",
+  "walletAddress": "C7PSJNEEjdzEJgQ7f9roDWG2G2S7V579aBE5g2mdU7yF",
+  "initialBalance": 10.03,
+  "persona": {
+    "name": "Alex",
+    "age": 26,
+    "profession": "full_time_trader",
+    "traits": [
+      "emotional",
+      "cooperative",
+      "pessimistic"
+    ],
+    "experience": "intermediate",
+    "bio": "Alex, a 26-year-old full-time crypto trader, navigates the volatile digital currency markets with a mix of emotional intuition and cooperative strategies. Though naturally pessimistic, Alex uses this trait to approach trading with caution, meticulously analyzing each investment to mitigate risks. With intermediate experience, Alex leverages collaborative insights from peers to refine trading tactics and adapt to the ever-evolving crypto landscape."
+  },
+  "riskTolerance": 0.9676670571241726,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

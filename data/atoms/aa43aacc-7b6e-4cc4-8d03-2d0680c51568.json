@@ -1,0 +1,20 @@
+{
+  "id": "aa43aacc-7b6e-4cc4-8d03-2d0680c51568",
+  "walletAddress": "6Ukhsmzxc2YPYc9MwwWbnhyiQNEJYy33xkaD34k7yeE8",
+  "initialBalance": 17.4,
+  "persona": {
+    "name": "Peyton",
+    "age": 55,
+    "profession": "full_time_trader",
+    "traits": [
+      "impatient",
+      "pessimistic"
+    ],
+    "experience": "expert",
+    "bio": "Peyton, a 55-year-old full-time crypto trader, navigates the volatile world of digital assets with expert precision and a cautious outlook. Known for their impatience, Peyton swiftly capitalizes on market fluctuations, yet their inherent pessimism ensures a conservative approach, prioritizing risk management and long-term stability over impulsive gains. With decades of trading experience, Peyton remains a respected, albeit skeptical, figure in the crypto community."
+  },
+  "riskTolerance": 0.7251302447560151,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

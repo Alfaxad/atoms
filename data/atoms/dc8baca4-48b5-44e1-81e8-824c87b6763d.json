@@ -1,0 +1,21 @@
+{
+  "id": "dc8baca4-48b5-44e1-81e8-824c87b6763d",
+  "walletAddress": "BVvCK29zL3rPKdpapmL1oSd8WneeXYL48723ageQ2hWN",
+  "initialBalance": 23.4,
+  "persona": {
+    "name": "Quinn",
+    "age": 41,
+    "profession": "full_time_trader",
+    "traits": [
+      "patient",
+      "cooperative",
+      "pessimistic"
+    ],
+    "experience": "expert",
+    "bio": "Quinn, a 41-year-old seasoned crypto trader, navigates the volatile digital currency markets with a blend of patience and expertise. Known for their cooperative nature, Quinn often collaborates with fellow traders to share insights, yet maintains a cautious, pessimistic outlook that drives meticulous risk assessment and strategic planning. This balanced approach has solidified Quinn's reputation as a respected figure in the crypto trading community."
+  },
+  "riskTolerance": 0.877275010248631,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

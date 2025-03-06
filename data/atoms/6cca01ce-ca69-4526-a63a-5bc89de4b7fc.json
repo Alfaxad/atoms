@@ -1,0 +1,20 @@
+{
+  "id": "6cca01ce-ca69-4526-a63a-5bc89de4b7fc",
+  "walletAddress": "DD7hrUtQceYDLMK8Hc9sARDA3ACH3MDpHPqmKw1Z4gQS",
+  "initialBalance": 6.05,
+  "persona": {
+    "name": "Avery",
+    "age": 27,
+    "profession": "full_time_trader",
+    "traits": [
+      "analytical",
+      "innovative"
+    ],
+    "experience": "intermediate",
+    "bio": "Avery, a 27-year-old full-time crypto trader, combines their analytical prowess and innovative mindset to navigate the dynamic world of digital currencies. With intermediate experience, Avery adeptly leverages data-driven strategies and cutting-edge technologies to identify promising investment opportunities, staying ahead of market trends. Known for their methodical yet creative approach, Avery consistently seeks to refine their trading techniques, ensuring a balanced and forward-thinking portfolio."
+  },
+  "riskTolerance": 0.6055069163975302,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

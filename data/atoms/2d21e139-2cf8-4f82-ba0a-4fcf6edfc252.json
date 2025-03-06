@@ -1,0 +1,20 @@
+{
+  "id": "2d21e139-2cf8-4f82-ba0a-4fcf6edfc252",
+  "walletAddress": "6eq4Z3HFpS5QtZ9W6eCbycUuJpz9EKGzVeJvXji9RFKn",
+  "initialBalance": 10.35,
+  "persona": {
+    "name": "Cameron",
+    "age": 27,
+    "profession": "full_time_trader",
+    "traits": [
+      "frugal",
+      "impulsive"
+    ],
+    "experience": "intermediate",
+    "bio": "Cameron, a 27-year-old full-time crypto trader, balances their frugal nature with a penchant for impulsive decision-making in the fast-paced world of cryptocurrency. With an intermediate level of trading experience, they focus on strategic investments, often capitalizing on market dips while remaining cautious with their spending. Cameron’s unique blend of restraint and spontaneity allows them to navigate the volatile crypto market with calculated risk-taking."
+  },
+  "riskTolerance": 0.8269310384262367,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "0e45e467-5d77-45a1-a8aa-80b204a45ce2",
+  "walletAddress": "8ftrn5CYNoEviAR17Rtp1NqGRASoy6paobW58BfpiyNC",
+  "initialBalance": 14.96,
+  "persona": {
+    "name": "Kai",
+    "age": 54,
+    "profession": "full_time_trader",
+    "traits": [
+      "impulsive",
+      "emotional",
+      "generous"
+    ],
+    "experience": "expert",
+    "bio": "Kai, a 54-year-old full-time crypto trader, navigates the volatile markets with an impulsive and emotional flair that has surprisingly led to expert-level success. Known for his generous spirit, Kai often shares insights and strategies with budding traders, believing in fostering a community of growth and learning. Despite his impulsive nature, his deep understanding of market trends and innovative trading techniques has earned him respect and admiration in the crypto world."
+  },
+  "riskTolerance": 0.857446435104929,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

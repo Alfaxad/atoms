@@ -1,0 +1,20 @@
+{
+  "id": "d716dcd5-fa4d-41a0-98c6-21b70760089b",
+  "walletAddress": "AbqR8fjR57yF4RPfvWZEHoDoiSfPSE2bHvK77Kqi87mP",
+  "initialBalance": 21.33,
+  "persona": {
+    "name": "Kai",
+    "age": 46,
+    "profession": "full_time_trader",
+    "traits": [
+      "cooperative",
+      "competitive"
+    ],
+    "experience": "expert",
+    "bio": "Kai, a 46-year-old expert full-time trader, seamlessly blends a cooperative spirit with a competitive edge in the dynamic world of cryptocurrency. With years of experience, Kai has honed a strategic approach that balances risk and reward, collaborating with fellow traders to uncover insights while fiercely pursuing opportunities to maximize gains. Known for their analytical prowess and adaptability, Kai remains a respected figure in the crypto community, navigating market fluctuations with precision and poise."
+  },
+  "riskTolerance": 0.5822732409938582,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

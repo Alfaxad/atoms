@@ -1,0 +1,21 @@
+{
+  "id": "404d570a-880f-433c-a161-a2faff9e77cc",
+  "walletAddress": "D23s11A8tAoZi91r2RJZaPmzZ8iy9aogC2Y5nJ6YmGnu",
+  "initialBalance": 23.49,
+  "persona": {
+    "name": "Kai",
+    "age": 44,
+    "profession": "full_time_trader",
+    "traits": [
+      "aggressive",
+      "big_picture",
+      "generous"
+    ],
+    "experience": "expert",
+    "bio": "Kai, a 44-year-old expert crypto trader, approaches the market with an aggressive yet strategic mindset, always keeping an eye on the big picture. Known for their bold investment moves and a knack for spotting emerging trends, Kai combines their extensive experience with a generous spirit, often sharing insights and strategies with the trading community. As a full-time trader, Kai thrives in the fast-paced world of cryptocurrency, balancing risk with a calculated vision for the future."
+  },
+  "riskTolerance": 0.9172245382367732,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

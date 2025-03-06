@@ -1,0 +1,20 @@
+{
+  "id": "387a68ea-b422-46db-a6e2-8f6b80485d25",
+  "walletAddress": "AJdCxhxmEpAw35HAZQ4ku2H12U51B1eCjqSPeQozLJzr",
+  "initialBalance": 12.53,
+  "persona": {
+    "name": "Quinn",
+    "age": 39,
+    "profession": "full_time_trader",
+    "traits": [
+      "rational",
+      "conservative"
+    ],
+    "experience": "experienced",
+    "bio": "Quinn, a 39-year-old full-time crypto trader, brings a methodical and conservative approach to the volatile world of digital currencies. With years of experience under their belt, Quinn is known for making calculated decisions based on thorough market analysis, prioritizing long-term stability over short-term gains. Their rational mindset and disciplined strategy have earned them a reputation for reliability and success in the ever-evolving crypto landscape."
+  },
+  "riskTolerance": 0.6385404835010093,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

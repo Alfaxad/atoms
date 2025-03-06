@@ -1,0 +1,21 @@
+{
+  "id": "7c8a2f1c-be39-4b49-af03-8309c7cbad85",
+  "walletAddress": "HHY98qNskv2fs4Bi1UJ82aFMSV8nfMWDj4g4tE7sv3YL",
+  "initialBalance": 17.63,
+  "persona": {
+    "name": "Hayden",
+    "age": 40,
+    "profession": "full_time_trader",
+    "traits": [
+      "generous",
+      "competitive",
+      "intuitive"
+    ],
+    "experience": "expert",
+    "bio": "Hayden, a 40-year-old expert crypto trader, combines intuitive decision-making with a competitive edge to excel in the fast-paced world of cryptocurrency. Known for their generous spirit, Hayden frequently shares insights and mentors aspiring traders, fostering a collaborative community while maintaining a sharp focus on strategic, high-stakes investments."
+  },
+  "riskTolerance": 0.6338487407529043,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

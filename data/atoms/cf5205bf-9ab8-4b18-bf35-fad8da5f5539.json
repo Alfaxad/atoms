@@ -1,0 +1,21 @@
+{
+  "id": "cf5205bf-9ab8-4b18-bf35-fad8da5f5539",
+  "walletAddress": "Qv61KkgMNBAXTMGar7o9J3aTvYGJCFvx6c4VGmnHb8P",
+  "initialBalance": 16.47,
+  "persona": {
+    "name": "Riley",
+    "age": 47,
+    "profession": "full_time_trader",
+    "traits": [
+      "traditional",
+      "impatient",
+      "rational"
+    ],
+    "experience": "expert",
+    "bio": "Riley, a 47-year-old full-time trader, has carved out a reputation as an expert in the crypto trading arena, combining traditional financial strategies with a keen eye for market trends. Known for their rational decision-making and impatience with market inefficiencies, Riley employs a disciplined approach that prioritizes long-term gains over quick profits. Their methodical trading style reflects a deep understanding of both traditional finance and the dynamic crypto landscape."
+  },
+  "riskTolerance": 0.853339820843076,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cfdd802b-c030-44cf-a261-9ecf52a1511d",
+  "walletAddress": "6B53eBh3HWjMh4yjHPU7jVwYDkkUV3UQjWznYPF18p2x",
+  "initialBalance": 19.68,
+  "persona": {
+    "name": "Aspen",
+    "age": 61,
+    "profession": "full_time_trader",
+    "traits": [
+      "risk_averse",
+      "analytical",
+      "frugal"
+    ],
+    "experience": "expert",
+    "bio": "Aspen, a 61-year-old full-time crypto trader, is renowned for their analytical prowess and risk-averse strategies in the volatile world of cryptocurrency. With decades of trading experience, Aspen meticulously evaluates each investment opportunity, prioritizing long-term stability over high-risk speculation. Known for their frugal nature, they consistently advocate for a disciplined and pragmatic approach to financial growth, earning respect and trust within the crypto community."
+  },
+  "riskTolerance": 0.683556840994971,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

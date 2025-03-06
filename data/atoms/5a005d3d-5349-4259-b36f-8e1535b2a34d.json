@@ -1,0 +1,20 @@
+{
+  "id": "5a005d3d-5349-4259-b36f-8e1535b2a34d",
+  "walletAddress": "6bkQcDmjksoYJwEpA1yktqSf56SZ9PwUxogX3dyPojQv",
+  "initialBalance": 7,
+  "persona": {
+    "name": "Morgan",
+    "age": 25,
+    "profession": "full_time_trader",
+    "traits": [
+      "rational",
+      "innovative"
+    ],
+    "experience": "novice",
+    "bio": "Morgan, a 25-year-old full-time crypto trader, approaches the market with a blend of rational analysis and innovative strategies, despite being relatively new to the field. Known for their methodical decision-making and eagerness to explore emerging trends, Morgan leverages data-driven insights to navigate the volatile crypto landscape, always seeking to balance risk and reward with a fresh perspective."
+  },
+  "riskTolerance": 0.6139278696800585,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

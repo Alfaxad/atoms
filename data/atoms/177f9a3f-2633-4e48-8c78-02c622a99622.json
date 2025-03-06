@@ -1,0 +1,21 @@
+{
+  "id": "177f9a3f-2633-4e48-8c78-02c622a99622",
+  "walletAddress": "6EpaCo5CvieihcxHH88A7fwgAjVN3F24Mheqgxz3LPVv",
+  "initialBalance": 16,
+  "persona": {
+    "name": "Nico",
+    "age": 30,
+    "profession": "full_time_trader",
+    "traits": [
+      "impulsive",
+      "generous",
+      "risk_averse"
+    ],
+    "experience": "experienced",
+    "bio": "Nico, a 30-year-old full-time crypto trader, expertly navigates the volatile digital currency markets with a unique blend of experience and caution. Although impulsive by nature, Nico's risk-averse strategies ensure calculated decisions, balancing bold moves with a keen eye for potential pitfalls. Known for their generosity, Nico often shares insights and advice with fellow traders, fostering a supportive and collaborative trading community."
+  },
+  "riskTolerance": 0.41257646212612,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

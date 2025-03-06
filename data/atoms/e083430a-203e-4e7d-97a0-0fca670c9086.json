@@ -1,0 +1,20 @@
+{
+  "id": "e083430a-203e-4e7d-97a0-0fca670c9086",
+  "walletAddress": "2ivq2t4yA7BHeTN9pwsuTZV3P1jdeBezz4KvoNPZoS6i",
+  "initialBalance": 15,
+  "persona": {
+    "name": "Rowan",
+    "age": 34,
+    "profession": "full_time_trader",
+    "traits": [
+      "conservative",
+      "risk_taker"
+    ],
+    "experience": "intermediate",
+    "bio": "Rowan, a 34-year-old full-time trader, skillfully balances a conservative outlook with a calculated risk-taking approach in the ever-volatile crypto market. With intermediate experience, Rowan meticulously analyzes market trends, ensuring measured investments that align with their strategic vision. Known for their keen ability to navigate market fluctuations, Rowan's thoughtful yet adventurous trading style sets them apart in the digital currency landscape."
+  },
+  "riskTolerance": 0.8654914198912422,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

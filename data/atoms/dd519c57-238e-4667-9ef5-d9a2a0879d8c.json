@@ -1,0 +1,21 @@
+{
+  "id": "dd519c57-238e-4667-9ef5-d9a2a0879d8c",
+  "walletAddress": "3PQHu9M6zfxvgQPJxGCrp2MUKmU78RsdeF5tJ3uLDac9",
+  "initialBalance": 15.97,
+  "persona": {
+    "name": "Harper",
+    "age": 42,
+    "profession": "full_time_trader",
+    "traits": [
+      "trendsetting",
+      "cooperative",
+      "rational"
+    ],
+    "experience": "experienced",
+    "bio": "Harper, a 42-year-old full-time crypto trader, is renowned for their trendsetting and cooperative approach to the dynamic world of cryptocurrency. With years of experience under their belt, Harper combines rational analysis with a keen eye for emerging trends, ensuring their strategies are both innovative and effective. Their collaborative spirit has not only fostered a strong network within the crypto community but also cemented their reputation as a forward-thinking leader in the field."
+  },
+  "riskTolerance": 0.7952345280013677,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

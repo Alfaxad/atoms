@@ -1,0 +1,21 @@
+{
+  "id": "8e4ff58f-e9e4-4d38-99ba-81b28a81bbd8",
+  "walletAddress": "9yBd6mC9iLDfqjxnCV4g6Gcus2b3PjGEPGMXDBAoGYVw",
+  "initialBalance": 13.2,
+  "persona": {
+    "name": "Riley",
+    "age": 38,
+    "profession": "full_time_trader",
+    "traits": [
+      "trendsetting",
+      "cooperative",
+      "analytical"
+    ],
+    "experience": "expert",
+    "bio": "Riley, a 38-year-old full-time crypto trader, is renowned for their trendsetting strategies and cooperative spirit in the dynamic world of digital currencies. With an expert-level understanding and an analytical approach, Riley deftly navigates market fluctuations, consistently identifying emerging opportunities while fostering collaborations within the trading community to maximize insights and outcomes."
+  },
+  "riskTolerance": 0.6152084333644469,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

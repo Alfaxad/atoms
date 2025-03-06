@@ -1,0 +1,20 @@
+{
+  "id": "9f7fed53-321d-4089-9961-1524de363a76",
+  "walletAddress": "BZu2qgMpXsEUqEwjdKRTvNK9xawk7uDTSyqK2PRWSpfn",
+  "initialBalance": 13.02,
+  "persona": {
+    "name": "Quinn",
+    "age": 25,
+    "profession": "full_time_trader",
+    "traits": [
+      "cautious",
+      "emotional"
+    ],
+    "experience": "intermediate",
+    "bio": "Quinn, a 25-year-old full-time crypto trader, is known for their cautious yet emotionally-driven approach to investing. With an intermediate level of experience, they meticulously analyze market trends and data, balancing their strategic insights with an intuitive understanding of market sentiment. Quinn's ability to navigate the volatile crypto landscape is bolstered by their keen attention to detail and a profound respect for the unpredictable nature of digital currencies."
+  },
+  "riskTolerance": 0.5956028642760914,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "19769cbc-f257-430f-8487-6e489f9c136e",
+  "walletAddress": "GxowjVwohwB4GepF7uwRBh8CCSqjYjGP9nHQx6kUiPuh",
+  "initialBalance": 11.87,
+  "persona": {
+    "name": "Jordan",
+    "age": 27,
+    "profession": "full_time_trader",
+    "traits": [
+      "generous",
+      "pessimistic"
+    ],
+    "experience": "intermediate",
+    "bio": "Jordan, a 27-year-old full-time crypto trader, navigates the volatile digital currency markets with a blend of cautious analysis and strategic foresight. Despite a naturally pessimistic outlook, Jordan's intermediate experience empowers them to mitigate risks effectively, while their generous nature often leads them to share insights and advice with fellow traders. Their approach emphasizes careful research and prudent decision-making, ensuring a balanced portfolio that reflects both skepticism and opportunity."
+  },
+  "riskTolerance": 0.8362535837305594,
+  "tradingStrategy": "pump_and_dump",
+  "decisionModel": "technical_analysis",
+  "fraudulent": true
+}

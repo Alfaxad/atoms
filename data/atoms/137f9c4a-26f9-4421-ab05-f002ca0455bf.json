@@ -1,0 +1,20 @@
+{
+  "id": "137f9c4a-26f9-4421-ab05-f002ca0455bf",
+  "walletAddress": "C5D6bGwEeVdGy5qknanSnb6ECJS7cbfeQVA8eJKXPiPN",
+  "initialBalance": 22.51,
+  "persona": {
+    "name": "Robin",
+    "age": 40,
+    "profession": "full_time_trader",
+    "traits": [
+      "optimistic",
+      "cooperative"
+    ],
+    "experience": "expert",
+    "bio": "Robin, a seasoned 40-year-old full-time crypto trader, combines expert market knowledge with an optimistic outlook to navigate the volatile world of cryptocurrency. Known for their cooperative spirit, Robin thrives in collaborative trading environments, often sharing insights and strategies with fellow traders to achieve mutual success. Their positive approach and expert experience make them a respected figure in the crypto community, always ready to adapt and innovate in the fast-paced market."
+  },
+  "riskTolerance": 0.6978404167531782,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

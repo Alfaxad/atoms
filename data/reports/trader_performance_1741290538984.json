@@ -1,0 +1,1123 @@
+{
+  "timestamp": 1741290538983,
+  "totalTraders": 140,
+  "topPerformers": [
+    {
+      "atomId": "e8be9634-a1a9-421d-97e4-2629eec5eda0",
+      "name": "Kennedy",
+      "profession": "full_time_trader",
+      "tradingStrategy": "arbitrage",
+      "riskTolerance": 1,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 190,
+        "profitLoss": -190,
+        "averageTradeSize": 190
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "USDC",
+          "type": "buy",
+          "amount": 190,
+          "price": 1,
+          "timestamp": 1741290189454
+        }
+      ]
+    },
+    {
+      "atomId": "0d1eb891-432b-4633-bb61-c9f7131d17ec",
+      "name": "Blair",
+      "profession": "full_time_trader",
+      "tradingStrategy": "arbitrage",
+      "riskTolerance": 0.8294326786354642,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 152,
+        "profitLoss": -152,
+        "averageTradeSize": 152
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "USDC",
+          "type": "buy",
+          "amount": 152,
+          "price": 1,
+          "timestamp": 1741289986035
+        }
+      ]
+    },
+    {
+      "atomId": "0710f0f1-5bf4-4f78-813a-f994a9a2e351",
+      "name": "Taylor",
+      "profession": "full_time_trader",
+      "tradingStrategy": "arbitrage",
+      "riskTolerance": 0.8374197445672138,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 144,
+        "profitLoss": -144,
+        "averageTradeSize": 144
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "USDC",
+          "type": "buy",
+          "amount": 144,
+          "price": 1,
+          "timestamp": 1741290433613
+        }
+      ]
+    },
+    {
+      "atomId": "cb5d67f0-3dab-470a-8a53-845ef3dc5113",
+      "name": "Marley",
+      "profession": "full_time_trader",
+      "tradingStrategy": "swing_trading",
+      "riskTolerance": 0.7235515479452735,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 0,
+        "sellTrades": 1,
+        "totalVolume": 143,
+        "profitLoss": 143,
+        "averageTradeSize": 143
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "USDC",
+          "type": "sell",
+          "amount": 143,
+          "price": 1,
+          "timestamp": 1741290429689
+        }
+      ]
+    },
+    {
+      "atomId": "ae409be0-78ad-4e55-a14e-dd30dc3257fc",
+      "name": "Ellis",
+      "profession": "full_time_trader",
+      "tradingStrategy": "arbitrage",
+      "riskTolerance": 0.6461535538251906,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 0,
+        "sellTrades": 1,
+        "totalVolume": 125,
+        "profitLoss": 125,
+        "averageTradeSize": 125
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "USDC",
+          "type": "sell",
+          "amount": 125,
+          "price": 1,
+          "timestamp": 1741290008762
+        }
+      ]
+    },
+    {
+      "atomId": "9c8c1513-9709-4e1a-ad7d-fed4e5655f44",
+      "name": "Reagan",
+      "profession": "full_time_trader",
+      "tradingStrategy": "swing_trading",
+      "riskTolerance": 0.7959494813069761,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 0,
+        "sellTrades": 1,
+        "totalVolume": 116,
+        "profitLoss": 116,
+        "averageTradeSize": 116
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "USDC",
+          "type": "sell",
+          "amount": 116,
+          "price": 1,
+          "timestamp": 1741290213336
+        }
+      ]
+    },
+    {
+      "atomId": "cf38f722-7ac1-4ea0-aa2b-0d95dde0ac8c",
+      "name": "Casey",
+      "profession": "full_time_trader",
+      "tradingStrategy": "value_investing",
+      "riskTolerance": 0.6609791632504254,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 2,
+        "buyTrades": 0,
+        "sellTrades": 2,
+        "totalVolume": 115,
+        "profitLoss": 115,
+        "averageTradeSize": 57.5
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "USDC",
+          "type": "sell",
+          "amount": 115,
+          "price": 1,
+          "timestamp": 1741290388666
+        },
+        {
+          "tokenSymbol": "ATOM3",
+          "type": "sell",
+          "amount": 83,
+          "price": 0,
+          "timestamp": 1741288144104
+        }
+      ]
+    },
+    {
+      "atomId": "23f45130-c133-4b5b-b461-b5f9c142672b",
+      "name": "Kennedy",
+      "profession": "full_time_trader",
+      "tradingStrategy": "swing_trading",
+      "riskTolerance": 0.6042547528886465,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 2,
+        "buyTrades": 0,
+        "sellTrades": 2,
+        "totalVolume": 110,
+        "profitLoss": 110,
+        "averageTradeSize": 55
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "ATOM1",
+          "type": "sell",
+          "amount": 111,
+          "price": 0.5,
+          "timestamp": 1741290208136
+        },
+        {
+          "tokenSymbol": "ATOMS",
+          "type": "sell",
+          "amount": 109,
+          "price": 0.5,
+          "timestamp": 1741289974716
+        }
+      ]
+    },
+    {
+      "atomId": "525f6ae7-d089-4239-80ae-eb32816479e1",
+      "name": "Nico",
+      "profession": "full_time_trader",
+      "tradingStrategy": "value_investing",
+      "riskTolerance": 0.5883540527866179,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 105,
+        "profitLoss": -105,
+        "averageTradeSize": 105
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "USDC",
+          "type": "buy",
+          "amount": 105,
+          "price": 1,
+          "timestamp": 1741289915703
+        }
+      ]
+    },
+    {
+      "atomId": "9e23092a-df19-45ce-9978-60da762dea07",
+      "name": "Cameron",
+      "profession": "full_time_trader",
+      "tradingStrategy": "swing_trading",
+      "riskTolerance": 0.6630434636880701,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 2,
+        "buyTrades": 1,
+        "sellTrades": 1,
+        "totalVolume": 102.5,
+        "profitLoss": -0.5,
+        "averageTradeSize": 51.25
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "ATOM3",
+          "type": "sell",
+          "amount": 102,
+          "price": 0.5,
+          "timestamp": 1741290214888
+        },
+        {
+          "tokenSymbol": "ATOM1",
+          "type": "buy",
+          "amount": 103,
+          "price": 0.5,
+          "timestamp": 1741289999179
+        }
+      ]
+    },
+    {
+      "atomId": "ccd7a044-e897-4417-b459-30b6369ba691",
+      "name": "Remy",
+      "profession": "full_time_trader",
+      "tradingStrategy": "swing_trading",
+      "riskTolerance": 0.6060251215185988,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 101,
+        "profitLoss": -101,
+        "averageTradeSize": 101
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "USDC",
+          "type": "buy",
+          "amount": 101,
+          "price": 1,
+          "timestamp": 1741290216352
+        }
+      ]
+    },
+    {
+      "atomId": "c47d2fd8-5f36-4ebd-bc56-7a5b4e2bd96a",
+      "name": "Reagan",
+      "profession": "full_time_trader",
+      "tradingStrategy": "value_investing",
+      "riskTolerance": 0.6852154651881255,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 93,
+        "profitLoss": -93,
+        "averageTradeSize": 93
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "USDC",
+          "type": "buy",
+          "amount": 93,
+          "price": 1,
+          "timestamp": 1741289909406
+        }
+      ]
+    },
+    {
+      "atomId": "c823db2f-dfd3-4f53-b4d0-b3d25992775f",
+      "name": "Dakota",
+      "profession": "full_time_trader",
+      "tradingStrategy": "momentum_trading",
+      "riskTolerance": 0.7569142746508211,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 0,
+        "sellTrades": 1,
+        "totalVolume": 83,
+        "profitLoss": 83,
+        "averageTradeSize": 83
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "USDC",
+          "type": "sell",
+          "amount": 83,
+          "price": 1,
+          "timestamp": 1741290384583
+        }
+      ]
+    },
+    {
+      "atomId": "c7766a50-5a30-47d0-b261-02adba3cf9e0",
+      "name": "Bailey",
+      "profession": "full_time_trader",
+      "tradingStrategy": "arbitrage",
+      "riskTolerance": 0.8427210166930426,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 81.5,
+        "profitLoss": -81.5,
+        "averageTradeSize": 81.5
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "ATOM1",
+          "type": "buy",
+          "amount": 163,
+          "price": 0.5,
+          "timestamp": 1741290406318
+        }
+      ]
+    },
+    {
+      "atomId": "15208fa3-fa46-4337-9b05-fec2b876397c",
+      "name": "Sam",
+      "profession": "full_time_trader",
+      "tradingStrategy": "momentum_trading",
+      "riskTolerance": 0.8504014853832615,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 0,
+        "sellTrades": 1,
+        "totalVolume": 79.5,
+        "profitLoss": 79.5,
+        "averageTradeSize": 79.5
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "ATOM2",
+          "type": "sell",
+          "amount": 159,
+          "price": 0.5,
+          "timestamp": 1741289991353
+        }
+      ]
+    },
+    {
+      "atomId": "5242496b-a253-4c69-bce3-79820c764bd8",
+      "name": "Morgan",
+      "profession": "full_time_trader",
+      "tradingStrategy": "arbitrage",
+      "riskTolerance": 0.848331673104872,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 78.5,
+        "profitLoss": -78.5,
+        "averageTradeSize": 78.5
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "ATOM1",
+          "type": "buy",
+          "amount": 157,
+          "price": 0.5,
+          "timestamp": 1741290162388
+        }
+      ]
+    },
+    {
+      "atomId": "cb5e802b-263c-4d7a-83cc-293313def463",
+      "name": "Kennedy",
+      "profession": "full_time_trader",
+      "tradingStrategy": "swing_trading",
+      "riskTolerance": 0.7647680464253659,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 2,
+        "buyTrades": 1,
+        "sellTrades": 1,
+        "totalVolume": 76.5,
+        "profitLoss": 23.5,
+        "averageTradeSize": 38.25
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "ATOM2",
+          "type": "buy",
+          "amount": 53,
+          "price": 0.5,
+          "timestamp": 1741290419616
+        },
+        {
+          "tokenSymbol": "ATOM1",
+          "type": "sell",
+          "amount": 100,
+          "price": 0.5,
+          "timestamp": 1741290200503
+        }
+      ]
+    },
+    {
+      "atomId": "1c0d48fb-ebd9-4b94-9e8d-a1784b2c7ed4",
+      "name": "Tatum",
+      "profession": "full_time_trader",
+      "tradingStrategy": "arbitrage",
+      "riskTolerance": 0.7506260310350102,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 0,
+        "sellTrades": 1,
+        "totalVolume": 75,
+        "profitLoss": 75,
+        "averageTradeSize": 75
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "USDC",
+          "type": "sell",
+          "amount": 75,
+          "price": 1,
+          "timestamp": 1741289962319
+        }
+      ]
+    },
+    {
+      "atomId": "b366d40d-db90-41e6-9285-b2cc514e0187",
+      "name": "Elliot",
+      "profession": "full_time_trader",
+      "tradingStrategy": "arbitrage",
+      "riskTolerance": 0.8479087226230271,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 0,
+        "sellTrades": 1,
+        "totalVolume": 73.5,
+        "profitLoss": 73.5,
+        "averageTradeSize": 73.5
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "ATOM1",
+          "type": "sell",
+          "amount": 147,
+          "price": 0.5,
+          "timestamp": 1741290414531
+        }
+      ]
+    },
+    {
+      "atomId": "e083430a-203e-4e7d-97a0-0fca670c9086",
+      "name": "Rowan",
+      "profession": "full_time_trader",
+      "tradingStrategy": "arbitrage",
+      "riskTolerance": 0.8654914198912422,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 0,
+        "sellTrades": 1,
+        "totalVolume": 72,
+        "profitLoss": 72,
+        "averageTradeSize": 72
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "USDC",
+          "type": "sell",
+          "amount": 72,
+          "price": 1,
+          "timestamp": 1741290205769
+        }
+      ]
+    }
+  ],
+  "worstPerformers": [
+    {
+      "atomId": "e8be9634-a1a9-421d-97e4-2629eec5eda0",
+      "name": "Kennedy",
+      "profession": "full_time_trader",
+      "tradingStrategy": "arbitrage",
+      "riskTolerance": 1,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 190,
+        "profitLoss": -190,
+        "averageTradeSize": 190
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "USDC",
+          "type": "buy",
+          "amount": 190,
+          "price": 1,
+          "timestamp": 1741290189454
+        }
+      ]
+    },
+    {
+      "atomId": "0d1eb891-432b-4633-bb61-c9f7131d17ec",
+      "name": "Blair",
+      "profession": "full_time_trader",
+      "tradingStrategy": "arbitrage",
+      "riskTolerance": 0.8294326786354642,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 152,
+        "profitLoss": -152,
+        "averageTradeSize": 152
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "USDC",
+          "type": "buy",
+          "amount": 152,
+          "price": 1,
+          "timestamp": 1741289986035
+        }
+      ]
+    },
+    {
+      "atomId": "0710f0f1-5bf4-4f78-813a-f994a9a2e351",
+      "name": "Taylor",
+      "profession": "full_time_trader",
+      "tradingStrategy": "arbitrage",
+      "riskTolerance": 0.8374197445672138,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 144,
+        "profitLoss": -144,
+        "averageTradeSize": 144
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "USDC",
+          "type": "buy",
+          "amount": 144,
+          "price": 1,
+          "timestamp": 1741290433613
+        }
+      ]
+    },
+    {
+      "atomId": "525f6ae7-d089-4239-80ae-eb32816479e1",
+      "name": "Nico",
+      "profession": "full_time_trader",
+      "tradingStrategy": "value_investing",
+      "riskTolerance": 0.5883540527866179,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 105,
+        "profitLoss": -105,
+        "averageTradeSize": 105
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "USDC",
+          "type": "buy",
+          "amount": 105,
+          "price": 1,
+          "timestamp": 1741289915703
+        }
+      ]
+    },
+    {
+      "atomId": "ccd7a044-e897-4417-b459-30b6369ba691",
+      "name": "Remy",
+      "profession": "full_time_trader",
+      "tradingStrategy": "swing_trading",
+      "riskTolerance": 0.6060251215185988,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 101,
+        "profitLoss": -101,
+        "averageTradeSize": 101
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "USDC",
+          "type": "buy",
+          "amount": 101,
+          "price": 1,
+          "timestamp": 1741290216352
+        }
+      ]
+    },
+    {
+      "atomId": "c47d2fd8-5f36-4ebd-bc56-7a5b4e2bd96a",
+      "name": "Reagan",
+      "profession": "full_time_trader",
+      "tradingStrategy": "value_investing",
+      "riskTolerance": 0.6852154651881255,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 93,
+        "profitLoss": -93,
+        "averageTradeSize": 93
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "USDC",
+          "type": "buy",
+          "amount": 93,
+          "price": 1,
+          "timestamp": 1741289909406
+        }
+      ]
+    },
+    {
+      "atomId": "c7766a50-5a30-47d0-b261-02adba3cf9e0",
+      "name": "Bailey",
+      "profession": "full_time_trader",
+      "tradingStrategy": "arbitrage",
+      "riskTolerance": 0.8427210166930426,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 81.5,
+        "profitLoss": -81.5,
+        "averageTradeSize": 81.5
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "ATOM1",
+          "type": "buy",
+          "amount": 163,
+          "price": 0.5,
+          "timestamp": 1741290406318
+        }
+      ]
+    },
+    {
+      "atomId": "5242496b-a253-4c69-bce3-79820c764bd8",
+      "name": "Morgan",
+      "profession": "full_time_trader",
+      "tradingStrategy": "arbitrage",
+      "riskTolerance": 0.848331673104872,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 78.5,
+        "profitLoss": -78.5,
+        "averageTradeSize": 78.5
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "ATOM1",
+          "type": "buy",
+          "amount": 157,
+          "price": 0.5,
+          "timestamp": 1741290162388
+        }
+      ]
+    },
+    {
+      "atomId": "2bb0560f-74ff-4a78-ba0f-751409da8e80",
+      "name": "Remy",
+      "profession": "full_time_trader",
+      "tradingStrategy": "value_investing",
+      "riskTolerance": 0.992610890707267,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 68,
+        "profitLoss": -68,
+        "averageTradeSize": 68
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "ATOM1",
+          "type": "buy",
+          "amount": 136,
+          "price": 0.5,
+          "timestamp": 1741290191668
+        }
+      ]
+    },
+    {
+      "atomId": "63997c39-aa67-48b1-8c91-e1e67dd00782",
+      "name": "Spencer",
+      "profession": "full_time_trader",
+      "tradingStrategy": "momentum_trading",
+      "riskTolerance": 0.8176618298949054,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 2,
+        "buyTrades": 2,
+        "sellTrades": 0,
+        "totalVolume": 68,
+        "profitLoss": -68,
+        "averageTradeSize": 34
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "ATOMS",
+          "type": "buy",
+          "amount": 117,
+          "price": 0.5,
+          "timestamp": 1741290437193
+        },
+        {
+          "tokenSymbol": "ATOM1",
+          "type": "buy",
+          "amount": 19,
+          "price": 0.5,
+          "timestamp": 1741290193232
+        }
+      ]
+    },
+    {
+      "atomId": "d2724c77-e31f-46cd-9a14-675936b17d4f",
+      "name": "Remy",
+      "profession": "full_time_trader",
+      "tradingStrategy": "momentum_trading",
+      "riskTolerance": 0.7648540042995703,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 67,
+        "profitLoss": -67,
+        "averageTradeSize": 67
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "USDC",
+          "type": "buy",
+          "amount": 67,
+          "price": 1,
+          "timestamp": 1741290416222
+        }
+      ]
+    },
+    {
+      "atomId": "898653d7-a0bc-4baa-af57-70cc094ef0bd",
+      "name": "Kai",
+      "profession": "full_time_trader",
+      "tradingStrategy": "swing_trading",
+      "riskTolerance": 0.7966676853628993,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 2,
+        "buyTrades": 1,
+        "sellTrades": 1,
+        "totalVolume": 66.5,
+        "profitLoss": -66.5,
+        "averageTradeSize": 33.25
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "ATOM1",
+          "type": "buy",
+          "amount": 133,
+          "price": 0.5,
+          "timestamp": 1741289982670
+        },
+        {
+          "tokenSymbol": "ATOM3",
+          "type": "sell",
+          "amount": 34,
+          "price": 0,
+          "timestamp": 1741273264349
+        }
+      ]
+    },
+    {
+      "atomId": "c477e1e8-4c5d-43c3-a2a0-e287ff4ab288",
+      "name": "Ellis",
+      "profession": "full_time_trader",
+      "tradingStrategy": "arbitrage",
+      "riskTolerance": 0.7502322498928427,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 66.5,
+        "profitLoss": -66.5,
+        "averageTradeSize": 66.5
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "ATOM2",
+          "type": "buy",
+          "amount": 133,
+          "price": 0.5,
+          "timestamp": 1741290219714
+        }
+      ]
+    },
+    {
+      "atomId": "23a57756-4994-46cf-869c-bfd9b7db1c6a",
+      "name": "Reagan",
+      "profession": "full_time_trader",
+      "tradingStrategy": "rug_pull",
+      "riskTolerance": 0.7195028582447711,
+      "fraudulent": true,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 66,
+        "profitLoss": -66,
+        "averageTradeSize": 66
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "ATOM3",
+          "type": "buy",
+          "amount": 132,
+          "price": 0.5,
+          "timestamp": 1741289912344
+        }
+      ]
+    },
+    {
+      "atomId": "a0abdbe8-9168-464f-a442-9bfa7f25a87d",
+      "name": "Sage",
+      "profession": "full_time_trader",
+      "tradingStrategy": "swing_trading",
+      "riskTolerance": 0.5925484805117236,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 66,
+        "profitLoss": -66,
+        "averageTradeSize": 66
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "USDC",
+          "type": "buy",
+          "amount": 66,
+          "price": 1,
+          "timestamp": 1741290188111
+        }
+      ]
+    },
+    {
+      "atomId": "96159ae2-7090-497e-9571-bd9985a7ae70",
+      "name": "Ellis",
+      "profession": "full_time_trader",
+      "tradingStrategy": "momentum_trading",
+      "riskTolerance": 0.7319437472412673,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 65.5,
+        "profitLoss": -65.5,
+        "averageTradeSize": 65.5
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "ATOM2",
+          "type": "buy",
+          "amount": 131,
+          "price": 0.5,
+          "timestamp": 1741289979295
+        }
+      ]
+    },
+    {
+      "atomId": "c9ec51e6-08b6-4761-a973-1797b7a486b3",
+      "name": "Sage",
+      "profession": "full_time_trader",
+      "tradingStrategy": "day_trading",
+      "riskTolerance": 0.7267953568112411,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 64.5,
+        "profitLoss": -64.5,
+        "averageTradeSize": 64.5
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "ATOM3",
+          "type": "buy",
+          "amount": 129,
+          "price": 0.5,
+          "timestamp": 1741290407976
+        }
+      ]
+    },
+    {
+      "atomId": "52fddb64-2b5d-449d-bffe-eab95473cc74",
+      "name": "Bailey",
+      "profession": "full_time_trader",
+      "tradingStrategy": "value_investing",
+      "riskTolerance": 0.7536472176307278,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 64,
+        "profitLoss": -64,
+        "averageTradeSize": 64
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "ATOM2",
+          "type": "buy",
+          "amount": 128,
+          "price": 0.5,
+          "timestamp": 1741289969283
+        }
+      ]
+    },
+    {
+      "atomId": "92089e35-14ea-4078-9d9c-bd6b28e420de",
+      "name": "Quinn",
+      "profession": "full_time_trader",
+      "tradingStrategy": "momentum_trading",
+      "riskTolerance": 0.7757056608379411,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 62.5,
+        "profitLoss": -62.5,
+        "averageTradeSize": 62.5
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "ATOM3",
+          "type": "buy",
+          "amount": 125,
+          "price": 0.5,
+          "timestamp": 1741290164108
+        }
+      ]
+    },
+    {
+      "atomId": "c25df4aa-d107-4f05-b9ed-f96d9b71bbf3",
+      "name": "Jordan",
+      "profession": "full_time_trader",
+      "tradingStrategy": "arbitrage",
+      "riskTolerance": 0.8392789199120024,
+      "fraudulent": false,
+      "metrics": {
+        "totalTrades": 1,
+        "buyTrades": 1,
+        "sellTrades": 0,
+        "totalVolume": 62.5,
+        "profitLoss": -62.5,
+        "averageTradeSize": 62.5
+      },
+      "recentTrades": [
+        {
+          "tokenSymbol": "ATOM2",
+          "type": "buy",
+          "amount": 125,
+          "price": 0.5,
+          "timestamp": 1741290431882
+        }
+      ]
+    }
+  ],
+  "strategyPerformance": {
+    "arbitrage": {
+      "traderCount": 31,
+      "totalVolume": 1712,
+      "avgProfitLoss": -7.838709677419355,
+      "avgTradeSize": 55.225806451612904
+    },
+    "value_investing": {
+      "traderCount": 30,
+      "totalVolume": 986.5,
+      "avgProfitLoss": -1.85,
+      "avgTradeSize": 30.458333333333332
+    },
+    "swing_trading": {
+      "traderCount": 27,
+      "totalVolume": 1293,
+      "avgProfitLoss": -2.185185185185185,
+      "avgTradeSize": 39.49074074074074
+    },
+    "momentum_trading": {
+      "traderCount": 27,
+      "totalVolume": 855.5,
+      "avgProfitLoss": -7.277777777777778,
+      "avgTradeSize": 29.26851851851852
+    },
+    "rug_pull": {
+      "traderCount": 3,
+      "totalVolume": 107.5,
+      "avgProfitLoss": -35.833333333333336,
+      "avgTradeSize": 35.833333333333336
+    },
+    "day_trading": {
+      "traderCount": 20,
+      "totalVolume": 678.5,
+      "avgProfitLoss": 2.525,
+      "avgTradeSize": 32.575
+    },
+    "pump_and_dump": {
+      "traderCount": 2,
+      "totalVolume": 56,
+      "avgProfitLoss": -28,
+      "avgTradeSize": 28
+    }
+  },
+  "riskToleranceCorrelation": {
+    "very_low": {
+      "count": 0
+    },
+    "low": {
+      "count": 0
+    },
+    "medium": {
+      "count": 30,
+      "avgProfitLoss": -6.733333333333333,
+      "avgTradeSize": 29.466666666666665,
+      "avgTradeCount": 1,
+      "totalVolume": 884
+    },
+    "high": {
+      "count": 74,
+      "avgProfitLoss": 0.25,
+      "avgTradeSize": 38.62162162162162,
+      "avgTradeCount": 1.1216216216216217,
+      "totalVolume": 3200.5
+    },
+    "very_high": {
+      "count": 36,
+      "avgProfitLoss": -13.430555555555555,
+      "avgTradeSize": 43.201388888888886,
+      "avgTradeCount": 1.0555555555555556,
+      "totalVolume": 1604.5
+    }
+  }
+}

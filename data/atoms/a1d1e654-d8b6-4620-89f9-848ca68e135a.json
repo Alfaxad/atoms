@@ -1,0 +1,20 @@
+{
+  "id": "a1d1e654-d8b6-4620-89f9-848ca68e135a",
+  "walletAddress": "FTm8QwspCrDED721FQakr5HiizHWqAGtK35t23Xp5QKi",
+  "initialBalance": 11.24,
+  "persona": {
+    "name": "Elliot",
+    "age": 53,
+    "profession": "full_time_trader",
+    "traits": [
+      "detail_oriented",
+      "pessimistic"
+    ],
+    "experience": "expert",
+    "bio": "Elliot, a 53-year-old full-time crypto trader, has carved out a reputation as an expert in the field, known for his meticulous attention to detail and cautious, data-driven approach. His naturally pessimistic outlook ensures that every investment is thoroughly analyzed for potential risks, allowing him to navigate the volatile crypto market with precision. Elliot's expertise and careful strategy have made him a respected figure among peers, who appreciate his unwavering commitment to minimizing risks while maximizing gains."
+  },
+  "riskTolerance": 0.6802434076455726,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

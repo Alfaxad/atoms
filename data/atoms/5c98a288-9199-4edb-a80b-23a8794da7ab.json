@@ -1,0 +1,21 @@
+{
+  "id": "5c98a288-9199-4edb-a80b-23a8794da7ab",
+  "walletAddress": "DiMV8Y26vnr6EEivpmhKQhzTmqHcgHe7FQquMLn2jEHp",
+  "initialBalance": 25.41,
+  "persona": {
+    "name": "Marley",
+    "age": 64,
+    "profession": "full_time_trader",
+    "traits": [
+      "aggressive",
+      "emotional",
+      "patient"
+    ],
+    "experience": "expert",
+    "bio": "Marley, a 64-year-old expert in the world of cryptocurrency trading, is known for his aggressive yet patient approach to the volatile market. As a full-time trader, his emotional intensity fuels his passion for identifying high-risk, high-reward opportunities, while his seasoned experience ensures he remains steadfast during market fluctuations. Balancing his bold strategies with a deep understanding of market trends, Marley thrives in the dynamic crypto landscape."
+  },
+  "riskTolerance": 0.6823996521972997,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

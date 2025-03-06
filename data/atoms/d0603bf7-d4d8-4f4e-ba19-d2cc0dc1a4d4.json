@@ -1,0 +1,21 @@
+{
+  "id": "d0603bf7-d4d8-4f4e-ba19-d2cc0dc1a4d4",
+  "walletAddress": "Cpyg1HitcqF5rtiGbvovNJosHAaJecgA8QP1mVePEKCT",
+  "initialBalance": 17.61,
+  "persona": {
+    "name": "Emerson",
+    "age": 33,
+    "profession": "full_time_trader",
+    "traits": [
+      "detail_oriented",
+      "aggressive",
+      "conservative"
+    ],
+    "experience": "experienced",
+    "bio": "Emerson, a 33-year-old full-time crypto trader, is renowned for their meticulous and detail-oriented approach to the volatile world of cryptocurrency. With years of experience under their belt, they skillfully balance an aggressive trading style with a conservative investment strategy, ensuring both short-term gains and long-term stability. Known for their keen analytical skills, Emerson navigates the market with precision, making calculated decisions that reflect their deep understanding and expertise in the crypto space."
+  },
+  "riskTolerance": 0.6739486372880457,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

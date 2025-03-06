@@ -1,0 +1,20 @@
+{
+  "id": "5030d293-f838-4c20-b272-dc9207cfdedc",
+  "walletAddress": "BkFZtmsNUoEqRGpd9HpZvLqiCLQ4kS2a9z9y3kDtFG1H",
+  "initialBalance": 23.49,
+  "persona": {
+    "name": "Alex",
+    "age": 42,
+    "profession": "full_time_trader",
+    "traits": [
+      "pessimistic",
+      "competitive"
+    ],
+    "experience": "expert",
+    "bio": "Alex, a 42-year-old expert full-time crypto trader, approaches the volatile world of digital currencies with a keen competitive edge and a healthy dose of skepticism. Known for their meticulous analysis and cautious strategy, Alex consistently anticipates market fluctuations, turning pessimism into a tool for risk management and profit maximization. Their relentless drive to outperform peers keeps them at the forefront of the trading community, always seeking the next opportunity amidst the chaos."
+  },
+  "riskTolerance": 0.5703064200903594,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

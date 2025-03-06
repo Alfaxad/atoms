@@ -1,0 +1,20 @@
+{
+  "id": "7fc120f0-79bd-457d-88f9-fd569a43c25f",
+  "walletAddress": "69Ucz15zgSBB2xfj7mv1Pqbr9VAk6C12Hg9Z2cHad2pB",
+  "initialBalance": 18.1,
+  "persona": {
+    "name": "Jamie",
+    "age": 35,
+    "profession": "full_time_trader",
+    "traits": [
+      "independent",
+      "emotional"
+    ],
+    "experience": "experienced",
+    "bio": "Jamie, a 35-year-old full-time trader, is known for their independent and emotional approach to crypto trading. With years of experience under their belt, Jamie skillfully navigates the volatile market by trusting their instincts and making bold, calculated moves. Their passion for the ever-evolving world of cryptocurrency fuels their relentless pursuit of new opportunities, often leading them to discover hidden gems in the digital landscape."
+  },
+  "riskTolerance": 0.7108027405054245,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

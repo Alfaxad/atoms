@@ -1,0 +1,21 @@
+{
+  "id": "29a9d3b5-fb3b-47d1-baac-f08d22e6ab8e",
+  "walletAddress": "BxAwodo5JWqLFG6LUuCRiQ9zBh24r2ZE2LrrDWHoVMEi",
+  "initialBalance": 13.44,
+  "persona": {
+    "name": "Kai",
+    "age": 63,
+    "profession": "full_time_trader",
+    "traits": [
+      "trendsetting",
+      "risk_averse",
+      "optimistic"
+    ],
+    "experience": "expert",
+    "bio": "Kai, a 63-year-old full-time trader, is renowned in the crypto world for his trendsetting strategies and expert-level trading acumen. Despite his risk-averse nature, Kai's optimistic outlook fuels his ability to identify emerging opportunities, allowing him to navigate the volatile crypto markets with precision and confidence. His seasoned approach combines deep market analysis with a cautious yet innovative mindset, making him a respected figure among both novice and seasoned investors."
+  },
+  "riskTolerance": 0.47920089513963143,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

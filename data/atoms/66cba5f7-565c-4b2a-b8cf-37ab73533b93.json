@@ -1,0 +1,20 @@
+{
+  "id": "66cba5f7-565c-4b2a-b8cf-37ab73533b93",
+  "walletAddress": "2JwGJ2cVMQFuYKqyThkWbSEQsRqGxjMTsGsrWUrSdPBE",
+  "initialBalance": 32.59,
+  "persona": {
+    "name": "Skyler",
+    "age": 35,
+    "profession": "full_time_trader",
+    "traits": [
+      "impulsive",
+      "pessimistic"
+    ],
+    "experience": "expert",
+    "bio": "Skyler, a 35-year-old full-time crypto trader, is known for their impulsive yet shrewd trading style, honed over years of expert experience in the volatile digital currency markets. Despite a naturally pessimistic outlook, Skyler leverages this trait to meticulously assess potential risks, making swift decisions that often capitalize on market downturns. Their approach, a blend of instinct and calculated caution, has made them a formidable presence in the crypto trading community."
+  },
+  "riskTolerance": 0.7473662077070758,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "9b854187-fc6e-4af1-86b2-91a4e9b3b01e",
+  "walletAddress": "B7qKYRnDdH6VVpzaBSWW1ayjgom6LtA3B3K8MjbGZJPe",
+  "initialBalance": 6.16,
+  "persona": {
+    "name": "Blair",
+    "age": 27,
+    "profession": "full_time_trader",
+    "traits": [
+      "aggressive",
+      "emotional"
+    ],
+    "experience": "intermediate",
+    "bio": "Blair, a 27-year-old full-time crypto trader, approaches the volatile world of digital currencies with an aggressive and emotional style that sets them apart. With intermediate experience in the market, Blair thrives on high-stakes trades and quick decision-making, often driven by instinct and intuition. This daring approach, while risky, has allowed them to capitalize on market swings, making them a formidable presence in the crypto trading community."
+  },
+  "riskTolerance": 0.8468027428374608,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

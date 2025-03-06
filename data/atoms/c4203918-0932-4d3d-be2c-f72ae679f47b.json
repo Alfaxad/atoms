@@ -1,0 +1,20 @@
+{
+  "id": "c4203918-0932-4d3d-be2c-f72ae679f47b",
+  "walletAddress": "4mny5wN4BAv6295Ds8QiDevmK7hRZotv7srQKySCccBk",
+  "initialBalance": 13.95,
+  "persona": {
+    "name": "Reese",
+    "age": 64,
+    "profession": "full_time_trader",
+    "traits": [
+      "optimistic",
+      "impulsive"
+    ],
+    "experience": "expert",
+    "bio": "Reese, a 64-year-old full-time trader, combines decades of market expertise with an unyielding optimism that fuels their success in the fast-paced world of cryptocurrency. Known for their impulsive nature, Reese thrives on the thrill of making bold, strategic moves, often trusting their instincts to navigate the volatile market. This expert trader's seasoned approach, paired with a positive outlook, makes them a formidable force in the trading community."
+  },
+  "riskTolerance": 0.6110204423086906,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

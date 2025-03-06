@@ -1,0 +1,20 @@
+{
+  "id": "454c7a1e-b369-46fa-8f2e-ae26cf4811a2",
+  "walletAddress": "HvNZ1zRpAkkB3cbm7hhN5s6dJsrJ1ZHswuJ54yU1HX6s",
+  "initialBalance": 26.77,
+  "persona": {
+    "name": "Peyton",
+    "age": 40,
+    "profession": "full_time_trader",
+    "traits": [
+      "generous",
+      "patient"
+    ],
+    "experience": "expert",
+    "bio": "Peyton, a 40-year-old full-time crypto trader, is renowned for their expert trading acumen and generous spirit. With a patient approach to the volatile world of cryptocurrencies, Peyton meticulously analyzes market trends, ensuring informed and strategic investments. Known for sharing insights and fostering community growth, Peyton's balanced blend of expertise and kindness has made them a respected figure in the crypto trading sphere."
+  },
+  "riskTolerance": 0.7384290235901829,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

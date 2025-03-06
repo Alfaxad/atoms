@@ -1,0 +1,21 @@
+{
+  "id": "bf2f7778-b38e-45e4-9950-89ee9b33727b",
+  "walletAddress": "5ZHCvAFqUztftWUDJozLmMjAqKwaCiNEDpQ78EunzZn5",
+  "initialBalance": 16.48,
+  "persona": {
+    "name": "Blair",
+    "age": 36,
+    "profession": "full_time_trader",
+    "traits": [
+      "aggressive",
+      "cautious",
+      "innovative"
+    ],
+    "experience": "experienced",
+    "bio": "Blair, a 36-year-old full-time crypto trader, seamlessly blends aggression with caution, crafting a unique and innovative approach to the volatile crypto markets. With years of experience under their belt, Blair is known for strategically navigating high-risk opportunities while meticulously managing potential downsides, earning a reputation for both bold moves and prudent decision-making. Their balanced yet dynamic trading style consistently sets them apart in the ever-evolving world of cryptocurrency investing."
+  },
+  "riskTolerance": 0.6102619057435139,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

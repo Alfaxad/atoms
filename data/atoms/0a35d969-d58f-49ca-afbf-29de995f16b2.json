@@ -1,0 +1,21 @@
+{
+  "id": "0a35d969-d58f-49ca-afbf-29de995f16b2",
+  "walletAddress": "EZaRHhetF13wdfrNdJBFDMdErQwa9gPBLFSCyanaT8iE",
+  "initialBalance": 20.29,
+  "persona": {
+    "name": "Jude",
+    "age": 35,
+    "profession": "full_time_trader",
+    "traits": [
+      "generous",
+      "conservative",
+      "independent"
+    ],
+    "experience": "experienced",
+    "bio": "Jude, a 35-year-old full-time crypto trader, combines a conservative approach with over a decade of experience to navigate the volatile digital currency markets. Known for his generous spirit, he often shares insights and strategies with fellow traders, while maintaining an independent streak that drives him to thoroughly research and validate every investment decision. Jude's methodical and cautious trading style has earned him a reputation as a reliable figure in the crypto community."
+  },
+  "riskTolerance": 0.6531702833955795,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

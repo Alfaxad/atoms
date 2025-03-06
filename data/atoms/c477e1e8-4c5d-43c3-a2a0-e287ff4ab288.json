@@ -1,0 +1,21 @@
+{
+  "id": "c477e1e8-4c5d-43c3-a2a0-e287ff4ab288",
+  "walletAddress": "bNEiRwUeEfnRgX1xdyE1b8bNqvDdojv8NUoZk6o5KQy",
+  "initialBalance": 8.33,
+  "persona": {
+    "name": "Ellis",
+    "age": 27,
+    "profession": "full_time_trader",
+    "traits": [
+      "frugal",
+      "traditional",
+      "conservative"
+    ],
+    "experience": "intermediate",
+    "bio": "Ellis, a 27-year-old full-time trader, approaches the volatile world of cryptocurrency with a conservative and frugal mindset, always prioritizing risk management over chasing quick profits. With intermediate trading experience, Ellis relies on traditional financial principles and thorough research to guide investment decisions, ensuring a steady and disciplined growth strategy in the crypto market."
+  },
+  "riskTolerance": 0.7502322498928427,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "dcb33862-daab-4c83-b806-4b69ed7b425b",
+  "walletAddress": "9VgG3tqczRsKWDwwLhQDEQXHoMWAjUFFWFei3bNfqjw",
+  "initialBalance": 12.95,
+  "persona": {
+    "name": "Hayden",
+    "age": 43,
+    "profession": "full_time_trader",
+    "traits": [
+      "social",
+      "emotional",
+      "methodical"
+    ],
+    "experience": "expert",
+    "bio": "Hayden, a 43-year-old full-time trader, is an expert in the volatile world of cryptocurrency. Known for their social and emotional intelligence, Hayden thrives in collaborative environments, often engaging with peers to exchange insights and strategies. With a methodical approach to trading, they meticulously analyze market trends and data, balancing their emotional intuition with calculated precision to make informed investment decisions."
+  },
+  "riskTolerance": 0.5680026098996455,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

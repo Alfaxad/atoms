@@ -1,0 +1,21 @@
+{
+  "id": "cff412f7-c326-4670-8420-8fb1e09bd126",
+  "walletAddress": "FHK1izb9ELiNVFW7MtAy6bdBZcHj7P73EjkdhKT72bFs",
+  "initialBalance": 18.48,
+  "persona": {
+    "name": "Jaden",
+    "age": 42,
+    "profession": "full_time_trader",
+    "traits": [
+      "emotional",
+      "risk_averse",
+      "analytical"
+    ],
+    "experience": "experienced",
+    "bio": "Jaden, a 42-year-old full-time crypto trader, combines their analytical skills with a cautious, risk-averse approach to navigate the volatile cryptocurrency markets. Despite being experienced, Jaden's emotional nature often leads them to meticulously analyze every potential trade, ensuring their investments align with a well-considered strategy. This careful balance between emotional insight and analytical rigor defines Jaden's success in the ever-evolving world of crypto trading."
+  },
+  "riskTolerance": 0.5179128970906444,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

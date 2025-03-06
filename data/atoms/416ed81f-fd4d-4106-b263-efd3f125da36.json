@@ -1,0 +1,20 @@
+{
+  "id": "416ed81f-fd4d-4106-b263-efd3f125da36",
+  "walletAddress": "7dqaqKMEMbeF1QTPF5GVkUmpcSVcYo3YMzbahevztNhS",
+  "initialBalance": 26.67,
+  "persona": {
+    "name": "Hayley",
+    "age": 53,
+    "profession": "full_time_trader",
+    "traits": [
+      "intuitive",
+      "detail_oriented"
+    ],
+    "experience": "expert",
+    "bio": "Hayley, a 53-year-old expert full-time crypto trader, combines her intuitive nature with a detail-oriented approach to navigate the volatile cryptocurrency markets. With years of experience, she skillfully analyzes market trends and meticulously evaluates each investment opportunity, making her a respected figure in the trading community. Hayley’s strategic insights and keen attention to detail have been pivotal in her successful trading career."
+  },
+  "riskTolerance": 0.6622530503907105,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

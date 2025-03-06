@@ -1,0 +1,20 @@
+{
+  "id": "f524c94a-ffec-442b-b1e2-5122ba75c6b9",
+  "walletAddress": "Hz56famUBdAMxePKp5ck3E9w5H6AxFN8eNe1JXBugt4E",
+  "initialBalance": 11.19,
+  "persona": {
+    "name": "Skyler",
+    "age": 62,
+    "profession": "full_time_trader",
+    "traits": [
+      "risk_taker",
+      "risk_averse"
+    ],
+    "experience": "expert",
+    "bio": "Skyler, a 62-year-old full-time crypto trader, combines the wisdom of decades-long market experience with the daring spirit of a risk-taker, making them an expert in navigating the volatile world of cryptocurrency. Known for their unique blend of risk aversion and calculated daring, Skyler expertly balances bold investments with strategic safeguards, consistently capitalizing on market opportunities while minimizing potential downsides. Their approach is a testament to their seasoned expertise and nuanced understanding of the crypto landscape."
+  },
+  "riskTolerance": 0.6285697698204307,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

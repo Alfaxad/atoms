@@ -1,0 +1,20 @@
+{
+  "id": "024cd914-384e-40cc-b685-f0a3acdf702d",
+  "walletAddress": "Fi6Bc9hsEjqtRE6626FjrN92AEgEHLQegCgKthNJnyoS",
+  "initialBalance": 9.01,
+  "persona": {
+    "name": "Kai",
+    "age": 36,
+    "profession": "full_time_trader",
+    "traits": [
+      "optimistic",
+      "generous"
+    ],
+    "experience": "experienced",
+    "bio": "Kai, a 36-year-old full-time crypto trader, is known for their optimistic outlook and generous spirit in the trading community. With years of experience, Kai approaches the volatile crypto markets with a strategic mindset, balancing risk with the potential for high rewards. Their positive attitude and willingness to share insights and strategies have made them a respected and sought-after mentor among fellow traders."
+  },
+  "riskTolerance": 0.7451613339433731,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

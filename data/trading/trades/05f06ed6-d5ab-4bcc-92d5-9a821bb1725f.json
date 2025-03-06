@@ -1,0 +1,13 @@
+{
+  "id": "05f06ed6-d5ab-4bcc-92d5-9a821bb1725f",
+  "atomId": "3333bf97-70d3-4eac-a374-4a459e40ef02",
+  "walletAddress": "5SZnVxRz7tq7rU2EbPR8axp6Ps1KQYbsbg1SLZB6B4JD",
+  "tokenSymbol": "ATOM3",
+  "tokenAddress": "6qAUj6nzdnsTkNSqFG9L5h1H5R3dMZ9btrgAu2PhoVWC",
+  "type": "buy",
+  "amount": 35,
+  "price": 0.5,
+  "transactionSignature": "sim_tx_1741290221705_nsjient",
+  "timestamp": 1741290221705,
+  "success": true
+}

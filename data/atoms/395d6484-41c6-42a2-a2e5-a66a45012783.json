@@ -1,0 +1,20 @@
+{
+  "id": "395d6484-41c6-42a2-a2e5-a66a45012783",
+  "walletAddress": "DUbxKNbbTkeHS3Fs1263b4cnNvvkZVgMkLXWFfCJpZui",
+  "initialBalance": 16.33,
+  "persona": {
+    "name": "Kennedy",
+    "age": 45,
+    "profession": "full_time_trader",
+    "traits": [
+      "conservative",
+      "risk_taker"
+    ],
+    "experience": "expert",
+    "bio": "Kennedy, a seasoned 45-year-old full-time crypto trader, expertly balances a unique blend of conservative caution and calculated risk-taking in the volatile world of digital currencies. With years of experience under their belt, Kennedy approaches trading with a strategic mindset, meticulously analyzing market trends to maximize gains while safeguarding investments. Their expert knowledge and disciplined approach make them a formidable presence in the crypto trading community."
+  },
+  "riskTolerance": 0.8831347043402065,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

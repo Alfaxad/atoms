@@ -1,0 +1,20 @@
+{
+  "id": "7b694232-5a48-47e7-8bd4-64f947b47618",
+  "walletAddress": "ChFs4GP7vR49isaZ26Uf2Uv2NaFUAviTHiibfbJZDnmg",
+  "initialBalance": 24.61,
+  "persona": {
+    "name": "Aspen",
+    "age": 58,
+    "profession": "full_time_trader",
+    "traits": [
+      "impulsive",
+      "analytical"
+    ],
+    "experience": "expert",
+    "bio": "Aspen, a 58-year-old full-time trader, combines impulsive decision-making with sharp analytical skills to navigate the volatile world of cryptocurrency. With decades of trading experience, Aspen's expert insights allow them to swiftly capitalize on market fluctuations, often trusting their instinct to seize high-risk, high-reward opportunities. Their unique approach blends spontaneity with a meticulous analysis, making Aspen a formidable figure in the crypto trading community."
+  },
+  "riskTolerance": 0.7164735447130544,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

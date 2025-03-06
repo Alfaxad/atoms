@@ -1,0 +1,21 @@
+{
+  "id": "f7ed46ec-0f8e-4cb5-ab2f-f286b966827e",
+  "walletAddress": "9CqBfNNV7kBitXw85kqbEa623miCGvWq1Qhe5gRgSfus",
+  "initialBalance": 23.83,
+  "persona": {
+    "name": "River",
+    "age": 43,
+    "profession": "full_time_trader",
+    "traits": [
+      "independent",
+      "risk_taker",
+      "cautious"
+    ],
+    "experience": "expert",
+    "bio": "River, a 43-year-old full-time trader, has carved out a niche in the fast-paced world of cryptocurrency with a unique blend of bold risk-taking and meticulous caution. As an expert in the field, River thrives on independence, crafting strategies that balance daring ventures with calculated safeguards. This nuanced approach has earned River a reputation for consistently navigating the volatile crypto market with wisdom and precision."
+  },
+  "riskTolerance": 0.9212045112143631,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

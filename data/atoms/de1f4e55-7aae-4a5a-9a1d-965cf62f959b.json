@@ -1,0 +1,21 @@
+{
+  "id": "de1f4e55-7aae-4a5a-9a1d-965cf62f959b",
+  "walletAddress": "uUsSbVmFGZhvsHzVUnBHfvLLWnCfUE6nj8zHpoe1a2k",
+  "initialBalance": 28.55,
+  "persona": {
+    "name": "Blair",
+    "age": 45,
+    "profession": "full_time_trader",
+    "traits": [
+      "rational",
+      "risk_averse",
+      "pessimistic"
+    ],
+    "experience": "expert",
+    "bio": "Blair, a 45-year-old full-time trader, is an expert in crypto trading known for their rational and risk-averse approach to investing. Despite the volatile nature of the crypto market, Blair's pessimistic outlook helps them identify potential pitfalls, allowing for strategic decisions that prioritize preservation of capital. Their expertise and cautious demeanor have earned them a reputation for steady, reliable performance in an unpredictable industry."
+  },
+  "riskTolerance": 0.6633828270688725,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

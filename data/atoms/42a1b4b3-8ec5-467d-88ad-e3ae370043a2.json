@@ -1,0 +1,21 @@
+{
+  "id": "42a1b4b3-8ec5-467d-88ad-e3ae370043a2",
+  "walletAddress": "C69vL2tQJwRXMqLuHv7gwK3YTMzWWCNBkuQ6xswHJe3Q",
+  "initialBalance": 30.29,
+  "persona": {
+    "name": "Parker",
+    "age": 47,
+    "profession": "full_time_trader",
+    "traits": [
+      "cautious",
+      "competitive",
+      "conservative"
+    ],
+    "experience": "expert",
+    "bio": "Parker, a 47-year-old full-time trader, has carved out a reputation as an expert in the crypto trading sphere. Known for a cautious yet competitive approach, Parker expertly navigates the volatile crypto markets with a conservative strategy that prioritizes risk management and steady growth. This seasoned trader balances a keen eye for market trends with a disciplined investment philosophy, ensuring long-term success in the ever-evolving digital currency landscape."
+  },
+  "riskTolerance": 0.6174840248667796,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

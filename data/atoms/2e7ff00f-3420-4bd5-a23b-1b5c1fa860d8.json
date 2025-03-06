@@ -1,0 +1,20 @@
+{
+  "id": "2e7ff00f-3420-4bd5-a23b-1b5c1fa860d8",
+  "walletAddress": "9uHND7bCfzo87w3aUygVTpFqEeHbo2DS42zrsmH4dp8q",
+  "initialBalance": 9.08,
+  "persona": {
+    "name": "Quinn",
+    "age": 25,
+    "profession": "full_time_trader",
+    "traits": [
+      "risk_averse",
+      "competitive"
+    ],
+    "experience": "novice",
+    "bio": "Quinn, a 25-year-old full-time crypto trader, navigates the volatile digital currency markets with a uniquely cautious yet competitive approach. Though still a novice in the trading world, Quinn's risk-averse nature drives meticulous research and strategic planning, ensuring calculated decisions that balance ambition with prudence. Fueled by a competitive spirit, Quinn is committed to mastering the intricacies of crypto trading while prioritizing sustainable growth over impulsive risks."
+  },
+  "riskTolerance": 0.6177092846836921,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

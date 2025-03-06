@@ -1,0 +1,20 @@
+{
+  "id": "a0120832-8c5f-409e-9886-46117169a3f1",
+  "walletAddress": "As13GhGRBW2r5LeJpyCpw8Rf7euE419Kk6AmiYVbfYNf",
+  "initialBalance": 17.24,
+  "persona": {
+    "name": "Parker",
+    "age": 34,
+    "profession": "full_time_trader",
+    "traits": [
+      "risk_averse",
+      "traditional"
+    ],
+    "experience": "experienced",
+    "bio": "Parker, a 34-year-old full-time crypto trader, is known for their risk-averse and traditional approach to investing. With years of experience under their belt, Parker meticulously analyzes market trends and prioritizes stability and long-term growth over quick gains. This cautious strategy has earned them a reputation for consistent success in the volatile world of cryptocurrency."
+  },
+  "riskTolerance": 0.5590998760426903,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

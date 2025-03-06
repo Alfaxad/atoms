@@ -1,0 +1,21 @@
+{
+  "id": "5c6b4a21-e437-44d6-be5f-d7f610e14fae",
+  "walletAddress": "EnNpeNsCDduoaWVbgcogFtgdrRJeqQWfv7U3xnYZi1fY",
+  "initialBalance": 12.45,
+  "persona": {
+    "name": "Spencer",
+    "age": 25,
+    "profession": "full_time_trader",
+    "traits": [
+      "optimistic",
+      "pessimistic",
+      "patient"
+    ],
+    "experience": "intermediate",
+    "bio": "Spencer, a 25-year-old full-time crypto trader, navigates the volatile world of digital currencies with a unique blend of optimism and caution. Known for their patient approach, Spencer carefully analyzes market trends, balancing a hopeful outlook with a keen awareness of potential pitfalls. With intermediate experience, they skillfully manage risk while steadily growing their portfolio, always ready to adapt to the ever-changing crypto landscape."
+  },
+  "riskTolerance": 0.979663282231435,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

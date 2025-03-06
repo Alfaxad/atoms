@@ -1,0 +1,21 @@
+{
+  "id": "91d003e9-29a4-42e7-ba09-aea037a88737",
+  "walletAddress": "H8HFY9pGMGp5rdYP5AvHtztFH4JNc6zTMaaBDDxdWA6b",
+  "initialBalance": 12.8,
+  "persona": {
+    "name": "Alex",
+    "age": 47,
+    "profession": "full_time_trader",
+    "traits": [
+      "social",
+      "impatient",
+      "generous"
+    ],
+    "experience": "experienced",
+    "bio": "Alex, a 47-year-old full-time crypto trader, combines extensive experience with a dynamic and social approach to navigating the digital currency markets. Known for their impatience, Alex thrives in the fast-paced world of crypto, making quick decisions while generously sharing insights and tips with fellow traders. Their deep understanding of market trends and willingness to connect with others have established Alex as a respected figure in the trading community."
+  },
+  "riskTolerance": 0.7134824362429782,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

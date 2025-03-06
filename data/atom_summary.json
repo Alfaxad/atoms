@@ -1,0 +1,28 @@
+{
+  "totalAtoms": 50,
+  "fraudulentAtoms": 2,
+  "legitimateAtoms": 48,
+  "professionBreakdown": {
+    "full_time_trader": 50
+  },
+  "tradingStrategyBreakdown": {
+    "day_trading": 11,
+    "swing_trading": 10,
+    "momentum_trading": 8,
+    "arbitrage": 8,
+    "value_investing": 11,
+    "pump_and_dump": 2
+  },
+  "decisionModelBreakdown": {
+    "technical_analysis": 8,
+    "follower": 6,
+    "fundamental_analysis": 7,
+    "contrarian": 8,
+    "behavioral_finance": 10,
+    "rational_economic": 5,
+    "social_influence": 6
+  },
+  "totalInitialBalance": 848.9300000000002,
+  "averageInitialBalance": 16.978600000000004,
+  "generatedAt": "2025-03-06T20:01:36.771Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "446abfa7-cde9-41c8-b2e7-1c07365b23b0",
+  "walletAddress": "Heva9Cu4Z2juoiKHMUFZWHcwnsxphthAkW25yShrcXjx",
+  "initialBalance": 27.97,
+  "persona": {
+    "name": "Charlie",
+    "age": 60,
+    "profession": "full_time_trader",
+    "traits": [
+      "pessimistic",
+      "generous",
+      "independent"
+    ],
+    "experience": "expert",
+    "bio": "Charlie, a seasoned 60-year-old full-time trader, navigates the volatile world of cryptocurrency with a cautious yet masterful approach. Known for his expert trading acumen, Charlie's pessimism fuels a risk-averse strategy that prioritizes long-term stability over quick gains. Despite his independent nature, he generously shares his wealth of knowledge with budding traders, believing in the power of community and informed decision-making."
+  },
+  "riskTolerance": 0.5716412706707595,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

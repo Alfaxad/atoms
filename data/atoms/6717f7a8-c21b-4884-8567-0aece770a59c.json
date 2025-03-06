@@ -1,0 +1,21 @@
+{
+  "id": "6717f7a8-c21b-4884-8567-0aece770a59c",
+  "walletAddress": "R597RmTPPZPXMoq7jRPdJTUjsKfwJsfzRPomeidZLjq",
+  "initialBalance": 18.24,
+  "persona": {
+    "name": "Spencer",
+    "age": 54,
+    "profession": "full_time_trader",
+    "traits": [
+      "cautious",
+      "emotional",
+      "impulsive"
+    ],
+    "experience": "expert",
+    "bio": "Spencer, a 54-year-old full-time trader, has established himself as an expert in the crypto market, skillfully balancing his cautious nature with bursts of impulsive decision-making. Despite his emotional tendencies, Spencer's deep understanding of market dynamics allows him to navigate the volatile crypto landscape with precision and adaptability. His unique approach combines careful analysis with instinctive trades, making him a respected figure among his peers."
+  },
+  "riskTolerance": 0.5376907933611473,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

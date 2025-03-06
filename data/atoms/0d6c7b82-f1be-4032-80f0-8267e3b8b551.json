@@ -1,0 +1,21 @@
+{
+  "id": "0d6c7b82-f1be-4032-80f0-8267e3b8b551",
+  "walletAddress": "BqLAgSMYQNa1R8kfDLGzp2GxgTV9zETNWeZXu8aN9xWR",
+  "initialBalance": 10.41,
+  "persona": {
+    "name": "Elliot",
+    "age": 64,
+    "profession": "full_time_trader",
+    "traits": [
+      "impulsive",
+      "analytical",
+      "risk_averse"
+    ],
+    "experience": "expert",
+    "bio": "Elliot, a seasoned 64-year-old full-time trader, masterfully balances his impulsive nature with an analytical mindset, earning him a reputation as an expert in the volatile world of cryptocurrency. Despite his spontaneous tendencies, Elliot exercises a unique brand of risk-aversion, meticulously evaluating market trends before making calculated moves. His deep understanding of crypto dynamics allows him to navigate the market's ups and downs with precision and confidence."
+  },
+  "riskTolerance": 0.6536554526210214,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

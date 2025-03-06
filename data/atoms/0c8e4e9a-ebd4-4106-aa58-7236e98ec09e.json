@@ -1,0 +1,20 @@
+{
+  "id": "0c8e4e9a-ebd4-4106-aa58-7236e98ec09e",
+  "walletAddress": "4u7v1GVCcE256fSgpt5ystpypqMKqACZt9JgVjw5E21p",
+  "initialBalance": 11.1,
+  "persona": {
+    "name": "Sam",
+    "age": 60,
+    "profession": "full_time_trader",
+    "traits": [
+      "cooperative",
+      "generous"
+    ],
+    "experience": "expert",
+    "bio": "Sam, a 60-year-old full-time trader, is renowned for his cooperative and generous nature in the crypto trading community. With expert-level experience, Sam adopts a strategic and collaborative approach to investing, often sharing insights and fostering partnerships that benefit both seasoned and novice traders. His generous spirit extends beyond trading, as he is always eager to mentor others and contribute to the growth of the crypto ecosystem."
+  },
+  "riskTolerance": 0.7792929817811429,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

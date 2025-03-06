@@ -1,0 +1,20 @@
+{
+  "id": "cbc2c465-61f6-442f-aab7-7dd1c5a95170",
+  "walletAddress": "4HvadRX397abA3vjDpHTPaT9uxSyQFex3zhXtDGHBWsF",
+  "initialBalance": 5.33,
+  "persona": {
+    "name": "Ashton",
+    "age": 32,
+    "profession": "full_time_trader",
+    "traits": [
+      "detail_oriented",
+      "frugal"
+    ],
+    "experience": "intermediate",
+    "bio": "Ashton, a 32-year-old full-time trader, brings an intermediate level of expertise to the dynamic world of cryptocurrency. Known for their meticulous attention to detail and frugal nature, Ashton carefully analyzes market trends and financial data to make informed trading decisions. Their methodical approach ensures a strategic balance between risk and reward, making them a respected figure in the trading community."
+  },
+  "riskTolerance": 0.9481287633853477,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

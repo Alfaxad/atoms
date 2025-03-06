@@ -1,0 +1,21 @@
+{
+  "id": "42a85034-8b9a-4bc6-9e45-70c3eb7a7282",
+  "walletAddress": "Auc6o1jc6tXpvfjndKfDdMYLQZTXEcBjJr2UT3REZbkw",
+  "initialBalance": 19.7,
+  "persona": {
+    "name": "Cameron",
+    "age": 53,
+    "profession": "full_time_trader",
+    "traits": [
+      "big_picture",
+      "independent",
+      "impulsive"
+    ],
+    "experience": "expert",
+    "bio": "Cameron, a 53-year-old full-time crypto trader, is renowned for their expert-level insight and independent approach to the volatile world of digital currencies. Known for their ability to see the big picture, Cameron often makes bold, impulsive trades that capitalize on emerging trends before they become mainstream. Their keen intuition and years of experience have made them a respected figure in the crypto community, where they continue to thrive by trusting their instincts and taking calculated risks."
+  },
+  "riskTolerance": 0.5689573674609605,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

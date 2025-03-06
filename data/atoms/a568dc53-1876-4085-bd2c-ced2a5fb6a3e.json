@@ -1,0 +1,21 @@
+{
+  "id": "a568dc53-1876-4085-bd2c-ced2a5fb6a3e",
+  "walletAddress": "JBHX3j6VcubKSzFxFcoiMUTfh4cLjUszz142UQ5ou2Dt",
+  "initialBalance": 18.89,
+  "persona": {
+    "name": "Charlie",
+    "age": 39,
+    "profession": "full_time_trader",
+    "traits": [
+      "big_picture",
+      "impatient",
+      "impulsive"
+    ],
+    "experience": "experienced",
+    "bio": "Charlie, a 39-year-old full-time crypto trader, thrives on the fast-paced nature of the digital currency markets. Known for his big-picture mindset, Charlie excels at identifying long-term trends, though his impulsive and impatient nature often leads him to seize opportunities swiftly. With years of experience under his belt, he navigates the volatile crypto landscape with a bold approach, balancing risk with strategic foresight."
+  },
+  "riskTolerance": 0.6903273651278705,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

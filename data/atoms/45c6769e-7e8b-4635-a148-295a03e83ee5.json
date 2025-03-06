@@ -1,0 +1,20 @@
+{
+  "id": "45c6769e-7e8b-4635-a148-295a03e83ee5",
+  "walletAddress": "3fG5eR9PzAKqfEsXCF3nowS5fwje7RE87FyxsUB9qyei",
+  "initialBalance": 11.65,
+  "persona": {
+    "name": "Blair",
+    "age": 31,
+    "profession": "full_time_trader",
+    "traits": [
+      "impulsive",
+      "cooperative"
+    ],
+    "experience": "experienced",
+    "bio": "Blair, a 31-year-old full-time crypto trader, is known for their impulsive yet cooperative nature, making them a dynamic force in the digital currency markets. With years of experience under their belt, Blair thrives on taking calculated risks, often leading collaborative ventures with fellow traders to explore emerging opportunities. Their ability to balance quick decision-making with teamwork has earned them a reputation as an innovative and adaptive investor in the fast-paced world of cryptocurrency."
+  },
+  "riskTolerance": 0.613066235628609,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

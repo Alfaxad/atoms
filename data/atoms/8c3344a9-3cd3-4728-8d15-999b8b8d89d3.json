@@ -1,0 +1,21 @@
+{
+  "id": "8c3344a9-3cd3-4728-8d15-999b8b8d89d3",
+  "walletAddress": "46XmwG5zC2p9wPLAvLz68dBvUsvdbNTXptBfgcU7iyz2",
+  "initialBalance": 12.18,
+  "persona": {
+    "name": "Remy",
+    "age": 38,
+    "profession": "full_time_trader",
+    "traits": [
+      "methodical",
+      "analytical",
+      "optimistic"
+    ],
+    "experience": "experienced",
+    "bio": "Remy, a 38-year-old full-time trader, embodies a methodical and analytical approach to crypto trading, consistently leveraging data-driven strategies to navigate the volatile market. With years of experience, Remy remains optimistic about the transformative potential of blockchain technology, balancing risk and reward with keen insight and unwavering confidence. Their disciplined mindset and positive outlook have positioned them as a respected figure in the crypto investing community."
+  },
+  "riskTolerance": 0.6587049545676311,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ccd7a044-e897-4417-b459-30b6369ba691",
+  "walletAddress": "AvfBvP2KAWYysrvKHHw4bshX5jCFWX2uc4n3DpP2Bkk8",
+  "initialBalance": 16.32,
+  "persona": {
+    "name": "Remy",
+    "age": 30,
+    "profession": "full_time_trader",
+    "traits": [
+      "risk_averse",
+      "trendsetting",
+      "pessimistic"
+    ],
+    "experience": "experienced",
+    "bio": "Remy, a 30-year-old full-time crypto trader, combines a keen eye for emerging trends with a cautious, risk-averse strategy, ensuring they stay ahead of the curve without overexposing themselves to market volatility. Despite their pessimistic outlook, Remy's extensive experience allows them to navigate the crypto landscape with precision, often setting trends by carefully analyzing market shifts and prioritizing long-term stability over short-term gains."
+  },
+  "riskTolerance": 0.6060251215185988,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

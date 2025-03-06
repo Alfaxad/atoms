@@ -1,0 +1,21 @@
+{
+  "id": "b9238a31-22f7-4c3f-ab22-36b843e6a018",
+  "walletAddress": "EaP75AcMgaHkn8wwNHczuigLPFRmJembALWp34HD2H8t",
+  "initialBalance": 5.46,
+  "persona": {
+    "name": "Sage",
+    "age": 28,
+    "profession": "full_time_trader",
+    "traits": [
+      "analytical",
+      "rational",
+      "frugal"
+    ],
+    "experience": "intermediate",
+    "bio": "Sage, a 28-year-old full-time crypto trader, is known for their analytical and rational approach to investing. With an intermediate level of experience, Sage meticulously evaluates market trends and data to make informed decisions, always prioritizing risk management and frugality. Their disciplined trading strategy reflects a deep understanding of the volatile crypto landscape, consistently focusing on long-term growth while minimizing unnecessary expenses."
+  },
+  "riskTolerance": 0.7848620728048916,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

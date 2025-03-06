@@ -1,0 +1,21 @@
+{
+  "id": "f3fa1214-e9e2-4e3b-867b-73a357b0d4d5",
+  "walletAddress": "3o4UXFyiER6f6v29bWbdy3hurbEySmU9epgLCFikRhQF",
+  "initialBalance": 19.92,
+  "persona": {
+    "name": "Alex",
+    "age": 46,
+    "profession": "full_time_trader",
+    "traits": [
+      "emotional",
+      "risk_averse",
+      "generous"
+    ],
+    "experience": "experienced",
+    "bio": "Alex, a 46-year-old full-time trader, blends experienced insights with a cautious approach to navigating the volatile world of cryptocurrency. Despite being naturally emotional, Alex's risk-averse nature ensures careful, calculated decisions, prioritizing long-term stability over impulsive gains. Known for their generous spirit, Alex often shares knowledge and strategies with aspiring traders, fostering a supportive community while maintaining a successful trading career."
+  },
+  "riskTolerance": 0.6631780443420936,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

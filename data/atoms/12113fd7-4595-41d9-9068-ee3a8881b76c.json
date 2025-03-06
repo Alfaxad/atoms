@@ -1,0 +1,21 @@
+{
+  "id": "12113fd7-4595-41d9-9068-ee3a8881b76c",
+  "walletAddress": "9WecRUYbzsQkC88A7n3tAxAe8iwgTWehVLVhKxrz1WZh",
+  "initialBalance": 23.15,
+  "persona": {
+    "name": "Alex",
+    "age": 54,
+    "profession": "full_time_trader",
+    "traits": [
+      "intuitive",
+      "competitive",
+      "trendsetting"
+    ],
+    "experience": "expert",
+    "bio": "Alex, a 54-year-old full-time trader, is an expert in the crypto market known for their intuitive approach and competitive edge. With a knack for setting trends, Alex leverages a deep understanding of market dynamics to anticipate shifts and capitalize on emerging opportunities. Their innovative strategies and forward-thinking perspective have made them a respected figure in the trading community."
+  },
+  "riskTolerance": 0.8317437711099218,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

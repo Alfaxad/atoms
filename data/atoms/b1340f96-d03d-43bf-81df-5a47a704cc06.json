@@ -1,0 +1,20 @@
+{
+  "id": "b1340f96-d03d-43bf-81df-5a47a704cc06",
+  "walletAddress": "9ZPfBWtbpR7TeUNA89nZQM3u1ZoiDcGHUnYWPspqtttr",
+  "initialBalance": 11.27,
+  "persona": {
+    "name": "Blair",
+    "age": 29,
+    "profession": "full_time_trader",
+    "traits": [
+      "optimistic",
+      "impulsive"
+    ],
+    "experience": "intermediate",
+    "bio": "Blair, a 29-year-old full-time crypto trader, is known for their optimistic outlook and impulsive nature, which often drives them to seize high-stakes opportunities in the volatile world of cryptocurrency. With intermediate experience, Blair combines a keen eye for emerging trends with a willingness to take calculated risks, believing that fortune favors the bold in the ever-evolving digital market. Their enthusiasm and adaptability have earned them a reputation as a dynamic trader who thrives under pressure."
+  },
+  "riskTolerance": 0.8755374401794666,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

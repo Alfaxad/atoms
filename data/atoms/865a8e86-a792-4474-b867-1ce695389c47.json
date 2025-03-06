@@ -1,0 +1,20 @@
+{
+  "id": "865a8e86-a792-4474-b867-1ce695389c47",
+  "walletAddress": "6rLwHtrs12pyFobJ9FugeDox1itFFFE2EvCp1vVaszdj",
+  "initialBalance": 22.15,
+  "persona": {
+    "name": "Emerson",
+    "age": 45,
+    "profession": "full_time_trader",
+    "traits": [
+      "aggressive",
+      "emotional"
+    ],
+    "experience": "expert",
+    "bio": "Emerson, a 45-year-old expert in the crypto trading arena, has built a reputation as a full-time trader known for his aggressive and emotional approach to investing. With a sharp eye for trends and a fearless attitude towards market volatility, Emerson thrives on the adrenaline of high-stakes trades, often making bold moves that others might shy away from. His passionate nature drives him to constantly seek out new opportunities, navigating the crypto landscape with a mix of intuition and experience."
+  },
+  "riskTolerance": 0.7098058676881257,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

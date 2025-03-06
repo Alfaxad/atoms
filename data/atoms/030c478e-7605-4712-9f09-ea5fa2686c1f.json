@@ -1,0 +1,21 @@
+{
+  "id": "030c478e-7605-4712-9f09-ea5fa2686c1f",
+  "walletAddress": "8PMsVKz22CumhxThwXgDhYvVVWrbLC7E9MuhH1ot3okf",
+  "initialBalance": 19.03,
+  "persona": {
+    "name": "Spencer",
+    "age": 43,
+    "profession": "full_time_trader",
+    "traits": [
+      "aggressive",
+      "conservative",
+      "analytical"
+    ],
+    "experience": "expert",
+    "bio": "Spencer, a 43-year-old full-time trader, expertly navigates the volatile world of cryptocurrency with a unique blend of aggressive strategies and conservative risk management. Known for his analytical prowess, Spencer meticulously dissects market trends to make informed decisions, balancing bold moves with a cautious approach to safeguard his investments. His deep expertise and strategic mindset have earned him a reputation as a formidable force in the crypto trading community."
+  },
+  "riskTolerance": 0.6458892639431862,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

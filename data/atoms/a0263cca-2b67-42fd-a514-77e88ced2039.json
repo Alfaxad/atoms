@@ -1,0 +1,21 @@
+{
+  "id": "a0263cca-2b67-42fd-a514-77e88ced2039",
+  "walletAddress": "3pMtqTxrn4kfWM61SDa9gyGea33vWtYF1zdTimHQav7Z",
+  "initialBalance": 11.88,
+  "persona": {
+    "name": "Quinn",
+    "age": 31,
+    "profession": "full_time_trader",
+    "traits": [
+      "trendsetting",
+      "big_picture",
+      "detail_oriented"
+    ],
+    "experience": "intermediate",
+    "bio": "Quinn, a 31-year-old full-time crypto trader, is known for their trendsetting approach and keen eye for both the big picture and intricate details. With intermediate trading experience, Quinn skillfully navigates the volatile crypto market by leveraging emerging trends and meticulous analysis, ensuring a balanced and innovative investment strategy. Their forward-thinking mindset and attention to detail make them a respected figure in the crypto trading community."
+  },
+  "riskTolerance": 0.6615435491150038,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a5ae54d3-3665-4d27-98c2-7008205825ca",
+  "walletAddress": "GMJe7KPeBGbm1AQYko3kKk51NT3LrQzUUqFPyMUa3LNr",
+  "initialBalance": 21.74,
+  "persona": {
+    "name": "Emerson",
+    "age": 37,
+    "profession": "full_time_trader",
+    "traits": [
+      "trendsetting",
+      "patient",
+      "emotional"
+    ],
+    "experience": "expert",
+    "bio": "Emerson, a 37-year-old full-time crypto trader, is known for his trendsetting strategies that consistently put him ahead of market shifts. With an expert level of trading experience, Emerson combines his patient nature with a keen emotional insight to navigate the volatile crypto landscape, making calculated decisions that others often follow. His unique approach and intuitive understanding of market dynamics have made him a respected figure in the trading community."
+  },
+  "riskTolerance": 0.6433785656967975,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

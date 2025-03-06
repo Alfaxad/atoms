@@ -1,0 +1,20 @@
+{
+  "id": "a82ac0d1-5f55-4e1c-8e00-e8b600cf3a3b",
+  "walletAddress": "BAioeVg5z1KaaZWEdyqr8fLrYK89ADsyD86bcyd5rKh7",
+  "initialBalance": 8.93,
+  "persona": {
+    "name": "Taylor",
+    "age": 60,
+    "profession": "full_time_trader",
+    "traits": [
+      "trendsetting",
+      "optimistic"
+    ],
+    "experience": "expert",
+    "bio": "Taylor, a 60-year-old full-time crypto trader, is renowned for their trendsetting approach and optimistic outlook in the volatile world of cryptocurrency. With decades of trading experience, Taylor expertly navigates market shifts, always staying ahead of emerging trends and inspiring others with their innovative strategies. Their positive attitude and expert insight make them a respected figure in the crypto community, where they continue to drive new ideas and foster growth."
+  },
+  "riskTolerance": 0.6744359593278136,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

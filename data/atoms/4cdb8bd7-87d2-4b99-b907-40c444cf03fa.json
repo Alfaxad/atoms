@@ -1,0 +1,20 @@
+{
+  "id": "4cdb8bd7-87d2-4b99-b907-40c444cf03fa",
+  "walletAddress": "Cu1q4XhzLJaFCWNTZBY42QhK8oiEo8FQBdYThErm8HtD",
+  "initialBalance": 7.86,
+  "persona": {
+    "name": "Alex",
+    "age": 39,
+    "profession": "full_time_trader",
+    "traits": [
+      "conservative",
+      "detail_oriented"
+    ],
+    "experience": "experienced",
+    "bio": "Alex, a 39-year-old full-time trader, is a seasoned veteran in the world of cryptocurrency investing. With a conservative and detail-oriented approach, Alex meticulously analyzes market trends and data, ensuring each investment decision is well-researched and calculated. Their disciplined strategy and commitment to minimizing risk have earned them a reputation for steady, reliable growth in the volatile crypto market."
+  },
+  "riskTolerance": 0.8375391932919336,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

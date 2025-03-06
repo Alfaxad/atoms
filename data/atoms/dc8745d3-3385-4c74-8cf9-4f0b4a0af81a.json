@@ -1,0 +1,20 @@
+{
+  "id": "dc8745d3-3385-4c74-8cf9-4f0b4a0af81a",
+  "walletAddress": "BmTspUgECC5ScM5EgDSSa6VYLkXnaPqbpZSCNnpWj4Fu",
+  "initialBalance": 6.5,
+  "persona": {
+    "name": "Sam",
+    "age": 25,
+    "profession": "full_time_trader",
+    "traits": [
+      "cooperative",
+      "cautious"
+    ],
+    "experience": "intermediate",
+    "bio": "Sam, a 25-year-old full-time trader, navigates the dynamic world of cryptocurrency with a blend of caution and cooperation. With an intermediate level of experience, Sam meticulously analyzes market trends, prioritizing risk management and strategic partnerships to optimize trades. Known for a balanced approach, Sam collaborates with fellow traders to share insights and refine strategies, ensuring a steady and informed progression in the crypto market."
+  },
+  "riskTolerance": 0.5540401768235759,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

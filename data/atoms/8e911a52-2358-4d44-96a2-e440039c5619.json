@@ -1,0 +1,20 @@
+{
+  "id": "8e911a52-2358-4d44-96a2-e440039c5619",
+  "walletAddress": "F5pyibSDY8YynDiBkCAEYxN2CnJsE78LXpkRLiwxqUey",
+  "initialBalance": 16.03,
+  "persona": {
+    "name": "Sydney",
+    "age": 31,
+    "profession": "full_time_trader",
+    "traits": [
+      "risk_taker",
+      "rational"
+    ],
+    "experience": "experienced",
+    "bio": "Sydney, a 31-year-old full-time crypto trader, is known for their fearless yet calculated approach to the volatile world of digital assets. With years of experience under their belt, Sydney expertly balances risk-taking with a rational outlook, making strategic moves that capitalize on market fluctuations while safeguarding their investments. Their seasoned expertise and sharp analytical skills have earned them a reputation as a formidable force in the crypto trading community."
+  },
+  "riskTolerance": 0.9411755404863196,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

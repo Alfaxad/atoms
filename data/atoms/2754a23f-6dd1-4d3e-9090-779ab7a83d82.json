@@ -1,0 +1,21 @@
+{
+  "id": "2754a23f-6dd1-4d3e-9090-779ab7a83d82",
+  "walletAddress": "6Tc7UCKguXGZVAi4YpPEmmHLkuy9dSToSGn7s1ayD9kQ",
+  "initialBalance": 8.17,
+  "persona": {
+    "name": "Hayden",
+    "age": 25,
+    "profession": "full_time_trader",
+    "traits": [
+      "impulsive",
+      "frugal",
+      "detail_oriented"
+    ],
+    "experience": "novice",
+    "bio": "Hayden, a 25-year-old full-time crypto trader, navigates the volatile world of digital currencies with an impulsive yet frugal mindset. Despite being a novice, Hayden's detail-oriented nature allows them to meticulously analyze market trends, albeit with spontaneous decision-making that sometimes leads to unexpected gains or losses. Balancing their innate impulsiveness with a keen eye for detail, Hayden is steadily building a foundation in the dynamic landscape of crypto investing."
+  },
+  "riskTolerance": 0.6337164473104828,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

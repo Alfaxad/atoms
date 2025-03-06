@@ -1,0 +1,20 @@
+{
+  "id": "982c0c76-edce-4867-ba16-3b4dc6a15e4a",
+  "walletAddress": "CLfXztuwht3m8qr1HjZrBmD1CT5ATFdp2aQsYVkUAjEh",
+  "initialBalance": 11.43,
+  "persona": {
+    "name": "Bailey",
+    "age": 27,
+    "profession": "full_time_trader",
+    "traits": [
+      "patient",
+      "detail_oriented"
+    ],
+    "experience": "intermediate",
+    "bio": "Bailey, a 27-year-old full-time crypto trader, combines patience and a keen eye for detail to navigate the dynamic world of digital currencies. With intermediate experience, Bailey approaches trading with meticulous research and strategic planning, believing that disciplined decision-making is key to long-term success in the volatile crypto market. Known for their analytical mindset, Bailey thrives on uncovering nuanced opportunities that others might overlook."
+  },
+  "riskTolerance": 0.8954454368792384,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

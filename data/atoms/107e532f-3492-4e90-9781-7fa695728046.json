@@ -1,0 +1,20 @@
+{
+  "id": "107e532f-3492-4e90-9781-7fa695728046",
+  "walletAddress": "6xx7hoSeByfbeHNtQYNSSSZWmq47HUWDGfeF53jd5y1u",
+  "initialBalance": 8.34,
+  "persona": {
+    "name": "Harper",
+    "age": 28,
+    "profession": "full_time_trader",
+    "traits": [
+      "competitive",
+      "aggressive"
+    ],
+    "experience": "novice",
+    "bio": "Harper, a 28-year-old full-time crypto trader, channels their competitive spirit and aggressive approach into navigating the volatile world of digital currencies. As a novice in the field, Harper thrives on the thrill of high-risk, high-reward trading, keenly learning from every market swing and eager to make a mark in the rapidly evolving crypto landscape. Their relentless drive and bold strategies set them apart as they continuously seek to outpace the competition."
+  },
+  "riskTolerance": 1,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

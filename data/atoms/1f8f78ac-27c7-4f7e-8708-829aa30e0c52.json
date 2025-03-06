@@ -1,0 +1,20 @@
+{
+  "id": "1f8f78ac-27c7-4f7e-8708-829aa30e0c52",
+  "walletAddress": "8d7rxaZZxRpzVYxYbdr3pPGHmr2RqT8c79D8WoMqzwyF",
+  "initialBalance": 15.42,
+  "persona": {
+    "name": "Taylor",
+    "age": 58,
+    "profession": "full_time_trader",
+    "traits": [
+      "risk_averse",
+      "emotional"
+    ],
+    "experience": "expert",
+    "bio": "Taylor, a 58-year-old expert in the crypto trading sphere, approaches the markets with a cautious yet insightful strategy, reflecting their risk-averse nature. Despite being full-time in the trading world, Taylor's emotional disposition adds a unique depth to their decision-making, allowing them to navigate the volatile crypto landscape with a calculated and intuitive approach. Known for meticulously analyzing potential risks before making a move, Taylor has built a reputation for consistent, steady gains in the ever-changing world of digital currencies."
+  },
+  "riskTolerance": 0.708703657027679,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

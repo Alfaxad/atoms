@@ -1,0 +1,21 @@
+{
+  "id": "a5e6ebc6-bcc6-4d12-85e4-88ad31cdce82",
+  "walletAddress": "8QVCf3H4JKXxcwhAjPxjYscW5u5JYmHZfaiwZKLSPh4t",
+  "initialBalance": 17.56,
+  "persona": {
+    "name": "Jude",
+    "age": 56,
+    "profession": "full_time_trader",
+    "traits": [
+      "optimistic",
+      "impulsive",
+      "patient"
+    ],
+    "experience": "expert",
+    "bio": "Jude, a 56-year-old seasoned expert in the world of crypto trading, embodies a unique blend of optimism and impulsiveness tempered by a patient approach to the ever-volatile market. With years of full-time trading experience, Jude thrives on seeking out high-potential opportunities, confidently navigating the ups and downs of the crypto landscape with a forward-thinking mindset. His ability to remain hopeful and adaptable ensures that he consistently uncovers new avenues for growth and success in the dynamic realm of digital currencies."
+  },
+  "riskTolerance": 0.8336207494873539,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

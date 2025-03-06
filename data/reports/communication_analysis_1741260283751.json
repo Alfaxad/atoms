@@ -1,0 +1,579 @@
+{
+  "timestamp": 1741260283749,
+  "messageCount": 364,
+  "messagesByAtomType": {
+    "legitimate": {
+      "count": 348,
+      "averagePerAtom": 3.515151515151515,
+      "uniqueAtomCount": 95
+    },
+    "fraudulent": {
+      "count": 16,
+      "averagePerAtom": 4,
+      "uniqueAtomCount": 4
+    }
+  },
+  "topicTrends": [
+    {
+      "topic": "that",
+      "strength": 1,
+      "firstMentioned": 1741258630210,
+      "lastMentioned": 1741259865050,
+      "mentionCount": 105
+    },
+    {
+      "topic": "lets",
+      "strength": 1,
+      "firstMentioned": 1741258630210,
+      "lastMentioned": 1741259865050,
+      "mentionCount": 299
+    },
+    {
+      "topic": "fundamentals",
+      "strength": 1,
+      "firstMentioned": 1741258630210,
+      "lastMentioned": 1741259865050,
+      "mentionCount": 82
+    },
+    {
+      "topic": "atom1",
+      "strength": 1,
+      "firstMentioned": 1741258630210,
+      "lastMentioned": 1741259687389,
+      "mentionCount": 54
+    },
+    {
+      "topic": "entry",
+      "strength": 1,
+      "firstMentioned": 1741258630210,
+      "lastMentioned": 1741260024795,
+      "mentionCount": 78
+    },
+    {
+      "topic": "might",
+      "strength": 1,
+      "firstMentioned": 1741258630210,
+      "lastMentioned": 1741259980364,
+      "mentionCount": 68
+    },
+    {
+      "topic": "just",
+      "strength": 1,
+      "firstMentioned": 1741258630210,
+      "lastMentioned": 1741260042662,
+      "mentionCount": 80
+    },
+    {
+      "topic": "about",
+      "strength": 1,
+      "firstMentioned": 1741258630210,
+      "lastMentioned": 1741260090468,
+      "mentionCount": 65
+    },
+    {
+      "topic": "risk",
+      "strength": 1,
+      "firstMentioned": 1741258630210,
+      "lastMentioned": 1741259865050,
+      "mentionCount": 51
+    },
+    {
+      "topic": "while",
+      "strength": 1,
+      "firstMentioned": 1741258630210,
+      "lastMentioned": 1741259865050,
+      "mentionCount": 128
+    },
+    {
+      "topic": "into",
+      "strength": 1,
+      "firstMentioned": 1741260117841,
+      "lastMentioned": 1741260024795,
+      "mentionCount": 74
+    },
+    {
+      "topic": "value",
+      "strength": 1,
+      "firstMentioned": 1741260117841,
+      "lastMentioned": 1741260024795,
+      "mentionCount": 64
+    },
+    {
+      "topic": "keep",
+      "strength": 1,
+      "firstMentioned": 1741260117841,
+      "lastMentioned": 1741260088086,
+      "mentionCount": 121
+    },
+    {
+      "topic": "stay",
+      "strength": 1,
+      "firstMentioned": 1741260117841,
+      "lastMentioned": 1741260090468,
+      "mentionCount": 94
+    },
+    {
+      "topic": "opportunity",
+      "strength": 1,
+      "firstMentioned": 1741260117841,
+      "lastMentioned": 1741259909195,
+      "mentionCount": 65
+    },
+    {
+      "topic": "atom2s",
+      "strength": 1,
+      "firstMentioned": 1741259995495,
+      "lastMentioned": 1741260090468,
+      "mentionCount": 67
+    },
+    {
+      "topic": "arbitrage",
+      "strength": 1,
+      "firstMentioned": 1741259995495,
+      "lastMentioned": 1741259865050,
+      "mentionCount": 106
+    },
+    {
+      "topic": "patience",
+      "strength": 1,
+      "firstMentioned": 1741259995495,
+      "lastMentioned": 1741260088086,
+      "mentionCount": 89
+    },
+    {
+      "topic": "sharp",
+      "strength": 1,
+      "firstMentioned": 1741259995495,
+      "lastMentioned": 1741260090468,
+      "mentionCount": 64
+    },
+    {
+      "topic": "some",
+      "strength": 1,
+      "firstMentioned": 1741259995495,
+      "lastMentioned": 1741258596054,
+      "mentionCount": 100
+    },
+    {
+      "topic": "volatility",
+      "strength": 1,
+      "firstMentioned": 1741258553408,
+      "lastMentioned": 1741259865050,
+      "mentionCount": 95
+    },
+    {
+      "topic": "those",
+      "strength": 1,
+      "firstMentioned": 1741258553408,
+      "lastMentioned": 1741259865050,
+      "mentionCount": 182
+    },
+    {
+      "topic": "ride",
+      "strength": 1,
+      "firstMentioned": 1741258619687,
+      "lastMentioned": 1741260090468,
+      "mentionCount": 94
+    },
+    {
+      "topic": "like",
+      "strength": 1,
+      "firstMentioned": 1741258576531,
+      "lastMentioned": 1741259600987,
+      "mentionCount": 72
+    },
+    {
+      "topic": "momentum",
+      "strength": 1,
+      "firstMentioned": 1741258576531,
+      "lastMentioned": 1741260042662,
+      "mentionCount": 112
+    },
+    {
+      "topic": "market",
+      "strength": 1,
+      "firstMentioned": 1741258576531,
+      "lastMentioned": 1741259600987,
+      "mentionCount": 64
+    },
+    {
+      "topic": "precision",
+      "strength": 1,
+      "firstMentioned": 1741258576531,
+      "lastMentioned": 1741260024795,
+      "mentionCount": 69
+    },
+    {
+      "topic": "atom1s",
+      "strength": 1,
+      "firstMentioned": 1741260076355,
+      "lastMentioned": 1741260160871,
+      "mentionCount": 61
+    },
+    {
+      "topic": "wave",
+      "strength": 1,
+      "firstMentioned": 1741260076355,
+      "lastMentioned": 1741260090468,
+      "mentionCount": 77
+    },
+    {
+      "topic": "this",
+      "strength": 1,
+      "firstMentioned": 1741260076355,
+      "lastMentioned": 1741259600987,
+      "mentionCount": 192
+    }
+  ],
+  "tokenSentiment": {},
+  "topCommunicators": [
+    {
+      "atomId": "4e39bbb5-52c1-40fd-be8f-6d8686268791",
+      "name": "Sage",
+      "profession": "full_time_trader",
+      "fraudulent": false,
+      "messageCount": 11
+    },
+    {
+      "atomId": "957d04d6-8af2-4112-be5e-f1dd82c26802",
+      "name": "Skyler",
+      "profession": "full_time_trader",
+      "fraudulent": false,
+      "messageCount": 8
+    },
+    {
+      "atomId": "dcb33862-daab-4c83-b806-4b69ed7b425b",
+      "name": "Hayden",
+      "profession": "full_time_trader",
+      "fraudulent": false,
+      "messageCount": 8
+    },
+    {
+      "atomId": "a1e9aa66-cb35-4583-af92-2d053242f10d",
+      "name": "Marley",
+      "profession": "full_time_trader",
+      "fraudulent": true,
+      "messageCount": 7
+    },
+    {
+      "atomId": "a18f888c-1224-4ec3-8ad0-58afe4ef7aab",
+      "name": "Harley",
+      "profession": "full_time_trader",
+      "fraudulent": false,
+      "messageCount": 7
+    },
+    {
+      "atomId": "a772220b-b142-4641-be83-44e18a16fdb3",
+      "name": "Ashton",
+      "profession": "full_time_trader",
+      "fraudulent": false,
+      "messageCount": 7
+    },
+    {
+      "atomId": "d45752e8-5daf-453e-a76e-0303a38039b2",
+      "name": "Harper",
+      "profession": "full_time_trader",
+      "fraudulent": false,
+      "messageCount": 6
+    },
+    {
+      "atomId": "d26a282a-de27-49da-b03b-8aa5d944519a",
+      "name": "Cameron",
+      "profession": "full_time_trader",
+      "fraudulent": false,
+      "messageCount": 6
+    },
+    {
+      "atomId": "433619cd-8e99-40bc-b0a7-667599835c19",
+      "name": "Jude",
+      "profession": "full_time_trader",
+      "fraudulent": false,
+      "messageCount": 6
+    },
+    {
+      "atomId": "ae409be0-78ad-4e55-a14e-dd30dc3257fc",
+      "name": "Ellis",
+      "profession": "full_time_trader",
+      "fraudulent": false,
+      "messageCount": 6
+    },
+    {
+      "atomId": "4567a20f-02dc-4610-9625-8c53e8ff9c3b",
+      "name": "Sage",
+      "profession": "full_time_trader",
+      "fraudulent": false,
+      "messageCount": 6
+    },
+    {
+      "atomId": "dd519c57-238e-4667-9ef5-d9a2a0879d8c",
+      "name": "Harper",
+      "profession": "full_time_trader",
+      "fraudulent": false,
+      "messageCount": 6
+    },
+    {
+      "atomId": "33e748b6-8765-46be-b992-c44e0fe9e54e",
+      "name": "Casey",
+      "profession": "full_time_trader",
+      "fraudulent": false,
+      "messageCount": 6
+    },
+    {
+      "atomId": "6122eef4-ae3e-478b-bf60-facf385e36af",
+      "name": "Ellis",
+      "profession": "full_time_trader",
+      "fraudulent": false,
+      "messageCount": 6
+    },
+    {
+      "atomId": "c76e8529-e979-4a69-a855-597862d72efa",
+      "name": "Nico",
+      "profession": "full_time_trader",
+      "fraudulent": false,
+      "messageCount": 6
+    },
+    {
+      "atomId": "41647225-1a0a-4c12-b648-13f0d98a034d",
+      "name": "Emerson",
+      "profession": "full_time_trader",
+      "fraudulent": false,
+      "messageCount": 5
+    },
+    {
+      "atomId": "170b8cb1-f7a1-4775-b2f3-2a7037596b7d",
+      "name": "Cameron",
+      "profession": "full_time_trader",
+      "fraudulent": false,
+      "messageCount": 5
+    },
+    {
+      "atomId": "7463d4c6-93a9-4cef-abed-63677acf3002",
+      "name": "Marley",
+      "profession": "full_time_trader",
+      "fraudulent": false,
+      "messageCount": 5
+    },
+    {
+      "atomId": "513a12b9-231a-43a1-a755-bd55de36298d",
+      "name": "Quinn",
+      "profession": "full_time_trader",
+      "fraudulent": false,
+      "messageCount": 5
+    },
+    {
+      "atomId": "9b854187-fc6e-4af1-86b2-91a4e9b3b01e",
+      "name": "Blair",
+      "profession": "full_time_trader",
+      "fraudulent": false,
+      "messageCount": 5
+    }
+  ],
+  "communicationNetwork": {
+    "networkSize": 103,
+    "activeNodes": 99,
+    "centralAtoms": [
+      {
+        "atomId": "4e39bbb5-52c1-40fd-be8f-6d8686268791",
+        "name": "Sage",
+        "profession": "full_time_trader",
+        "messageCount": 11,
+        "fraudulent": false
+      },
+      {
+        "atomId": "957d04d6-8af2-4112-be5e-f1dd82c26802",
+        "name": "Skyler",
+        "profession": "full_time_trader",
+        "messageCount": 8,
+        "fraudulent": false
+      },
+      {
+        "atomId": "dcb33862-daab-4c83-b806-4b69ed7b425b",
+        "name": "Hayden",
+        "profession": "full_time_trader",
+        "messageCount": 8,
+        "fraudulent": false
+      },
+      {
+        "atomId": "a18f888c-1224-4ec3-8ad0-58afe4ef7aab",
+        "name": "Harley",
+        "profession": "full_time_trader",
+        "messageCount": 7,
+        "fraudulent": false
+      },
+      {
+        "atomId": "a1e9aa66-cb35-4583-af92-2d053242f10d",
+        "name": "Marley",
+        "profession": "full_time_trader",
+        "messageCount": 7,
+        "fraudulent": true
+      },
+      {
+        "atomId": "a772220b-b142-4641-be83-44e18a16fdb3",
+        "name": "Ashton",
+        "profession": "full_time_trader",
+        "messageCount": 7,
+        "fraudulent": false
+      },
+      {
+        "atomId": "33e748b6-8765-46be-b992-c44e0fe9e54e",
+        "name": "Casey",
+        "profession": "full_time_trader",
+        "messageCount": 6,
+        "fraudulent": false
+      },
+      {
+        "atomId": "433619cd-8e99-40bc-b0a7-667599835c19",
+        "name": "Jude",
+        "profession": "full_time_trader",
+        "messageCount": 6,
+        "fraudulent": false
+      },
+      {
+        "atomId": "4567a20f-02dc-4610-9625-8c53e8ff9c3b",
+        "name": "Sage",
+        "profession": "full_time_trader",
+        "messageCount": 6,
+        "fraudulent": false
+      }
+    ],
+    "peripheralAtoms": [
+      {
+        "atomId": "866f8284-4b39-47ee-90f2-d35164b4d7f6",
+        "name": "Marley",
+        "profession": "full_time_trader",
+        "messageCount": 2,
+        "fraudulent": false
+      },
+      {
+        "atomId": "90d86b77-de98-4c22-bdce-96aa24fdbee6",
+        "name": "Charlie",
+        "profession": "full_time_trader",
+        "messageCount": 2,
+        "fraudulent": false
+      },
+      {
+        "atomId": "a95faa9d-4369-4818-9105-1809bb79df79",
+        "name": "Harper",
+        "profession": "full_time_trader",
+        "messageCount": 2,
+        "fraudulent": false
+      },
+      {
+        "atomId": "bdd386af-d86d-48e1-9dee-856704cebb42",
+        "name": "Taylor",
+        "profession": "full_time_trader",
+        "messageCount": 2,
+        "fraudulent": false
+      },
+      {
+        "atomId": "ce5b9bc2-8ecf-4dd4-a69b-97bcc3f3f00d",
+        "name": "Riley",
+        "profession": "full_time_trader",
+        "messageCount": 2,
+        "fraudulent": false
+      },
+      {
+        "atomId": "d7931062-6df2-4632-b224-4e947d1bd8f4",
+        "name": "Sam",
+        "profession": "full_time_trader",
+        "messageCount": 2,
+        "fraudulent": false
+      },
+      {
+        "atomId": "e207e9f7-6457-4b7b-a171-9090d08e3231",
+        "name": "Remy",
+        "profession": "full_time_trader",
+        "messageCount": 2,
+        "fraudulent": false
+      },
+      {
+        "atomId": "e692f9c4-3300-4a99-a4a0-ec0a207cd087",
+        "name": "Elliot",
+        "profession": "full_time_trader",
+        "messageCount": 2,
+        "fraudulent": false
+      },
+      {
+        "atomId": "f5f21598-2651-4a0b-ba08-37cbdfff581d",
+        "name": "Emerson",
+        "profession": "full_time_trader",
+        "messageCount": 2,
+        "fraudulent": false
+      },
+      {
+        "atomId": "151bf814-ee7b-40fc-bc25-98316a0f6b8a",
+        "name": "Jude",
+        "profession": "full_time_trader",
+        "messageCount": 1,
+        "fraudulent": false
+      },
+      {
+        "atomId": "18005e62-316c-44b4-8af8-f493f47417a6",
+        "name": "Zion",
+        "profession": "full_time_trader",
+        "messageCount": 1,
+        "fraudulent": false
+      },
+      {
+        "atomId": "1a8e1146-b21d-4982-9e5d-b8d896d1354a",
+        "name": "Rowan",
+        "profession": "full_time_trader",
+        "messageCount": 1,
+        "fraudulent": false
+      },
+      {
+        "atomId": "1e41bb46-5ca6-46cd-8472-a82d894ba1c0",
+        "name": "Cameron",
+        "profession": "full_time_trader",
+        "messageCount": 1,
+        "fraudulent": false
+      },
+      {
+        "atomId": "21463040-9258-44de-92e1-4a9efba171b2",
+        "name": "Skyler",
+        "profession": "full_time_trader",
+        "messageCount": 1,
+        "fraudulent": false
+      },
+      {
+        "atomId": "36d72767-fb04-4d70-b8eb-36048add4535",
+        "name": "Dakota",
+        "profession": "full_time_trader",
+        "messageCount": 1,
+        "fraudulent": false
+      },
+      {
+        "atomId": "69c99136-214a-4343-9ff7-a3b2c204d7fb",
+        "name": "Phoenix",
+        "profession": "full_time_trader",
+        "messageCount": 1,
+        "fraudulent": false
+      },
+      {
+        "atomId": "75edaf10-ccec-4417-9734-67038d62c80a",
+        "name": "Blair",
+        "profession": "full_time_trader",
+        "messageCount": 1,
+        "fraudulent": false
+      },
+      {
+        "atomId": "cc4d5ce0-453a-49cb-9378-b320d9387fa7",
+        "name": "Jordan",
+        "profession": "full_time_trader",
+        "messageCount": 1,
+        "fraudulent": false
+      },
+      {
+        "atomId": "d3c8dbb3-a931-403c-bef2-a2fc56a8a01e",
+        "name": "Remy",
+        "profession": "full_time_trader",
+        "messageCount": 1,
+        "fraudulent": false
+      }
+    ],
+    "fraudulentDistribution": {
+      "centralFraudulent": 1,
+      "peripheralFraudulent": 0
+    }
+  }
+}

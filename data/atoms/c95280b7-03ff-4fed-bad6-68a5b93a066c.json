@@ -1,0 +1,20 @@
+{
+  "id": "c95280b7-03ff-4fed-bad6-68a5b93a066c",
+  "walletAddress": "7Yunn6azJJ5UgpXhzDvLDLM6x7WnkFxrQHdxgXNPHVEH",
+  "initialBalance": 9.7,
+  "persona": {
+    "name": "Parker",
+    "age": 31,
+    "profession": "full_time_trader",
+    "traits": [
+      "emotional",
+      "rational"
+    ],
+    "experience": "intermediate",
+    "bio": "Parker, a 31-year-old full-time crypto trader, navigates the volatile world of digital currencies with a unique blend of emotional intuition and rational analysis. With intermediate experience, Parker is known for balancing calculated risk-taking with a keen sensitivity to market shifts, allowing them to make informed decisions while adapting quickly to new trends. Their approach is characterized by a strategic yet flexible mindset, enabling them to thrive in the ever-evolving crypto landscape."
+  },
+  "riskTolerance": 0.6811944377581465,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

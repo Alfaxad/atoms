@@ -1,0 +1,21 @@
+{
+  "id": "8d218334-f1e1-4570-acd2-0390ae8189d3",
+  "walletAddress": "3ywN4H9xiCNxRoi6F8FpGJPPoFPipyJrfXCCPwoiADdY",
+  "initialBalance": 24.18,
+  "persona": {
+    "name": "Elliot",
+    "age": 38,
+    "profession": "full_time_trader",
+    "traits": [
+      "impatient",
+      "cautious",
+      "trendsetting"
+    ],
+    "experience": "expert",
+    "bio": "Elliot, a 38-year-old full-time crypto trader, is known for his expert grasp of the market and trendsetting strategies. Despite his impatient nature, he approaches trading with a cautious precision, meticulously analyzing emerging trends to stay ahead of the curve. Elliot's ability to balance risk with calculated foresight has earned him a reputation as a formidable force in the crypto world."
+  },
+  "riskTolerance": 0.49719522763791946,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

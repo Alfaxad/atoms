@@ -1,0 +1,21 @@
+{
+  "id": "ce2d81f8-d9a2-4bad-b00a-2dfbd6db83a6",
+  "walletAddress": "GitcwLtLoDY3YGvygeJ8XFs6s5a2RQz7GUW1L5qyVQk3",
+  "initialBalance": 17.89,
+  "persona": {
+    "name": "Riley",
+    "age": 51,
+    "profession": "full_time_trader",
+    "traits": [
+      "conservative",
+      "emotional",
+      "independent"
+    ],
+    "experience": "expert",
+    "bio": "Riley, a 51-year-old expert crypto trader, navigates the volatile world of digital currencies with a conservative approach, emphasizing thorough research and risk management. Known for their emotional intelligence and independent nature, Riley skillfully balances caution with opportunity, ensuring steady growth in their portfolio while maintaining a disciplined trading strategy."
+  },
+  "riskTolerance": 0.856746935230525,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

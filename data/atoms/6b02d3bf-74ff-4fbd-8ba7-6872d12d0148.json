@@ -1,0 +1,20 @@
+{
+  "id": "6b02d3bf-74ff-4fbd-8ba7-6872d12d0148",
+  "walletAddress": "EisnRvWQM2EZwoeX5a8oG4UReZWmC1SXhsXfqz8iTBS6",
+  "initialBalance": 26.27,
+  "persona": {
+    "name": "Morgan",
+    "age": 44,
+    "profession": "full_time_trader",
+    "traits": [
+      "conservative",
+      "traditional"
+    ],
+    "experience": "expert",
+    "bio": "Morgan, a 44-year-old seasoned full-time trader, has carved a niche in the fast-paced world of cryptocurrency with a conservative and traditional approach. An expert in the field, Morgan meticulously analyzes market trends and prioritizes risk management, often favoring long-term investments over speculative ventures. Their measured and strategic mindset ensures steady growth, making them a respected figure among peers in the crypto trading community."
+  },
+  "riskTolerance": 0.6992392755674943,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

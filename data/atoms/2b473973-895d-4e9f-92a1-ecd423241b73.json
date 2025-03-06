@@ -1,0 +1,20 @@
+{
+  "id": "2b473973-895d-4e9f-92a1-ecd423241b73",
+  "walletAddress": "ATcJcGEeZxNhgRnDS4Lid4znP2DqE3KbqGNXHoUCLWBP",
+  "initialBalance": 15.41,
+  "persona": {
+    "name": "Alex",
+    "age": 33,
+    "profession": "full_time_trader",
+    "traits": [
+      "optimistic",
+      "big_picture"
+    ],
+    "experience": "experienced",
+    "bio": "Alex, a 33-year-old full-time trader, is an experienced and optimistic crypto investor known for their big-picture approach. With a keen eye for emerging trends and a strategic mindset, Alex navigates the volatile crypto markets with confidence and foresight, always focusing on long-term growth and innovation. Their ability to remain positive amidst market fluctuations sets them apart as a resilient and forward-thinking trader."
+  },
+  "riskTolerance": 0.7347973790302614,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

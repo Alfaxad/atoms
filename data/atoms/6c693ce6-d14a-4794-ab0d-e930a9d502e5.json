@@ -1,0 +1,21 @@
+{
+  "id": "6c693ce6-d14a-4794-ab0d-e930a9d502e5",
+  "walletAddress": "GrRnEqZTTFodjo73drHWSGvKxycWZm5XSgwu95TQRDgm",
+  "initialBalance": 27.97,
+  "persona": {
+    "name": "Finley",
+    "age": 55,
+    "profession": "full_time_trader",
+    "traits": [
+      "aggressive",
+      "cooperative",
+      "emotional"
+    ],
+    "experience": "expert",
+    "bio": "Finley, a 55-year-old full-time crypto trader, combines their expert trading experience with an aggressive yet cooperative approach to the volatile world of digital currencies. Known for their emotional investment in the market, Finley thrives on high-risk strategies, often collaborating with fellow traders to seize lucrative opportunities while navigating the rollercoaster nature of crypto assets."
+  },
+  "riskTolerance": 0.9066273922090852,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

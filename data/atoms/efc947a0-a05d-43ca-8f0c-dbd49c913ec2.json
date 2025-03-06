@@ -1,0 +1,21 @@
+{
+  "id": "efc947a0-a05d-43ca-8f0c-dbd49c913ec2",
+  "walletAddress": "CZZL9nTUUgk9X84L213JtMF9naoSj4knbCrV3Cf8ez1T",
+  "initialBalance": 10.27,
+  "persona": {
+    "name": "Harley",
+    "age": 32,
+    "profession": "full_time_trader",
+    "traits": [
+      "analytical",
+      "conservative",
+      "intuitive"
+    ],
+    "experience": "intermediate",
+    "bio": "Harley, a 32-year-old full-time crypto trader, combines analytical precision with intuitive insight to navigate the volatile cryptocurrency markets. Known for their conservative approach, Harley meticulously evaluates each investment opportunity, leveraging intermediate trading experience to balance risk and reward. Their methodical nature and keen intuition have earned them a reputation for making calculated decisions that prioritize long-term growth over short-term gains."
+  },
+  "riskTolerance": 0.893003133617206,
+  "tradingStrategy": "rug_pull",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": true
+}

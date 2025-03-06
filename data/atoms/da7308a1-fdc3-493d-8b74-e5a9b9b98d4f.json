@@ -1,0 +1,20 @@
+{
+  "id": "da7308a1-fdc3-493d-8b74-e5a9b9b98d4f",
+  "walletAddress": "4tSjvPfHwF9axDgG4NthhkUc9nTXddgMhm3XmmQnXfmh",
+  "initialBalance": 22.73,
+  "persona": {
+    "name": "River",
+    "age": 36,
+    "profession": "full_time_trader",
+    "traits": [
+      "social",
+      "risk_taker"
+    ],
+    "experience": "experienced",
+    "bio": "River, a 36-year-old full-time trader, is known for their dynamic and social approach to crypto investing. With years of experience in the rapidly evolving market, River thrives on taking calculated risks and engaging with a vibrant community of fellow traders. Their ability to anticipate market shifts and adapt swiftly has earned them a reputation as a savvy and personable trader in the crypto world."
+  },
+  "riskTolerance": 1,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

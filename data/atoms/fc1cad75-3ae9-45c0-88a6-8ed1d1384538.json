@@ -1,0 +1,21 @@
+{
+  "id": "fc1cad75-3ae9-45c0-88a6-8ed1d1384538",
+  "walletAddress": "3rFsNBnhDsSCC4xt57BNdr6k7DnU6ukaMVt28NkdLT7y",
+  "initialBalance": 3.29,
+  "persona": {
+    "name": "Phoenix",
+    "age": 26,
+    "profession": "full_time_trader",
+    "traits": [
+      "generous",
+      "intuitive",
+      "big_picture"
+    ],
+    "experience": "novice",
+    "bio": "Phoenix, a 26-year-old full-time crypto trader, is known for their generous spirit and intuitive approach to the market. As a novice in the trading world, Phoenix focuses on understanding the big picture, often prioritizing long-term trends over short-term gains. Their ability to share insights and help others in the community reflects their commitment to growing alongside fellow traders."
+  },
+  "riskTolerance": 0.5779593749046414,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

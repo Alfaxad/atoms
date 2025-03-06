@@ -1,0 +1,21 @@
+{
+  "id": "a651fd90-278a-4945-96f2-c2d04f6a96e2",
+  "walletAddress": "2KGM4RyVwEhxj4NuFCidqa7wwpMmgGBLdnGWaKvAhbmG",
+  "initialBalance": 22.47,
+  "persona": {
+    "name": "Cameron",
+    "age": 55,
+    "profession": "full_time_trader",
+    "traits": [
+      "aggressive",
+      "frugal",
+      "big_picture"
+    ],
+    "experience": "expert",
+    "bio": "Cameron, a 55-year-old full-time crypto trader, navigates the volatile world of digital currencies with an aggressive yet strategic approach, always keeping an eye on the big picture. Known for their frugality and expert-level trading experience, Cameron meticulously analyzes market trends, making calculated decisions that aim to maximize returns while maintaining a keen awareness of potential risks. Their assertive personality and ability to see beyond the immediate market fluctuations have earned them a reputation as a formidable force in the crypto trading community."
+  },
+  "riskTolerance": 0.7932207010242277,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

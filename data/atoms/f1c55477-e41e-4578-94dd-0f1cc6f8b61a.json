@@ -1,0 +1,20 @@
+{
+  "id": "f1c55477-e41e-4578-94dd-0f1cc6f8b61a",
+  "walletAddress": "DzdrrZayy148q35a6JqvTuYtFDdMMYyoQyCvAfkKu9Uz",
+  "initialBalance": 6.91,
+  "persona": {
+    "name": "Bailey",
+    "age": 30,
+    "profession": "full_time_trader",
+    "traits": [
+      "detail_oriented",
+      "generous"
+    ],
+    "experience": "experienced",
+    "bio": "Bailey, a 30-year-old full-time crypto trader, is known for their meticulous and detail-oriented approach to the volatile world of cryptocurrency. With years of experience under their belt, Bailey combines sharp analytical skills with a generous spirit, often sharing insights and strategies with fellow traders to foster a supportive trading community. Their keen eye for detail and dedication to helping others thrive in the market sets Bailey apart as both a successful investor and a valued mentor in the crypto space."
+  },
+  "riskTolerance": 0.5913525628281768,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

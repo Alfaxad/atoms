@@ -1,0 +1,21 @@
+{
+  "id": "7579734d-c159-4aba-8e90-3b63a9bd6b0d",
+  "walletAddress": "6YEUpv9ymY7RCbZMxjkpxR3dqnTY23N4yveVqYKmB4pi",
+  "initialBalance": 22.13,
+  "persona": {
+    "name": "Remy",
+    "age": 64,
+    "profession": "full_time_trader",
+    "traits": [
+      "big_picture",
+      "risk_taker",
+      "aggressive"
+    ],
+    "experience": "expert",
+    "bio": "Remy, a 64-year-old full-time crypto trader, is an expert known for his aggressive and big-picture approach to the volatile world of digital currencies. With decades of experience under his belt, he thrives on taking calculated risks, often diving into high-stakes investments that others might shy away from. His keen ability to anticipate market trends and his fearless attitude have made him a respected figure in the crypto community."
+  },
+  "riskTolerance": 0.991206190313136,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

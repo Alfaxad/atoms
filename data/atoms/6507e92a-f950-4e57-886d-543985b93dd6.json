@@ -1,0 +1,21 @@
+{
+  "id": "6507e92a-f950-4e57-886d-543985b93dd6",
+  "walletAddress": "9kGTKT6Y8meeG9NLAF7quWGL6nA9mwX2FwJNxERBV5x9",
+  "initialBalance": 19.04,
+  "persona": {
+    "name": "Finley",
+    "age": 38,
+    "profession": "full_time_trader",
+    "traits": [
+      "traditional",
+      "cautious",
+      "optimistic"
+    ],
+    "experience": "expert",
+    "bio": "Finley, a 38-year-old full-time trader, combines a traditional approach with a cautious yet optimistic outlook in the volatile world of crypto trading. With expert experience, Finley meticulously analyzes market trends and relies on well-researched strategies to navigate investments, always prioritizing risk management. Despite the unpredictability of the crypto market, Finley remains hopeful about its long-term potential, consistently seeking opportunities for steady growth."
+  },
+  "riskTolerance": 0.5140015654159609,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

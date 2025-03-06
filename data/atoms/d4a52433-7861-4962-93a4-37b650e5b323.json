@@ -1,0 +1,21 @@
+{
+  "id": "d4a52433-7861-4962-93a4-37b650e5b323",
+  "walletAddress": "4x821sFBcQHcj66C9hp3Hz2Qjy5mBZ4eYUpwLfPftzbY",
+  "initialBalance": 25.45,
+  "persona": {
+    "name": "Reese",
+    "age": 55,
+    "profession": "full_time_trader",
+    "traits": [
+      "risk_averse",
+      "impulsive",
+      "cautious"
+    ],
+    "experience": "expert",
+    "bio": "Reese, a 55-year-old full-time crypto trader, masterfully balances caution with impulsivity, making them a formidable presence in the digital currency market. With expert-level experience, Reese employs a risk-averse strategy, meticulously analyzing market trends while occasionally seizing calculated opportunities that defy conventional wisdom. Their unique approach combines a deep understanding of crypto dynamics with an instinctive knack for spotting promising ventures, ensuring a consistently successful trading record."
+  },
+  "riskTolerance": 0.423643661412868,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "e8aeb304-2913-42a6-ba1b-bc6663ec0548",
+  "walletAddress": "5sMfqTbByNt1wgFTmw9ivD8siC7eSTYD7M3HhsTM85iL",
+  "initialBalance": 6.08,
+  "persona": {
+    "name": "Taylor",
+    "age": 25,
+    "profession": "full_time_trader",
+    "traits": [
+      "rational",
+      "social",
+      "emotional"
+    ],
+    "experience": "novice",
+    "bio": "Taylor, a 25-year-old full-time crypto trader, approaches the dynamic world of cryptocurrency with a unique blend of rational analysis and emotional intuition. As a novice in the field, Taylor balances meticulous research with a keen social acumen, leveraging networking opportunities to learn from seasoned traders while navigating the volatile market. Known for their ability to remain level-headed yet empathetic, Taylor is quickly mastering the art of crypto investing with a strategy that combines logical decision-making with a genuine curiosity for emerging trends."
+  },
+  "riskTolerance": 0.4534194668513683,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

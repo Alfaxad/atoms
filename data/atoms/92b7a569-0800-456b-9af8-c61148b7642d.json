@@ -1,0 +1,21 @@
+{
+  "id": "92b7a569-0800-456b-9af8-c61148b7642d",
+  "walletAddress": "GgnZTJTJ8W66Z2Dat5ygALwm3c4Sy6hrrzy8mNQuCeKk",
+  "initialBalance": 12.16,
+  "persona": {
+    "name": "Hayley",
+    "age": 31,
+    "profession": "full_time_trader",
+    "traits": [
+      "impatient",
+      "big_picture",
+      "independent"
+    ],
+    "experience": "experienced",
+    "bio": "Hayley, a 31-year-old full-time crypto trader, is known for her big-picture thinking and independent approach to the volatile world of digital assets. With extensive experience under her belt, she skillfully navigates the crypto markets, leveraging her impatience as an asset to swiftly capitalize on emerging trends. Her strategic foresight and decisive nature make her a formidable force in the ever-evolving landscape of cryptocurrency trading."
+  },
+  "riskTolerance": 0.761065512562516,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

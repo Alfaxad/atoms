@@ -1,0 +1,1596 @@
+{
+  "timestamp": 1741291634365,
+  "simulation": {
+    "isRunning": false,
+    "isPaused": false,
+    "cycleCount": 0,
+    "realTimeElapsed": 1741291634365,
+    "simulationTimeElapsed": 41790999224760,
+    "simulationDays": 483692.12065694446,
+    "timeAcceleration": 24
+  },
+  "market": {
+    "tokens": [],
+    "globalVolume": 0
+  },
+  "trading": {
+    "recentTrades": [
+      {
+        "id": "cf00ef9a-6e9c-482c-82b7-987837261279",
+        "atomId": "6204862b-d5b8-4958-b4fc-488ff4a99b16",
+        "tokenSymbol": "ATOM3",
+        "type": "sell",
+        "amount": 60,
+        "price": 0.5,
+        "timestamp": 1741291541911
+      },
+      {
+        "id": "4eb511d9-6147-4a80-b932-32728c58b023",
+        "atomId": "5242496b-a253-4c69-bce3-79820c764bd8",
+        "tokenSymbol": "ATOMS",
+        "type": "sell",
+        "amount": 71,
+        "price": 0.5,
+        "timestamp": 1741291541910
+      },
+      {
+        "id": "390be7d1-5e00-49b3-a921-587bdf1d2785",
+        "atomId": "988c5316-21c1-4593-aa16-839b12943944",
+        "tokenSymbol": "ATOMS",
+        "type": "sell",
+        "amount": 21,
+        "price": 0.5,
+        "timestamp": 1741291541908
+      },
+      {
+        "id": "670cec27-c3ff-4cac-9f78-d6d0b6888c1f",
+        "atomId": "0a908bb5-73cc-4b9e-9857-b7c215925d89",
+        "tokenSymbol": "ATOM3",
+        "type": "buy",
+        "amount": 38,
+        "price": 0.5,
+        "timestamp": 1741291541908
+      },
+      {
+        "id": "df200acf-6223-48c1-9cdd-be18c445b1e9",
+        "atomId": "75edaf10-ccec-4417-9734-67038d62c80a",
+        "tokenSymbol": "ATOM3",
+        "type": "sell",
+        "amount": 96,
+        "price": 0.5,
+        "timestamp": 1741291541906
+      },
+      {
+        "id": "af2c3894-381c-45f8-b5ed-7380b98bb4e6",
+        "atomId": "73b41cc9-04e9-4b9e-922d-2155fd1922a9",
+        "tokenSymbol": "ATOM3",
+        "type": "buy",
+        "amount": 83,
+        "price": 0.5,
+        "timestamp": 1741290441084
+      },
+      {
+        "id": "9e6d7bb7-88af-45be-bc3f-28e6ec2c36a5",
+        "atomId": "bca791fb-55f0-49e8-8cc3-564446456cca",
+        "tokenSymbol": "ATOMS",
+        "type": "buy",
+        "amount": 86,
+        "price": 0.5,
+        "timestamp": 1741290439174
+      },
+      {
+        "id": "07d5d859-fadf-47a3-94fe-669fb14681ff",
+        "atomId": "63997c39-aa67-48b1-8c91-e1e67dd00782",
+        "tokenSymbol": "ATOMS",
+        "type": "buy",
+        "amount": 117,
+        "price": 0.5,
+        "timestamp": 1741290437193
+      },
+      {
+        "id": "89971d43-fbfb-40f3-b176-ef0f1d4cd48a",
+        "atomId": "bacb5823-a369-4705-97df-a5707071c5d3",
+        "tokenSymbol": "ATOMS",
+        "type": "buy",
+        "amount": 61,
+        "price": 0.5,
+        "timestamp": 1741290435490
+      },
+      {
+        "id": "246e8683-783c-471e-b96f-c5c65a1fdbf9",
+        "atomId": "0710f0f1-5bf4-4f78-813a-f994a9a2e351",
+        "tokenSymbol": "USDC",
+        "type": "buy",
+        "amount": 144,
+        "price": 1,
+        "timestamp": 1741290433613
+      },
+      {
+        "id": "683adf90-06f3-4721-a949-971a86e196ae",
+        "atomId": "c25df4aa-d107-4f05-b9ed-f96d9b71bbf3",
+        "tokenSymbol": "ATOM2",
+        "type": "buy",
+        "amount": 125,
+        "price": 0.5,
+        "timestamp": 1741290431882
+      },
+      {
+        "id": "5381cfe8-4263-4ffd-8945-b05e499f453b",
+        "atomId": "cb5d67f0-3dab-470a-8a53-845ef3dc5113",
+        "tokenSymbol": "USDC",
+        "type": "sell",
+        "amount": 143,
+        "price": 1,
+        "timestamp": 1741290429689
+      },
+      {
+        "id": "c376da60-74ba-43dc-bc20-adb8f3f1fb3a",
+        "atomId": "de1f4e55-7aae-4a5a-9a1d-965cf62f959b",
+        "tokenSymbol": "ATOM3",
+        "type": "sell",
+        "amount": 119,
+        "price": 0.5,
+        "timestamp": 1741290428391
+      },
+      {
+        "id": "ec2296a0-acf5-4246-bb24-86a80bbb3be7",
+        "atomId": "de9f0e56-5e16-4abe-97e7-e5f8ced28748",
+        "tokenSymbol": "ATOMS",
+        "type": "sell",
+        "amount": 37,
+        "price": 0.5,
+        "timestamp": 1741290426662
+      },
+      {
+        "id": "0bfb5a3e-c586-4d64-8169-42438743d347",
+        "atomId": "c76e8529-e979-4a69-a855-597862d72efa",
+        "tokenSymbol": "ATOMS",
+        "type": "buy",
+        "amount": 125,
+        "price": 0.5,
+        "timestamp": 1741290424639
+      },
+      {
+        "id": "086a4f42-c640-417e-a6f0-f76424b8d211",
+        "atomId": "e6cc759e-1f74-44d7-b690-3d40894906d9",
+        "tokenSymbol": "ATOM3",
+        "type": "buy",
+        "amount": 26,
+        "price": 0.5,
+        "timestamp": 1741290423008
+      },
+      {
+        "id": "51b65bd9-d3f9-49c2-9271-a237b9db4e58",
+        "atomId": "b1a1726c-23fe-4783-9eb7-01578cc5321d",
+        "tokenSymbol": "ATOM3",
+        "type": "sell",
+        "amount": 96,
+        "price": 0.5,
+        "timestamp": 1741290421007
+      },
+      {
+        "id": "e1bc7ce0-5c97-4341-9f82-5afdbdf750c7",
+        "atomId": "cb5e802b-263c-4d7a-83cc-293313def463",
+        "tokenSymbol": "ATOM2",
+        "type": "buy",
+        "amount": 53,
+        "price": 0.5,
+        "timestamp": 1741290419616
+      },
+      {
+        "id": "71c76beb-3f39-4538-954d-966de8522bb0",
+        "atomId": "d7335abf-3278-43fd-984c-f3aa29baa59b",
+        "tokenSymbol": "ATOM3",
+        "type": "buy",
+        "amount": 68,
+        "price": 0.5,
+        "timestamp": 1741290417886
+      },
+      {
+        "id": "e2644286-4e3a-4681-9657-4dafa2eaf0bb",
+        "atomId": "d2724c77-e31f-46cd-9a14-675936b17d4f",
+        "tokenSymbol": "USDC",
+        "type": "buy",
+        "amount": 67,
+        "price": 1,
+        "timestamp": 1741290416222
+      },
+      {
+        "id": "f084b534-8b43-4d61-bb75-bcbb314c9ba8",
+        "atomId": "b366d40d-db90-41e6-9285-b2cc514e0187",
+        "tokenSymbol": "ATOM1",
+        "type": "sell",
+        "amount": 147,
+        "price": 0.5,
+        "timestamp": 1741290414531
+      },
+      {
+        "id": "6de56cb6-b714-459e-884b-5d63e388880b",
+        "atomId": "dcb33862-daab-4c83-b806-4b69ed7b425b",
+        "tokenSymbol": "ATOMS",
+        "type": "buy",
+        "amount": 24,
+        "price": 0.5,
+        "timestamp": 1741290412491
+      },
+      {
+        "id": "59f0046e-6de4-4ea2-bd2d-e42e11deef8c",
+        "atomId": "d10cb6b1-2516-4810-a8ea-136a2b4a8918",
+        "tokenSymbol": "USDC",
+        "type": "sell",
+        "amount": 41,
+        "price": 1,
+        "timestamp": 1741290410329
+      },
+      {
+        "id": "a7381d3c-bc0b-4af8-a668-fcddd83d070f",
+        "atomId": "c9ec51e6-08b6-4761-a973-1797b7a486b3",
+        "tokenSymbol": "ATOM3",
+        "type": "buy",
+        "amount": 129,
+        "price": 0.5,
+        "timestamp": 1741290407976
+      },
+      {
+        "id": "668eff4b-1344-4189-823a-06077cee5418",
+        "atomId": "c7766a50-5a30-47d0-b261-02adba3cf9e0",
+        "tokenSymbol": "ATOM1",
+        "type": "buy",
+        "amount": 163,
+        "price": 0.5,
+        "timestamp": 1741290406318
+      },
+      {
+        "id": "5a3a26d9-4f7d-45b2-ba1e-0daf6023e519",
+        "atomId": "cc93680d-9e0b-4020-8940-bb028f9f3b47",
+        "tokenSymbol": "USDC",
+        "type": "sell",
+        "amount": 65,
+        "price": 1,
+        "timestamp": 1741290404846
+      },
+      {
+        "id": "9419e741-b1aa-43f4-a35e-0a569f07d351",
+        "atomId": "d4a52433-7861-4962-93a4-37b650e5b323",
+        "tokenSymbol": "ATOM3",
+        "type": "sell",
+        "amount": 40,
+        "price": 0.5,
+        "timestamp": 1741290403084
+      },
+      {
+        "id": "f734c8f8-5ac0-487f-a1c1-aa7f67b211ab",
+        "atomId": "cbfd5c11-229a-48c6-b988-1e318a3c32e3",
+        "tokenSymbol": "USDC",
+        "type": "sell",
+        "amount": 27,
+        "price": 1,
+        "timestamp": 1741290401351
+      },
+      {
+        "id": "46b515af-a428-4bab-a564-bd791bb7d7f4",
+        "atomId": "c66b5e55-1abf-4ed5-9103-2771a7c35f28",
+        "tokenSymbol": "USDC",
+        "type": "sell",
+        "amount": 68,
+        "price": 1,
+        "timestamp": 1741290399467
+      },
+      {
+        "id": "ff6786e2-1fa6-457f-8f55-cca694968f62",
+        "atomId": "c4203918-0932-4d3d-be2c-f72ae679f47b",
+        "tokenSymbol": "ATOMS",
+        "type": "buy",
+        "amount": 15,
+        "price": 0.5,
+        "timestamp": 1741290397922
+      },
+      {
+        "id": "639c2636-9063-45a2-b1d8-2aa43d1b0119",
+        "atomId": "ce5b9bc2-8ecf-4dd4-a69b-97bcc3f3f00d",
+        "tokenSymbol": "ATOM2",
+        "type": "buy",
+        "amount": 13,
+        "price": 0.5,
+        "timestamp": 1741290395513
+      },
+      {
+        "id": "003b129b-e0f6-4df7-9efc-b12198e6a847",
+        "atomId": "d7d37c6b-4b04-45f4-aa05-f55d5695dffc",
+        "tokenSymbol": "ATOM3",
+        "type": "sell",
+        "amount": 28,
+        "price": 0.5,
+        "timestamp": 1741290393901
+      },
+      {
+        "id": "49141ba8-de87-4801-8540-baafb636c8da",
+        "atomId": "d7002d4b-966f-48ec-955b-e9a84139d1b3",
+        "tokenSymbol": "ATOM1",
+        "type": "sell",
+        "amount": 107,
+        "price": 0.5,
+        "timestamp": 1741290392661
+      },
+      {
+        "id": "12a417a9-f3f5-4e8b-9179-6ac229c406e5",
+        "atomId": "cc9f773a-56e6-4e0c-bef8-b844d6d6a230",
+        "tokenSymbol": "ATOMS",
+        "type": "buy",
+        "amount": 23,
+        "price": 0.5,
+        "timestamp": 1741290390422
+      },
+      {
+        "id": "2d5f737e-5fb8-4dd0-91e3-59d5885ab850",
+        "atomId": "cf38f722-7ac1-4ea0-aa2b-0d95dde0ac8c",
+        "tokenSymbol": "USDC",
+        "type": "sell",
+        "amount": 115,
+        "price": 1,
+        "timestamp": 1741290388666
+      },
+      {
+        "id": "fcf7c0f7-bfe4-473f-8bd4-adab45b483b6",
+        "atomId": "d46cccd3-a815-4c02-b257-d0a9cc8efa59",
+        "tokenSymbol": "ATOM2",
+        "type": "buy",
+        "amount": 86,
+        "price": 0.5,
+        "timestamp": 1741290386654
+      },
+      {
+        "id": "c99fb72b-549a-4a37-8bbe-130e3f224a30",
+        "atomId": "c823db2f-dfd3-4f53-b4d0-b3d25992775f",
+        "tokenSymbol": "USDC",
+        "type": "sell",
+        "amount": 83,
+        "price": 1,
+        "timestamp": 1741290384583
+      },
+      {
+        "id": "b1d5ccea-a866-4c70-8bbc-47a46133a155",
+        "atomId": "da6f8684-c673-42a7-9076-aa826e38aa44",
+        "tokenSymbol": "ATOM2",
+        "type": "buy",
+        "amount": 101,
+        "price": 0.5,
+        "timestamp": 1741290382836
+      },
+      {
+        "id": "02ab871f-6942-4ddd-a509-204f82116d76",
+        "atomId": "e101ba44-d92d-43a9-b559-d2522df9fb0e",
+        "tokenSymbol": "USDC",
+        "type": "sell",
+        "amount": 66,
+        "price": 1,
+        "timestamp": 1741290380860
+      },
+      {
+        "id": "6bc9c9f1-68fc-45e0-b90e-953b55b5c585",
+        "atomId": "2ba5dea5-d11c-4a3a-b783-2f2156f52371",
+        "tokenSymbol": "ATOM3",
+        "type": "sell",
+        "amount": 103,
+        "price": 0.5,
+        "timestamp": 1741290379234
+      },
+      {
+        "id": "05f06ed6-d5ab-4bcc-92d5-9a821bb1725f",
+        "atomId": "3333bf97-70d3-4eac-a374-4a459e40ef02",
+        "tokenSymbol": "ATOM3",
+        "type": "buy",
+        "amount": 35,
+        "price": 0.5,
+        "timestamp": 1741290221705
+      },
+      {
+        "id": "99dddd78-398c-4b24-9196-f7f393350510",
+        "atomId": "c477e1e8-4c5d-43c3-a2a0-e287ff4ab288",
+        "tokenSymbol": "ATOM2",
+        "type": "buy",
+        "amount": 133,
+        "price": 0.5,
+        "timestamp": 1741290219714
+      },
+      {
+        "id": "172bc44c-db10-47c8-a640-cb6975b1c7ea",
+        "atomId": "bd38802e-d2dd-42fb-b2f0-093fed625416",
+        "tokenSymbol": "ATOMS",
+        "type": "buy",
+        "amount": 59,
+        "price": 0.5,
+        "timestamp": 1741290218266
+      },
+      {
+        "id": "573ab256-3d3c-41ea-b3f3-ef370b102e0d",
+        "atomId": "ccd7a044-e897-4417-b459-30b6369ba691",
+        "tokenSymbol": "USDC",
+        "type": "buy",
+        "amount": 101,
+        "price": 1,
+        "timestamp": 1741290216352
+      },
+      {
+        "id": "4c860d81-9520-41ec-9b0a-69803c134994",
+        "atomId": "9e23092a-df19-45ce-9978-60da762dea07",
+        "tokenSymbol": "ATOM3",
+        "type": "sell",
+        "amount": 102,
+        "price": 0.5,
+        "timestamp": 1741290214888
+      },
+      {
+        "id": "49d2833a-aa86-4106-8db1-3d8192d11bed",
+        "atomId": "9c8c1513-9709-4e1a-ad7d-fed4e5655f44",
+        "tokenSymbol": "USDC",
+        "type": "sell",
+        "amount": 116,
+        "price": 1,
+        "timestamp": 1741290213336
+      },
+      {
+        "id": "f00dafa2-ff9d-47d8-a70e-7027c233dd5a",
+        "atomId": "2e7ff00f-3420-4bd5-a23b-1b5c1fa860d8",
+        "tokenSymbol": "ATOM1",
+        "type": "buy",
+        "amount": 22,
+        "price": 0.5,
+        "timestamp": 1741290211731
+      },
+      {
+        "id": "c514ca6c-eb9b-4609-a7ee-72614ebdd952",
+        "atomId": "7a430ead-cbbb-452e-aaa2-333865109dd7",
+        "tokenSymbol": "ATOM2",
+        "type": "buy",
+        "amount": 18,
+        "price": 0.5,
+        "timestamp": 1741290209778
+      },
+      {
+        "id": "abe20248-ee5a-4253-be07-f0163a9fda5f",
+        "atomId": "23f45130-c133-4b5b-b461-b5f9c142672b",
+        "tokenSymbol": "ATOM1",
+        "type": "sell",
+        "amount": 111,
+        "price": 0.5,
+        "timestamp": 1741290208136
+      },
+      {
+        "id": "5c4a6187-0b49-4bf3-9d5a-9f12c2ca8990",
+        "atomId": "e083430a-203e-4e7d-97a0-0fca670c9086",
+        "tokenSymbol": "USDC",
+        "type": "sell",
+        "amount": 72,
+        "price": 1,
+        "timestamp": 1741290205769
+      },
+      {
+        "id": "0287e763-e83b-4153-865a-a95937e12f12",
+        "atomId": "aa437778-8a9a-4187-bff5-b14944a8d469",
+        "tokenSymbol": "ATOM1",
+        "type": "sell",
+        "amount": 73,
+        "price": 0.5,
+        "timestamp": 1741290204344
+      },
+      {
+        "id": "f5e5a2fd-13eb-4201-aebb-2d2e890d2af0",
+        "atomId": "a0f2d35d-2066-474f-805a-2b118aa35ae1",
+        "tokenSymbol": "ATOM1",
+        "type": "buy",
+        "amount": 48,
+        "price": 0.5,
+        "timestamp": 1741290202147
+      },
+      {
+        "id": "f7901dd9-042c-4ce1-b1ba-83345d60bbe2",
+        "atomId": "cb5e802b-263c-4d7a-83cc-293313def463",
+        "tokenSymbol": "ATOM1",
+        "type": "sell",
+        "amount": 100,
+        "price": 0.5,
+        "timestamp": 1741290200503
+      },
+      {
+        "id": "26d51a2f-b36a-48b5-b1d4-347a3910260d",
+        "atomId": "0d6c7b82-f1be-4032-80f0-8267e3b8b551",
+        "tokenSymbol": "ATOM1",
+        "type": "sell",
+        "amount": 84,
+        "price": 0.5,
+        "timestamp": 1741290198601
+      },
+      {
+        "id": "bc07cd7c-12bb-45fc-92de-4a659e6949fc",
+        "atomId": "26f663e0-d9f4-4c9a-a9d0-ece2fdfb99b0",
+        "tokenSymbol": "ATOM2",
+        "type": "buy",
+        "amount": 79,
+        "price": 0.5,
+        "timestamp": 1741290196682
+      },
+      {
+        "id": "8fef9cf5-3fb6-4484-8a82-cc7a18674a4f",
+        "atomId": "faf9b126-f87a-4633-a094-8137f29ba4e1",
+        "tokenSymbol": "ATOM3",
+        "type": "buy",
+        "amount": 68,
+        "price": 0.5,
+        "timestamp": 1741290195196
+      },
+      {
+        "id": "5fc35a2b-fce5-4ade-b92d-d2b83e45c0e1",
+        "atomId": "63997c39-aa67-48b1-8c91-e1e67dd00782",
+        "tokenSymbol": "ATOM1",
+        "type": "buy",
+        "amount": 19,
+        "price": 0.5,
+        "timestamp": 1741290193232
+      },
+      {
+        "id": "d0349c2e-890c-4733-9af3-d88147042df6",
+        "atomId": "2bb0560f-74ff-4a78-ba0f-751409da8e80",
+        "tokenSymbol": "ATOM1",
+        "type": "buy",
+        "amount": 136,
+        "price": 0.5,
+        "timestamp": 1741290191668
+      },
+      {
+        "id": "5254a6fb-aabb-4207-8767-d9d8fd694248",
+        "atomId": "e8be9634-a1a9-421d-97e4-2629eec5eda0",
+        "tokenSymbol": "USDC",
+        "type": "buy",
+        "amount": 190,
+        "price": 1,
+        "timestamp": 1741290189454
+      },
+      {
+        "id": "09031045-f029-4527-b9a0-f3e7dc2a4d42",
+        "atomId": "a0abdbe8-9168-464f-a442-9bfa7f25a87d",
+        "tokenSymbol": "USDC",
+        "type": "buy",
+        "amount": 66,
+        "price": 1,
+        "timestamp": 1741290188111
+      },
+      {
+        "id": "d54b33c7-16a7-4546-9bc8-cbe4b8672a03",
+        "atomId": "c994d8bb-ddae-4a1d-a8f2-cb99a2dd3aad",
+        "tokenSymbol": "USDC",
+        "type": "buy",
+        "amount": 22,
+        "price": 1,
+        "timestamp": 1741290186742
+      },
+      {
+        "id": "29274536-8143-4508-bcf6-85cc2e051ade",
+        "atomId": "a65c12a4-4bc7-41f8-a3ed-15fee484daeb",
+        "tokenSymbol": "ATOMS",
+        "type": "buy",
+        "amount": 79,
+        "price": 0.5,
+        "timestamp": 1741290184806
+      },
+      {
+        "id": "ae51c66e-3bca-4dc3-8fa5-a120760a7898",
+        "atomId": "88c481fc-ff74-46c3-a1b9-db94e6e199e9",
+        "tokenSymbol": "ATOM3",
+        "type": "buy",
+        "amount": 83,
+        "price": 0.5,
+        "timestamp": 1741290182760
+      },
+      {
+        "id": "6eef2d0b-65e4-4c35-9bae-f86fd66ce5ea",
+        "atomId": "c99ef659-c2cb-4d12-8a92-e124676ebbd4",
+        "tokenSymbol": "ATOM1",
+        "type": "sell",
+        "amount": 11,
+        "price": 0.5,
+        "timestamp": 1741290181073
+      },
+      {
+        "id": "c850368c-bbac-426f-9700-ac31b2a26513",
+        "atomId": "d45752e8-5daf-453e-a76e-0303a38039b2",
+        "tokenSymbol": "ATOM2",
+        "type": "sell",
+        "amount": 126,
+        "price": 0.5,
+        "timestamp": 1741290179405
+      },
+      {
+        "id": "f6e1eafe-84f4-4d00-8fcc-17fa530dc75c",
+        "atomId": "b92733ed-ac26-4298-82a1-53c4b7f5d049",
+        "tokenSymbol": "USDC",
+        "type": "sell",
+        "amount": 15,
+        "price": 1,
+        "timestamp": 1741290177887
+      },
+      {
+        "id": "e883fe0f-9ca6-4248-be9a-ba02884d7301",
+        "atomId": "d38d99d5-749d-4d66-a4d5-17111ab958e6",
+        "tokenSymbol": "ATOM1",
+        "type": "buy",
+        "amount": 116,
+        "price": 0.5,
+        "timestamp": 1741290176327
+      },
+      {
+        "id": "85303896-b4e9-43b9-a5f3-d8baeddad484",
+        "atomId": "608c5d6b-68ff-4021-8960-f14b393ed52c",
+        "tokenSymbol": "ATOM3",
+        "type": "buy",
+        "amount": 121,
+        "price": 0.5,
+        "timestamp": 1741290174671
+      },
+      {
+        "id": "d8aac8d5-52a2-4f60-b229-11ea0ecbd261",
+        "atomId": "a5ae54d3-3665-4d27-98c2-7008205825ca",
+        "tokenSymbol": "USDC",
+        "type": "buy",
+        "amount": 54,
+        "price": 1,
+        "timestamp": 1741290173191
+      },
+      {
+        "id": "3dfb8149-d4d0-4006-95b8-1eb08cf51682",
+        "atomId": "cbd611d5-066c-4789-853a-497366ac6759",
+        "tokenSymbol": "ATOMS",
+        "type": "sell",
+        "amount": 74,
+        "price": 0.5,
+        "timestamp": 1741290171722
+      },
+      {
+        "id": "a2ac60b8-e9fa-405b-a8ea-d37157e7c7f8",
+        "atomId": "6445cf81-d1ea-4b7a-a97f-14bccf7f8eb5",
+        "tokenSymbol": "ATOMS",
+        "type": "buy",
+        "amount": 65,
+        "price": 0.5,
+        "timestamp": 1741290169649
+      },
+      {
+        "id": "15088770-6710-4133-9515-3aa5d5dc79cb",
+        "atomId": "3626fb1e-dc41-460a-9ead-d51e23c74d65",
+        "tokenSymbol": "ATOM1",
+        "type": "buy",
+        "amount": 25,
+        "price": 0.5,
+        "timestamp": 1741290167920
+      },
+      {
+        "id": "673ad466-9eaa-4a05-b242-cc586246ac46",
+        "atomId": "571f5cfc-bdb2-4e95-8200-62565fc5473a",
+        "tokenSymbol": "ATOMS",
+        "type": "sell",
+        "amount": 105,
+        "price": 0.5,
+        "timestamp": 1741290166276
+      },
+      {
+        "id": "19483a67-18ae-4322-be46-350a9b2a25ca",
+        "atomId": "92089e35-14ea-4078-9d9c-bd6b28e420de",
+        "tokenSymbol": "ATOM3",
+        "type": "buy",
+        "amount": 125,
+        "price": 0.5,
+        "timestamp": 1741290164108
+      },
+      {
+        "id": "19533a40-1e6e-4a09-b72a-30f0f4d730bd",
+        "atomId": "5242496b-a253-4c69-bce3-79820c764bd8",
+        "tokenSymbol": "ATOM1",
+        "type": "buy",
+        "amount": 157,
+        "price": 0.5,
+        "timestamp": 1741290162388
+      },
+      {
+        "id": "b79810f9-737d-48a9-9ddf-93f8d9787491",
+        "atomId": "05c5a299-be66-4075-a8fd-ebd5cc959a51",
+        "tokenSymbol": "ATOM1",
+        "type": "buy",
+        "amount": 123,
+        "price": 0.5,
+        "timestamp": 1741290010306
+      },
+      {
+        "id": "e9c3134c-0353-4129-82a6-befd84ea7e24",
+        "atomId": "ae409be0-78ad-4e55-a14e-dd30dc3257fc",
+        "tokenSymbol": "USDC",
+        "type": "sell",
+        "amount": 125,
+        "price": 1,
+        "timestamp": 1741290008762
+      },
+      {
+        "id": "056a0e08-ed21-4bf6-bf8d-83029857669c",
+        "atomId": "14293ce7-bb7c-4c48-a11a-27f480531271",
+        "tokenSymbol": "ATOM3",
+        "type": "sell",
+        "amount": 82,
+        "price": 0.5,
+        "timestamp": 1741290006999
+      },
+      {
+        "id": "f42bbc81-b6c9-4b64-afb1-eb4f2030fe17",
+        "atomId": "42bcf475-dc84-48f2-93bc-616c29604e7c",
+        "tokenSymbol": "ATOMS",
+        "type": "buy",
+        "amount": 95,
+        "price": 0.5,
+        "timestamp": 1741290005044
+      },
+      {
+        "id": "d685d359-1ceb-4268-813c-8b524a500355",
+        "atomId": "2f144d3a-2c3d-4705-a554-4682835d84c4",
+        "tokenSymbol": "ATOMS",
+        "type": "buy",
+        "amount": 77,
+        "price": 0.5,
+        "timestamp": 1741290002743
+      },
+      {
+        "id": "11ba0850-5cba-4b90-9086-3b6ae2f9fa3f",
+        "atomId": "b179d97a-8295-4156-b69c-8c26d50739f0",
+        "tokenSymbol": "ATOM2",
+        "type": "buy",
+        "amount": 49,
+        "price": 0.5,
+        "timestamp": 1741290000730
+      },
+      {
+        "id": "ab3e761a-4601-4f86-adb8-73da8dd77930",
+        "atomId": "9e23092a-df19-45ce-9978-60da762dea07",
+        "tokenSymbol": "ATOM1",
+        "type": "buy",
+        "amount": 103,
+        "price": 0.5,
+        "timestamp": 1741289999179
+      },
+      {
+        "id": "9eeda553-2bbf-498c-84ab-867d906c0362",
+        "atomId": "42019a94-2ec0-45cd-a127-128e49f0a03f",
+        "tokenSymbol": "ATOM1",
+        "type": "sell",
+        "amount": 33,
+        "price": 0.5,
+        "timestamp": 1741289997341
+      },
+      {
+        "id": "df823c26-a6bb-44cd-8240-94f882c97b4a",
+        "atomId": "39c76c30-6812-4f7f-a137-f2c2e8ca0d94",
+        "tokenSymbol": "ATOMS",
+        "type": "sell",
+        "amount": 66,
+        "price": 0.5,
+        "timestamp": 1741289995419
+      },
+      {
+        "id": "fc3b3f03-d823-427c-9fd9-88c7db3dd1f8",
+        "atomId": "446abfa7-cde9-41c8-b2e7-1c07365b23b0",
+        "tokenSymbol": "ATOM2",
+        "type": "buy",
+        "amount": 81,
+        "price": 0.5,
+        "timestamp": 1741289993169
+      },
+      {
+        "id": "d9a65ccd-0288-472d-8d73-ea29fabbb9d0",
+        "atomId": "15208fa3-fa46-4337-9b05-fec2b876397c",
+        "tokenSymbol": "ATOM2",
+        "type": "sell",
+        "amount": 159,
+        "price": 0.5,
+        "timestamp": 1741289991353
+      },
+      {
+        "id": "017ec7a1-4111-4d74-bf82-6a371e976b0a",
+        "atomId": "aca39275-45d7-458d-bdd8-36b28198d588",
+        "tokenSymbol": "ATOM3",
+        "type": "buy",
+        "amount": 13,
+        "price": 0.5,
+        "timestamp": 1741289989826
+      },
+      {
+        "id": "56a3be2b-921e-4918-8b6e-af9f0633a25c",
+        "atomId": "4215c90b-3204-4965-b0fc-a9124d393b0e",
+        "tokenSymbol": "ATOM1",
+        "type": "buy",
+        "amount": 66,
+        "price": 0.5,
+        "timestamp": 1741289987828
+      },
+      {
+        "id": "1a26009e-a896-49e2-9edc-db9a096405c0",
+        "atomId": "0d1eb891-432b-4633-bb61-c9f7131d17ec",
+        "tokenSymbol": "USDC",
+        "type": "buy",
+        "amount": 152,
+        "price": 1,
+        "timestamp": 1741289986035
+      },
+      {
+        "id": "387c707c-9380-4865-a68a-00869bc664f0",
+        "atomId": "83a11bca-69f8-4a87-a9c0-971d885ac753",
+        "tokenSymbol": "ATOM3",
+        "type": "sell",
+        "amount": 26,
+        "price": 0.5,
+        "timestamp": 1741289984225
+      },
+      {
+        "id": "3ac0b25e-c982-4ddd-b9df-24e1199ef156",
+        "atomId": "898653d7-a0bc-4baa-af57-70cc094ef0bd",
+        "tokenSymbol": "ATOM1",
+        "type": "buy",
+        "amount": 133,
+        "price": 0.5,
+        "timestamp": 1741289982670
+      },
+      {
+        "id": "8749ba43-8557-4e92-b3da-ecccb96c202b",
+        "atomId": "88aec8cf-d98c-42ca-a7bf-af84bf91ee20",
+        "tokenSymbol": "ATOMS",
+        "type": "buy",
+        "amount": 11,
+        "price": 0.5,
+        "timestamp": 1741289980987
+      },
+      {
+        "id": "8fe94f78-fad6-4aa2-9e78-9252e5c900ec",
+        "atomId": "96159ae2-7090-497e-9571-bd9985a7ae70",
+        "tokenSymbol": "ATOM2",
+        "type": "buy",
+        "amount": 131,
+        "price": 0.5,
+        "timestamp": 1741289979295
+      },
+      {
+        "id": "c155cf9b-10ad-45ec-bf12-0bbd93e758a5",
+        "atomId": "90ae4e2d-7a27-46d8-8cae-3a66835e977c",
+        "tokenSymbol": "ATOMS",
+        "type": "sell",
+        "amount": 108,
+        "price": 0.5,
+        "timestamp": 1741289977728
+      },
+      {
+        "id": "1b93ff11-834f-4f25-aaba-b970a407dcc2",
+        "atomId": "11e1a081-01cb-4df6-9172-e10154ac1ea7",
+        "tokenSymbol": "USDC",
+        "type": "buy",
+        "amount": 40,
+        "price": 1,
+        "timestamp": 1741289976086
+      },
+      {
+        "id": "ed99e35e-5c45-49b6-a527-e454895a9e68",
+        "atomId": "23f45130-c133-4b5b-b461-b5f9c142672b",
+        "tokenSymbol": "ATOMS",
+        "type": "sell",
+        "amount": 109,
+        "price": 0.5,
+        "timestamp": 1741289974716
+      },
+      {
+        "id": "4c538a9e-8d32-4cbb-83b9-1c09a88358bd",
+        "atomId": "43bbe47e-f408-4c87-93eb-7301a25609bc",
+        "tokenSymbol": "ATOMS",
+        "type": "sell",
+        "amount": 83,
+        "price": 0.5,
+        "timestamp": 1741289973066
+      },
+      {
+        "id": "fc7473b9-c634-4973-b4b2-0544592dfbe2",
+        "atomId": "9746b5be-1934-4f5a-9b2d-7124524f4458",
+        "tokenSymbol": "ATOM3",
+        "type": "buy",
+        "amount": 29,
+        "price": 0.5,
+        "timestamp": 1741289971139
+      },
+      {
+        "id": "a93ee28d-f050-4606-ad86-c0ec91671d58",
+        "atomId": "52fddb64-2b5d-449d-bffe-eab95473cc74",
+        "tokenSymbol": "ATOM2",
+        "type": "buy",
+        "amount": 128,
+        "price": 0.5,
+        "timestamp": 1741289969283
+      },
+      {
+        "id": "32b604af-4642-400f-bb81-cfaa830a53d8",
+        "atomId": "37254fca-b0dc-4538-b7e9-71b35d8ab30c",
+        "tokenSymbol": "ATOMS",
+        "type": "sell",
+        "amount": 111,
+        "price": 0.5,
+        "timestamp": 1741289967410
+      }
+    ]
+  },
+  "communication": {
+    "recentMessages": [
+      {
+        "id": "3c9b2923-45e4-4db2-ab45-e4ffc54c78bb",
+        "atomId": "6cb92283-c3fc-45f9-860e-71cab6e9be92",
+        "content": "\"Been diving deep into some upcoming projects, and ATOM1 keeps catching my eye. It's showing interesting activity lately—might be worth keeping on the radar. 🤔📈\"",
+        "timestamp": 1741291521340
+      },
+      {
+        "id": "6fd51a66-a8d2-4bdc-8aaa-858ccce198fd",
+        "atomId": "a1e9aa66-cb35-4583-af92-2d053242f10d",
+        "content": "\"Hey everyone, just did a deep dive into ATOM1 and noticed some interesting movements that could signal a breakout soon. 📈 Been discussing this with a few other traders, and there seems to be a buzz around its potential. Might be worth keeping an eye on! 🤔\"",
+        "timestamp": 1741291519527
+      },
+      {
+        "id": "35642c0d-ea30-4a27-bef6-cc1abc9c0a3a",
+        "atomId": "72a027a4-d634-437a-b068-f0112780fb0e",
+        "content": "\"Just did a deep dive into ATOM1's recent developments and it's looking exceptionally promising—strong fundamentals and some exciting partnerships on the horizon. Might be worth keeping an eye on this one for potential growth 📈. Curious to hear thoughts from anyone else following its progress!\"",
+        "timestamp": 1741291516932
+      },
+      {
+        "id": "9a585d3a-b2d5-4a53-951c-6ed789dc8c31",
+        "atomId": "e6cc759e-1f74-44d7-b690-3d40894906d9",
+        "content": "\"Just had an interesting chat with a colleague about ATOM1—seems like it's been quietly building momentum in the background. Anyone else keeping an eye on this one? 🤔📈\"",
+        "timestamp": 1741291514670
+      },
+      {
+        "id": "76441b4f-cf95-4c34-ab1e-b7352aaf0725",
+        "atomId": "315ee118-aafb-400f-ac14-9b958072acf9",
+        "content": "\"Hey everyone, I've been diving into some interesting patterns with ATOM1 lately. 🚀 There's been some quiet accumulation going on, and a few whispers about a potential breakout soon. Just something to keep on your radar!\"",
+        "timestamp": 1741291508592
+      },
+      {
+        "id": "ae402017-3de5-4917-85f4-f5da15106d69",
+        "atomId": "23a57756-4994-46cf-869c-bfd9b7db1c6a",
+        "content": "\"Hey everyone! 🌟 I've been taking a closer look at ATOM1 recently and noticed some interesting movement that could signal an upcoming opportunity. Curious to hear what you all think—let's dive into this together and see where it leads! 🚀\"",
+        "timestamp": 1741291506441
+      },
+      {
+        "id": "7a3d3546-fcdf-4279-8b26-fc903935a8ce",
+        "atomId": "fbecaef8-ca9b-4d1e-a135-0d971365dc10",
+        "content": "I've been hearing some interesting buzz about ATOM1 lately from a few reputable sources—seems like some big moves could be on the horizon. 🌟 It's always exciting to catch these opportunities early, so I'm keeping a close eye on it. What do you all think?",
+        "timestamp": 1741291504561
+      },
+      {
+        "id": "3accb2c8-2955-41a2-886d-5778dde89e9e",
+        "atomId": "b07f79f2-8ee8-4768-b8df-259f819aabf9",
+        "content": "\"Hey team! Just noticed something interesting with ATOM1—there's been a lot of quiet accumulation going on lately. 🚀 It might be worth keeping an eye on for those of you who like to get in early before the buzz hits. 😉\"",
+        "timestamp": 1741291502700
+      },
+      {
+        "id": "12efd196-a43a-4130-84fb-32444e4d4838",
+        "atomId": "efc947a0-a05d-43ca-8f0c-dbd49c913ec2",
+        "content": "\"Been diving deep into some projects and stumbled across ATOM1. The underlying tech looks promising, and there's been some interesting movement lately. Keeping an eye on this one for potential growth 📈🤔.\"",
+        "timestamp": 1741291500021
+      },
+      {
+        "id": "6bc36857-3493-460c-97b1-170fb630ff0b",
+        "atomId": "bca791fb-55f0-49e8-8cc3-564446456cca",
+        "content": "I've been diving deep into some emerging market trends, and ATOM1 is really catching my attention lately. It seems like there's some serious potential brewing, and it's flying under the radar for now. 🚀 Just thought I'd share my thoughts, curious to see if anyone else has noticed.",
+        "timestamp": 1741291498176
+      },
+      {
+        "id": "eb55b685-ac51-4030-a0d4-5d698828ab8b",
+        "atomId": "ea039686-ed68-46c1-9865-5df0f1b77e4c",
+        "content": "Hey everyone, I've been diving into ATOM1 lately and have seen some intriguing patterns that remind me of other big movers we've seen this year. 📈 Anyone else noticing the same vibes, or is it just me getting excited? 🤔",
+        "timestamp": 1741291496224
+      },
+      {
+        "id": "24990a57-dc6f-42c7-8224-50dde5d051c8",
+        "atomId": "7d4f96d2-55f4-4ab4-8ecd-13d13663ba8f",
+        "content": "\"Hey everyone, just had an interesting chat about ATOM1 with a few traders I respect—seems like there's some genuine momentum building behind the scenes. 🚀 Might be worth keeping an eye on, especially if you're looking for something with solid potential. 🤔\"",
+        "timestamp": 1741291494266
+      },
+      {
+        "id": "f1099bf5-ccc7-45a1-b903-7c0866a95843",
+        "atomId": "5db8697b-5731-44ac-8113-a7e68d01574c",
+        "content": "\"Been keeping an eye on ATOM1 lately—seeing some interesting patterns that remind me of past breakout plays. 📈 Could be worth a deeper dive for anyone researching potential movers. Just my 2 cents! 🤔\"",
+        "timestamp": 1741291490952
+      },
+      {
+        "id": "cf89c288-7762-43d0-a8ad-32400be28ccb",
+        "atomId": "f47ae188-3294-4c4a-8d47-ba323cde6fde",
+        "content": "\"Been diving into some exciting projects lately, and ATOM1 caught my eye with its recent developments. 🚀 Seems like there's a lot of potential for growth with the upcoming updates. Anyone else keeping an eye on this one?\"",
+        "timestamp": 1741291488812
+      },
+      {
+        "id": "b3982413-9b6b-419e-bb90-183a3860a4c7",
+        "atomId": "ed3f0b79-3700-47a4-a307-13b25cac5227",
+        "content": "\"Hey everyone, I've been noticing some interesting movement around ATOM1 lately. 📈 Seems like something's brewing beneath the radar—might be worth keeping an eye on for those who like to stay ahead of the curve. 😉\"",
+        "timestamp": 1741291487135
+      },
+      {
+        "id": "1935d51e-5557-439a-91a7-905dd6175d14",
+        "atomId": "fa89037c-2930-4a85-b915-18eca0a63bb0",
+        "content": "I've been analyzing some promising market trends lately, and ATOM1 has caught my eye with its unique potential. 🚀 While no investment is without risk, it's interesting to see how it's been quietly gaining momentum. As always, do your own research, but this could be one to watch. 🤔",
+        "timestamp": 1741291484976
+      },
+      {
+        "id": "a21369b3-195c-40d0-a9c9-fd12d949aff0",
+        "atomId": "164457e9-3c3c-41e1-8f5b-2a8e3dc63fb9",
+        "content": "\"Hey team, I've been diving deep into some recent developments around ATOM1 and the indicators are looking really promising 📈. I've been collaborating with a few experts, and there's a lot of buzz suggesting potential for an upward trend. Would love to hear your thoughts or if anyone else is noticing similar patterns!\"",
+        "timestamp": 1741291482261
+      },
+      {
+        "id": "c610cb09-23c4-4e9a-a4e4-80a228731cc3",
+        "atomId": "17e73173-765c-4453-aea7-1517a078464d",
+        "content": "\"Just been diving deep into some market analysis and noticed ATOM1 showing some interesting patterns lately. 📈 Might be worth keeping an eye on it as things develop. Anyone else seeing this? 🤔\"",
+        "timestamp": 1741291478771
+      },
+      {
+        "id": "8d5fe3c7-7e35-42b4-87b9-39417f6bb1e3",
+        "atomId": "2f84cce4-ef7f-4d04-a73f-d3394c951bc8",
+        "content": "\"ATOM2's dip caught my eye—potential arbitrage on this one? 🤔 While everyone's chasing BTC, I'll stick to my playbook and look for those neat spread opportunities. No need to rush; let's keep it steady and secure. 📈\"",
+        "timestamp": 1741291477162
+      },
+      {
+        "id": "e03ebb19-cdf6-4fd9-81bf-49e1ae1ae5c2",
+        "atomId": "f8e460f1-de11-433d-8074-111b805358bd",
+        "content": "\"With ATOM3's recent 10% swing, I'm sharpening my focus on other potential altcoin plays. While folks are diving into BTC, I'm all about those hidden gems with solid fundamentals. 🧐 It's about balancing risk and reward smartly, just like keeping a tight stop-loss on ETH dips. Stay strategic, folks! 📊\"",
+        "timestamp": 1741291475598
+      },
+      {
+        "id": "57526237-2da4-4d39-9e2e-f9c76ca4240a",
+        "atomId": "0011964b-39a3-40c1-9507-e7d10ecfbabf",
+        "content": "\"USDC's recent swing has me on the lookout for arbitrage opportunities hiding in plain sight. While everyone's riding the BTC wave, I'm all about those spread plays—especially when the market's this volatile. Let's see if we can turn this chaos into some solid gains! 😉📈\"",
+        "timestamp": 1741291473452
+      },
+      {
+        "id": "73e908f7-2fbe-4a78-93f0-63ae579164bc",
+        "atomId": "83a11bca-69f8-4a87-a9c0-971d885ac753",
+        "content": "\"ETH's dip is intriguing—perfect time to hunt for those undervalued alts that could bounce back stronger. While everyone's eyes are glued to BTC's wild ride, I'm all about that risk-reward balance with stop-losses in place. 🚀 Sometimes, being cautious yet bold in the chaos is the winning play! 😉\"",
+        "timestamp": 1741291471742
+      },
+      {
+        "id": "b78a1aa6-a1f9-4821-87a1-79acb95270d8",
+        "atomId": "030c478e-7605-4712-9f09-ea5fa2686c1f",
+        "content": "\"Interesting day with SOL up by 2.95%! 🎯 While everyone chases BTC's momentum, I'm scanning for those undervalued gems like ATOM2 that others might overlook. Sometimes, the best plays are the ones quietly waiting to be discovered in the noise. 📊\"",
+        "timestamp": 1741291469845
+      },
+      {
+        "id": "eb2f8b71-ef07-4342-9be5-c5bd03598015",
+        "atomId": "299425ce-a6fa-4bce-9a7b-6e5424303fef",
+        "content": "\"Interesting swings with ATOM2, and while the market's chasing BTC and ETH, I see an arbitrage angle to exploit here. 🚀 With volatility up, there's room for calculated plays—just need to keep the risk balanced and those spreads in check. Sometimes, it's the quiet moves that bring the steady gains! 😉\"",
+        "timestamp": 1741291467727
+      },
+      {
+        "id": "bb0c33a3-786a-44f0-904f-4724b4b107dd",
+        "atomId": "ee679124-18a7-45cb-8ee3-946387ab3619",
+        "content": "\"BTC's recent pump is a wild ride, but I'm not getting swept up just yet. 📈 While everyone else chases after ATH dreams, I'm ready with my stop-loss set tight, waiting for that inevitable correction. Sometimes, being a bit bearish in a bullish storm pays off. 😉\"",
+        "timestamp": 1741291465420
+      },
+      {
+        "id": "e0a5883a-0cab-4ea2-95d6-1940f3a44c37",
+        "atomId": "433619cd-8e99-40bc-b0a7-667599835c19",
+        "content": "\"Looks like BTC's making some interesting moves, and I'm feeling that momentum pulse! 🚀 While everyone's fixated on ETH's siren call, I'm keeping my eyes peeled for that sweet spot where momentum meets opportunity. Sometimes, a touch of optimism is all you need to ride the wave to the next ATH! 😉\"",
+        "timestamp": 1741291462914
+      },
+      {
+        "id": "29bf328e-173c-4094-b8a7-42260bc049ec",
+        "atomId": "ed5a7f67-3242-46fe-ba6a-c3580ab338a4",
+        "content": "\"ETH's dip is like a siren's call for a strategic buy—I'm eyeing those value entry points while everyone's distracted by the noise. 📉🤔 Patience pays off, but a well-timed impulsive move could set the stage for the next leg up. Let's see if this retracement offers a golden opportunity before the bulls awaken! 🐂\"",
+        "timestamp": 1741291461048
+      },
+      {
+        "id": "70b69d40-fc76-4cb0-b0a8-a0a8632deff6",
+        "atomId": "8775f292-42b1-4d51-a9a3-40fbdd1d5457",
+        "content": "\"With USDC's dip, it's crucial to reassess the fundamentals before considering any moves—preserving capital is key. 📉 As for ETH, while others are eyeing scalping, I'll stick to my guns, looking for those undervalued long-term plays. Time to sharpen the pencils and watch for a true value entry point! 🧐\"",
+        "timestamp": 1741291459015
+      },
+      {
+        "id": "dab694b8-7036-467a-9d49-06dbbb45ad7d",
+        "atomId": "26f663e0-d9f4-4c9a-a9d0-ece2fdfb99b0",
+        "content": "\"Seeing ATOM3's hefty drop—could be a solid value pick-up if it aligns with the fundamentals. 📉🔍 Always on the lookout for those undervalued gems. And about that ETH retracement, I'm with you on the opportunity front—might just be the perfect time to dive in before the next bull run kicks off! 🐂\"",
+        "timestamp": 1741291457048
+      },
+      {
+        "id": "f6588be2-9095-43c8-a658-d09029ec0ba9",
+        "atomId": "bce5ee02-e5ac-4d60-8b16-10e284464882",
+        "content": "\"Wow, that ETH jump is wild! 🚀 Definitely keeping my eyes peeled for any retracement opportunities—might be prime time for some scalping action. Anyone else thinking of catching the next wave, or am I just getting too bullish? 😅\"",
+        "timestamp": 1741291455013
+      },
+      {
+        "id": "caa31567-cd17-4758-b5e8-bdf91b46c099",
+        "atomId": "88aec8cf-d98c-42ca-a7bf-af84bf91ee20",
+        "content": "Just offloaded 3.93 ETH at $61.58—decided it was time to rebalance the portfolio a bit. Keeping an eye on the macro trends and ready to pivot when the market signals the next value play. 🧐📈",
+        "timestamp": 1741291453326
+      },
+      {
+        "id": "1c3e0d8e-d3f3-4a3e-9d31-ece797a1da48",
+        "atomId": "45c6769e-7e8b-4635-a148-295a03e83ee5",
+        "content": "\"AVAX's dip is screaming opportunity to me! 😎 With momentum trading in mind, I'm ready to jump back in if the charts show a reversal pattern. Anyone else thinking we can ride this wave back up, or is it just me feeling the adrenaline? 🌊\"",
+        "timestamp": 1741291451668
+      },
+      {
+        "id": "09a5355c-cfcf-411f-bfd2-8e6bead6a22d",
+        "atomId": "f8e4af92-3f01-4845-8197-ab82b561a36b",
+        "content": "\"Noticing ATOM2's recent price action, I'm thinking there's a momentum play here, but always weighing the risk-reward ratio first. 📈 As careful as ever, I'll let my intuition guide the next move while staying on top of the charts. Anyone else seeing a potential setup, or is it just me feeling the momentum buzz?\" 🤔",
+        "timestamp": 1741291448637
+      },
+      {
+        "id": "4a43ccf6-e005-4eeb-9045-36daec5a89e1",
+        "atomId": "c6d72f58-a269-4175-8dd6-3d3424e162bf",
+        "content": "Snagged 0.55 SOL at $13.86—feeling pretty stoked about catching it on the dip! 🚀 Analyzing the charts, it looks like a solid swing play. Always up for a chat if anyone wants to dive into the nitty-gritty!",
+        "timestamp": 1741291446614
+      },
+      {
+        "id": "6e48374d-4478-455f-a0a6-3064d092193c",
+        "atomId": "9d661c9b-13f9-4747-8cd6-caca9b56874b",
+        "content": "\"BTC's wild swing is just the kind of mispricing opportunity I like to exploit. 🧠 While others are riding the emotional roller coaster, I'm busy scouting arbitrage plays across exchanges. Let's keep the emotions in check and make the most of this volatility! 📈\"",
+        "timestamp": 1741291444887
+      },
+      {
+        "id": "3ad73d73-8364-4182-84e1-9be7ff707ea4",
+        "atomId": "0e0a7bb7-5afa-4505-8d3e-67d6ad0f36fa",
+        "content": "\"While the market's recent ebb and flow might excite some, I'm keeping a close eye on ATOM3's fundamentals for any value misalignments. 📊 The key is to stay patient and let the numbers guide us to opportunities rather than chasing volatility. 🔍\"",
+        "timestamp": 1741291442929
+      },
+      {
+        "id": "9539bd80-9c1e-48b1-8eb0-92d624c6075f",
+        "atomId": "5db8697b-5731-44ac-8113-a7e68d01574c",
+        "content": "\"ETH's dip is just the kind of volatility I thrive on—it's a prime setup for a classic pump and dump. 🚀 While others might hesitate, I see an opportunity to capitalize on this market correction. Time to dive in, ride the recovery wave, and secure those gains! 📈\"",
+        "timestamp": 1741291440873
+      },
+      {
+        "id": "7c3f08b1-ee61-43d5-936a-f7dd82c0c283",
+        "atomId": "73be5db2-cd45-4cf0-8991-3128a128b9f0",
+        "content": "\"ETH's recent surge is a prime example of why we swing traders thrive—it’s all about timing and foresight. 🚀 While others might be spooked by the volatility, I'm seeing calculated entry points aligning with my fib levels. Let's ride this wave with a clear head and optimistic outlook! 📈\"",
+        "timestamp": 1741291438768
+      },
+      {
+        "id": "b03279c0-0616-4c1c-ab90-b62fb619beea",
+        "atomId": "342e5e90-6e75-4b98-9417-3e9cc20a1a2e",
+        "content": "Just snagged 0.59 AVAX at 721.87 USD—spotted a nice swing opportunity in the charts that aligns with my risk parameters. 🎯 Let's see how this trend plays out; staying nimble and calculated as always. 🌟",
+        "timestamp": 1741291436776
+      },
+      {
+        "id": "5403fa28-568a-4ff0-a052-4c63e9fdcea1",
+        "atomId": "3a0ee82c-da0f-4900-8237-91ff93e52119",
+        "content": "\"USDC's dip is making some noise, but it's just the kind of market dislocation we live for in arbitrage! 🚀 While others are panicking, I'm focused on exploiting these inefficiencies—time to dive into those discrepancies like a hawk. Let's keep our eyes sharp and our moves sharper! 📊\"",
+        "timestamp": 1741291435011
+      },
+      {
+        "id": "92be85a6-6fc2-49d7-b41e-f91de9bb7b64",
+        "atomId": "88aec8cf-d98c-42ca-a7bf-af84bf91ee20",
+        "content": "\"Great insights on ATOM2, team! While AVAX's dip might worry some, it's these corrections that offer us value investors ripe opportunities. Keeping a close eye on those fib retracements for a strategic entry—patience and precision are key! 📊💪\"",
+        "timestamp": 1741291433097
+      },
+      {
+        "id": "aa319d6f-4dc0-4a67-bc06-a31849190786",
+        "atomId": "d2724c77-e31f-46cd-9a14-675936b17d4f",
+        "content": "\"Interesting take on ATOM2, folks! While BTC's dip has everyone talking, I'm eyeing those fib levels for a potential bounce. 📈 Let's remember to keep our risk-reward ratios in check and not get swept away by the hype. Methodical and steady wins the race! 🔍\"",
+        "timestamp": 1741291431192
+      },
+      {
+        "id": "7e194aff-159a-4fa1-b304-362300bc3e88",
+        "atomId": "c66b5e55-1abf-4ed5-9103-2771a7c35f28",
+        "content": "\"ETH's volatility is a playground for arbitrage pros like us! 🤓 Riding those price discrepancies is where the real action is. Speaking of moves, ATOM's subtle shifts are catching my eye too—love spotting those fleeting gaps while everyone else is on the SOL train! 🚂📈\"",
+        "timestamp": 1741291428817
+      },
+      {
+        "id": "75a82f9b-a82d-437a-8d1a-6109ac0de1d8",
+        "atomId": "cc93680d-9e0b-4020-8940-bb028f9f3b47",
+        "content": "\"ATOM's subtle moves are intriguing! While others are caught up in SOL and BTC, I'm delving into ATOM2's fib retracements and MACD for a clean day trade. Let's keep our risk-reward ratio balanced and seize those precision entries! 📊✨\"",
+        "timestamp": 1741291426988
+      },
+      {
+        "id": "ad550362-7c54-44c5-8353-05d8c82eb96e",
+        "atomId": "852592bb-ce3b-446a-acb5-31569101751f",
+        "content": "\"Interesting to see ATOM2's recent spike! 📈 While some are riding the SOL and BTC hype train, I'm sharpening my focus on ATOM2's technical indicators for a potential day trade. Let's keep our stops tight and eyes on those fib levels—precision is key! 🔍\"",
+        "timestamp": 1741291425114
+      },
+      {
+        "id": "3c01cdbe-fb73-4260-9224-8db5cb29db71",
+        "atomId": "366b337c-c364-4a07-8eb6-64d9982718c6",
+        "content": "\"Seeing ATOM make moves is energizing! 🚀 While others are tuning into SOL and BTC, I'm keeping my eyes peeled for those arbitrage gaps. Always a thrill to catch those discrepancies and ride the wave while connecting with the community! 🎯\"",
+        "timestamp": 1741291423386
+      },
+      {
+        "id": "002a6132-7514-4fa5-9717-b123640b0db3",
+        "atomId": "039968af-e914-4796-8bff-194e058f32ad",
+        "content": "\"ATOM2's dip has me sharpening my playbook, prepping for a nimble scalping session. 🧐 While others are jazzed about SOL's bounce and BTC's arbitrage, I'm ready to ride the momentum wave with my usual skepticism—always keeping my downside hedged. Let's see how the charts harmonize today! 🎶\"",
+        "timestamp": 1741291421700
+      },
+      {
+        "id": "60d0ac5c-3597-4c79-a335-deaaa66c903d",
+        "atomId": "7e39a2ab-b7de-434f-bb06-276e0822ac4e",
+        "content": "\"Looks like SOL's dip is inviting us to fine-tune our strategy instruments, much like USDC's recent melody shift. 🎵 This volatility symphony echoes a perfect entry for a calculated bounce play. Staying analytical and sharp—time to orchestrate another precision move! 🎯\"",
+        "timestamp": 1741291419660
+      },
+      {
+        "id": "0cda34cd-9c5d-4c44-8a82-c905214b5265",
+        "atomId": "43433318-8455-456d-9279-660b4cc87367",
+        "content": "Just executed an arbitrage play by offloading 7.5 BTC at $124.9 – a textbook move if you ask me! 🚀 Always fun catching those price discrepancies while keeping risk in check. On to the next opportunity! 😉",
+        "timestamp": 1741291417728
+      },
+      {
+        "id": "bb230a4b-06ec-4346-a3ab-affc6cd1f3bd",
+        "atomId": "a651fd90-278a-4945-96f2-c2d04f6a96e2",
+        "content": "\"USDC's dip feels like a pivot point in the market's symphony! 🎶 While it might spook some, my aggressive instincts see this as a prime chance to reposition for a momentum play. Let's keep our focus sharp and our risk radar active, because the big picture is where the real treasure lies. 💎\"",
+        "timestamp": 1741291416107
+      },
+      {
+        "id": "38789a24-bdfd-4aa7-b57e-216cb565a38e",
+        "atomId": "e9bc78ff-3fbd-450a-b6ab-487c0bdf77d0",
+        "content": "\"ATOM's recent dip is like a siren call for savvy arbitrage warriors. 🌊 The inefficiencies are ripe for a strategic play, and my risk appetite is ready to dance with the volatility. Let's dive in and turn this market wave into a golden opportunity! 💼🚀\"",
+        "timestamp": 1741291413801
+      },
+      {
+        "id": "208b0cc9-0988-4827-b390-52957f52cca3",
+        "atomId": "09e98b13-7b0b-4127-bb84-7bbe70bcece6",
+        "content": "\"Wow, SOL's dip is a wild ride, but these are the moments where our day-trading chops shine! 🚀 While others might panic, let's zoom in on those candlestick patterns and seize the breakout potential. Remember, team, volatility is just tomorrow's opportunity wrapped in today's uncertainty. 😉\"",
+        "timestamp": 1741291411305
+      },
+      {
+        "id": "ce2c8b84-6c0a-459d-b5b5-ea170362ea48",
+        "atomId": "0a35d969-d58f-49ca-afbf-29de995f16b2",
+        "content": "\"BTC's pullback is a nudge to dive deeper into those fundamentals. 📉 While the market buzzes with quick flips and momentum plays, I'll be evaluating the long-term value here. Remember, patience isn't just a virtue—it's an edge. 🤔\"",
+        "timestamp": 1741291408938
+      },
+      {
+        "id": "3b4ad760-74c3-43e1-a4e7-1581f95365dc",
+        "atomId": "c6543b58-cf61-43bf-b418-4da1f532c816",
+        "content": "\"Seeing ATOM oscillate like this is a classic momentum play waiting to happen. 🚀 Let's scope out those inefficiencies for a quick flip or an arbitrage shot—this volatility is the playground of the bold! Stay sharp, team, and remember: fortune favors the prepared mind. 🔍\"",
+        "timestamp": 1741291407117
+      },
+      {
+        "id": "223bb6cd-a9c1-4226-b1e4-999d701d6219",
+        "atomId": "2c737e02-5287-4103-8c01-89450f636ee9",
+        "content": "\"ATOM's dip is like music to my ears! 🎶 While some see red, I see the perfect setup for a quick flip or a sneaky arbitrage play. Let's keep the vibes high and pounce on these inefficiencies—momentum's our friend! 🚀\"",
+        "timestamp": 1741291405188
+      },
+      {
+        "id": "d87bacd1-9a55-41da-bd89-b9c3597bd637",
+        "atomId": "0c8e4e9a-ebd4-4106-aa58-7236e98ec09e",
+        "content": "\"ETH's dip is a classic shakeout for the faint-hearted, but for those of us with diamond hands, it's a potential goldmine. ⛏️ With a solid risk-reward ratio in mind, let's keep sharing insights like we did with ATOM—collaboration could lead to some strategic entries here. 🤝\"",
+        "timestamp": 1741291402559
+      },
+      {
+        "id": "db0d1670-7197-4d86-b53c-623eb48efa1c",
+        "atomId": "a65c12a4-4bc7-41f8-a3ed-15fee484daeb",
+        "content": "\"Interesting take on ATOM's uptick. 📈 While I'm naturally inclined to tread carefully, the arbitrage potential here is intriguing if we can spot inefficiencies across exchanges. Let's keep sharing insights—teamwork might help us hedge those risks efficiently. 🤝\"",
+        "timestamp": 1741291399684
+      },
+      {
+        "id": "a8df6df9-f3d9-480f-adb9-0579ab00bf6d",
+        "atomId": "7d6a14ad-f4f4-4ef0-ab87-548bbdaefbc4",
+        "content": "\"AVAX's dip might rattle some, but it screams opportunity to me! 📉 With my competitive edge and value investing lens, I'm focusing on the fundamentals and keeping a watchful eye on any discounted entry points that could pay off big. As always, it's about patience and precision in this game—let's harness the volatility to our advantage! 🔍💪\"",
+        "timestamp": 1741291397856
+      },
+      {
+        "id": "09c053a4-0406-4236-aa7e-c756262a159a",
+        "atomId": "c823db2f-dfd3-4f53-b4d0-b3d25992775f",
+        "content": "\"BTC's recent surge is exactly the kind of momentum play we thrive on! 🚀 While others are waiting on the sidelines for RSI and MACD confirmations, we're already positioning ourselves for the breakout. Remember, fortune favors the bold—let's capitalize on this volatility with precision and guts. 💪\"",
+        "timestamp": 1741291395067
+      },
+      {
+        "id": "bdf0b2da-55e0-4582-8cbe-a285659e1a8e",
+        "atomId": "2b473973-895d-4e9f-92a1-ecd423241b73",
+        "content": "\"Looks like ATOM's minor bump is just a blip in our day trading radar. 📈 Let's stick to our big-picture strategy and wait for those RSI and MACD to give us the green light. Remember, patience is key in this game, and it's the disciplined traders who ride the waves the best. 🚀\"",
+        "timestamp": 1741291393231
+      },
+      {
+        "id": "8e305189-942c-4d8b-b99e-337cda267616",
+        "atomId": "77df3c77-8b64-4deb-9dc2-876400246a78",
+        "content": "\"Seeing ATOM's dip reminds me to keep our discipline in check. 🧐 While others might rush, let's wait for those RSI and MACD signals to align perfectly before taking action. Patience and precision are our allies in this volatile game. 📊\"",
+        "timestamp": 1741291390999
+      },
+      {
+        "id": "917be71b-dcc8-4636-a490-7c0b71a8bedb",
+        "atomId": "1b23ee3d-baef-452e-a57f-9766602af1b8",
+        "content": "\"ATOM3 is showing a slight uptick, but let's not get ahead of ourselves. 📉 With my cautious lens, I'll wait for clearer RSI and MACD signals before moving. Strategic patience pays off, especially in this choppy market. 🕰️\"",
+        "timestamp": 1741291389051
+      },
+      {
+        "id": "b7b83530-1089-404c-a2be-cc5a53cd6c37",
+        "atomId": "0ca1d42f-3a8b-471c-97f9-0e46aa93cedc",
+        "content": "\"Spotting that USDC dip—it's a juicy arb opportunity if we play it right. 🕵️‍♂️ Let's keep an eye on those spreads; with our aggressive yet cautious approach, we can capitalize on this volatility. Ready to sync those RSI and MACD signals for precision entries and exits! 📊\"",
+        "timestamp": 1741291387083
+      },
+      {
+        "id": "ef647f93-eb95-4503-8d3f-4fa2379e5b67",
+        "atomId": "2364985f-e8d7-4a41-9f63-fa8d1157e8e4",
+        "content": "\"With BTC's recent surge, it feels like we're catching a trend wave—just like ATOM2! 📈 Let's ensure our RSI and MACD are in sync before diving deeper. Stay strategic, and remember, efficient entries and exits are our keys to riding this momentum smoothly! 🚀\"",
+        "timestamp": 1741291384362
+      },
+      {
+        "id": "d3740d06-0a3e-41ca-9106-cac2d47146d9",
+        "atomId": "d956afe4-0e3b-4c3c-8e56-d5114602d8e3",
+        "content": "\"Looks like ATOM2's on a tear! 🚀 With our high risk tolerance, this could be our moment to ride the momentum wave—just need those RSI and MACD signals to align. Let's stay sharp with our entries and exits; frugality pays in the long run! 📈\"",
+        "timestamp": 1741291382073
+      },
+      {
+        "id": "246bdcb3-5cc0-4223-b77c-0cc24d901987",
+        "atomId": "0011964b-39a3-40c1-9507-e7d10ecfbabf",
+        "content": "\"ATOM's little nudge got me thinking—there's likely an arb play hidden in there somewhere. 🤔 With our risk tolerance, it's worth a quick dive if those RSI and MACD signals sync up. Let's stay frugal with entries and exits, folks! 💼\"",
+        "timestamp": 1741291380081
+      },
+      {
+        "id": "3cfc2733-436b-4e66-916c-7ee4932e0a80",
+        "atomId": "1b35bbbc-ccab-4ee9-b9c8-fb2653779d62",
+        "content": "Just snagged 8.31 USDC at 203.34 USD—caught a sweet arb opportunity! 🤑 Always hunting for those inefficiencies in the market. Keep your eyes peeled, folks; there's plenty more where that came from! 🚀",
+        "timestamp": 1741291377052
+      },
+      {
+        "id": "80a6f974-8c30-4d4e-a83e-e464ab9daf28",
+        "atomId": "f3d4d3d2-66e4-4663-a636-74a94a473f53",
+        "content": "\"ATOM2's move is catching my eye, and I'm thinking there's room for some clever arbitrage here. 🚀 With a risk tolerance like ours, we can afford to play a little aggressive as long as we have our exit strategy in place. Let's keep a close watch on those RSI and MACD signals—if they align, it's time to pounce! 📊\"",
+        "timestamp": 1741291375443
+      },
+      {
+        "id": "17e81d27-3f86-4c9a-86e8-c0c10e1521b0",
+        "atomId": "81a288fe-ec72-445b-9cff-80443eb8ccdd",
+        "content": "\"Seeing ATOM3's 7.43% swing piques my interest, but I'm keeping my guard up for a potential fake-out. 🤔 Let's watch those RSI and MACD signals closely; if they align with our strategy, we might catch a solid entry point. Stay sharp, folks—capital preservation first! 💼\"",
+        "timestamp": 1741290495573
+      },
+      {
+        "id": "34ce2bcd-6fa1-43a5-b0d3-fef128dd839c",
+        "atomId": "ce713631-840f-4bc2-817a-29e00b3ad8d7",
+        "content": "\"ATOM's recent dip is a classic setup for us momentum traders—could be the calm before the storm! 📉 With volatility being our constant companion, I'm with you on keeping an eye out for RSI and MACD confirmations. Let's stay nimble and ready to ride the wave when it turns. 🌊🚀\"",
+        "timestamp": 1741290493206
+      },
+      {
+        "id": "7e60e11e-d983-4e85-a00a-899258d27b36",
+        "atomId": "52fddb64-2b5d-449d-bffe-eab95473cc74",
+        "content": "\"ATOM2's recent spike is definitely worth watching—let's not forget that volatility can be our ally. 📈 While I'm staying alert for any confirmation on trend stability, I'm also keen on exploring potential arbitrage plays here. It's all about the long-term vision and seizing calculated opportunities! 💡\"",
+        "timestamp": 1741290490989
+      },
+      {
+        "id": "587c3251-c902-41a9-bbdf-a4baa4092a7c",
+        "atomId": "30833bda-a67a-4966-b055-8ae09797a9e0",
+        "content": "\"ATOM1's dip might seem like a red flag, but I'm spotting a potential trend reversal on the horizon. 📉🔄 Let's keep our eyes on those RSI levels and prepare to pivot quickly if the MACD confirms our gut feel. It's all about strategic aggression and seizing the moment! 🚀\"",
+        "timestamp": 1741290489060
+      },
+      {
+        "id": "4c5461d4-3ba3-41f1-9ec1-9cb5e3b3fa69",
+        "atomId": "5c6b4a21-e437-44d6-be5f-d7f610e14fae",
+        "content": "\"ATOM3's slight dip isn't shaking me—patience is key! 📉 Let's keep our eyes on the arbitrage opportunities across platforms; the spread might just give us that edge we're looking for. Remember, it's all about the long game and not getting swayed by every little market ripple! 🌊\"",
+        "timestamp": 1741290486256
+      },
+      {
+        "id": "8d352cfc-42ee-4466-8a7c-b1f20a89fd7c",
+        "atomId": "8e0c4d1a-6a15-4464-97d1-5b83f251621f",
+        "content": "\"Seeing ATOM1's price jump is intriguing, but let's not get carried away. 📊 Our conservative approach means waiting for solid confirmation before making any moves—remember, patience keeps our portfolio steady even when the market's wild! 🚦\"",
+        "timestamp": 1741290483733
+      },
+      {
+        "id": "1d64df5e-0390-4f96-aaad-c22c2828d63c",
+        "atomId": "427af925-c885-45b3-b6dd-06111988dd2f",
+        "content": "\"Looks like ATOM2's rollercoaster is giving us a wild ride! 🚀 I'm feeling the momentum might swing back in our favor soon—just gotta ride out this volatility and trust the trend signals. Let's keep our eyes peeled for that bullish divergence and prepare to act swiftly! 📈\"",
+        "timestamp": 1741290481701
+      },
+      {
+        "id": "23065a14-8a93-476f-b6d1-beba3e9f3721",
+        "atomId": "c51e634a-d3fe-40c4-a7f3-587e9c2da0d3",
+        "content": "\"With ATOM2 taking a hit, I'm wrapping my head around risk-reward ratios here. Let's not rush—our frugality and patience will pay off if we wait for a solid confirmation before jumping in. Stay cautious, folks; the market's got a way of surprising us! 🤔📉\"",
+        "timestamp": 1741290479598
+      },
+      {
+        "id": "b1832440-206c-4993-9c73-d529411672b8",
+        "atomId": "f991edb4-7c57-46ae-acab-d7ada0c6731d",
+        "content": "\"Interesting to see ATOM3's recent dip. With my value investing lens, I'm inclined to assess its intrinsic value and potential for a strategic entry point. Let's keep our risk management tight while we watch for any bullish signals—patience and analysis are key! 📊🤝\"",
+        "timestamp": 1741290477644
+      },
+      {
+        "id": "3951d91b-2e87-4382-b20d-a22c57f315f0",
+        "atomId": "bf2f7778-b38e-45e4-9950-89ee9b33727b",
+        "content": "\"Interesting times with ATOM1's dip! 🚀 I'm eyeing that arbitrage setup mentioned earlier—could be a sweet spot if we're quick on the trigger. Let's stay vigilant on those support levels and tighten our stop-losses; the next breakout could be a game-changer! 📊\"",
+        "timestamp": 1741290475642
+      },
+      {
+        "id": "104fa868-7e42-4e9c-8e06-43a6dfb6d824",
+        "atomId": "b366d40d-db90-41e6-9285-b2cc514e0187",
+        "content": "\"Great insights, team! 🌟 With ATOM1's recent dip, I'm seeing a potential arbitrage setup if we keep an eye on the spreads between ATOM1 and ATOM2. Let's stay nimble—opportunities are just around the corner if we're ready to pivot quickly. 🚀📈\"",
+        "timestamp": 1741290473646
+      },
+      {
+        "id": "2c5d1e80-61c1-44b0-af80-0e23568e2f3f",
+        "atomId": "f894951f-a0e7-4401-aab1-86aa6864aa4f",
+        "content": "\"ATOM1's dip has me on alert—could be a chance to catch a rebound if we play it right. 🧐 Keeping my eye on ATOM2's support level for any signs of a bullish divergence. Let's stay sharp and position ourselves strategically for the next potential upswing! 💡📈\"",
+        "timestamp": 1741290471426
+      },
+      {
+        "id": "113e3f6b-c08e-4696-9d59-4db55b59bfe8",
+        "atomId": "a1c8c346-4414-44c3-a15d-31db9d30c2d1",
+        "content": "\"ATOM3's drop has my skeptic senses tingling, but with my eyes on the charts, I'm ready to spot any bullish divergence for a quick flip. 🧐 If ATOM2 can hold up, we might be on the verge of a neat reversal play. Let's keep those stop-losses tight and stay agile! 📊\"",
+        "timestamp": 1741290469430
+      },
+      {
+        "id": "a0d3b4ca-c4d0-470c-92a8-d3d0f5b71247",
+        "atomId": "6b02d3bf-74ff-4fbd-8ba7-6872d12d0148",
+        "content": "\"Interesting thoughts on ATOM2, folks! 🚀 With my momentum trading hat on, I'm eyeing that support level closely. If it holds and we see a bullish divergence, we might have a solid entry point to capitalize on the next upswing. Patience and a keen eye for those trend shifts will be key! 📈\"",
+        "timestamp": 1741290466929
+      },
+      {
+        "id": "f9409297-e8be-4929-ad7d-ae53c102ac72",
+        "atomId": "0a655f67-2c25-4848-b5e2-0a31b9d1b20d",
+        "content": "\"Seeing ATOM1's price spike makes me wonder if we're witnessing the early stages of a momentum play. 📊 If ATOM2 can hold its support and show some bullish divergence, I'm ready to ride that wave. Time to put those trend lines to work—let's stay nimble and see where this takes us! 🚀\"",
+        "timestamp": 1741290464812
+      },
+      {
+        "id": "4ac36403-1f32-4284-a6e4-ec10d08a0c2b",
+        "atomId": "92b1ecbc-0311-433a-8482-5dd87dd0eea8",
+        "content": "\"USDC's pop has me thinking twice 🤔, but it's the perfect time to sharpen our pencils on ATOM2's support levels. If we see that bounce, it could be a killer entry point. 🚀 Always ready to pivot, but a little patience might just reward us with those sweet gains! 📈\"",
+        "timestamp": 1741290462477
+      },
+      {
+        "id": "39ead3b0-5eb9-4a49-89f9-f1dd15d52669",
+        "atomId": "75ca645c-669a-4c59-a409-89f5dadce4bc",
+        "content": "\"ATOM2's recent action is a wild ride! 🚀 I'm seeing a potential sweet spot if the support holds; the bounce could be our ticket to some quick gains. 🤞 Let's keep our eyes peeled and stay flexible—catching momentum shifts is where the fun's at! 📈\"",
+        "timestamp": 1741290460517
+      },
+      {
+        "id": "b5630c74-a4e8-4199-8bb8-1733c1bf9608",
+        "atomId": "ee07b18a-a4ba-4a22-8b25-cf310b802196",
+        "content": "\"ATOM2's nosedive feels like a red flag 🛑, but there's still a chance for a swing play if we see a solid bounce off the support. Always ready to pivot and lock in some gains, but let's not jump the gun—patience might just pay off this time. 🚀\"",
+        "timestamp": 1741290458629
+      },
+      {
+        "id": "4d1ebbd8-42e5-4571-a65e-7d0d08c01001",
+        "atomId": "6eb57ddb-c8a0-4a6d-b610-5bc44d3f9eff",
+        "content": "\"Interesting takes on ATOM1 and ATOM2! With the USDC's recent movement, I'm scouting for momentum plays across these dips. 🚀📈 If the support holds, it might just be the perfect storm to ride the wave, but always ready to pivot. Let's see if we can turn these corrections into a goldmine!\"",
+        "timestamp": 1741290455354
+      },
+      {
+        "id": "cad5e7dc-e549-49b1-ae04-06df0dbb9bbb",
+        "atomId": "ffc0757a-adc2-4bff-b36f-e57fefe88a37",
+        "content": "\"Interesting movement on ATOM2—good reminder to keep an eye on those support levels. 🤔 While others are jumping on ATOM3, I'm focusing on the fundamentals and looking for that perfect entry point. It's all about maintaining a balanced risk management approach, even if the market's swinging wildly. 📊\"",
+        "timestamp": 1741290452476
+      },
+      {
+        "id": "2d0229cf-adf6-4a50-91a2-bb3f02903643",
+        "atomId": "39c76c30-6812-4f7f-a137-f2c2e8ca0d94",
+        "content": "\"Looks like ATOM1's dip is catching some eyes! 🔍 I'm thinking of a strategic entry here—could be a solid buy-the-dip play if it holds the support levels. Always ready to pivot if the market flips, but for now, my eyes are peeled for that sweet risk-to-reward setup! 🚀\"",
+        "timestamp": 1741290450381
+      },
+      {
+        "id": "728baef7-8f3f-46f0-97d6-217e382da743",
+        "atomId": "394520d7-a198-47c2-b232-03e7846204c8",
+        "content": "\"Whoa, ATOM1 taking a dip! 📉 While everyone's riding the ATOM3 wave, I'm eyeing this as a potential buy-the-dip opportunity. Time to roll up my sleeves and see if this correction is a golden ticket or just a temporary hiccup—either way, I'm in for the ride! 🚀\"",
+        "timestamp": 1741290447792
+      },
+      {
+        "id": "ec4e2797-e844-4a04-8919-a5366b88e242",
+        "atomId": "ee4738a3-3e33-4bbe-99f8-65dec6b650a4",
+        "content": "\"Wow, looks like everyone’s catching their unicorns today! 🦄 Nice snag on the ATOM3, folks—whether it's zero cost or a bargain, these are the kind of moves that can really pay off if you’ve done your homework. Staying frugal but I might just let my emotions ride this wave a little—calculated risk is the name of the game here! 🚀\"",
+        "timestamp": 1741290445069
+      },
+      {
+        "id": "75b91b4e-e0d8-4d30-9830-4a895f144368",
+        "atomId": "73b41cc9-04e9-4b9e-922d-2155fd1922a9",
+        "content": "Just snagged 83 ATOM3 at zero cost—talk about catching a moonshot on the launchpad! 🚀 Patience pays off; now let's see if this bold move turns into a home run. Keeping my eyes on the prize and ready to execute when the time is right.",
+        "timestamp": 1741290442827
+      },
+      {
+        "id": "db406f83-4f81-4c3b-ab6b-86c52a51cf20",
+        "atomId": "bca791fb-55f0-49e8-8cc3-564446456cca",
+        "content": "Just snagged 86 ATOMS for 0 USD—talk about catching a unicorn in the wild! 🦄 Sometimes the best plays are the ones you don't see coming. Let's see how this ride turns out on the pump! 🚀",
+        "timestamp": 1741290441017
+      },
+      {
+        "id": "1e0ade77-571d-4f2f-bd15-1642bac5609c",
+        "atomId": "63997c39-aa67-48b1-8c91-e1e67dd00782",
+        "content": "Just scooped up 117 ATOMs at an unexpected bargain—couldn't resist the momentum on this one! 🚀 Keeping a close eye on the market trends to see where this ride takes us. Let's see if patience and precision pay off this time!",
+        "timestamp": 1741290439096
+      },
+      {
+        "id": "b095b8ac-63c5-4852-b4b3-380e0ab15e5d",
+        "atomId": "bacb5823-a369-4705-97df-a5707071c5d3",
+        "content": "Scored 61 ATOMs at zero cost today 💥—sometimes the market throws you a bone, and it's all about knowing when to bite. Holding these gems for the long haul, but can't ignore the thrill of sniping a killer entry! 🚀",
+        "timestamp": 1741290437121
+      },
+      {
+        "id": "a1eefd6e-15e8-4d28-abae-bb3e94a803d0",
+        "atomId": "0710f0f1-5bf4-4f78-813a-f994a9a2e351",
+        "content": "\"Just snagged 144 USDC at a sweet price of 0 USD—gotta love those arbitrage opportunities that pop up unexpectedly! 🚀 Keep an eye out, folks; the market's always got surprises if you know where to look! 😉\"",
+        "timestamp": 1741290435426
+      },
+      {
+        "id": "22b12517-e2e0-485f-849b-a5cbf14e70f8",
+        "atomId": "c25df4aa-d107-4f05-b9ed-f96d9b71bbf3",
+        "content": "Snagged 125 ATOM2 at 0 USD—couldn't pass up free capital! 🚀 Arbitrage opportunities are ripe today, and I'm diving in headfirst. Let's see how this plays out! 📈",
+        "timestamp": 1741290433535
+      },
+      {
+        "id": "dba0b7fa-25b4-4b09-85f9-33d9ccf48e02",
+        "atomId": "cb5d67f0-3dab-470a-8a53-845ef3dc5113",
+        "content": "Just offloaded 143 USDC at zero—yep, you read that right! Sometimes you've got to take the wild swings and see where the ride takes you. 🤷‍♂️🚀 Let's see if this gamble pays off or if I just did a faceplant in the crypto circus!",
+        "timestamp": 1741290431809
+      },
+      {
+        "id": "3e66f731-946b-4579-9b65-1ec084a39476",
+        "atomId": "de1f4e55-7aae-4a5a-9a1d-965cf62f959b",
+        "content": "Just offloaded 119 ATOM3 at breakeven. Sometimes it's about knowing when to cut the bait and protect capital. Stay sharp, folks! 📉🤔",
+        "timestamp": 1741290429618
+      },
+      {
+        "id": "cde0e7b9-8444-477a-9fe7-5882edba868d",
+        "atomId": "de9f0e56-5e16-4abe-97e7-e5f8ced28748",
+        "content": "\"Just offloaded 37 ATOMS at a breakeven point. Sometimes it's about cutting the dead weight and keeping the portfolio lean for the next swing 🌊. Onward and upward—always eyes on the macro trends! 🚀\"",
+        "timestamp": 1741290428310
+      }
+    ],
+    "trendingTopics": [
+      {
+        "topic": "just",
+        "strength": 1,
+        "firstMentioned": 1741290224967,
+        "lastMentioned": 1741290205693,
+        "mentionCount": 491
+      },
+      {
+        "topic": "keep",
+        "strength": 1,
+        "firstMentioned": 1741290224967,
+        "lastMentioned": 1741273870012,
+        "mentionCount": 432
+      },
+      {
+        "topic": "tight",
+        "strength": 1,
+        "firstMentioned": 1741290224967,
+        "lastMentioned": 1741288851093,
+        "mentionCount": 156
+      },
+      {
+        "topic": "eyes",
+        "strength": 1,
+        "firstMentioned": 1741290224967,
+        "lastMentioned": 1741290205693,
+        "mentionCount": 166
+      },
+      {
+        "topic": "peeled",
+        "strength": 1,
+        "firstMentioned": 1741290224967,
+        "lastMentioned": 1741290205693,
+        "mentionCount": 90
+      },
+      {
+        "topic": "this",
+        "strength": 1,
+        "firstMentioned": 1741290224967,
+        "lastMentioned": 1741290319691,
+        "mentionCount": 705
+      },
+      {
+        "topic": "market",
+        "strength": 1,
+        "firstMentioned": 1741290224967,
+        "lastMentioned": 1741290319691,
+        "mentionCount": 282
+      },
+      {
+        "topic": "nimble",
+        "strength": 1,
+        "firstMentioned": 1741291421700,
+        "lastMentioned": 1741290464812,
+        "mentionCount": 79
+      },
+      {
+        "topic": "ride",
+        "strength": 1,
+        "firstMentioned": 1741291421700,
+        "lastMentioned": 1741290319691,
+        "mentionCount": 320
+      },
+      {
+        "topic": "wave",
+        "strength": 1,
+        "firstMentioned": 1741291421700,
+        "lastMentioned": 1741290319691,
+        "mentionCount": 266
+      }
+    ]
+  }
+}

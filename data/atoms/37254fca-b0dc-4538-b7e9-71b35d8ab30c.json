@@ -1,0 +1,20 @@
+{
+  "id": "37254fca-b0dc-4538-b7e9-71b35d8ab30c",
+  "walletAddress": "8qb4cNFPePpoQ18ntU8dKn3F2EkGYLzva2t7Jyyy9Wtx",
+  "initialBalance": 15.01,
+  "persona": {
+    "name": "Sam",
+    "age": 64,
+    "profession": "full_time_trader",
+    "traits": [
+      "detail_oriented",
+      "rational"
+    ],
+    "experience": "expert",
+    "bio": "Sam, a 64-year-old full-time crypto trader, leverages his expert-level experience and keen eye for detail to navigate the volatile world of digital currencies. Known for his rational and methodical approach, Sam meticulously analyzes market trends and data, ensuring every investment decision is grounded in comprehensive research and strategic foresight. His disciplined trading style has earned him a reputation as a seasoned professional in the crypto community."
+  },
+  "riskTolerance": 0.6123008079284623,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

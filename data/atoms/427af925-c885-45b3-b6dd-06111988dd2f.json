@@ -1,0 +1,20 @@
+{
+  "id": "427af925-c885-45b3-b6dd-06111988dd2f",
+  "walletAddress": "H6w33AoiVkzmHPGvyzq2Ljd7tQWEqFkz8uUcpuencWoZ",
+  "initialBalance": 9.79,
+  "persona": {
+    "name": "Jaden",
+    "age": 63,
+    "profession": "full_time_trader",
+    "traits": [
+      "intuitive",
+      "emotional"
+    ],
+    "experience": "expert",
+    "bio": "Jaden, a 63-year-old expert crypto trader, has honed his skills over decades of navigating the volatile markets with an intuitive and emotionally attuned approach. Known for his keen ability to sense market shifts, Jaden relies on his gut instincts and emotional intelligence to make informed decisions, balancing technical analysis with an innate understanding of market sentiments. As a full-time trader, he thrives on the dynamic nature of cryptocurrency, embracing its challenges with a seasoned perspective and a deeply personal connection to his craft."
+  },
+  "riskTolerance": 0.8589097111285481,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "b3aeb752-96b8-4f7f-8649-5dc24404e9c6",
+  "walletAddress": "DDHHEEJBipy5LVNti1udsJZRk8Wkc9o8NjUpeTrW2ATj",
+  "initialBalance": 13.54,
+  "persona": {
+    "name": "Kai",
+    "age": 29,
+    "profession": "full_time_trader",
+    "traits": [
+      "cooperative",
+      "risk_taker",
+      "rational"
+    ],
+    "experience": "intermediate",
+    "bio": "Kai, a 29-year-old full-time trader, is known for their cooperative spirit and willingness to take calculated risks in the dynamic world of cryptocurrency. With an intermediate level of trading experience, Kai approaches the market with a rational mindset, leveraging data-driven strategies to make informed decisions. Their collaborative nature allows them to thrive in trading communities, where they exchange insights and adapt to ever-changing market conditions."
+  },
+  "riskTolerance": 1,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

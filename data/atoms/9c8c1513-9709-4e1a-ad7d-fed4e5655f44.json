@@ -1,0 +1,20 @@
+{
+  "id": "9c8c1513-9709-4e1a-ad7d-fed4e5655f44",
+  "walletAddress": "3gKtrXPmzXAv9WJoHivDPkSYZt5H6Vurj59Zi9DCuZn4",
+  "initialBalance": 12.22,
+  "persona": {
+    "name": "Reagan",
+    "age": 49,
+    "profession": "full_time_trader",
+    "traits": [
+      "big_picture",
+      "generous"
+    ],
+    "experience": "experienced",
+    "bio": "Reagan, a seasoned 49-year-old full-time trader, is renowned in the crypto community for their big-picture approach to investing. With years of experience under their belt, Reagan skillfully navigates market trends, always keeping an eye on long-term growth while staying generous with insights and knowledge, helping newcomers grasp the complexities of the digital asset world."
+  },
+  "riskTolerance": 0.7959494813069761,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

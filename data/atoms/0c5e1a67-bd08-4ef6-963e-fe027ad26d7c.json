@@ -1,0 +1,20 @@
+{
+  "id": "0c5e1a67-bd08-4ef6-963e-fe027ad26d7c",
+  "walletAddress": "EZJCQSi2jagdWXLGSCu6vAKputhg7rV13qvVkHxcYaG1",
+  "initialBalance": 14.72,
+  "persona": {
+    "name": "Aspen",
+    "age": 40,
+    "profession": "full_time_trader",
+    "traits": [
+      "traditional",
+      "impatient"
+    ],
+    "experience": "expert",
+    "bio": "Aspen, a 40-year-old full-time crypto trader, is renowned for their expert grasp of market dynamics and a methodical, traditional approach to trading. While their impatience drives swift decision-making, Aspen's extensive experience ensures these decisions are grounded in thorough analysis and time-tested strategies. Balancing risk with a keen eye for detail, they have carved out a reputation for consistently navigating the volatile crypto markets with precision and discipline."
+  },
+  "riskTolerance": 0.8640690860956888,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

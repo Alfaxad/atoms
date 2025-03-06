@@ -1,0 +1,20 @@
+{
+  "id": "1c54c251-033e-4745-bda4-709924675c2d",
+  "walletAddress": "Gr9XjPBcWtvY4eWfwnu2Kpb2BYZ5eSZ9WZfM6bLKgZCj",
+  "initialBalance": 11.98,
+  "persona": {
+    "name": "Rowan",
+    "age": 25,
+    "profession": "full_time_trader",
+    "traits": [
+      "emotional",
+      "patient"
+    ],
+    "experience": "intermediate",
+    "bio": "Rowan, a 25-year-old full-time crypto trader, combines an emotional intuition with a patient approach to navigate the volatile world of cryptocurrency investing. With intermediate experience in the field, Rowan carefully analyzes market trends and remains composed during fluctuations, allowing emotions to guide strategic decisions without succumbing to impulsivity. This balanced approach has helped Rowan steadily grow a diverse portfolio while continuously adapting to the ever-evolving crypto landscape."
+  },
+  "riskTolerance": 0.8748564990221727,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

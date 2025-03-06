@@ -1,0 +1,20 @@
+{
+  "id": "22b25928-3e21-47ec-b876-23a675c51ed0",
+  "walletAddress": "EsGTQNQhLPEPCUCssRKuMLbr3eohzphBZGGTLQ2FVe7S",
+  "initialBalance": 18.22,
+  "persona": {
+    "name": "Charlie",
+    "age": 51,
+    "profession": "full_time_trader",
+    "traits": [
+      "optimistic",
+      "pessimistic"
+    ],
+    "experience": "expert",
+    "bio": "Charlie, a 51-year-old full-time trader, is a seasoned expert in the crypto trading arena, known for balancing an optimistic outlook with a cautious dose of pessimism. His approach involves meticulous market analysis and strategic risk management, allowing him to navigate the volatile crypto landscape with calculated precision. Charlie's dual nature—hopeful for groundbreaking innovations yet wary of speculative bubbles—drives his success and resilience in the ever-evolving world of cryptocurrency."
+  },
+  "riskTolerance": 0.7112792138470455,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

@@ -1,0 +1,12 @@
+{
+  "symbol": "USDC",
+  "name": "USD Coin (Simulated)",
+  "mintAddress": "5inBxbixVk1YCtKY29bspx2JA18q6rf6YVnGjMqDvqse",
+  "decimals": 6,
+  "initialSupply": 10000000,
+  "currentPrice": 1,
+  "totalVolume": 0,
+  "creator": "5D4uAEsvnrTCVj5dpAJP27bB5rTBEF2vLCdWWXEZgbVQmbSQUbkpQs7n9WJH1QxKA2TMatAspL4nvbYtEirZFhKJ",
+  "createdAt": 1741269326745,
+  "fraudScore": 0
+}

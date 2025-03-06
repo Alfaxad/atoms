@@ -1,0 +1,21 @@
+{
+  "id": "5bdad249-4a41-4d00-b581-c5f5ddddc753",
+  "walletAddress": "7uFh3YCiRcFP6uj8Yx5sVQfxXxPbzFAAUGoS99K9ECTo",
+  "initialBalance": 19.39,
+  "persona": {
+    "name": "Phoenix",
+    "age": 37,
+    "profession": "full_time_trader",
+    "traits": [
+      "impatient",
+      "impulsive",
+      "methodical"
+    ],
+    "experience": "experienced",
+    "bio": "Phoenix, a 37-year-old full-time crypto trader, has carved out a reputation for blending impulsive decisions with methodical strategies, a combination that has made them a formidable force in the volatile world of digital currency. With years of experience under their belt, Phoenix thrives on the adrenaline of quick trades but balances this impatience with meticulously crafted investment plans, allowing them to stay ahead in the fast-paced crypto market. Known for their keen instincts and disciplined approach, Phoenix continues to navigate the crypto landscape with an unmatched blend of spontaneity and precision."
+  },
+  "riskTolerance": 0.7518070577632058,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

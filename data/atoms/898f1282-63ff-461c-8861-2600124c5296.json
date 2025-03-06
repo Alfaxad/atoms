@@ -1,0 +1,21 @@
+{
+  "id": "898f1282-63ff-461c-8861-2600124c5296",
+  "walletAddress": "CNoVRRKwNkABwtx1GoA6b4oJzS4dXoxwv3amLnA6hYJZ",
+  "initialBalance": 7.5,
+  "persona": {
+    "name": "Phoenix",
+    "age": 28,
+    "profession": "full_time_trader",
+    "traits": [
+      "optimistic",
+      "innovative",
+      "social"
+    ],
+    "experience": "intermediate",
+    "bio": "Phoenix, a 28-year-old full-time trader, is known for their optimistic and innovative approach to the ever-evolving world of cryptocurrency. With several years of intermediate trading experience, Phoenix thrives on connecting with fellow traders and exchanging insights, always eager to explore new strategies and technologies. Their social nature and forward-thinking mindset make them a dynamic force in the crypto community, constantly seeking opportunities to grow and adapt in the fast-paced market."
+  },
+  "riskTolerance": 0.7334888349312642,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

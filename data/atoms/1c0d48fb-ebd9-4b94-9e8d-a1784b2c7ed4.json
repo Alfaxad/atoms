@@ -1,0 +1,20 @@
+{
+  "id": "1c0d48fb-ebd9-4b94-9e8d-a1784b2c7ed4",
+  "walletAddress": "pjQhRHbqhztDFRyEXboCZQdLFqA5UugyNc7D7BeYwxj",
+  "initialBalance": 17.04,
+  "persona": {
+    "name": "Tatum",
+    "age": 36,
+    "profession": "full_time_trader",
+    "traits": [
+      "conservative",
+      "impulsive"
+    ],
+    "experience": "expert",
+    "bio": "Tatum, a 36-year-old full-time trader, skillfully balances a conservative trading philosophy with an impulsive streak, making him a unique force in the crypto market. With expert-level experience, he meticulously analyzes market trends and data, yet isn't afraid to seize spontaneous opportunities when he senses a potential breakthrough. Tatum's dual approach allows him to strategically navigate the volatile world of cryptocurrency, consistently securing profitable returns while maintaining a vigilant risk management strategy."
+  },
+  "riskTolerance": 0.7506260310350102,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

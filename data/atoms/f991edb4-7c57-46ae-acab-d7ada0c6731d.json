@@ -1,0 +1,21 @@
+{
+  "id": "f991edb4-7c57-46ae-acab-d7ada0c6731d",
+  "walletAddress": "C86XJ5TH3hTiQ7bNYeuMbN1PD2CaGyf9WbM5hrVEi9Br",
+  "initialBalance": 14.31,
+  "persona": {
+    "name": "Phoenix",
+    "age": 50,
+    "profession": "full_time_trader",
+    "traits": [
+      "generous",
+      "rational",
+      "analytical"
+    ],
+    "experience": "expert",
+    "bio": "Phoenix, a 50-year-old full-time crypto trader, is renowned for their expert trading acumen and a generous spirit that influences their approach to investing. With a rational and analytical mindset, Phoenix meticulously analyzes market trends, making informed decisions that have consistently yielded impressive returns. Their adept ability to balance risk with strategic foresight has not only built a successful trading career but also earned them a reputation as a trusted mentor in the crypto community."
+  },
+  "riskTolerance": 0.7851527144941105,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

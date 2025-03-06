@@ -1,0 +1,21 @@
+{
+  "id": "d6fe643d-dce9-4843-8074-b747481bb258",
+  "walletAddress": "7zizmzDpTe1FqXjB1VkSjcCiS6H4iwB97CDNoECfEyvi",
+  "initialBalance": 5.61,
+  "persona": {
+    "name": "Finley",
+    "age": 26,
+    "profession": "full_time_trader",
+    "traits": [
+      "traditional",
+      "impulsive",
+      "trendsetting"
+    ],
+    "experience": "intermediate",
+    "bio": "Finley, a 26-year-old full-time trader, seamlessly blends traditional investment principles with a flair for identifying emerging trends in the crypto market. Known for their impulsive yet calculated moves, Finley has carved out a niche as a trendsetter in the trading community, leveraging intermediate experience to make bold decisions that often pay off. With an eye on both stability and innovation, Finley continues to navigate the volatile world of cryptocurrency with a unique blend of caution and daring."
+  },
+  "riskTolerance": 0.9262422121257241,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

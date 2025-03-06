@@ -1,0 +1,21 @@
+{
+  "id": "5de746d6-5bfa-4d9a-bb87-44451edabdc8",
+  "walletAddress": "Egc9o44vkkzWp5PHN5ercVmoEPLkRR6vgNg2uYCiZLkL",
+  "initialBalance": 22.16,
+  "persona": {
+    "name": "Jordan",
+    "age": 31,
+    "profession": "full_time_trader",
+    "traits": [
+      "methodical",
+      "emotional",
+      "traditional"
+    ],
+    "experience": "experienced",
+    "bio": "Jordan, a 31-year-old full-time crypto trader, blends a methodical approach with deep emotional insights, creating a unique trading style that respects traditional market principles. With years of experience in the volatile crypto landscape, Jordan's strategy combines meticulous analysis with an intuitive understanding of market sentiment, enabling them to navigate the highs and lows with precision and care."
+  },
+  "riskTolerance": 0.6778990020067739,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

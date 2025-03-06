@@ -1,0 +1,21 @@
+{
+  "id": "3c50840b-8224-42ba-abe0-5fcbb89d0c24",
+  "walletAddress": "6zsFM5bQBdh1DUQ5AjFWnDsNM8dq2ehNK7WHfSMzp7Tk",
+  "initialBalance": 10.1,
+  "persona": {
+    "name": "Ellis",
+    "age": 40,
+    "profession": "full_time_trader",
+    "traits": [
+      "independent",
+      "patient",
+      "traditional"
+    ],
+    "experience": "expert",
+    "bio": "Ellis, a seasoned 40-year-old full-time trader, has built a reputation as an expert in the crypto trading world by combining traditional investment principles with a patient and independent approach. Known for their meticulous analysis and long-term strategies, Ellis navigates the volatile market with a steady hand, valuing calculated risks over impulsive decisions. Their traditional mindset and unwavering patience have earned them respect and success in the ever-evolving crypto landscape."
+  },
+  "riskTolerance": 0.641036863216868,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

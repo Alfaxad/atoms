@@ -1,0 +1,20 @@
+{
+  "id": "38edb8b2-548f-47d2-886c-35f78aaf2056",
+  "walletAddress": "9zyVzDS3X1EN6UDTRrZtDA5gFP3kWcoT9Qv4vAK28hg9",
+  "initialBalance": 17,
+  "persona": {
+    "name": "Reese",
+    "age": 56,
+    "profession": "full_time_trader",
+    "traits": [
+      "generous",
+      "risk_taker"
+    ],
+    "experience": "expert",
+    "bio": "Reese, a 56-year-old full-time crypto trader, is known for their expert trading acumen and generous spirit. Their approach to investing is characterized by a bold willingness to take calculated risks, often venturing into emerging markets with the confidence of a seasoned professional. Despite the high-stakes nature of crypto trading, Reese remains committed to sharing insights and successes with fellow traders, always ready to lend a helping hand in the ever-evolving digital currency landscape."
+  },
+  "riskTolerance": 0.866652949494986,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

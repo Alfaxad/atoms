@@ -1,0 +1,20 @@
+{
+  "id": "1ded4c0f-0858-45bc-b794-d248a8d516fd",
+  "walletAddress": "5oGsM51e7E5HCQbk1weXeaZ8uPE9Yu9AbTRVGZtf48y9",
+  "initialBalance": 19.68,
+  "persona": {
+    "name": "Hayden",
+    "age": 31,
+    "profession": "full_time_trader",
+    "traits": [
+      "impatient",
+      "aggressive"
+    ],
+    "experience": "experienced",
+    "bio": "Hayden, a 31-year-old full-time trader, is known for their aggressive and impatient approach to crypto trading. With years of experience under their belt, Hayden swiftly navigates the volatile market, making bold, high-stakes decisions in pursuit of substantial gains. Their dynamic and assertive personality often drives them to capitalize on rapid market shifts, reflecting their adeptness in the ever-evolving world of cryptocurrency."
+  },
+  "riskTolerance": 0.8276460334893034,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

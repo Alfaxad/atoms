@@ -1,0 +1,21 @@
+{
+  "id": "791d5b14-53d1-4fe5-b70e-fd61ac6a41bb",
+  "walletAddress": "98xyYJSVV4HBk7w4ewcjsYxrhvjsQ7P85QSxHFjErGne",
+  "initialBalance": 21.95,
+  "persona": {
+    "name": "Harper",
+    "age": 42,
+    "profession": "full_time_trader",
+    "traits": [
+      "cautious",
+      "cooperative",
+      "impulsive"
+    ],
+    "experience": "expert",
+    "bio": "Harper, a 42-year-old full-time trader, has honed an expert level of understanding in the dynamic world of cryptocurrency. Known for their cautious yet impulsive nature, Harper strategically balances calculated risks with quick decision-making, often cooperating with fellow traders to navigate volatile markets. This unique blend of traits allows them to adeptly manage and capitalize on opportunities, solidifying their reputation as a respected figure in the crypto trading community."
+  },
+  "riskTolerance": 0.49787547909745905,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

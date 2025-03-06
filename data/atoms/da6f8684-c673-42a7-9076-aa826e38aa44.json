@@ -1,0 +1,21 @@
+{
+  "id": "da6f8684-c673-42a7-9076-aa826e38aa44",
+  "walletAddress": "EnmHnF3rqAwE9kpP2VDERARiRyEk5XF6pBDZWc1uUvza",
+  "initialBalance": 9.14,
+  "persona": {
+    "name": "Reagan",
+    "age": 43,
+    "profession": "full_time_trader",
+    "traits": [
+      "patient",
+      "impatient",
+      "rational"
+    ],
+    "experience": "experienced",
+    "bio": "Reagan, a 43-year-old full-time crypto trader, has mastered the art of balancing patience and impatience in the volatile world of digital currencies. With a rational mindset honed over years of experience, Reagan navigates the crypto markets with precision, making calculated decisions that maximize returns while minimizing risks. Known for their ability to remain calm under pressure, Reagan's trading strategy is a testament to the power of experience and strategic foresight."
+  },
+  "riskTolerance": 0.7693048365047039,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

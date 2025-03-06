@@ -1,0 +1,20 @@
+{
+  "id": "79d1a328-4e95-4061-a55d-f248ca59db36",
+  "walletAddress": "DY4C2dkeDxXv7mX67XeAKvFpTnB6EVRHfNAkNGnjQuMF",
+  "initialBalance": 25.28,
+  "persona": {
+    "name": "Blair",
+    "age": 33,
+    "profession": "full_time_trader",
+    "traits": [
+      "intuitive",
+      "trendsetting"
+    ],
+    "experience": "experienced",
+    "bio": "Blair, a 33-year-old full-time crypto trader, is known for their intuitive approach and trendsetting strategies in the ever-evolving world of digital currency. With years of experience under their belt, Blair has a keen eye for emerging trends and an uncanny ability to anticipate market shifts, making them a respected figure among investors. Their innovative mindset and strategic foresight have not only secured their reputation but have also set new standards in the crypto trading community."
+  },
+  "riskTolerance": 0.6971380070936551,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

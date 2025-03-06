@@ -1,0 +1,20 @@
+{
+  "id": "1a8e1146-b21d-4982-9e5d-b8d896d1354a",
+  "walletAddress": "BpzbiYyr6qPRHEc5PKsq9ZvxcSds8LK5hcMLVUPpkB9Y",
+  "initialBalance": 10.78,
+  "persona": {
+    "name": "Rowan",
+    "age": 63,
+    "profession": "full_time_trader",
+    "traits": [
+      "cooperative",
+      "impatient"
+    ],
+    "experience": "expert",
+    "bio": "Rowan, a 63-year-old full-time trader, is an expert in the dynamic world of cryptocurrency, known for their cooperative spirit and a touch of impatience that drives them to seize opportunities swiftly. With decades of experience, Rowan blends strategic analysis with a keen intuition, often collaborating with fellow traders to navigate the volatile market landscape. Their impatience ensures they remain agile, making quick, informed decisions that capitalize on market shifts."
+  },
+  "riskTolerance": 0.633799950805152,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

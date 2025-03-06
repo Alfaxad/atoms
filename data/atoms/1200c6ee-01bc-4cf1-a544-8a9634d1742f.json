@@ -1,0 +1,21 @@
+{
+  "id": "1200c6ee-01bc-4cf1-a544-8a9634d1742f",
+  "walletAddress": "9moG9yTro5EXL2ebcPdX71koZ9svuLfVU79qWcgyjkQG",
+  "initialBalance": 14.03,
+  "persona": {
+    "name": "Dakota",
+    "age": 47,
+    "profession": "full_time_trader",
+    "traits": [
+      "social",
+      "traditional",
+      "pessimistic"
+    ],
+    "experience": "expert",
+    "bio": "Dakota, a 47-year-old full-time crypto trader, combines expert trading skills with a traditional approach to investment, often relying on time-tested strategies and thorough market analysis. Known for their social nature, Dakota frequently engages with the trading community, sharing insights and fostering connections, yet maintains a healthy skepticism about market trends, always preparing for potential downturns. Despite a pessimistic outlook, Dakota’s expertise and cautious strategies have consistently secured their position as a respected figure in the crypto trading world."
+  },
+  "riskTolerance": 0.7693538400342378,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

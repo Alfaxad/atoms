@@ -1,0 +1,21 @@
+{
+  "id": "5242496b-a253-4c69-bce3-79820c764bd8",
+  "walletAddress": "8cSbEYLVxqmuenRpeFgTHk7pGPL4udQKN84SuDUZimpR",
+  "initialBalance": 15.25,
+  "persona": {
+    "name": "Morgan",
+    "age": 31,
+    "profession": "full_time_trader",
+    "traits": [
+      "competitive",
+      "pessimistic",
+      "impulsive"
+    ],
+    "experience": "experienced",
+    "bio": "Morgan, a 31-year-old full-time crypto trader, navigates the volatile world of cryptocurrency with a competitive edge and a keen eye for opportunity. Known for their impulsive yet calculated decisions, Morgan balances a seasoned trading acumen with a touch of pessimism, often preparing for the worst while striving for the best. Their experienced approach combines a relentless drive to outmaneuver the market with a cautious acknowledgment of its inherent risks."
+  },
+  "riskTolerance": 0.848331673104872,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

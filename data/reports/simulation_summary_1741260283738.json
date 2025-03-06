@@ -1,0 +1,303 @@
+{
+  "timestamp": 1741260283731,
+  "simulation": {
+    "duration": {
+      "days": 0.34964641203703706,
+      "realTimeHours": 0.1678302777777778
+    },
+    "cycles": 31
+  },
+  "atoms": {
+    "total": 103,
+    "fraudulent": 4,
+    "legitimate": 99,
+    "professionBreakdown": {
+      "full_time_trader": 103
+    },
+    "tradingStrategyBreakdown": {
+      "value_investing": 26,
+      "momentum_trading": 21,
+      "rug_pull": 3,
+      "swing_trading": 17,
+      "arbitrage": 22,
+      "day_trading": 13,
+      "pump_and_dump": 1
+    }
+  },
+  "market": {
+    "tokens": []
+  },
+  "trading": {
+    "totalTrades": 0,
+    "volumeByToken": {},
+    "topTraders": []
+  },
+  "communication": {
+    "topicTrends": [
+      {
+        "topic": "that",
+        "strength": 1,
+        "firstMentioned": 1741258630210,
+        "lastMentioned": 1741259865050,
+        "mentionCount": 105
+      },
+      {
+        "topic": "lets",
+        "strength": 1,
+        "firstMentioned": 1741258630210,
+        "lastMentioned": 1741259865050,
+        "mentionCount": 299
+      },
+      {
+        "topic": "fundamentals",
+        "strength": 1,
+        "firstMentioned": 1741258630210,
+        "lastMentioned": 1741259865050,
+        "mentionCount": 82
+      },
+      {
+        "topic": "atom1",
+        "strength": 1,
+        "firstMentioned": 1741258630210,
+        "lastMentioned": 1741259687389,
+        "mentionCount": 54
+      },
+      {
+        "topic": "entry",
+        "strength": 1,
+        "firstMentioned": 1741258630210,
+        "lastMentioned": 1741260024795,
+        "mentionCount": 78
+      },
+      {
+        "topic": "might",
+        "strength": 1,
+        "firstMentioned": 1741258630210,
+        "lastMentioned": 1741259980364,
+        "mentionCount": 68
+      },
+      {
+        "topic": "just",
+        "strength": 1,
+        "firstMentioned": 1741258630210,
+        "lastMentioned": 1741260042662,
+        "mentionCount": 80
+      },
+      {
+        "topic": "about",
+        "strength": 1,
+        "firstMentioned": 1741258630210,
+        "lastMentioned": 1741260090468,
+        "mentionCount": 65
+      },
+      {
+        "topic": "risk",
+        "strength": 1,
+        "firstMentioned": 1741258630210,
+        "lastMentioned": 1741259865050,
+        "mentionCount": 51
+      },
+      {
+        "topic": "while",
+        "strength": 1,
+        "firstMentioned": 1741258630210,
+        "lastMentioned": 1741259865050,
+        "mentionCount": 128
+      },
+      {
+        "topic": "into",
+        "strength": 1,
+        "firstMentioned": 1741260117841,
+        "lastMentioned": 1741260024795,
+        "mentionCount": 74
+      },
+      {
+        "topic": "value",
+        "strength": 1,
+        "firstMentioned": 1741260117841,
+        "lastMentioned": 1741260024795,
+        "mentionCount": 64
+      },
+      {
+        "topic": "keep",
+        "strength": 1,
+        "firstMentioned": 1741260117841,
+        "lastMentioned": 1741260088086,
+        "mentionCount": 121
+      },
+      {
+        "topic": "stay",
+        "strength": 1,
+        "firstMentioned": 1741260117841,
+        "lastMentioned": 1741260090468,
+        "mentionCount": 94
+      },
+      {
+        "topic": "opportunity",
+        "strength": 1,
+        "firstMentioned": 1741260117841,
+        "lastMentioned": 1741259909195,
+        "mentionCount": 65
+      },
+      {
+        "topic": "atom2s",
+        "strength": 1,
+        "firstMentioned": 1741259995495,
+        "lastMentioned": 1741260090468,
+        "mentionCount": 67
+      },
+      {
+        "topic": "arbitrage",
+        "strength": 1,
+        "firstMentioned": 1741259995495,
+        "lastMentioned": 1741259865050,
+        "mentionCount": 106
+      },
+      {
+        "topic": "patience",
+        "strength": 1,
+        "firstMentioned": 1741259995495,
+        "lastMentioned": 1741260088086,
+        "mentionCount": 89
+      },
+      {
+        "topic": "sharp",
+        "strength": 1,
+        "firstMentioned": 1741259995495,
+        "lastMentioned": 1741260090468,
+        "mentionCount": 64
+      },
+      {
+        "topic": "some",
+        "strength": 1,
+        "firstMentioned": 1741259995495,
+        "lastMentioned": 1741258596054,
+        "mentionCount": 100
+      }
+    ],
+    "messageCount": 364,
+    "topCommunicators": [
+      {
+        "atomId": "4e39bbb5-52c1-40fd-be8f-6d8686268791",
+        "name": "Sage",
+        "profession": "full_time_trader",
+        "fraudulent": false,
+        "messageCount": 11
+      },
+      {
+        "atomId": "957d04d6-8af2-4112-be5e-f1dd82c26802",
+        "name": "Skyler",
+        "profession": "full_time_trader",
+        "fraudulent": false,
+        "messageCount": 8
+      },
+      {
+        "atomId": "dcb33862-daab-4c83-b806-4b69ed7b425b",
+        "name": "Hayden",
+        "profession": "full_time_trader",
+        "fraudulent": false,
+        "messageCount": 8
+      },
+      {
+        "atomId": "a1e9aa66-cb35-4583-af92-2d053242f10d",
+        "name": "Marley",
+        "profession": "full_time_trader",
+        "fraudulent": true,
+        "messageCount": 7
+      },
+      {
+        "atomId": "a18f888c-1224-4ec3-8ad0-58afe4ef7aab",
+        "name": "Harley",
+        "profession": "full_time_trader",
+        "fraudulent": false,
+        "messageCount": 7
+      },
+      {
+        "atomId": "a772220b-b142-4641-be83-44e18a16fdb3",
+        "name": "Ashton",
+        "profession": "full_time_trader",
+        "fraudulent": false,
+        "messageCount": 7
+      },
+      {
+        "atomId": "d45752e8-5daf-453e-a76e-0303a38039b2",
+        "name": "Harper",
+        "profession": "full_time_trader",
+        "fraudulent": false,
+        "messageCount": 6
+      },
+      {
+        "atomId": "d26a282a-de27-49da-b03b-8aa5d944519a",
+        "name": "Cameron",
+        "profession": "full_time_trader",
+        "fraudulent": false,
+        "messageCount": 6
+      },
+      {
+        "atomId": "433619cd-8e99-40bc-b0a7-667599835c19",
+        "name": "Jude",
+        "profession": "full_time_trader",
+        "fraudulent": false,
+        "messageCount": 6
+      },
+      {
+        "atomId": "ae409be0-78ad-4e55-a14e-dd30dc3257fc",
+        "name": "Ellis",
+        "profession": "full_time_trader",
+        "fraudulent": false,
+        "messageCount": 6
+      }
+    ]
+  },
+  "fraudDetection": {
+    "suspiciousTokens": [],
+    "suspiciousAtoms": [
+      {
+        "atomId": "a1e9aa66-cb35-4583-af92-2d053242f10d",
+        "name": "Marley",
+        "profession": "full_time_trader",
+        "tradingStrategy": "pump_and_dump",
+        "suspicionScore": 1.1,
+        "evidence": [
+          "Known fraudulent atom (ground truth)",
+          "Uses promotional language"
+        ],
+        "knownFraudulent": true
+      },
+      {
+        "atomId": "ea039686-ed68-46c1-9865-5df0f1b77e4c",
+        "name": "Parker",
+        "profession": "full_time_trader",
+        "tradingStrategy": "rug_pull",
+        "suspicionScore": 1.05,
+        "evidence": [
+          "Known fraudulent atom (ground truth)",
+          "Uses promotional language"
+        ],
+        "knownFraudulent": true
+      },
+      {
+        "atomId": "1a24cdfd-0c67-4dbd-b9fe-80ab993d2471",
+        "name": "Robin",
+        "profession": "full_time_trader",
+        "tradingStrategy": "rug_pull",
+        "suspicionScore": 1,
+        "evidence": [
+          "Known fraudulent atom (ground truth)"
+        ],
+        "knownFraudulent": true
+      },
+      {
+        "atomId": "23a57756-4994-46cf-869c-bfd9b7db1c6a",
+        "name": "Reagan",
+        "profession": "full_time_trader",
+        "tradingStrategy": "rug_pull",
+        "suspicionScore": 1,
+        "evidence": [
+          "Known fraudulent atom (ground truth)"
+        ],
+        "knownFraudulent": true
+      }
+    ]
+  }
+}

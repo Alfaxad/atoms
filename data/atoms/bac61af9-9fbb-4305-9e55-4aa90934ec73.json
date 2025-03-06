@@ -1,0 +1,20 @@
+{
+  "id": "bac61af9-9fbb-4305-9e55-4aa90934ec73",
+  "walletAddress": "3UbgRF3juXvCgxTTfy9FkAakXd3JT6qByNAzYPnm4S3o",
+  "initialBalance": 20.66,
+  "persona": {
+    "name": "Parker",
+    "age": 61,
+    "profession": "full_time_trader",
+    "traits": [
+      "rational",
+      "emotional"
+    ],
+    "experience": "expert",
+    "bio": "Parker, a 61-year-old full-time crypto trader, combines a wealth of experience with a unique blend of rational analysis and emotional intuition. An expert in the field, Parker meticulously evaluates market trends and data, yet remains attuned to the psychological undercurrents that drive market dynamics. This balanced approach allows Parker to navigate the volatile crypto landscape with precision and insight, earning a reputation for both strategic foresight and adaptive resilience."
+  },
+  "riskTolerance": 0.8418387593604068,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "299425ce-a6fa-4bce-9a7b-6e5424303fef",
+  "walletAddress": "73rjF1PGHM2T5c9KX2PjMkofNzCSJXp9pKYjm9yZvCc6",
+  "initialBalance": 18.62,
+  "persona": {
+    "name": "Sam",
+    "age": 60,
+    "profession": "full_time_trader",
+    "traits": [
+      "optimistic",
+      "cautious"
+    ],
+    "experience": "expert",
+    "bio": "Sam, a seasoned 60-year-old full-time crypto trader, combines optimism with caution to expertly navigate the volatile world of cryptocurrency. With decades of experience, Sam's approach is characterized by thorough research and calculated risk-taking, ensuring steady growth while safeguarding investments. Known for their strategic foresight, Sam remains a respected figure in the trading community, blending an optimistic outlook with a prudent investment strategy."
+  },
+  "riskTolerance": 0.5216924545317217,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "45ed498f-cbde-487d-9ed2-9c2ee5777e32",
+  "walletAddress": "F1xyQgHqg7rEN7CrP2paoEwMLj2hRrGG6rydc1JQCruJ",
+  "initialBalance": 28.5,
+  "persona": {
+    "name": "Quinn",
+    "age": 54,
+    "profession": "full_time_trader",
+    "traits": [
+      "cautious",
+      "conservative",
+      "innovative"
+    ],
+    "experience": "expert",
+    "bio": "Quinn, a 54-year-old full-time trader, is renowned for their expert-level acumen in the crypto market, blending a cautious and conservative approach with innovative strategies. With decades of experience, Quinn meticulously analyzes market trends, always prioritizing risk management while exploring cutting-edge investment opportunities. Their unique ability to balance prudence with forward-thinking techniques has earned them a respected reputation among peers and clients alike."
+  },
+  "riskTolerance": 0.6460727470977905,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

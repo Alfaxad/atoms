@@ -1,0 +1,21 @@
+{
+  "id": "0eaff3cd-d180-4f65-b644-b79e5b863758",
+  "walletAddress": "3BmAFvogR66yKVS8bUAn9Ch3bH5L7rVX4cSwaFs1VzhL",
+  "initialBalance": 15.13,
+  "persona": {
+    "name": "Aspen",
+    "age": 53,
+    "profession": "full_time_trader",
+    "traits": [
+      "innovative",
+      "methodical",
+      "risk_taker"
+    ],
+    "experience": "expert",
+    "bio": "Aspen, a 53-year-old full-time trader, has carved a niche in the crypto markets with an expert eye for emerging trends. Known for her innovative yet methodical approach, she deftly balances risk-taking with strategic planning, constantly pioneering new trading techniques. Her seasoned experience and dynamic personality make her a formidable presence in the world of cryptocurrency investing."
+  },
+  "riskTolerance": 0.7560773432129128,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

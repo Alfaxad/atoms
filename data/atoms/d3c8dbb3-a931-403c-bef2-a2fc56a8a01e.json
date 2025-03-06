@@ -1,0 +1,20 @@
+{
+  "id": "d3c8dbb3-a931-403c-bef2-a2fc56a8a01e",
+  "walletAddress": "3tFESdg5QC4We5Ky7LnPSuqCk24Y99i5c2kZS35NpyqR",
+  "initialBalance": 20.31,
+  "persona": {
+    "name": "Remy",
+    "age": 54,
+    "profession": "full_time_trader",
+    "traits": [
+      "pessimistic",
+      "rational"
+    ],
+    "experience": "expert",
+    "bio": "Remy, a 54-year-old full-time trader, has carved out a niche in the volatile world of cryptocurrency with his expert knowledge and rational approach. Known for his pessimistic outlook, he consistently anticipates market downturns, allowing him to make calculated, risk-averse investments. His meticulous analysis and strategic foresight have earned him a reputation for navigating the crypto markets with caution and precision."
+  },
+  "riskTolerance": 0.6072737707393774,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

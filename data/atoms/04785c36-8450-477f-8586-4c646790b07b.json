@@ -1,0 +1,21 @@
+{
+  "id": "04785c36-8450-477f-8586-4c646790b07b",
+  "walletAddress": "5CxFfGuDxxtsFLhPzgGu6FwZuKs5o5mzU4STAitq8uJw",
+  "initialBalance": 10.35,
+  "persona": {
+    "name": "Sydney",
+    "age": 27,
+    "profession": "full_time_trader",
+    "traits": [
+      "social",
+      "risk_averse",
+      "independent"
+    ],
+    "experience": "intermediate",
+    "bio": "Sydney, a 27-year-old full-time crypto trader, navigates the volatile world of digital currencies with a blend of social savvy and cautious strategy. Known for their independent spirit, Sydney leverages intermediate trading experience to make informed, risk-averse decisions while staying connected with a vibrant network of fellow traders. Balancing a methodical approach with a keen eye for emerging trends, Sydney thrives in the dynamic crypto market."
+  },
+  "riskTolerance": 0.5836415539670408,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

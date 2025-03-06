@@ -1,0 +1,21 @@
+{
+  "id": "f47ae188-3294-4c4a-8d47-ba323cde6fde",
+  "walletAddress": "FA8a8WYxNfBVXqujzEW4B6rvTJ8VeNxeA2bd8qRFJS3s",
+  "initialBalance": 9.24,
+  "persona": {
+    "name": "Casey",
+    "age": 35,
+    "profession": "full_time_trader",
+    "traits": [
+      "competitive",
+      "independent",
+      "methodical"
+    ],
+    "experience": "intermediate",
+    "bio": "Casey, a 35-year-old full-time crypto trader, thrives in the fast-paced world of digital currencies with a competitive spirit and a methodical approach. With intermediate experience, Casey combines independent research with strategic analysis to navigate the volatile market, consistently seeking out new opportunities to optimize their investment portfolio. Known for their disciplined trading style, Casey remains focused on outperforming the market while staying ahead of emerging trends."
+  },
+  "riskTolerance": 0.9471421021929913,
+  "tradingStrategy": "pump_and_dump",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": true
+}

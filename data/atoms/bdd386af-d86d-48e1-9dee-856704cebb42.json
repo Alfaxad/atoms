@@ -1,0 +1,20 @@
+{
+  "id": "bdd386af-d86d-48e1-9dee-856704cebb42",
+  "walletAddress": "Ef8apt42PRZv6ECEnmcFbK7mnRQdcSUh6m5z8T6PTusT",
+  "initialBalance": 14.55,
+  "persona": {
+    "name": "Taylor",
+    "age": 45,
+    "profession": "full_time_trader",
+    "traits": [
+      "traditional",
+      "independent"
+    ],
+    "experience": "expert",
+    "bio": "Taylor, a 45-year-old full-time trader, is an expert in the crypto market, known for their traditional yet independent approach to investing. With a deep understanding of market trends and a cautious strategy, Taylor combines time-tested trading principles with a keen ability to adapt independently to the ever-evolving landscape of digital currencies. Their disciplined and methodical nature has earned them a reputation for minimizing risks while maximizing potential gains."
+  },
+  "riskTolerance": 0.5938832439801817,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

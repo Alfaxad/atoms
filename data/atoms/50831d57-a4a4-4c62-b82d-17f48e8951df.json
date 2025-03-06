@@ -1,0 +1,21 @@
+{
+  "id": "50831d57-a4a4-4c62-b82d-17f48e8951df",
+  "walletAddress": "HxyEkufTuMNAALdHyXLxLvHBGSz35ng8Ep24C7WoSpVA",
+  "initialBalance": 26.27,
+  "persona": {
+    "name": "Nico",
+    "age": 62,
+    "profession": "full_time_trader",
+    "traits": [
+      "aggressive",
+      "big_picture",
+      "trendsetting"
+    ],
+    "experience": "expert",
+    "bio": "Nico, a 62-year-old full-time trader, is renowned in the crypto world for his aggressive and trendsetting approach. With decades of experience, he expertly navigates the volatile markets, always keeping an eye on the big picture. Known for his fearless strategies and ability to anticipate market shifts, Nico continues to set trends and inspire both novice and seasoned investors alike."
+  },
+  "riskTolerance": 0.9237262246591402,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

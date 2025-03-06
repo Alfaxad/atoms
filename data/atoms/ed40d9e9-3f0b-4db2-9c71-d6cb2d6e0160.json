@@ -1,0 +1,21 @@
+{
+  "id": "ed40d9e9-3f0b-4db2-9c71-d6cb2d6e0160",
+  "walletAddress": "9zwJqUGJAVVAVzRzDNeCmbqHjYM7ZpMgUJwEvhQk8qcd",
+  "initialBalance": 7.11,
+  "persona": {
+    "name": "Jordan",
+    "age": 31,
+    "profession": "full_time_trader",
+    "traits": [
+      "competitive",
+      "social",
+      "intuitive"
+    ],
+    "experience": "intermediate",
+    "bio": "Jordan, a 31-year-old full-time crypto trader, combines their competitive edge and intuitive insights to navigate the dynamic world of digital currencies. With an intermediate level of experience, Jordan thrives in social trading environments, leveraging community wisdom and market trends to make informed investment decisions. Their approach is characterized by a keen ability to anticipate shifts in the market, driven by a blend of instinct and strategic analysis."
+  },
+  "riskTolerance": 0.9033294840148203,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

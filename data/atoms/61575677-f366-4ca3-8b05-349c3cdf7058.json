@@ -1,0 +1,20 @@
+{
+  "id": "61575677-f366-4ca3-8b05-349c3cdf7058",
+  "walletAddress": "xfCqAhmys1n22KtQ9C2jGSiNnJ4pgC9q16Epu572gWY",
+  "initialBalance": 25.21,
+  "persona": {
+    "name": "Jordan",
+    "age": 55,
+    "profession": "full_time_trader",
+    "traits": [
+      "optimistic",
+      "traditional"
+    ],
+    "experience": "expert",
+    "bio": "Jordan, a 55-year-old full-time trader, combines their expert-level trading experience with a unique blend of optimism and traditional investment strategies. Known for balancing risk with tried-and-true principles, Jordan approaches the volatile crypto market with a steady hand, maintaining confidence in long-term growth while navigating the digital landscape with a cautious, yet hopeful, outlook."
+  },
+  "riskTolerance": 0.8340240992950512,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

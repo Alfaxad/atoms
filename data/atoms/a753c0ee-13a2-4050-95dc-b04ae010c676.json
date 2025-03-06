@@ -1,0 +1,20 @@
+{
+  "id": "a753c0ee-13a2-4050-95dc-b04ae010c676",
+  "walletAddress": "4qANab76gpLuu2NtDQ3urogAvYfhLjvKpxdWraf1yeN7",
+  "initialBalance": 8.34,
+  "persona": {
+    "name": "Kai",
+    "age": 29,
+    "profession": "full_time_trader",
+    "traits": [
+      "intuitive",
+      "pessimistic"
+    ],
+    "experience": "experienced",
+    "bio": "Kai, a 29-year-old seasoned full-time crypto trader, navigates the volatile world of digital currencies with an intuitive yet cautious approach. Known for their deep analytical skills and a healthy dose of skepticism, Kai meticulously evaluates market trends, always preparing for the unexpected. This blend of intuition and pessimism has honed their ability to make calculated decisions, securing a reputation as a prudent and insightful investor in the crypto space."
+  },
+  "riskTolerance": 0.5463795881154068,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

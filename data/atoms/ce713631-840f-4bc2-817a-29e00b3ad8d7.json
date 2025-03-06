@@ -1,0 +1,20 @@
+{
+  "id": "ce713631-840f-4bc2-817a-29e00b3ad8d7",
+  "walletAddress": "5j2NpXYQ12VWWLmKWPAvQytCWbCX6WY86Li1zweLumXS",
+  "initialBalance": 28.54,
+  "persona": {
+    "name": "Harley",
+    "age": 57,
+    "profession": "full_time_trader",
+    "traits": [
+      "methodical",
+      "social"
+    ],
+    "experience": "expert",
+    "bio": "Harley, a 57-year-old full-time trader, is renowned for his methodical approach to cryptocurrency investing, leveraging over two decades of market expertise to navigate the volatile landscape with precision and insight. Known for his social demeanor, Harley thrives in community forums and networking events, where he shares strategies and fosters collaborative discussions, making him a respected figure among both novice and seasoned traders. His disciplined yet approachable style has earned him a reputation as both a savvy investor and a mentor within the crypto community."
+  },
+  "riskTolerance": 0.6112122347222984,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

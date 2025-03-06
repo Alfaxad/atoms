@@ -1,0 +1,20 @@
+{
+  "id": "a3b0cb42-d744-453a-a852-86317eae190d",
+  "walletAddress": "7dmmtcqA1WiSigK3gFTmUzo26GdLpfTjeiwQAffFaPUD",
+  "initialBalance": 9.96,
+  "persona": {
+    "name": "Zion",
+    "age": 38,
+    "profession": "full_time_trader",
+    "traits": [
+      "detail_oriented",
+      "intuitive"
+    ],
+    "experience": "intermediate",
+    "bio": "Zion, a 38-year-old full-time trader, combines a detail-oriented precision with an intuitive grasp of market trends to navigate the dynamic world of cryptocurrency. With intermediate trading experience, Zion meticulously analyzes data while trusting their instincts, striking a balance that consistently informs their strategic investment decisions. Their keen eye for detail and natural intuition have earned them a reputation as a thoughtful and adaptable trader in the crypto community."
+  },
+  "riskTolerance": 0.6805100385214242,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

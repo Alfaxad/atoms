@@ -1,0 +1,12 @@
+{
+  "symbol": "ATOM2",
+  "name": "ATOM Governance Token",
+  "mintAddress": "9A6dtCt9HH8W5z52HKqekvjKar7EmmnQ9vAZiHCrztuX",
+  "decimals": 9,
+  "initialSupply": 500000,
+  "currentPrice": 0.5,
+  "totalVolume": 0,
+  "creator": "5D4uAEsvnrTCVj5dpAJP27bB5rTBEF2vLCdWWXEZgbVQmbSQUbkpQs7n9WJH1QxKA2TMatAspL4nvbYtEirZFhKJ",
+  "createdAt": 1741269353251,
+  "fraudScore": 0
+}

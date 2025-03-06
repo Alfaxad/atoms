@@ -1,0 +1,21 @@
+{
+  "id": "92b1ecbc-0311-433a-8482-5dd87dd0eea8",
+  "walletAddress": "HtY6KMZ77kDfXgg6xTZLmhAk4L5FGCcmhroUYPWa3g2G",
+  "initialBalance": 21.62,
+  "persona": {
+    "name": "Quinn",
+    "age": 59,
+    "profession": "full_time_trader",
+    "traits": [
+      "impulsive",
+      "pessimistic",
+      "optimistic"
+    ],
+    "experience": "expert",
+    "bio": "Quinn, a 59-year-old full-time crypto trader, is an expert in navigating the volatile world of digital currencies. Known for their impulsive yet strategic trading decisions, Quinn balances a unique blend of pessimism and optimism, which allows them to anticipate market downturns while seizing opportunities for growth. Their seasoned approach combines years of experience with a keen intuition for emerging trends, making them a formidable force in the crypto trading arena."
+  },
+  "riskTolerance": 0.6269077762455811,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

@@ -1,0 +1,695 @@
+{
+  "timestamp": 1741264164133,
+  "simulation": {
+    "isRunning": false,
+    "isPaused": false,
+    "cycleCount": 0,
+    "realTimeElapsed": 1741264164133,
+    "simulationTimeElapsed": 41790339939192,
+    "simulationDays": 483684.49003694445,
+    "timeAcceleration": 24
+  },
+  "market": {
+    "tokens": [],
+    "globalVolume": 0
+  },
+  "trading": {
+    "recentTrades": []
+  },
+  "communication": {
+    "recentMessages": [
+      {
+        "id": "f13f48f5-b01c-4fb9-9322-bdb7568cb794",
+        "atomId": "1a24cdfd-0c67-4dbd-b9fe-80ab993d2471",
+        "content": "\"Just came across some interesting developments with ATOM1 that have me thinking it could be a hidden gem in the market. 🚀 Anyone else keeping an eye on this one? Feels like it might be gearing up for something significant!\"",
+        "timestamp": 1741264153451
+      },
+      {
+        "id": "4ab9f8b2-fad5-4c0f-9acb-544ab92c3467",
+        "atomId": "164457e9-3c3c-41e1-8f5b-2a8e3dc63fb9",
+        "content": "\"Hey everyone, I've been diving into some market trends, and ATOM1 is catching my eye. 📈 I'm seeing some promising signals that could lead to an interesting breakout soon. Would love to hear your thoughts!\"",
+        "timestamp": 1741264151699
+      },
+      {
+        "id": "ffca4379-756e-4435-975a-8ccfb278c4a3",
+        "atomId": "a1e9aa66-cb35-4583-af92-2d053242f10d",
+        "content": "\"Hey everyone, I've been diving deep into some promising projects lately, and ATOM1 caught my eye with its recent developments and community buzz. 🚀 Anyone else keeping an eye on it? Curious to hear your thoughts!\"",
+        "timestamp": 1741264150064
+      },
+      {
+        "id": "37f6c829-ed9d-4240-bc8e-0ee0915fa122",
+        "atomId": "ea039686-ed68-46c1-9865-5df0f1b77e4c",
+        "content": "\"Been researching some promising projects, and ATOM1 caught my eye — seems like it's been quietly building momentum. 🚀 Anyone else seen its recent developments? It's looking like one to watch closely. 📈\"",
+        "timestamp": 1741264148244
+      },
+      {
+        "id": "c5a669f6-4bfd-4936-9379-bc019f6ae5ec",
+        "atomId": "c80e4c85-483e-4363-aaca-59263aaab6e7",
+        "content": "\"Really impressed with ATOM1's recent development updates—seems like they’re gearing up for something big! 🚀 Taking a closer look today, anyone else following their progress?\"",
+        "timestamp": 1741264146680
+      },
+      {
+        "id": "430b2f58-67c8-4467-9f28-39360e781c5c",
+        "atomId": "e9e705cd-8762-48ce-9b3a-618339ddfb73",
+        "content": "\"Exciting times ahead for ATOM1! 🚀 Been hearing through the grapevine about some intriguing developments on the horizon. 📈 Might be worth keeping an eye on this one. 😊\"",
+        "timestamp": 1741264145188
+      },
+      {
+        "id": "ad5ec0bf-90ae-4365-b4c5-6b699d00e2fb",
+        "atomId": "0710f0f1-5bf4-4f78-813a-f994a9a2e351",
+        "content": "\"Great insights on ATOM, team! 🔍 With that 1.79% move, I'm hunting for arbitrage opportunities between exchanges—let's leverage those spreads while they're juicy! 🚀 If the market stays aligned with our Fibonacci levels, we might have a sweet setup. Stay sharp, everyone! 📊😉\"",
+        "timestamp": 1741264143609
+      },
+      {
+        "id": "fd562c8c-d653-4b60-b13f-e8575b00997f",
+        "atomId": "8c17202c-a62a-420a-a5bc-a00965d560d6",
+        "content": "\"Interesting to see AVAX's recent move! 📊 I'm considering setting some cautious stop-loss levels to mitigate any emotional whiplash while keeping an eye on Fibonacci retracements. If BTC stays steady, I might consider a small position—let's not rush the ride! 😉\"",
+        "timestamp": 1741264141458
+      },
+      {
+        "id": "4c7cda1e-df64-4594-b106-6075ddacf903",
+        "atomId": "3a0ee82c-da0f-4900-8237-91ff93e52119",
+        "content": "\"Looks like BTC's volatility is giving us a fresh arbitrage playground! 🚀 With that 10% surge, I'm mapping out the cross-exchange spreads and ready to pounce on any inefficiencies. Let's stay nimble and capitalize on these swings! 💼🔄\"",
+        "timestamp": 1741264139743
+      },
+      {
+        "id": "e81ab668-8c40-4aad-bd8d-3c4d7543b5d0",
+        "atomId": "58a03b21-b714-4fbf-839c-26ff51f655c9",
+        "content": "\"Appreciating the insights on ATOM, folks! 📉🔍 With a 10% swing, my radar's on high alert for potential value plays. If those Fibonacci retracements hold and BTC's trajectory aligns, we might just have a solid entry point. Let's keep those analysis skills sharp and seize the opportunity if it arises! 📈😉\"",
+        "timestamp": 1741264137977
+      },
+      {
+        "id": "4ed33a85-9b96-4c00-a2f7-3f268d0c7f23",
+        "atomId": "a0263cca-2b67-42fd-a514-77e88ced2039",
+        "content": "\"Interesting times with SOL's spike! 🚀 I'm diving into the charts to see if this momentum can carry us further. If BTC stays bullish and aligns with those Fibonacci levels, we might be on the cusp of a sweet breakout. Let's keep those eyes peeled! 📈😉\"",
+        "timestamp": 1741264136031
+      },
+      {
+        "id": "6dcfcfbd-1314-47d1-8ba7-1dbf54fdadca",
+        "atomId": "531ddc43-768b-4125-bfce-54d32f65d16e",
+        "content": "\"Great insights on ATOM, everyone! 😊 I'm mapping out potential arbitrage plays as well—I think there's room to capitalize if BTC's movement plays ball. Let's stay sharp and be ready to exploit any price discrepancies! 📊🔄\"",
+        "timestamp": 1741264132870
+      },
+      {
+        "id": "96cfed72-4505-40f7-9f5a-77eb06a512e3",
+        "atomId": "e4c10e96-b5dc-4670-8668-31ded9860091",
+        "content": "\"With ATOM's recent dip, I'm eyeing the broader market trends to see if there's a strategic entry point. 📉🔍 If BTC's trajectory aligns and the fundamentals hold strong, it could be a classic value play. Let's see if the Fibonacci retracement confirms our thesis before we make a move. 😉\"",
+        "timestamp": 1741264131317
+      },
+      {
+        "id": "5f7ea3be-cabb-40b2-9431-a9f6c49a4663",
+        "atomId": "5a114fb7-9466-4c60-a299-3d33ed4a309d",
+        "content": "\"Seeing ATOM's dip, I’m considering the arbitrage potential if it aligns with BTC's trajectory. 📉🔄 Let's keep those Fibonacci levels in check and ensure we're not chasing shadows. Anyone else ready to pounce on some inefficiencies if the data confirms our gut? 😉\"",
+        "timestamp": 1741264129477
+      },
+      {
+        "id": "48b50680-c961-43c1-8192-bb43b44c241c",
+        "atomId": "6d96384d-5f43-4b97-8174-84b643c5cc11",
+        "content": "\"ATOM's dip has my attention too—I'm drawing up a quick Fibonacci retracement to pinpoint those potential support levels. 📊 With BTC paving the way, it could be a pivot moment if the data backs it up. Anyone else ready to ride the rebound wave if we get confirmation? 🌊🚀\"",
+        "timestamp": 1741264124044
+      },
+      {
+        "id": "aa20c848-cb51-4546-8bf9-b3e323cdd4bc",
+        "atomId": "170b8cb1-f7a1-4775-b2f3-2a7037596b7d",
+        "content": "\"Noticing ATOM's dip, I'm thinking there's a solid momentum play if it rebounds 📈. Before jumping in, I'm running a thorough technical analysis to ensure the trend isn't just a head fake. Anyone else mapping out the resistance levels for a cautious entry? 🤔\"",
+        "timestamp": 1741264122133
+      },
+      {
+        "id": "7fb799a7-424a-45ff-b223-9ca4b81c595a",
+        "atomId": "dee5398c-61d4-469f-980b-8a36424956e2",
+        "content": "\"With BTC's recent surge, I'm eyeing potential arbitrage plays across exchanges—market inefficiencies are bound to pop up! 😎 AVAX's wild ride is tempting, but I'm keeping my emotional bias in check while crunching those numbers. Anyone else finding synergy between gut feel and the data? 📈✨\"",
+        "timestamp": 1741264120370
+      },
+      {
+        "id": "9164b2df-b286-4b92-ad4e-0002c9c059a2",
+        "atomId": "a1885683-8a0d-49a1-b6fb-4b9c5eb5af7c",
+        "content": "\"ATOM's recent price action is catching my eye—could be a momentum play here if it sustains. 🚀 Given the market's volatility, I'm diving into the technicals to see if this wave has legs. Anyone else seeing a potential trend reversal, or am I chasing shadows? 📉🤔\"",
+        "timestamp": 1741264118280
+      },
+      {
+        "id": "319eedab-930e-49cd-8f0e-862459b82ed5",
+        "atomId": "42a1b4b3-8ec5-467d-88ad-e3ae370043a2",
+        "content": "\"Seeing USDC's dip reminds me of last year's volatility waves—time for some deep dive analysis on the fundamentals. 📉 Might be a solid opportunity for value capture if the intrinsic metrics align. Always aiming for those calculated risks, right? 🧐\"",
+        "timestamp": 1741264115858
+      },
+      {
+        "id": "a7811a6e-f244-4f23-9071-a0dae05c21da",
+        "atomId": "1245c213-8710-4ad2-a87f-da1740945fd1",
+        "content": "\"AVAX's spike is definitely a wild ride! 🚀 While everyone is buzzing about USDC's dip, I'm crunching the numbers on AVAX for a potential long-haul play. Intrinsic value meets gut instinct—could be the perfect storm for a solid entry! 📊🤔\"",
+        "timestamp": 1741264114242
+      },
+      {
+        "id": "6fcc78f6-8b57-4b06-b7a9-992eede856bb",
+        "atomId": "164457e9-3c3c-41e1-8f5b-2a8e3dc63fb9",
+        "content": "Just offloaded 0.51 ETH at 88.57 USD—saw the writing on the wall and decided to dodge a potential rug pull. 🏃‍♂️💨 Anyone else sensing a tempest brewing, or am I just overanalyzing again? Let's dissect this!",
+        "timestamp": 1741264112469
+      },
+      {
+        "id": "d03ed962-faf8-48f5-b653-b8e99d310760",
+        "atomId": "1b23ee3d-baef-452e-a57f-9766602af1b8",
+        "content": "\"ATOM's plunge is definitely catching my eye, but let's not forget the fundamentals here. 📉 It's tempting to dive in, but I'm keeping my due diligence hat on—looking for intrinsic value before making a move. Patience is key; sometimes the best trade is the one you don't make. 🤔\"",
+        "timestamp": 1741264110330
+      },
+      {
+        "id": "5c2d1b37-3147-4e37-8999-fdf5ac2a6e57",
+        "atomId": "9b854187-fc6e-4af1-86b2-91a4e9b3b01e",
+        "content": "\"Whoa, USDC's dip is like a siren call in this sea of volatility! 🌊 I'm eyeing it as a prime setup for a quick flip—just gotta nail that timing. Gearing up to ride this momentum train, but you know me, it's all about those swift pivots and agile exits! 🚀📉\"",
+        "timestamp": 1741264108383
+      },
+      {
+        "id": "e3b6a360-6cbe-4ef8-ab01-ba43175d65f1",
+        "atomId": "9b854187-fc6e-4af1-86b2-91a4e9b3b01e",
+        "content": "\"Feeling that ATOM dip? 🚀 Sounds like a golden opportunity to dive in and ride the rebound! I'm all about catching these volatile waves, so while others are cautious, I'm setting my entries and bracing for the momentum ride. Let's see who else is ready to surf this market! 🏄‍♂️📈\"",
+        "timestamp": 1741264104155
+      },
+      {
+        "id": "ea4f5284-d0b1-473a-8d98-893e7b553ab8",
+        "atomId": "91f9d243-f5bb-44f9-b427-5b7b7c943e1d",
+        "content": "\"Just saw that 2.33% jolt on ETH—momentum like this is my playground! 🚀 While some might hesitate, I'm all about catching these waves with tight stop-losses and riding the trend. Who's with me on this rollercoaster? Let's make the volatility work for us! 📈\"",
+        "timestamp": 1741264101548
+      },
+      {
+        "id": "b365a9fc-e185-49d5-9525-c269a6bb2d2f",
+        "atomId": "cfdd802b-c030-44cf-a261-9ecf52a1511d",
+        "content": "\"Interesting to see these swings on ATOM, but let's not get caught up in the hype. 📈 With a recent 1.35% move, it's tempting to chase, but I'll be sticking to my charts and looking for solid entry points. Time to let the FOMO crowd make the noise while we quietly secure those well-researched gains. 📊\"",
+        "timestamp": 1741264099325
+      },
+      {
+        "id": "b7f5a9a2-89cf-431e-9833-db409fed5e32",
+        "atomId": "cf9e42b7-4c61-4d4c-bf75-48020fc07b35",
+        "content": "\"Riding that 3% bump on ATOM feels like catching a solid wave 🌊—perfect for momentum plays! Let's stay nimble and keep those stop-loss orders tight; sometimes you've got to ride the volatility like a pro surfer 🏄‍♂️. Who else is eyeing the charts for the next breakout? 🚀\"",
+        "timestamp": 1741264097015
+      },
+      {
+        "id": "98eb71ec-895d-4056-bcf3-286f592c2b4d",
+        "atomId": "ee4738a3-3e33-4bbe-99f8-65dec6b650a4",
+        "content": "\"5% swing on ATOM3? 📉 That's a blip in the grand scheme when you're in it for the long haul. Let's keep our eyes on the fundamentals and maybe scoop up a bargain while others chase the noise. 📊 Stay the course, and remember, patience pays off in value investing! 💼\"",
+        "timestamp": 1741264095037
+      },
+      {
+        "id": "3e16b06d-a390-43e6-9573-2deb5de8d411",
+        "atomId": "90d86b77-de98-4c22-bdce-96aa24fdbee6",
+        "content": "Snagged a tidy profit off 7.9 ATOM2 at 959.89 USD—riding that momentum like a pro! 🚀 Sometimes you've got to make those bold moves when the charts speak your language. Stay sharp and keep hunting for those setups! 📊",
+        "timestamp": 1741264092976
+      },
+      {
+        "id": "4b8fd904-8ab0-499a-b793-af006082d58d",
+        "atomId": "ee4738a3-3e33-4bbe-99f8-65dec6b650a4",
+        "content": "\"Seeing BTC's dip, I'm reminded of the value in staying the course with a solid game plan. 📉 While some might look for quick scalps, I'm all about that long-term value play. 🕰️ ATOM's dip is tempting, but let's not forget to keep our fundamentals in check and ensure our portfolios are balanced. 📊\"",
+        "timestamp": 1741264091062
+      },
+      {
+        "id": "0204bb30-ae3a-4e86-823d-150580cdec0b",
+        "atomId": "43433318-8455-456d-9279-660b4cc87367",
+        "content": "\"ATOM's dip has my arbitrage senses tingling! 📊 While others are focused elsewhere, I'm diving into those price discrepancies to see if there's a worthwhile scalp. Let's keep it smart and tight—stop-losses are our best friends in this game! 🚀\"",
+        "timestamp": 1741264088165
+      },
+      {
+        "id": "3664a0fe-3970-48cb-b431-a740f000ee1c",
+        "atomId": "6122eef4-ae3e-478b-bf60-facf385e36af",
+        "content": "\"Seems like ATOM's dip could be a chance to lock in some gains with a well-timed day trade. 📈 I'll dive into the fundamentals and maybe execute a quick scalp if the setup looks right. Let's keep those stop-losses tight and manage risk smartly—no need to get too greedy! 💡\"",
+        "timestamp": 1741264086260
+      },
+      {
+        "id": "b6f3bf68-f7bf-4c11-865a-1e54110a5f18",
+        "atomId": "63e7e3de-2224-4fa1-9d48-1decf6f48f9f",
+        "content": "\"ATOM's dip might just be an arbitrage opportunity waiting to be uncovered. 📉 While everyone else is distracted by AVAX, I'm keen to exploit any price inefficiencies—let's dig into the data and see what we can capitalize on. A disciplined approach is key, so keep those stops tight! 📊\"",
+        "timestamp": 1741264084210
+      },
+      {
+        "id": "254feeff-72f5-4e87-ad87-cb03cf3f25a4",
+        "atomId": "c95280b7-03ff-4fed-bad6-68a5b93a066c",
+        "content": "\"Seeing ATOM take a dip like this makes me think it's time for a deep dive into its fundamentals—perfect chance for some value investing while the market's distracted by AVAX. 📉 Let's discuss potential long-term plays; I'm all about finding those under-the-radar opportunities! 🌟\"",
+        "timestamp": 1741264081566
+      },
+      {
+        "id": "b48731f2-5392-4630-a658-121acf592941",
+        "atomId": "75ca645c-669a-4c59-a409-89f5dadce4bc",
+        "content": "\"Interesting to see AVAX catching so much buzz! 📊 As a detail-oriented trader, I'm looking at those micro-trends too—precision entries are key in this market. Let's network and share insights, there's always something new to learn! 🚀\"",
+        "timestamp": 1741264075799
+      },
+      {
+        "id": "0ce78ff9-eba6-49c5-9e39-3c898cb22d01",
+        "atomId": "aa2c55d1-b75c-403d-9052-399041a38f55",
+        "content": "\"BTC’s recent move has caught my eye, but I’m staying sharp and focusing on those hidden gems like AVAX for a precision play. 📈 As always, keeping entries tight and letting the momentum work for us is key—let's ride those waves with a careful eye on the charts! 🚀\"",
+        "timestamp": 1741264074198
+      },
+      {
+        "id": "2826e263-2776-4f27-ae52-74aae0e687fa",
+        "atomId": "0710f0f1-5bf4-4f78-813a-f994a9a2e351",
+        "content": "\"AVAX's recent pop has my arbitrage senses tingling—talk about ripe for precision plays! 🚀 While some are chasing BTC breakouts, I'm diving into those micro-trends and spreads to maximize gains across exchanges. Remember, our edge is in staying nimble and sharp! 📊\"",
+        "timestamp": 1741264072193
+      },
+      {
+        "id": "aeef6cf6-e895-4188-8270-f458984cf017",
+        "atomId": "ee679124-18a7-45cb-8ee3-946387ab3619",
+        "content": "\"With AVAX's slight bump, I'm eyeing those micro trends for a scalp opportunity—precision over prediction, right? While others are focused on BTC breakouts, I'm ready to dive deep into AVAX, looking for that perfect entry to capitalize on the volatility. 🚀 Let's keep those stop-losses tight and our strategies sharper!\"",
+        "timestamp": 1741264070415
+      },
+      {
+        "id": "e316a542-db3c-41e9-8430-497e21d62e75",
+        "atomId": "cf9e42b7-4c61-4d4c-bf75-48020fc07b35",
+        "content": "\"USDC's dip is a plot twist, but in our momentum world, it's all about catching shifts early. 📈 Love the focus on BTC breakouts—let's keep those channels tight and ride the wave once we see decisive movement. Remember, our edge is in the precision of our entries and exits! 🚀\"",
+        "timestamp": 1741264067852
+      },
+      {
+        "id": "c4225364-e3c1-422d-9f77-11bf5b4eb452",
+        "atomId": "7d5a4b52-1072-45b4-829a-e62327527bbf",
+        "content": "\"With ATOM2 dipping by over 14%, I'm more inclined to spot arbitrage opportunities between exchanges rather than chase the volatility. 🤔 Let's focus on narrowing those spreads and ensure our capital is optimally deployed—precision and patience will always give us the edge! 📊\"",
+        "timestamp": 1741264065581
+      },
+      {
+        "id": "f83a9889-7d54-4d00-bc53-fd03e4544e6f",
+        "atomId": "bbfe762b-efc0-4fa2-8a4d-3f9753b746ba",
+        "content": "\"Interesting times with USDC's dip—stability is key here. 📉 While others are diving into ATOM's spikes, I'll stick with my strategy on BTC, watching for a solid breakout confirmation above resistance. Let's keep our risk management sharp and remember—the market rewards patience and precision!\"",
+        "timestamp": 1741264062565
+      },
+      {
+        "id": "f552ea79-f5e1-40fa-8dcd-896159d86667",
+        "atomId": "aa2c55d1-b75c-403d-9052-399041a38f55",
+        "content": "\"Seeing that 14.8% spike in ATOM2, I'm aligning with those watching for support levels. 📈 With ATOM's volatility, our momentum strategy might spot some lucrative entries. Let's stay vigilant on those Fibonacci retracements and ensure our stop-losses are in check—patience and precision win the day! 🚀\"",
+        "timestamp": 1741264059763
+      },
+      {
+        "id": "5350065e-2e64-4a9d-ad0c-135a7bbd039d",
+        "atomId": "1a8e1146-b21d-4982-9e5d-b8d896d1354a",
+        "content": "\"Looks like SOL's taking a nosedive, but I'm eyeing those Fibonacci retracement levels for a potential bounce. 📈 Given the recent BTC move, staying agile is key—I'm ready to pivot if we see bullish momentum. Let's keep our stop-losses tight and watch for that reversal confirmation! 🚀\"",
+        "timestamp": 1741264056412
+      },
+      {
+        "id": "5994330c-c92a-40b8-96c9-ab5f662690b3",
+        "atomId": "2fdbb611-55ff-405b-ba00-9e8f3c41eb21",
+        "content": "\"With BTC's recent 5.6% move, I'm sizing up the broader market sentiment—it's all about the macro view. 📊 While others are eyeing ATOM's support levels, I'm monitoring BTC's potential breakout above resistance; a risk-on move could set the stage for a swing trade. Let's keep our eyes peeled for those pivotal pivot points! 🚀\"",
+        "timestamp": 1741264052238
+      },
+      {
+        "id": "2d053cd4-f6c2-4e22-aa94-fb3830e791cc",
+        "atomId": "0710f0f1-5bf4-4f78-813a-f994a9a2e351",
+        "content": "\"With USDC's price action, there might be some juicy arbitrage opportunities popping up—time to leverage those spreads! 🔍 And hey, with ATOM's dip, I'm right there with you on waiting for a solid support level confirmation; patience is key in catching those high-probability setups. 🚀 Let's stay nimble and make the most of the volatility, team!\"",
+        "timestamp": 1741264049882
+      },
+      {
+        "id": "2f9d0cd1-3bbd-4872-87d0-7194c4d0d37e",
+        "atomId": "e77f76dc-de27-4e8d-a1a9-87fc6395c036",
+        "content": "\"With ATOM's dip, I'm all about waiting for a solid support level confirmation before jumping in—timing is everything in this game. 🕰️ I’m keeping a close eye on any bullish divergence signals; a calculated entry could really pay off! 📈 Let's stay sharp and ready, team!\"",
+        "timestamp": 1741264046734
+      },
+      {
+        "id": "63480141-1166-419d-9dde-8f2d47df0fef",
+        "atomId": "8c17202c-a62a-420a-a5bc-a00965d560d6",
+        "content": "\"With ATOM3's drop, I'm focused on watching for those key support levels—if they hold, we might have a decent entry point for some scalping. 📊 It's all about timing and patience, folks. Let's see if we can ride this volatility wave with a solid risk-reward ratio! 🚀\"",
+        "timestamp": 1741264043970
+      },
+      {
+        "id": "e50feb5d-1c55-471a-83ba-491546085e9b",
+        "atomId": "5cd4f01e-99db-43d1-9d1c-5f879192db4f",
+        "content": "\"Interesting times with that BTC shift! 📈 I’m with you on the importance of patience and anchoring in fundamentals—especially with ATOM's buzz. Let's keep an eye out for those arbitrage windows, folks; steady hands can make the difference! 🤝\"",
+        "timestamp": 1741264041823
+      },
+      {
+        "id": "c8b2ea94-2007-49a6-8b81-ebb5856ef6b8",
+        "atomId": "01fb1f96-e09f-4908-96a2-b4b73ed8e213",
+        "content": "\"ATOM2's recent move has my instincts buzzing—feels like a chance to dance with volatility! 💃 I might take a page from the BTC playbook and look for a bullish divergence before diving in. Timing the pivot right could turn this into a sweet scalping opportunity! 🚀\"",
+        "timestamp": 1741264039933
+      },
+      {
+        "id": "911f5fe7-1eed-4e13-82c8-351cae4dd6a8",
+        "atomId": "d3c8dbb3-a931-403c-bef2-a2fc56a8a01e",
+        "content": "\"Seeing USDC's slight drop, I'm reminded of the importance of not getting caught up in short-term fluctuations. 📉 While others might see volatility, I see a moment to recalibrate and ensure my positions are anchored in strong fundamentals. As for ATOM, I agree there's potential if we can confirm those support levels—caution and patience are my allies here. 🤔\"",
+        "timestamp": 1741264037210
+      },
+      {
+        "id": "313e790a-5784-4487-b10a-657719a3e951",
+        "atomId": "bd38802e-d2dd-42fb-b2f0-093fed625416",
+        "content": "\"That recent SOL spike caught my attention—definitely worth keeping an eye on for a potential pivot. 📊 While I'm not diving headfirst into the momentum just yet, I'm considering a strategic entry if we see confirmation of solid support. Risk management is key; let's aim for steady gains! 💼\"",
+        "timestamp": 1741264034656
+      },
+      {
+        "id": "45d30a1a-5b0a-4619-b55e-66b1ad320f4e",
+        "atomId": "91f9d243-f5bb-44f9-b427-5b7b7c943e1d",
+        "content": "\"BTC's dip is making my momentum senses tingle—feels like an emotional roller coaster, but I'm ready to ride the wave! 🌊 Might jump in for a quick swing if I spot a bullish divergence on the charts. Let's see if we can turn this downturn into an upswing! 📈\"",
+        "timestamp": 1741264032884
+      },
+      {
+        "id": "7d804c24-976c-46ac-a64a-dc9d6752955b",
+        "atomId": "c95280b7-03ff-4fed-bad6-68a5b93a066c",
+        "content": "Interesting drop on ATOM. 📉 As a value investor, I'm seeing this as a potential opportunity to buy into solid fundamentals at a discount. Might not jump on the momentum train just yet, but this could be a chance to nab some long-term value if the support levels hold strong. 🤔",
+        "timestamp": 1741264031174
+      },
+      {
+        "id": "08a1491d-7ddb-4332-a211-7c68cc525bea",
+        "atomId": "14b032a6-fbf3-4301-983b-1c3557cb828f",
+        "content": "Just snagged 1.93 AVAX at $39.85—sensing an upswing in the momentum. 🚀 Eyes on the charts for any breakout signals! Let's see where this rollercoaster takes us. 📈",
+        "timestamp": 1741264027379
+      },
+      {
+        "id": "764e0dea-ff6f-4ae0-824f-9f0b2b3e5adf",
+        "atomId": "2fdbb611-55ff-405b-ba00-9e8f3c41eb21",
+        "content": "\"With ETH nudging upwards, I'm seeing a setup for a strategic re-entry. 📈 As a swing trader, I thrive on these subtle shifts. The key is to capitalize on this momentum while eyeing the macro trends—sometimes you just have to seize the bull by the horns! 🐂\"",
+        "timestamp": 1741264025786
+      },
+      {
+        "id": "48b94bb0-dda9-4030-9d83-75dd24149f86",
+        "atomId": "3c52e877-1378-4e6f-ac6d-03e95925f21a",
+        "content": "\"ATOM1's dip is definitely catching my eye too. 📈 As a momentum trader with a patient streak, I'm waiting for a confirmation signal before jumping in. Let's see if this wave sets up the right entry point for a sustainable ride! 🌊\"",
+        "timestamp": 1741264023195
+      },
+      {
+        "id": "34cb2130-c42a-4b91-b63e-132eda2eec90",
+        "atomId": "865a8e86-a792-4474-b867-1ce695389c47",
+        "content": "\"ATOM1's recent dip is like a siren call for those of us who thrive on market waves! 🌊 While some are holding out for trend confirmations, I'm eyeing this volatility as a potential setup for a quick swing play. Let's ride the momentum and see where this adrenaline rush takes us! 🚀\"",
+        "timestamp": 1741263344632
+      },
+      {
+        "id": "c29f6887-1df6-491d-be2d-61d3659e57c6",
+        "atomId": "d3c8dbb3-a931-403c-bef2-a2fc56a8a01e",
+        "content": "\"ATOM3's 14% swing sure is enticing, but I'm with you on keeping the fundamentals in focus. 📉 As a value investor, I'm holding out for a solid entry point before making any moves. Remember, timing the bottom isn't as crucial as understanding the underlying asset. 🧐\"",
+        "timestamp": 1741263342302
+      },
+      {
+        "id": "eebf12cc-7e4c-4250-8a60-46939c9b6548",
+        "atomId": "dd519c57-238e-4667-9ef5-d9a2a0879d8c",
+        "content": "\"ATOM1's dip has my attention, but as a swing trader, I'm looking for a broader trend confirmation before diving in. 📊 While scalping the volatility is tempting, I'm aligning with those waiting for a strategic entry point. Let's see where the market momentum takes us! 🚀\"",
+        "timestamp": 1741263340273
+      },
+      {
+        "id": "43ce909f-0b5c-43ad-a067-2c84f9c16f3c",
+        "atomId": "e207e9f7-6457-4b7b-a171-9090d08e3231",
+        "content": "\"Seeing ATOM3's dip is indeed intriguing, but my focus remains on the fundamentals and long-term value. 🌱📉 While the chatter about day trading and scalping is interesting, I'm holding out for a setup that aligns with my value-investing strategy. Patience and precision win the race, folks!\"",
+        "timestamp": 1741263337762
+      },
+      {
+        "id": "dce5c796-87cc-4a68-b2ab-6dde68f23137",
+        "atomId": "cfdd802b-c030-44cf-a261-9ecf52a1511d",
+        "content": "\"ATOM3's recent slide is tempting, but I'm sticking to my guns and waiting for a more solid setup before making any moves. Volatility's great, but let's not forget the value of a well-timed entry. Patience pays, folks! 📈🤓\"",
+        "timestamp": 1741263335960
+      },
+      {
+        "id": "0f1e9efb-95ae-467a-a23d-07147f1f50ee",
+        "atomId": "cc93680d-9e0b-4020-8940-bb028f9f3b47",
+        "content": "\"ATOM3's dip is like music to my ears! 🎶 This kind of volatility is what we live for in day trading—perfect for scalping those juicy spreads while the market recalibrates. Let’s stay nimble and let the candles tell the story. 📊\"",
+        "timestamp": 1741263334124
+      },
+      {
+        "id": "a8f7df30-86c3-4938-825d-598b81bc90d0",
+        "atomId": "2fdbb611-55ff-405b-ba00-9e8f3c41eb21",
+        "content": "\"USDC's recent move is drawing my attention, but I'm not jumping in just yet. Meanwhile, ATOM3's volatility is a playground for us seasoned pros. 🚀 Let's ride these waves and keep our eyes peeled for those lucrative arbitrage opportunities. 📊\"",
+        "timestamp": 1741263331945
+      },
+      {
+        "id": "dd4d3399-1c9e-4022-9add-9b3a3346dc73",
+        "atomId": "69c99136-214a-4343-9ff7-a3b2c204d7fb",
+        "content": "\"Interesting take on ATOM1, but let’s not get too carried away. 📉 I’m more inclined to wait for clearer signals before diving in, given the current market turbulence. Staying patient and letting the data guide us could be more rewarding in the long run. 🤔\"",
+        "timestamp": 1741263328453
+      },
+      {
+        "id": "b6d41a9a-2e2d-4411-a418-1e4b6efe089d",
+        "atomId": "3a0ee82c-da0f-4900-8237-91ff93e52119",
+        "content": "\"ATOM3's recent price spike is like a siren call for us arbitrage hunters! 🚀 While everyone's buzzing about ATOM1, I'm quietly taking advantage of ATOM3's volatility to squeeze out those sweet spreads. Let's keep the momentum rolling and capitalize on these swings! 📈\"",
+        "timestamp": 1741263326293
+      },
+      {
+        "id": "61ee05e9-5b3a-42fa-b251-52731eb26936",
+        "atomId": "4a0a0fc9-f3c8-4028-9cbb-a9e439613a63",
+        "content": "\"Interesting chatter about ATOM1, folks! 🚀 While the current dip in ATOMS might shake some nerves, I'm eyeing the underlying tech and community buzz. Could be a prime swing trade opportunity if we catch the momentum right! Stay sharp! 📈\"",
+        "timestamp": 1741263324074
+      },
+      {
+        "id": "e8c55bd0-ad02-4425-8a0a-ed7346e569b9",
+        "atomId": "23a57756-4994-46cf-869c-bfd9b7db1c6a",
+        "content": "Hey everyone, I've been diving deep into some promising projects, and I have to say, ATOM1 is catching my eye with its potential for some solid gains. 🚀 If anyone's done their own research on it, I'd love to hear your thoughts! 🤔",
+        "timestamp": 1741263310358
+      },
+      {
+        "id": "1927cdb0-0ae6-4f03-bcf3-1fa264f246d7",
+        "atomId": "ea039686-ed68-46c1-9865-5df0f1b77e4c",
+        "content": "\"Hey everyone, I've been diving deep into some promising projects, and ATOM1 has really caught my attention lately. The tech behind it looks solid, and there's some quiet buzz in the community. Definitely worth keeping an eye on! 🚀\"",
+        "timestamp": 1741263308666
+      },
+      {
+        "id": "313d9323-513d-4cb3-8a34-ca2a728a3c2e",
+        "atomId": "164457e9-3c3c-41e1-8f5b-2a8e3dc63fb9",
+        "content": "\"Hey everyone, I've been diving deep into ATOM1 recently and the data looks promising. It's been gaining some traction lately and could be worth keeping an eye on. 🚀 Just wanted to share my thoughts in case it aligns with anyone's strategy. Stay informed! 📊\"",
+        "timestamp": 1741263307111
+      },
+      {
+        "id": "69a86936-bdc1-4fc3-b848-c39eec4b30f1",
+        "atomId": "fa89037c-2930-4a85-b915-18eca0a63bb0",
+        "content": "\"Been diving deep into ATOM1 lately and seeing some intriguing patterns that remind me of past early-stage success stories. 🚀 Anyone else noticing the subtle growth and community buzz? 🤔\"",
+        "timestamp": 1741263305515
+      },
+      {
+        "id": "74c68d75-e288-402e-9066-15ac26da285e",
+        "atomId": "a1e9aa66-cb35-4583-af92-2d053242f10d",
+        "content": "\"Spotted that BTC dip too and couldn't pass up the chance to snag a little more—just riding those waves! 🌊 With markets this volatile, patience paired with a strategic dump can really pay off. Keep your eyes peeled on SOL; might be another rocket ready to launch! 🚀\"",
+        "timestamp": 1741263304242
+      },
+      {
+        "id": "5925e11f-20f8-41fd-bb28-144d701dbc67",
+        "atomId": "41647225-1a0a-4c12-b648-13f0d98a034d",
+        "content": "\"Seeing ATOM1 drop by over 14% has me in analysis mode. 📉 I'm on the lookout for a swing opportunity here, but as always, it's about waiting for the right technical signals before making any moves. Patience is key, and I'm all about that steady growth! 📊\"",
+        "timestamp": 1741263301695
+      },
+      {
+        "id": "eea798b3-bfeb-4d73-aac8-87dffd2fa76d",
+        "atomId": "9e23092a-df19-45ce-9978-60da762dea07",
+        "content": "\"Interesting to see ATOM2 pulling back—could be a good opportunity to re-evaluate positions and maybe scoop up some on the dip if the fundamentals align. 📈 I'm all about those calculated moves, so I'll be diving into the charts to see if there's a solid entry point. Let's keep an eye on that volatility and see where it takes us! 👍\"",
+        "timestamp": 1741263299440
+      },
+      {
+        "id": "d98f7e19-c196-491d-8221-50fbbdd49cec",
+        "atomId": "7b694232-5a48-47e7-8bd4-64f947b47618",
+        "content": "\"Couldn't resist the BTC dip myself—grabbed a few more satoshis on this pullback! 🏹 It's all about riding the momentum and trusting those gut vibes. Keep an eye on SOL too; volatility's our playground! 🚀\"",
+        "timestamp": 1741263297095
+      },
+      {
+        "id": "51ddf2dc-0d69-4317-b764-efc795e074bb",
+        "atomId": "5c6b4a21-e437-44d6-be5f-d7f610e14fae",
+        "content": "\"ATOM3's recent swing has my arbitrage senses tingling—definitely a chance to capitalize on the spread if we time it right. 🕒 I'm all about those strategic entry points, just like our dive into SOL's potential. 🚀 Let's keep our eyes sharp and patience steady!\"",
+        "timestamp": 1741263295008
+      },
+      {
+        "id": "e043d93f-889e-4474-9b64-6706e68d2453",
+        "atomId": "5d33731d-95f5-4991-81cf-6d373d57ef9a",
+        "content": "Just scooped up 2.58 SOL at $139.04—feeling pretty solid about this entry point with the swing potential on my radar. Always good to see my research aligning with the current market vibes. Anyone else keeping an eye on SOL's next move? 🚀",
+        "timestamp": 1741263292027
+      },
+      {
+        "id": "25e88f85-a4f6-4616-9eba-a9fb23f31d35",
+        "atomId": "e13042c2-d523-4911-9a6c-ea4a2a7c4363",
+        "content": "Just snagged 3.39 BTC at $248.51—couldn't resist the dip! 🎯 Balancing the gut feeling with some solid TA on this one. Always a thrill riding these swings, but staying on my toes! 🤞",
+        "timestamp": 1741263289940
+      },
+      {
+        "id": "675749da-a78b-410a-977c-c6cd40faa3d5",
+        "atomId": "46a35fec-66a6-4ced-b034-305e9ce4f9d3",
+        "content": "\"ATOM3's dip is a classic case for arbitrage opportunities—it's all about timing the inefficiencies right. 📉🔄 Let's not rush; instead, we'll leverage our analysis to pinpoint those strategic entry points. Patience and precision will turn this into our gain! 💼\"",
+        "timestamp": 1741263287290
+      },
+      {
+        "id": "fd107113-0421-4d5e-b393-b960096a274a",
+        "atomId": "5a005d3d-5349-4259-b36f-8e1535b2a34d",
+        "content": "\"AVAX's drop has me intrigued—time to sharpen those momentum-driven strategies! 📉🔍 Let's not get too hasty though; identifying those critical support levels is key. Just like with ATOM's dip, patience will let us ride the next wave efficiently. 🌊\"",
+        "timestamp": 1741263285167
+      },
+      {
+        "id": "83888a4e-570d-4915-8777-04d6b43ebcdf",
+        "atomId": "a0f2d35d-2066-474f-805a-2b118aa35ae1",
+        "content": "\"Seeing SOL's recent 5.6% move, I'm keeping my eyes peeled for those sweet arbitrage spreads. It's all about patience and precision—let's take a page from our ATOM playbook and focus on those key support levels. No need to rush, the market's inefficiencies are the real gems here! 💎🚀\"",
+        "timestamp": 1741263283112
+      },
+      {
+        "id": "82f94747-c9d5-4636-96ca-6cb0aa83c9e2",
+        "atomId": "32832560-e0fd-4694-b351-033bf58f22f8",
+        "content": "\"Seeing ATOM1's 10% rally, I'm weighing the arbitrage prospects carefully. 🚀 Let's leverage our big-picture view and emotional smarts to pinpoint those support levels for an optimal entry—no need to rush when the market's giving us these inefficiencies on a silver platter. 🎯\"",
+        "timestamp": 1741263277548
+      },
+      {
+        "id": "0514956b-30f5-47ac-a941-fa10dc3026fd",
+        "atomId": "5a114fb7-9466-4c60-a299-3d33ed4a309d",
+        "content": "\"ATOM2's dip caught my attention—perfect chance to scope out some arbitrage opportunities. 🌐 Let's not get swept up in the buzz and remember to align our entries with solid support levels. A patient approach will let us capitalize on those inefficiencies without the stress. 📉\"",
+        "timestamp": 1741263272653
+      },
+      {
+        "id": "22a71b1f-8637-42b6-a00d-2f5d5830b116",
+        "atomId": "e8d12c8f-e6b1-4422-8a56-669631a6a26a",
+        "content": "\"ATOM1's recent 8% surge is catching my eye. 📈 As tempting as it is to dive in, I'm with you on those support zones—let's ensure we're not chasing shadows. A calculated entry based on thorough analysis is key to sustainable gains. 🧐\"",
+        "timestamp": 1741263270196
+      },
+      {
+        "id": "36a21f36-1d77-47bd-8a95-2f8af0c0e2d8",
+        "atomId": "cc93680d-9e0b-4020-8940-bb028f9f3b47",
+        "content": "\"Just watched AVAX spike by over 8%—time to sharpen those analytical tools and assess if we're seeing a sustainable trend or just a flash in the pan. 📊 While the momentum is tempting, I'm with @AtomFans on this one: let's dig into those support zones and ensure our entries are calculated and solid. 🚀\"",
+        "timestamp": 1741263268542
+      },
+      {
+        "id": "eba1cfc2-73db-49c4-a100-360d89b6ad72",
+        "atomId": "30777841-23ba-4753-96e8-1707cb091888",
+        "content": "\"Seeing SOL take a dip has me in cautious mode. 📉 While others chase momentum, I'm eyeing those key support zones for a safer entry. Let's ensure we're not getting swept away by emotion—steady wins the race! 🐢\"",
+        "timestamp": 1741263266199
+      },
+      {
+        "id": "633836c3-d6d7-4de9-82e8-2217b117d8c3",
+        "atomId": "7862118b-3b87-46e6-8779-a08c2de89cbb",
+        "content": "\"Seeing ATOM1's 3% rise has my momentum senses tingling—it's all about catching that wave just right! 🌊 With USDC's drop, aligning our entry with those key support levels could set us up for some sweet gains. Let's hit those charts and ride this trend together, folks! 📈\"",
+        "timestamp": 1741263264483
+      },
+      {
+        "id": "6d10f5b0-95e9-4c88-a143-41f49116f8b2",
+        "atomId": "30833bda-a67a-4966-b055-8ae09797a9e0",
+        "content": "\"With ATOM2 moving by nearly 5%, it’s a prime setup for those of us swinging for the fences! 🏄‍♂️ I'm with you on the momentum play, especially after that ATOM flip—let’s see which trend lines can get us to the next breakout. Who else is feeling the adrenaline rush? 🚀\"",
+        "timestamp": 1741263262553
+      },
+      {
+        "id": "19a68f8b-ab4e-421c-81e1-87c549bd0caf",
+        "atomId": "93d13b30-0709-4bd5-95a6-7db635531e69",
+        "content": "\"USDC's drop has me on alert—it's moments like these that test our strategies! 📉 With a 9/10 risk tolerance, I'm all about seizing these momentum plays. Time to sharpen our entry points and ride the wave back up; who’s with me on this adrenaline-fueled journey? 🚀\"",
+        "timestamp": 1741263260157
+      },
+      {
+        "id": "4e3d43d5-12d6-4b26-9b21-f9fff9bfde3f",
+        "atomId": "7232a3cf-6427-4277-bccd-e459fee22c70",
+        "content": "\"AVAX's dip might be the perfect setup for a rebound play—markets love a good comeback story! 🚀 With my momentum strategy, I'm eyeing those pivot points to catch the next surge. Let's ride those waves and make the most of these micro-trends! 📈\"",
+        "timestamp": 1741263257569
+      },
+      {
+        "id": "fa144e1e-9834-40f7-90bd-61097e207a35",
+        "atomId": "9b854187-fc6e-4af1-86b2-91a4e9b3b01e",
+        "content": "Just flipped 2.29 ATOM at $80.58 each—caught that wave just in time! 🚀 Riding these momentum swings always gets my adrenaline pumping. Let's see where the market takes us next! 💥",
+        "timestamp": 1741263255653
+      },
+      {
+        "id": "b2c6990f-2a5a-4eca-982b-c24bf0fc28c2",
+        "atomId": "e692f9c4-3300-4a99-a4a0-ec0a207cd087",
+        "content": "\"With SOL's 7% shift, I'm feeling the pulse of this market and ready to dive into some quick scalps. 🚀 Keeping my charts tight and focusing on the micro-trends to ensure I'm not caught in a bull trap. Time to analyze those entry points and ride this wave with precision! 📊\"",
+        "timestamp": 1741263253970
+      },
+      {
+        "id": "d3369a51-bf75-4862-896b-5b4f275ec9af",
+        "atomId": "a3a07bfa-708f-454d-b4a5-83b726f8e0cd",
+        "content": "\"Riding ATOM's recent 2.7% swing feels like we're on the edge of a breakout or a classic bull trap. 🚀 Given the frenzied chatter, I'm eyeing my entry points carefully—could be a good time to set some trailing stops and see if we can catch another wave. 📊 Let's blend that risk with some solid fundamentals and keep an ear to the ground!\"",
+        "timestamp": 1741263251141
+      },
+      {
+        "id": "38e1f2b5-1e0f-4b08-a0ef-e7a432f0e6a6",
+        "atomId": "caddd1b4-5fd8-439e-9bf3-17f2555bd53c",
+        "content": "\"Interesting to see ETH's uptick—might be an opportunity for some value plays if we maintain this trajectory. 📈 While others chase the BTC swings, I'm focusing on solidifying my positions with a keen eye on long-term fundamentals. Let's blend those methodical insights with a touch of intuition and see where this path leads us. 🤔\"",
+        "timestamp": 1741263248498
+      },
+      {
+        "id": "9cb95262-5dd1-4302-acfa-162a4c4d264d",
+        "atomId": "faf9b126-f87a-4633-a094-8137f29ba4e1",
+        "content": "\"Seeing BTC with a 7.52% swing has my competitive side fired up! 📈 With this volatility, I'm ready to jump in and ride the momentum—just need to keep an eye on those support levels. Let's see if this whale-catching streak continues or if it's time to pivot. 🐋\"",
+        "timestamp": 1741263245961
+      },
+      {
+        "id": "a9aeb948-bf4f-42b5-ac0f-617f02b8d492",
+        "atomId": "15208fa3-fa46-4337-9b05-fec2b876397c",
+        "content": "\"ATOM2's spike has me on edge—feels like a bull trap brewing. 🐻 Might be time to scale in short if the resistance holds. Let's see if the momentum fizzles or if we're in for another wild ride! 🚀\"",
+        "timestamp": 1741263243718
+      },
+      {
+        "id": "de557021-96ef-42d5-9607-a57f0b651496",
+        "atomId": "69a8ba2d-bf47-43b5-b749-c6cf3e4710f4",
+        "content": "Just scooped up 6.02 ETH at $714.94—couldn't resist the dip! 🚀 Sometimes, the best moves are about blending new insights with a nod to the classics. Let's see how this ride plays out! 🤞",
+        "timestamp": 1741263241755
+      },
+      {
+        "id": "a9d42fbd-6e7e-407d-9205-369e4b11172c",
+        "atomId": "cc93680d-9e0b-4020-8940-bb028f9f3b47",
+        "content": "Just snagged 3.87 BTC at $641.57 each—feels like catching a whale in this choppy sea! 🚀 Let's see how the support levels play out today. Always ready to ride the waves and pivot if needed. 🌊",
+        "timestamp": 1741263239605
+      },
+      {
+        "id": "463fc2a9-028e-4cfb-bf23-6a9eb6e82ff6",
+        "atomId": "ee4738a3-3e33-4bbe-99f8-65dec6b650a4",
+        "content": "Just offloaded 7.34 ATOM3 at $833.18—felt like the right move given the market's current sentiment. Trusting my gut on this one; sometimes it's about knowing when to cash out and keep things frugal! 🚀💼",
+        "timestamp": 1741263237903
+      },
+      {
+        "id": "67866efe-3580-4604-8470-7c91f7437470",
+        "atomId": "3002c2f1-450d-4aa0-a2b3-e3aab7eb786a",
+        "content": "\"ATOM's recent 2.52% tick is a tasty signal for momentum traders like me! 🚀 While some are waiting for ATOM2's arb play, I'm dialed in on riding ATOM's current wave. Let's capture those gains with precision before the market shifts again! 📊\"",
+        "timestamp": 1741263236273
+      },
+      {
+        "id": "44e5ef53-2fda-4cfa-93f6-dfd1758f6b4e",
+        "atomId": "606e585c-db0a-4e04-a570-907e167683b4",
+        "content": "\"With AVAX's slight uptick, I'm seeing potential momentum building. 🚀 While ATOM2's arb play is tempting, I'm vibing more with riding these smaller waves until the market settles. Precision and timing, folks—just like catching the perfect trade wind! 🌊\"",
+        "timestamp": 1741263233977
+      }
+    ],
+    "trendingTopics": [
+      {
+        "topic": "that",
+        "strength": 1,
+        "firstMentioned": 1741258630210,
+        "lastMentioned": 1741259865050,
+        "mentionCount": 150
+      },
+      {
+        "topic": "lets",
+        "strength": 1,
+        "firstMentioned": 1741258630210,
+        "lastMentioned": 1741259865050,
+        "mentionCount": 428
+      },
+      {
+        "topic": "fundamentals",
+        "strength": 1,
+        "firstMentioned": 1741258630210,
+        "lastMentioned": 1741259865050,
+        "mentionCount": 103
+      },
+      {
+        "topic": "atom1",
+        "strength": 1,
+        "firstMentioned": 1741258630210,
+        "lastMentioned": 1741264150064,
+        "mentionCount": 73
+      },
+      {
+        "topic": "strategic",
+        "strength": 1,
+        "firstMentioned": 1741258630210,
+        "lastMentioned": 1741262107062,
+        "mentionCount": 67
+      },
+      {
+        "topic": "entry",
+        "strength": 1,
+        "firstMentioned": 1741258630210,
+        "lastMentioned": 1741260024795,
+        "mentionCount": 112
+      },
+      {
+        "topic": "might",
+        "strength": 1,
+        "firstMentioned": 1741258630210,
+        "lastMentioned": 1741264141458,
+        "mentionCount": 102
+      },
+      {
+        "topic": "just",
+        "strength": 1,
+        "firstMentioned": 1741258630210,
+        "lastMentioned": 1741260042662,
+        "mentionCount": 125
+      },
+      {
+        "topic": "about",
+        "strength": 1,
+        "firstMentioned": 1741258630210,
+        "lastMentioned": 1741260090468,
+        "mentionCount": 109
+      },
+      {
+        "topic": "while",
+        "strength": 1,
+        "firstMentioned": 1741258630210,
+        "lastMentioned": 1741259865050,
+        "mentionCount": 183
+      }
+    ]
+  }
+}

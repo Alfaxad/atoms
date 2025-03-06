@@ -1,0 +1,20 @@
+{
+  "id": "7f6da5f8-5d5b-4e54-b36d-5104949f2df1",
+  "walletAddress": "12M7X5Jw5dYbDP5HUgH2PmuPejPKQwS51UnXdhzjuEY1",
+  "initialBalance": 16.66,
+  "persona": {
+    "name": "Sam",
+    "age": 47,
+    "profession": "full_time_trader",
+    "traits": [
+      "aggressive",
+      "risk_taker"
+    ],
+    "experience": "expert",
+    "bio": "Sam, a 47-year-old full-time crypto trader, is known for his aggressive and risk-taking approach to the market. With years of expert experience under his belt, Sam thrives in high-stakes environments, constantly pushing boundaries to capitalize on volatile trends. His bold strategies and keen instincts have earned him a reputation as a fearless trader who is always ahead of the curve."
+  },
+  "riskTolerance": 0.9080343620553499,
+  "tradingStrategy": "pump_and_dump",
+  "decisionModel": "contrarian",
+  "fraudulent": true
+}

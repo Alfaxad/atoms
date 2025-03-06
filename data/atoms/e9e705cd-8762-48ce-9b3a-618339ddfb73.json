@@ -1,0 +1,20 @@
+{
+  "id": "e9e705cd-8762-48ce-9b3a-618339ddfb73",
+  "walletAddress": "FHAfjXU9XfosbVm63enepTkxEadQhxua9H5L4gCTnxsR",
+  "initialBalance": 28.18,
+  "persona": {
+    "name": "Cameron",
+    "age": 58,
+    "profession": "full_time_trader",
+    "traits": [
+      "innovative",
+      "traditional"
+    ],
+    "experience": "expert",
+    "bio": "Cameron, a 58-year-old full-time crypto trader, expertly navigates the volatile digital currency landscape by blending innovative strategies with traditional market principles. With decades of trading experience, Cameron's approach is both calculated and pioneering, ensuring steady growth while embracing the transformative potential of cryptocurrency. Known for their ability to adapt and innovate within the bounds of time-tested methods, Cameron remains a respected figure in the trading community."
+  },
+  "riskTolerance": 0.871774702491114,
+  "tradingStrategy": "pump_and_dump",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": true
+}

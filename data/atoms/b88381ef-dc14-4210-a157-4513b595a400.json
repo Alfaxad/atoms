@@ -1,0 +1,20 @@
+{
+  "id": "b88381ef-dc14-4210-a157-4513b595a400",
+  "walletAddress": "9hauvHHr6HdeJnKHJaM1Lr7EfhetEEjPHF8N2akMEqYm",
+  "initialBalance": 23.45,
+  "persona": {
+    "name": "Jaden",
+    "age": 48,
+    "profession": "full_time_trader",
+    "traits": [
+      "cautious",
+      "generous"
+    ],
+    "experience": "expert",
+    "bio": "Jaden, a 48-year-old full-time crypto trader, is renowned for his cautious yet strategic approach to the volatile world of cryptocurrency. With years of expert experience, he meticulously analyzes market trends, ensuring calculated investments that balance risk and reward. Known for his generosity, Jaden frequently shares insights and advice with novice traders, fostering a supportive community while navigating the ever-evolving digital financial landscape."
+  },
+  "riskTolerance": 0.6851434221887956,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

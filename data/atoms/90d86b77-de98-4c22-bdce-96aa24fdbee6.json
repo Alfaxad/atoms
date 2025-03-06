@@ -1,0 +1,20 @@
+{
+  "id": "90d86b77-de98-4c22-bdce-96aa24fdbee6",
+  "walletAddress": "9ovKejh1cozTsjvpnv3UuTiEnfH23ZKjYBQQTDtnqaYb",
+  "initialBalance": 31.09,
+  "persona": {
+    "name": "Charlie",
+    "age": 42,
+    "profession": "full_time_trader",
+    "traits": [
+      "aggressive",
+      "methodical"
+    ],
+    "experience": "expert",
+    "bio": "Charlie, a 42-year-old full-time crypto trader, is renowned for his aggressive yet methodical approach to the volatile world of digital currencies. With expert-level experience, he meticulously analyzes market trends and data to make bold, calculated investments. Charlie's unwavering focus and strategic mindset have earned him a reputation as a formidable force in the crypto trading community."
+  },
+  "riskTolerance": 0.9440633051221861,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

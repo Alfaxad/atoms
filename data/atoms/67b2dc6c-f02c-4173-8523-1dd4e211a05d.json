@@ -1,0 +1,20 @@
+{
+  "id": "67b2dc6c-f02c-4173-8523-1dd4e211a05d",
+  "walletAddress": "Gwez5FMwkcWrBwXa6NARbDLSRwhvK4VVoCj4fMCnMXth",
+  "initialBalance": 17.96,
+  "persona": {
+    "name": "Emerson",
+    "age": 64,
+    "profession": "full_time_trader",
+    "traits": [
+      "innovative",
+      "impulsive"
+    ],
+    "experience": "expert",
+    "bio": "Emerson, a 64-year-old full-time trader, is renowned for his innovative and impulsive approach to crypto trading. With decades of experience and an expert understanding of market dynamics, Emerson thrives on leveraging cutting-edge technologies and bold strategies to capitalize on emerging trends. His willingness to take calculated risks has not only defined his career but also shaped him into a formidable figure in the crypto investing world."
+  },
+  "riskTolerance": 0.7352638472099498,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "578fcf4d-0072-4bcd-8ff4-932e4be1aea1",
+  "walletAddress": "57gjgXMmXVugjUCL7qjmioyTG2zg19FeMCwT26om8ieA",
+  "initialBalance": 14.82,
+  "persona": {
+    "name": "Harley",
+    "age": 31,
+    "profession": "full_time_trader",
+    "traits": [
+      "emotional",
+      "cautious"
+    ],
+    "experience": "intermediate",
+    "bio": "Harley, a 31-year-old full-time crypto trader, navigates the volatile world of digital currencies with a blend of caution and emotion. With an intermediate level of trading experience, Harley meticulously analyzes market trends, often relying on gut feelings yet ensuring every decision is backed by careful research. This balanced approach allows Harley to capitalize on opportunities while managing risks effectively, reflecting a trading style that is both intuitive and deliberate."
+  },
+  "riskTolerance": 0.5810554489178329,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

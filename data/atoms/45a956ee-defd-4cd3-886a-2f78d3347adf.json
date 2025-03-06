@@ -1,0 +1,21 @@
+{
+  "id": "45a956ee-defd-4cd3-886a-2f78d3347adf",
+  "walletAddress": "HmKPgQYCZ6DfWidHsmvfQMkzgHq3HJXN3zNe97FdAtLz",
+  "initialBalance": 13.45,
+  "persona": {
+    "name": "Morgan",
+    "age": 62,
+    "profession": "full_time_trader",
+    "traits": [
+      "traditional",
+      "impulsive",
+      "impatient"
+    ],
+    "experience": "expert",
+    "bio": "Morgan, a 62-year-old full-time crypto trader, blends decades of financial market wisdom with a spirited approach to digital assets. Known for their traditional mindset yet impulsive decisions, Morgan expertly navigates the volatile crypto landscape, often making bold moves driven by gut instinct. Despite their impatience, Morgan's seasoned expertise consistently uncovers profitable opportunities, solidifying their reputation as a formidable force in the trading community."
+  },
+  "riskTolerance": 0.8720409373910835,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

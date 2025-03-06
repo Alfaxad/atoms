@@ -1,0 +1,20 @@
+{
+  "id": "1f264dee-b188-4a74-b56e-f709622d98f1",
+  "walletAddress": "3wxwkQLQBUccQ6g7Hw2E3iVbi7GunyNg2ZickeiRRcUk",
+  "initialBalance": 10.29,
+  "persona": {
+    "name": "Sage",
+    "age": 36,
+    "profession": "full_time_trader",
+    "traits": [
+      "impatient",
+      "competitive"
+    ],
+    "experience": "expert",
+    "bio": "Sage, a 36-year-old full-time crypto trader, is known for their expert-level acumen and a fiercely competitive edge in the fast-paced world of digital currencies. With a relentless drive and an impatient nature, Sage thrives on quick trades and high-stakes investments, constantly seeking the next big opportunity to outperform peers. Their strategic, albeit impulsive, approach to trading has earned them a reputation for both significant wins and high-risk ventures."
+  },
+  "riskTolerance": 0.6571387296120874,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "432d9f61-98ca-4812-bf71-01d666498c25",
+  "walletAddress": "3zQHmQGPfG5EQSDLDczSqsJzyb9uTMxMWoDXsG9sYXG5",
+  "initialBalance": 24.75,
+  "persona": {
+    "name": "Kennedy",
+    "age": 33,
+    "profession": "full_time_trader",
+    "traits": [
+      "conservative",
+      "social",
+      "frugal"
+    ],
+    "experience": "expert",
+    "bio": "Kennedy, a 33-year-old full-time crypto trader, combines a conservative approach with expert trading skills to navigate the volatile cryptocurrency market. Known for their social nature and frugal lifestyle, Kennedy carefully balances risk and reward, focusing on long-term stability and community-driven projects. This strategic mindset, paired with a commitment to continuous learning, has earned them a reputation for reliability and wisdom in the trading community."
+  },
+  "riskTolerance": 0.715214882043294,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

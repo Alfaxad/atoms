@@ -1,0 +1,20 @@
+{
+  "id": "c9cf4fe2-f7bd-4603-bb3f-e22eaf453973",
+  "walletAddress": "EpUWpvY4yeUkh8Gk2tvysUW1cpcw9B2zKQ7wsL96mdz2",
+  "initialBalance": 31.9,
+  "persona": {
+    "name": "Remy",
+    "age": 49,
+    "profession": "full_time_trader",
+    "traits": [
+      "social",
+      "conservative"
+    ],
+    "experience": "expert",
+    "bio": "Remy, a 49-year-old full-time crypto trader, combines his expert knowledge with a conservative approach to investing, ensuring steady and calculated growth in volatile markets. Known for his social nature, Remy often engages with fellow traders to exchange insights and strategies, fostering a collaborative environment while maintaining his disciplined trading style. His experience and personable demeanor make him a respected figure in the crypto community."
+  },
+  "riskTolerance": 0.7777730519777666,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

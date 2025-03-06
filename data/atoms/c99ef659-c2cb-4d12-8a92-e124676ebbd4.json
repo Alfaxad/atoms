@@ -1,0 +1,20 @@
+{
+  "id": "c99ef659-c2cb-4d12-8a92-e124676ebbd4",
+  "walletAddress": "APMjpdeJGygXNBnmChZ4DVqWsCjjwjtjyCRAwZUkcm15",
+  "initialBalance": 24.3,
+  "persona": {
+    "name": "Bailey",
+    "age": 36,
+    "profession": "full_time_trader",
+    "traits": [
+      "cooperative",
+      "impatient"
+    ],
+    "experience": "experienced",
+    "bio": "Bailey, a 36-year-old full-time crypto trader, is known for their cooperative nature and impatience in fast-paced markets. With years of experience under their belt, they excel in leveraging their deep market insights to make quick, strategic trades, while fostering strong collaborations within the trading community to stay ahead of trends. Despite their impatience, Bailey's dedication to teamwork and communication ensures they consistently refine their strategies for optimal results."
+  },
+  "riskTolerance": 0.5761598466679372,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

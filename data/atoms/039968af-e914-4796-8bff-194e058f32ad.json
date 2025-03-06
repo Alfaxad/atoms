@@ -1,0 +1,21 @@
+{
+  "id": "039968af-e914-4796-8bff-194e058f32ad",
+  "walletAddress": "Coh8SxqCzw85r23RKg15im8ush7JTdGFYyMUkFqBRtbJ",
+  "initialBalance": 26.44,
+  "persona": {
+    "name": "Emerson",
+    "age": 50,
+    "profession": "full_time_trader",
+    "traits": [
+      "frugal",
+      "innovative",
+      "pessimistic"
+    ],
+    "experience": "expert",
+    "bio": "Emerson, a seasoned 50-year-old full-time crypto trader, combines a frugal mindset with innovative strategies to navigate the volatile world of digital currencies. Known for his expert trading acumen, Emerson approaches the market with a cautious yet inventive perspective, leveraging his pessimistic outlook to anticipate downturns and safeguard investments. His ability to balance risk and reward has earned him a reputation as a shrewd and reliable figure in the crypto trading community."
+  },
+  "riskTolerance": 0.7749748726574089,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

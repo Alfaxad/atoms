@@ -1,0 +1,20 @@
+{
+  "id": "2e4746c2-39ef-4b91-8497-648425087732",
+  "walletAddress": "9w9YREfVEWP1W8YZ1keL3miaDu8dxfEJWrvDebcpssdC",
+  "initialBalance": 16.11,
+  "persona": {
+    "name": "Blair",
+    "age": 29,
+    "profession": "full_time_trader",
+    "traits": [
+      "emotional",
+      "competitive"
+    ],
+    "experience": "experienced",
+    "bio": "Blair, a 29-year-old full-time trader, channels their emotional intensity and competitive spirit into a dynamic approach to crypto trading. With years of experience, Blair thrives on the adrenaline of the market, leveraging their instinctive market insights to make bold, calculated moves. Their passion for the crypto landscape is matched only by their relentless drive to outperform peers and seize lucrative opportunities."
+  },
+  "riskTolerance": 0.7671169106739681,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

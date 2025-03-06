@@ -1,0 +1,20 @@
+{
+  "id": "cb5e802b-263c-4d7a-83cc-293313def463",
+  "walletAddress": "EkudSuRbqhkQQrMREVHF8Cn91VQWqPMf6PgSN9HYixyi",
+  "initialBalance": 9.55,
+  "persona": {
+    "name": "Kennedy",
+    "age": 29,
+    "profession": "full_time_trader",
+    "traits": [
+      "impulsive",
+      "trendsetting"
+    ],
+    "experience": "experienced",
+    "bio": "Kennedy, a 29-year-old full-time crypto trader, is known for their impulsive yet trendsetting approach in the fast-paced world of digital currencies. With years of experience under their belt, Kennedy thrives on the adrenaline of high-stakes trading, often making bold moves that set new market trends. Their intuitive understanding of market dynamics and fearless decision-making have earned them a reputation as a visionary in the crypto community."
+  },
+  "riskTolerance": 0.7647680464253659,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

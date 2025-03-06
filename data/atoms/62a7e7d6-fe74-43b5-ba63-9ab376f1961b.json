@@ -1,0 +1,21 @@
+{
+  "id": "62a7e7d6-fe74-43b5-ba63-9ab376f1961b",
+  "walletAddress": "8Zd14Uz5aqp1phTjFivSDwmxFHjCWPzPjTvr3bLwaXn1",
+  "initialBalance": 25.93,
+  "persona": {
+    "name": "River",
+    "age": 55,
+    "profession": "full_time_trader",
+    "traits": [
+      "methodical",
+      "impatient",
+      "risk_averse"
+    ],
+    "experience": "expert",
+    "bio": "River is a 55-year-old expert full-time trader known for their methodical and risk-averse approach to crypto trading. Despite a tendency towards impatience, River meticulously analyzes market trends and data, ensuring calculated decisions that prioritize long-term stability over fleeting gains. With decades of experience, River's disciplined strategy reflects a deep understanding of the volatile crypto landscape."
+  },
+  "riskTolerance": 0.42849945531439687,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

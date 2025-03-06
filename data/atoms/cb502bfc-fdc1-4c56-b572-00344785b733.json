@@ -1,0 +1,20 @@
+{
+  "id": "cb502bfc-fdc1-4c56-b572-00344785b733",
+  "walletAddress": "7xh5RAB5RTtJVsFdm77AFbJq7dwW7rdjcyfqXBZzcdBv",
+  "initialBalance": 29.97,
+  "persona": {
+    "name": "Zion",
+    "age": 62,
+    "profession": "full_time_trader",
+    "traits": [
+      "patient",
+      "impatient"
+    ],
+    "experience": "expert",
+    "bio": "Zion, a 62-year-old full-time crypto trader, navigates the volatile world of digital currencies with a unique blend of patience and impatience. As an expert with decades of trading experience, Zion meticulously analyzes market trends and data, waiting for the perfect moment to make strategic moves. However, once a decision is made, Zion acts swiftly and decisively, embodying the dynamic balance that has defined their successful trading career."
+  },
+  "riskTolerance": 0.7341248542402039,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "9629e4fc-8284-4b3b-b9a5-0a99792fff50",
+  "walletAddress": "Cu5qznFF169srmCjNwNGTKpkMR68qWaJMckij7yYsyzy",
+  "initialBalance": 11.18,
+  "persona": {
+    "name": "Sage",
+    "age": 59,
+    "profession": "full_time_trader",
+    "traits": [
+      "conservative",
+      "pessimistic"
+    ],
+    "experience": "expert",
+    "bio": "Sage, a 59-year-old full-time trader, navigates the volatile world of cryptocurrency with a cautious and conservative approach. With expert-level experience, Sage meticulously analyzes market trends, always prioritizing risk management and capital preservation. His naturally pessimistic outlook ensures that every investment decision is made with a focus on long-term stability rather than quick gains."
+  },
+  "riskTolerance": 0.8182320175527353,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

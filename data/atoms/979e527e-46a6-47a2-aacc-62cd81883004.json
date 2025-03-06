@@ -1,0 +1,21 @@
+{
+  "id": "979e527e-46a6-47a2-aacc-62cd81883004",
+  "walletAddress": "FfqFKqF6TgTjgLU34okmhfAmStSeuHYsE71KdihYa6si",
+  "initialBalance": 20.28,
+  "persona": {
+    "name": "Alex",
+    "age": 35,
+    "profession": "full_time_trader",
+    "traits": [
+      "trendsetting",
+      "emotional",
+      "analytical"
+    ],
+    "experience": "experienced",
+    "bio": "Alex, a 35-year-old full-time trader, is a trendsetting force in the crypto world, known for their keen analytical skills and emotional intuition. With years of experience navigating the volatile markets, Alex combines data-driven strategies with a deep understanding of market sentiment to stay ahead of the curve. Their unique approach not only sets new trends but also inspires others to see the possibilities within the crypto space."
+  },
+  "riskTolerance": 0.5573738999198277,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

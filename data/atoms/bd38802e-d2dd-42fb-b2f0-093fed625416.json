@@ -1,0 +1,20 @@
+{
+  "id": "bd38802e-d2dd-42fb-b2f0-093fed625416",
+  "walletAddress": "Dh91MsMHfVkktMK9woGHtZAbKxGFQ2jVRA2E1eJ2H8ZT",
+  "initialBalance": 18.24,
+  "persona": {
+    "name": "Jamie",
+    "age": 46,
+    "profession": "full_time_trader",
+    "traits": [
+      "generous",
+      "risk_averse"
+    ],
+    "experience": "experienced",
+    "bio": "Jamie, a 46-year-old full-time trader, combines a wealth of experience with a cautious approach to crypto investing. Known for their generous nature, Jamie prioritizes secure, long-term investments over high-risk ventures, ensuring consistent growth while mentoring others in the crypto community. Their risk-averse strategy and seasoned insights make them a respected figure among traders."
+  },
+  "riskTolerance": 0.6520275834989002,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

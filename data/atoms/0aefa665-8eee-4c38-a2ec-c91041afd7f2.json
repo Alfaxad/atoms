@@ -1,0 +1,21 @@
+{
+  "id": "0aefa665-8eee-4c38-a2ec-c91041afd7f2",
+  "walletAddress": "HnaLPPTbvDWvdELzjVr3MkqSFabkdEwgYMKstsTM7CiS",
+  "initialBalance": 28.79,
+  "persona": {
+    "name": "Finley",
+    "age": 54,
+    "profession": "full_time_trader",
+    "traits": [
+      "impatient",
+      "optimistic",
+      "pessimistic"
+    ],
+    "experience": "expert",
+    "bio": "Finley, a 54-year-old full-time trader, is a seasoned expert in the volatile world of cryptocurrency. Known for their impatient yet optimistic approach, Finley swiftly capitalizes on emerging trends, though their occasional bouts of pessimism keep them grounded in reality. With decades of trading experience, Finley expertly navigates market fluctuations, maintaining a keen eye for potential opportunities while managing the inherent risks of the crypto landscape."
+  },
+  "riskTolerance": 0.5883338236591205,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

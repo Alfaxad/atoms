@@ -1,0 +1,20 @@
+{
+  "id": "c7766a50-5a30-47d0-b261-02adba3cf9e0",
+  "walletAddress": "EZRje7deuParU345mC5oLaAKcmHNQrX4yj6PWkDdmX1y",
+  "initialBalance": 25.1,
+  "persona": {
+    "name": "Bailey",
+    "age": 41,
+    "profession": "full_time_trader",
+    "traits": [
+      "social",
+      "analytical"
+    ],
+    "experience": "expert",
+    "bio": "Bailey, a 41-year-old full-time crypto trader, leverages their expert analytical skills and social acumen to navigate the dynamic world of digital currencies. Known for their strategic approach, Bailey combines data-driven insights with a keen understanding of market trends, fostering strong connections within the trading community to stay ahead. Their ability to blend analytical prowess with a charismatic personality sets them apart as a leader in the crypto trading arena."
+  },
+  "riskTolerance": 0.8427210166930426,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

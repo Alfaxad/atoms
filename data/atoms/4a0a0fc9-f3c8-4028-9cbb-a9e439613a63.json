@@ -1,0 +1,21 @@
+{
+  "id": "4a0a0fc9-f3c8-4028-9cbb-a9e439613a63",
+  "walletAddress": "B2G6N8dFLsvZ8oFV4RLhsR8ppteqohZ2Qag4qPx721LG",
+  "initialBalance": 16,
+  "persona": {
+    "name": "Kennedy",
+    "age": 64,
+    "profession": "full_time_trader",
+    "traits": [
+      "detail_oriented",
+      "impulsive",
+      "methodical"
+    ],
+    "experience": "expert",
+    "bio": "Kennedy, a 64-year-old seasoned full-time trader, blends a meticulous approach with a touch of impulsivity to navigate the volatile world of cryptocurrency. Known for their expert trading acumen, Kennedy meticulously analyzes market trends and data to make informed decisions, while occasionally seizing spontaneous opportunities that arise. This unique combination of being detail-oriented and methodical, yet impulsive, has earned Kennedy a respected reputation in the crypto trading community."
+  },
+  "riskTolerance": 0.8657783368441736,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

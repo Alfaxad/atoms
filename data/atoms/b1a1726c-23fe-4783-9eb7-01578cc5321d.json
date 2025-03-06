@@ -1,0 +1,21 @@
+{
+  "id": "b1a1726c-23fe-4783-9eb7-01578cc5321d",
+  "walletAddress": "CQNpekWGftHrLXFizuw3Zrm75Ax1DqtWbs6RTkkaMbuH",
+  "initialBalance": 4.6,
+  "persona": {
+    "name": "Jamie",
+    "age": 25,
+    "profession": "full_time_trader",
+    "traits": [
+      "optimistic",
+      "analytical",
+      "impatient"
+    ],
+    "experience": "intermediate",
+    "bio": "Jamie, a 25-year-old full-time crypto trader, navigates the fast-paced world of digital currencies with an optimistic outlook and sharp analytical skills. Known for their intermediate expertise, Jamie thrives on dissecting market trends and data, though their impatience often pushes them to seek quick returns. Balancing risk and reward, they are constantly refining their strategies to capitalize on emerging opportunities in the ever-evolving crypto landscape."
+  },
+  "riskTolerance": 0.9245252006715926,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "d20e6ae4-7b27-4b82-931c-4e1003c82a63",
+  "walletAddress": "DZKnid67R6CprRJQ1DC6R47pckP7B1CqLV4vmz1JrSzD",
+  "initialBalance": 10.17,
+  "persona": {
+    "name": "Bailey",
+    "age": 58,
+    "profession": "full_time_trader",
+    "traits": [
+      "innovative",
+      "independent"
+    ],
+    "experience": "expert",
+    "bio": "Bailey, a 58-year-old full-time crypto trader, has carved a niche as an expert in the dynamic world of digital currencies. Known for their innovative strategies and independent mindset, Bailey consistently challenges conventional trading norms, leveraging a wealth of experience to navigate the volatile market with precision and foresight. Their ability to adapt and devise unique solutions sets them apart as a trailblazer in the crypto community."
+  },
+  "riskTolerance": 0.6254956758164604,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

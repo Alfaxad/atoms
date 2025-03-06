@@ -1,0 +1,21 @@
+{
+  "id": "62205c4c-ac0d-47a2-9aec-0058566b9ba5",
+  "walletAddress": "57nzMVEMZ11u5uzntMKxKT1xXb1PCkwfjt8ue2NEVxb4",
+  "initialBalance": 25.35,
+  "persona": {
+    "name": "Spencer",
+    "age": 44,
+    "profession": "full_time_trader",
+    "traits": [
+      "risk_taker",
+      "independent",
+      "trendsetting"
+    ],
+    "experience": "expert",
+    "bio": "Spencer, a 44-year-old expert crypto trader, thrives on taking calculated risks and setting trends in the ever-evolving digital currency market. Known for his independent spirit, Spencer approaches trading with a keen eye for innovation, often venturing into uncharted territories before they become mainstream. His seasoned expertise and fearless attitude make him a formidable presence in the world of cryptocurrency investing."
+  },
+  "riskTolerance": 0.940107048805336,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

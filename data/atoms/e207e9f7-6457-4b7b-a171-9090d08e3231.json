@@ -1,0 +1,21 @@
+{
+  "id": "e207e9f7-6457-4b7b-a171-9090d08e3231",
+  "walletAddress": "2CoZvHPTiGorMG2auxBooQAyCTxiaRTkqGRyQjr1WJHk",
+  "initialBalance": 28.83,
+  "persona": {
+    "name": "Remy",
+    "age": 35,
+    "profession": "full_time_trader",
+    "traits": [
+      "independent",
+      "big_picture",
+      "risk_averse"
+    ],
+    "experience": "expert",
+    "bio": "Remy, a 35-year-old full-time crypto trader, is known for their expert navigation of the volatile digital currency markets. With an independent mindset and a keen eye for the big picture, Remy excels in crafting long-term strategies that mitigate risks while maximizing potential gains. Their risk-averse nature ensures a disciplined approach, focusing on sustainable growth and informed decision-making rather than impulsive trades."
+  },
+  "riskTolerance": 0.4148633907318543,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

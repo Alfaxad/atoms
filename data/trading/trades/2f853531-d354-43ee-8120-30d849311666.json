@@ -1,0 +1,14 @@
+{
+  "id": "2f853531-d354-43ee-8120-30d849311666",
+  "atomId": "5c12db9f-e098-4f71-a523-0981c9a48b6f",
+  "walletAddress": "7raebR5cixwARAExSbYjng45oTNLsn6ttBS791YQaKSy",
+  "tokenSymbol": "ATOM3",
+  "tokenAddress": "6qAUj6nzdnsTkNSqFG9L5h1H5R3dMZ9btrgAu2PhoVWC",
+  "type": "buy",
+  "amount": 57,
+  "price": 0,
+  "transactionSignature": "",
+  "timestamp": 1741288128731,
+  "success": false,
+  "error": "Swap failed: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined"
+}

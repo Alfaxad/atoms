@@ -1,0 +1,20 @@
+{
+  "id": "848e22a4-ee44-47ca-bdd5-300bac9f2a02",
+  "walletAddress": "5XadMKDnHVwyZmQRpnzCcXKhtC8sQ2Uq51HNw9ApafRx",
+  "initialBalance": 17.08,
+  "persona": {
+    "name": "Hayden",
+    "age": 39,
+    "profession": "full_time_trader",
+    "traits": [
+      "impulsive",
+      "analytical"
+    ],
+    "experience": "experienced",
+    "bio": "Hayden, a 39-year-old full-time crypto trader, seamlessly blends impulsive decision-making with sharp analytical skills to navigate the volatile world of digital currencies. With years of experience under their belt, Hayden thrives on the adrenaline of the market's ups and downs, often making bold moves while meticulously analyzing data to back their instincts. This unique balance of spontaneity and analysis has earned them a reputation for strategic, yet daring, investments in the crypto space."
+  },
+  "riskTolerance": 0.6544976321830318,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

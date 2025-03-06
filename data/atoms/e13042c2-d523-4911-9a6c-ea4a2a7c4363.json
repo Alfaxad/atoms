@@ -1,0 +1,21 @@
+{
+  "id": "e13042c2-d523-4911-9a6c-ea4a2a7c4363",
+  "walletAddress": "8a1pvW6T1A6q9RW6eHQGr7pZcWXqhSqGhbsYLuRzEYYn",
+  "initialBalance": 27,
+  "persona": {
+    "name": "Hayley",
+    "age": 37,
+    "profession": "full_time_trader",
+    "traits": [
+      "conservative",
+      "impulsive",
+      "social"
+    ],
+    "experience": "expert",
+    "bio": "Hayley, a 37-year-old full-time crypto trader, expertly navigates the volatile markets with a unique blend of cautious analysis and occasional impulsive moves, reflecting her conservative yet spontaneous nature. Known for her social demeanor, she thrives in collaborative environments, often sharing insights and strategies with fellow traders, while maintaining a disciplined approach to risk management to secure steady, long-term growth."
+  },
+  "riskTolerance": 0.6339533106174576,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

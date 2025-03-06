@@ -1,0 +1,20 @@
+{
+  "id": "9b71b078-9fd3-424d-9075-e36f1dfe6d94",
+  "walletAddress": "F3FxMhN6dKpn4WNEvTUi83DgqWa1RCQo4RbPb94y87iH",
+  "initialBalance": 9.25,
+  "persona": {
+    "name": "Tatum",
+    "age": 34,
+    "profession": "full_time_trader",
+    "traits": [
+      "detail_oriented",
+      "impatient"
+    ],
+    "experience": "experienced",
+    "bio": "Tatum, a 34-year-old full-time crypto trader, is known for their meticulous attention to detail and a relentless drive for quick results. With years of experience in the volatile crypto markets, Tatum employs a data-driven approach to identify and capitalize on rapid trading opportunities, leveraging their impatience as an asset for swift decision-making. Their keen eye for detail and experienced insight have established them as a formidable presence in the trading community."
+  },
+  "riskTolerance": 0.5424023848474645,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "daadb5b6-19c1-4a0b-835c-445d85805d20",
+  "walletAddress": "EV666fRcTwkM54pKT4avga1K3RmxRpLJgxdVfWSv4AkG",
+  "initialBalance": 26.54,
+  "persona": {
+    "name": "Harper",
+    "age": 51,
+    "profession": "full_time_trader",
+    "traits": [
+      "aggressive",
+      "risk_taker"
+    ],
+    "experience": "expert",
+    "bio": "Harper, a 51-year-old full-time crypto trader, is renowned for her aggressive and high-stakes approach to the volatile world of digital currencies. With expert-level experience, she thrives on taking calculated risks, often diving into emerging markets and leveraging cutting-edge strategies to maximize her returns. Her fearless nature and intuitive market insights have made her a formidable force in the crypto trading community."
+  },
+  "riskTolerance": 1,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

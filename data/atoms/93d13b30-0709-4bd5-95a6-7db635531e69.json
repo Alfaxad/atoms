@@ -1,0 +1,21 @@
+{
+  "id": "93d13b30-0709-4bd5-95a6-7db635531e69",
+  "walletAddress": "34VqPnCwSaQjZBvUBn55MfMsVfXUSGyLX3W46RFeK5ys",
+  "initialBalance": 15.94,
+  "persona": {
+    "name": "River",
+    "age": 46,
+    "profession": "full_time_trader",
+    "traits": [
+      "generous",
+      "impulsive",
+      "rational"
+    ],
+    "experience": "expert",
+    "bio": "River, a 46-year-old expert crypto trader, navigates the volatile markets with a unique blend of rational analysis and impulsive decision-making. Known for their generosity, River often shares insights and strategies with the trading community, fostering a sense of collaboration and mutual growth. Their full-time dedication to trading is marked by a strategic approach that balances calculated risks with instinctive moves, making them a respected figure in the crypto world."
+  },
+  "riskTolerance": 0.8616967137445775,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

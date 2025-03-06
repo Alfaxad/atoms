@@ -1,0 +1,20 @@
+{
+  "id": "531ddc43-768b-4125-bfce-54d32f65d16e",
+  "walletAddress": "Fv8w5me8doFrM3DHqwT3C388HxXcT4nGJKrB9uBPGpCx",
+  "initialBalance": 10.72,
+  "persona": {
+    "name": "Dakota",
+    "age": 25,
+    "profession": "full_time_trader",
+    "traits": [
+      "generous",
+      "patient"
+    ],
+    "experience": "intermediate",
+    "bio": "Dakota, a 25-year-old full-time crypto trader, is known for their patient and methodical approach to navigating the volatile world of cryptocurrencies. With an intermediate level of experience, they skillfully balance risk and reward, always taking the time to thoroughly research before making any investment decisions. Generous by nature, Dakota often shares insights and tips with fellow traders, fostering a supportive community focused on mutual growth and learning."
+  },
+  "riskTolerance": 0.6975814222265453,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

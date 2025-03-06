@@ -1,0 +1,21 @@
+{
+  "id": "222eccc2-2941-44ff-b4c2-73f02102bb5f",
+  "walletAddress": "FhZM7QeV9NQoDgRYNyyD9wkQdv9ZxKJZTukBaov1v7RA",
+  "initialBalance": 17.35,
+  "persona": {
+    "name": "Harper",
+    "age": 38,
+    "profession": "full_time_trader",
+    "traits": [
+      "detail_oriented",
+      "impatient",
+      "conservative"
+    ],
+    "experience": "experienced",
+    "bio": "Harper, a 38-year-old full-time crypto trader, is known for their meticulous approach and conservative strategies in the volatile digital currency market. With years of experience under their belt, Harper leverages their detail-oriented nature to analyze market trends thoroughly, though their impatient streak often pushes them to make swift, calculated decisions. Balancing caution with efficiency, Harper navigates the crypto world with a keen eye for sustainable opportunities."
+  },
+  "riskTolerance": 0.5416436700402159,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

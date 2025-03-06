@@ -1,0 +1,20 @@
+{
+  "id": "99911f4d-1d46-4c43-ba26-ac1e32ed54c0",
+  "walletAddress": "5npHk5nPjhEuj4qWVrAXBxwvYaf7g57ztVZuqPHwPE1W",
+  "initialBalance": 22.18,
+  "persona": {
+    "name": "Harper",
+    "age": 32,
+    "profession": "full_time_trader",
+    "traits": [
+      "big_picture",
+      "impatient"
+    ],
+    "experience": "experienced",
+    "bio": "Harper, a 32-year-old full-time crypto trader, is known for their big-picture approach and keen ability to spot emerging trends in the volatile market. With years of experience under their belt, Harper's impatience drives them to make swift, strategic decisions, often capitalizing on short-term opportunities while keeping an eye on long-term gains. Their dynamic personality and forward-thinking mindset have earned them a reputation as a sharp and innovative investor in the crypto community."
+  },
+  "riskTolerance": 0.8561395223003854,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

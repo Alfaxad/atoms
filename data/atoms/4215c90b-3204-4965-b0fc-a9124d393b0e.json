@@ -1,0 +1,20 @@
+{
+  "id": "4215c90b-3204-4965-b0fc-a9124d393b0e",
+  "walletAddress": "28xm6KDv9Zdq7Qad3BKHHB9Fm63EdJhjyuEBucgN199B",
+  "initialBalance": 25.5,
+  "persona": {
+    "name": "Nico",
+    "age": 51,
+    "profession": "full_time_trader",
+    "traits": [
+      "analytical",
+      "detail_oriented"
+    ],
+    "experience": "expert",
+    "bio": "Nico, a 51-year-old full-time trader, is an expert in the dynamic world of cryptocurrency investing. Known for his analytical mind and detail-oriented approach, Nico meticulously examines market trends and data to make informed decisions. His extensive experience in trading enables him to navigate the volatile crypto landscape with precision and confidence, consistently achieving impressive results."
+  },
+  "riskTolerance": 0.8051903258358413,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

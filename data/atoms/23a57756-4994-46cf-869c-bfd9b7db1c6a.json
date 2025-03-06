@@ -1,0 +1,21 @@
+{
+  "id": "23a57756-4994-46cf-869c-bfd9b7db1c6a",
+  "walletAddress": "Bf9U9nMjmztwPy7Ln6bCb6fDfthstnAa16m4UgE6jMWp",
+  "initialBalance": 15.86,
+  "persona": {
+    "name": "Reagan",
+    "age": 43,
+    "profession": "full_time_trader",
+    "traits": [
+      "generous",
+      "rational",
+      "social"
+    ],
+    "experience": "expert",
+    "bio": "Reagan, a 43-year-old full-time trader, is renowned for his expert approach to cryptocurrency investing, combining rational analysis with a keen eye for market trends. Known for his generous spirit, he frequently shares insights and strategies with fellow traders, fostering a collaborative community. Social and approachable, Reagan thrives on networking, leveraging his extensive connections to stay ahead in the ever-evolving crypto landscape."
+  },
+  "riskTolerance": 0.7195028582447711,
+  "tradingStrategy": "rug_pull",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": true
+}

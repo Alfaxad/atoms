@@ -1,0 +1,21 @@
+{
+  "id": "16bbccdf-b169-42f0-8ff1-beec0eb7fff2",
+  "walletAddress": "BS3MUXNm252gVMK9BA1Z1Vzv6RukTe4WeXgY2SuFny6i",
+  "initialBalance": 18.73,
+  "persona": {
+    "name": "Blake",
+    "age": 62,
+    "profession": "full_time_trader",
+    "traits": [
+      "impatient",
+      "innovative",
+      "traditional"
+    ],
+    "experience": "expert",
+    "bio": "Blake, a 62-year-old full-time crypto trader, combines traditional investment principles with innovative strategies, navigating the volatile crypto markets with expert precision. Known for their impatient nature, Blake swiftly adapts to market changes, leveraging decades of experience to seize opportunities before others. Despite their impatience, Blake's deep-rooted understanding of traditional finance ensures a balanced and insightful approach to every trade."
+  },
+  "riskTolerance": 0.6068672740814914,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

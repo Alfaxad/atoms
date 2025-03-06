@@ -1,0 +1,21 @@
+{
+  "id": "6b4d75c4-3bb4-4a68-8de9-82e6e9e8e703",
+  "walletAddress": "GL1AKTcBZ24Nd2daRGyy8XANjP4pKeqRPrxxnawLPhNr",
+  "initialBalance": 14.13,
+  "persona": {
+    "name": "Blake",
+    "age": 60,
+    "profession": "full_time_trader",
+    "traits": [
+      "traditional",
+      "intuitive",
+      "conservative"
+    ],
+    "experience": "expert",
+    "bio": "Blake, a seasoned 60-year-old full-time trader, navigates the volatile world of cryptocurrency with a blend of intuition and traditional strategies honed over decades of trading experience. Known for his conservative approach, Blake meticulously analyzes market trends and data, ensuring every investment decision is grounded in both expertise and caution. Despite the rapid pace of modern markets, his expert insights and steadfast principles make him a respected figure in the crypto trading community."
+  },
+  "riskTolerance": 0.5613923697852674,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

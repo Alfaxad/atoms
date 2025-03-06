@@ -1,0 +1,21 @@
+{
+  "id": "0da92426-3b70-4408-9b79-6f0f65e3d2de",
+  "walletAddress": "6QmYdHptygPhNznMir4yeZSUXywYuTPjopupUARebr9Y",
+  "initialBalance": 15.08,
+  "persona": {
+    "name": "Quinn",
+    "age": 37,
+    "profession": "full_time_trader",
+    "traits": [
+      "trendsetting",
+      "impatient",
+      "aggressive"
+    ],
+    "experience": "experienced",
+    "bio": "Quinn, a 37-year-old full-time crypto trader, is known for their trendsetting strategies and aggressive approach to the market. With years of experience under their belt, Quinn's impatience drives them to capitalize on rapid market shifts, often being among the first to spot emerging opportunities. Their bold and decisive nature has earned them a reputation for taking calculated risks that frequently pay off in the fast-paced world of cryptocurrency trading."
+  },
+  "riskTolerance": 0.6910621745198062,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

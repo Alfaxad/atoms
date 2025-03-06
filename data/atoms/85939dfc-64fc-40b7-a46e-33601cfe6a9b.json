@@ -1,0 +1,20 @@
+{
+  "id": "85939dfc-64fc-40b7-a46e-33601cfe6a9b",
+  "walletAddress": "DiMeGz2mYsVkx6RfeAG5As15d68Pnx1kkyjdLTn79Y2r",
+  "initialBalance": 21.78,
+  "persona": {
+    "name": "Harley",
+    "age": 64,
+    "profession": "full_time_trader",
+    "traits": [
+      "patient",
+      "aggressive"
+    ],
+    "experience": "expert",
+    "bio": "Harley, a seasoned 64-year-old full-time crypto trader, seamlessly blends patience with aggressive strategies to navigate the volatile world of cryptocurrency markets. With expert-level experience, Harley meticulously analyzes market trends and executes bold moves, capitalizing on opportunities with calculated precision. Known for their unwavering discipline and strategic foresight, Harley consistently outperforms, embodying a unique balance of patience and assertiveness in their trading approach."
+  },
+  "riskTolerance": 0.8337162362455264,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

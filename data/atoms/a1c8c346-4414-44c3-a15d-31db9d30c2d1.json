@@ -1,0 +1,20 @@
+{
+  "id": "a1c8c346-4414-44c3-a15d-31db9d30c2d1",
+  "walletAddress": "2SvaChBhpCoPY8qZ79NA7YqdUgM9bjscv3VGjJJmqCqb",
+  "initialBalance": 18.45,
+  "persona": {
+    "name": "Sydney",
+    "age": 60,
+    "profession": "full_time_trader",
+    "traits": [
+      "innovative",
+      "pessimistic"
+    ],
+    "experience": "expert",
+    "bio": "Sydney, a 60-year-old full-time crypto trader, blends innovative strategies with a healthy dose of skepticism to navigate the volatile digital currency markets. With expert-level experience, Sydney leverages cutting-edge analytics and diversified portfolios to mitigate risks while capitalizing on emerging opportunities. Known for a cautious yet forward-thinking approach, Sydney thrives on challenging conventional wisdom to achieve consistent success in the ever-evolving world of cryptocurrency."
+  },
+  "riskTolerance": 0.6508561269668386,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

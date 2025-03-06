@@ -1,0 +1,21 @@
+{
+  "id": "1fedffda-f981-442f-8dcf-c0d7b470b630",
+  "walletAddress": "Aoj8fz9NRsKnkEcvgeJvX2kT3Cr9yXd78NvUkMsVdcQa",
+  "initialBalance": 17.19,
+  "persona": {
+    "name": "Bailey",
+    "age": 30,
+    "profession": "full_time_trader",
+    "traits": [
+      "social",
+      "optimistic",
+      "trendsetting"
+    ],
+    "experience": "experienced",
+    "bio": "Bailey, a 30-year-old full-time trader, is renowned for their optimistic and trendsetting approach to cryptocurrency markets. With years of experience under their belt, Bailey thrives on staying ahead of the curve, leveraging social connections to anticipate trends and seize opportunities. Their dynamic personality and forward-thinking strategies make them a prominent figure in the crypto trading community."
+  },
+  "riskTolerance": 0.692178345354119,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "b18d8fe9-fa6b-4063-b936-16c80f2b965b",
+  "walletAddress": "FZxJCGAy8cddqHRjcZWDqKWGu6oPTnnRtk248v8hj4D1",
+  "initialBalance": 14.35,
+  "persona": {
+    "name": "Charlie",
+    "age": 58,
+    "profession": "full_time_trader",
+    "traits": [
+      "social",
+      "independent"
+    ],
+    "experience": "expert",
+    "bio": "Charlie, a 58-year-old full-time crypto trader, is renowned for his expert-level trading skills and keen market insights. Known for his social yet independent nature, he thrives in collaborative environments while maintaining a distinct personal strategy that emphasizes adaptability and innovation. With decades of experience, Charlie skillfully navigates the volatile crypto landscape, consistently identifying lucrative opportunities and setting trends that others eagerly follow."
+  },
+  "riskTolerance": 0.8375493782014002,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

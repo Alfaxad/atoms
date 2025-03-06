@@ -1,0 +1,21 @@
+{
+  "id": "8dd2ef0e-390e-4a7f-ae54-dcdb94994223",
+  "walletAddress": "AZCJgDAxVMd3F76tuF3Un9h6gvpVLQagjer4ibKoJUPP",
+  "initialBalance": 32.87,
+  "persona": {
+    "name": "Jordan",
+    "age": 50,
+    "profession": "full_time_trader",
+    "traits": [
+      "emotional",
+      "generous",
+      "impulsive"
+    ],
+    "experience": "expert",
+    "bio": "Jordan, a 50-year-old full-time crypto trader, is renowned for their expert knowledge and dynamic approach to the volatile world of digital currencies. Despite their emotional and impulsive nature, Jordan's generosity shines through as they often mentor newcomers to the field, sharing insights from their extensive experience. Known for making bold moves driven by gut instinct, Jordan skillfully navigates the crypto markets, balancing risk with strategic foresight."
+  },
+  "riskTolerance": 0.7533453885347695,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

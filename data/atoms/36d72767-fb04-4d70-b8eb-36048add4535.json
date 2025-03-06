@@ -1,0 +1,21 @@
+{
+  "id": "36d72767-fb04-4d70-b8eb-36048add4535",
+  "walletAddress": "6TFxYZvRAuAayfK1XcBB9jbf3LVdqAhjeCG24n4K9qSX",
+  "initialBalance": 23.62,
+  "persona": {
+    "name": "Dakota",
+    "age": 49,
+    "profession": "full_time_trader",
+    "traits": [
+      "methodical",
+      "independent",
+      "traditional"
+    ],
+    "experience": "expert",
+    "bio": "Dakota, a 49-year-old full-time trader, approaches the world of cryptocurrency with a methodical and disciplined strategy honed over years of experience. As an expert in the field, Dakota values independence and relies on traditional financial principles to navigate the volatile market, making calculated decisions that balance innovation with time-tested trading techniques. Known for their meticulous attention to detail, Dakota consistently identifies profitable opportunities while maintaining a steady and pragmatic approach to investing."
+  },
+  "riskTolerance": 0.7695794564421448,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

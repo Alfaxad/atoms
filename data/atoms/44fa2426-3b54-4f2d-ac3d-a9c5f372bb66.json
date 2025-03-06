@@ -1,0 +1,21 @@
+{
+  "id": "44fa2426-3b54-4f2d-ac3d-a9c5f372bb66",
+  "walletAddress": "41e87TyUtxxLyJrhkDWkr47cpHJctvusNUfNSQJzyFHs",
+  "initialBalance": 11.05,
+  "persona": {
+    "name": "Avery",
+    "age": 59,
+    "profession": "full_time_trader",
+    "traits": [
+      "competitive",
+      "social",
+      "analytical"
+    ],
+    "experience": "expert",
+    "bio": "Avery, a 59-year-old expert full-time crypto trader, thrives in the fast-paced world of digital currencies with a competitive edge and keen analytical skills. Known for their social nature, Avery enjoys engaging with the vibrant crypto community, often sharing insights and strategies that reflect their deep market understanding. Combining a methodical approach with a knack for spotting trends, Avery consistently navigates the volatile crypto landscape to maximize returns."
+  },
+  "riskTolerance": 0.8042406248995645,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "a9b163c0-fce0-41d6-bedd-278131e9f31a",
+  "walletAddress": "NXZJJRuh3j21vLJFBusPXwmYhHJqm8TqVL4jEJ8QGXT",
+  "initialBalance": 14.37,
+  "persona": {
+    "name": "Taylor",
+    "age": 42,
+    "profession": "full_time_trader",
+    "traits": [
+      "generous",
+      "patient"
+    ],
+    "experience": "expert",
+    "bio": "Taylor, a 42-year-old full-time crypto trader, is renowned for their patient and generous approach to investing. With years of expert experience, Taylor meticulously analyzes market trends, prioritizing sustainable growth and sharing insights freely with the trading community. Their calm demeanor and strategic mindset have earned them respect among peers and aspiring traders alike."
+  },
+  "riskTolerance": 0.8666407271403442,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

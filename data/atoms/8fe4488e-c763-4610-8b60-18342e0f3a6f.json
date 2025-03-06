@@ -1,0 +1,21 @@
+{
+  "id": "8fe4488e-c763-4610-8b60-18342e0f3a6f",
+  "walletAddress": "9vQ5EQWEpwrnKJr6tpx9FtFpPw3JDNBFhnp8KFAPLga9",
+  "initialBalance": 9.75,
+  "persona": {
+    "name": "Elliot",
+    "age": 29,
+    "profession": "full_time_trader",
+    "traits": [
+      "risk_averse",
+      "frugal",
+      "methodical"
+    ],
+    "experience": "intermediate",
+    "bio": "Elliot, a 29-year-old full-time crypto trader, navigates the volatile world of digital currencies with a risk-averse and methodical approach. Despite being frugal, Elliot's careful analysis and strategic planning reflect an intermediate level of trading experience, allowing him to make calculated investments that prioritize long-term growth over quick gains. Known for his disciplined nature, Elliot meticulously evaluates market trends, ensuring his portfolio remains both stable and profitable."
+  },
+  "riskTolerance": 0.49997854899442,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

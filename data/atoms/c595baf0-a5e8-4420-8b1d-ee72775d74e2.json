@@ -1,0 +1,20 @@
+{
+  "id": "c595baf0-a5e8-4420-8b1d-ee72775d74e2",
+  "walletAddress": "EkT9Ny9N91o14nnEEXW5AmJhDffK4RwYLmtzNrW8rnys",
+  "initialBalance": 10.72,
+  "persona": {
+    "name": "Reese",
+    "age": 49,
+    "profession": "full_time_trader",
+    "traits": [
+      "independent",
+      "impatient"
+    ],
+    "experience": "expert",
+    "bio": "Reese, a 49-year-old full-time trader, is known for their independent and impatient nature, which fuels their rapid decision-making in the volatile world of cryptocurrency. With expert-level experience, Reese thrives on the adrenaline of high-stakes trades, relying on a keen intuition and deep market analysis to make swift, strategic moves. Their no-nonsense approach and self-reliant attitude have earned them a reputation as a formidable force in the crypto trading arena."
+  },
+  "riskTolerance": 0.5689154791981672,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

@@ -1,0 +1,45 @@
+{
+  "name": "atoms",
+  "version": "1.0.0",
+  "description": "Agent-based Token Market Simulation",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "generate-atoms": "ts-node src/scripts/generateAtoms.ts",
+    "init-communication": "ts-node src/scripts/initCommunication.ts",
+    "init-trading": "ts-node src/scripts/initTrading.ts",
+    "simulate": "ts-node src/scripts/runSimulation.ts",
+    "generate-reports": "ts-node src/scripts/generateReports.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/core": "^0.3.42",
+    "@langchain/langgraph": "^0.2.53",
+    "@langchain/openai": "^0.4.4",
+    "@solana/spl-token": "^0.4.13",
+    "@solana/web3.js": "^1.98.0",
+    "axios": "^1.8.1",
+    "bip39": "^3.1.0",
+    "bs58": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "firebase-admin": "^13.2.0",
+    "langchain": "^0.3.19",
+    "pg": "^8.13.3",
+    "solana-agent-kit": "^1.1.0",
+    "telegraf": "^4.16.3",
+    "uuid": "^9.0.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.9",
+    "@types/uuid": "^9.0.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}

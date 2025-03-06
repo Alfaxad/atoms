@@ -1,0 +1,20 @@
+{
+  "id": "cb5d67f0-3dab-470a-8a53-845ef3dc5113",
+  "walletAddress": "9AgQqGpgBMTLyBmA3gWvZX3jhtQhyHk2xVxrGPgv5QYh",
+  "initialBalance": 6.89,
+  "persona": {
+    "name": "Marley",
+    "age": 28,
+    "profession": "full_time_trader",
+    "traits": [
+      "aggressive",
+      "emotional"
+    ],
+    "experience": "intermediate",
+    "bio": "Marley, a 28-year-old full-time crypto trader, is known for their aggressive and emotional approach to the volatile world of cryptocurrency. With intermediate trading experience, Marley thrives on high-risk, high-reward strategies, often diving into emerging altcoins with fervor and intuition. Their passionate nature is both a driving force and a challenge, as they navigate the rollercoaster of digital markets with unyielding enthusiasm and occasional impulsivity."
+  },
+  "riskTolerance": 0.7235515479452735,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

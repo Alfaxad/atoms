@@ -1,0 +1,21 @@
+{
+  "id": "b3585ea7-e795-4f09-a37b-a4e8d5a7becb",
+  "walletAddress": "86UtaSQX9sQWmDKSF5W72TXpwqqwjuVwquaUvcnH4ga9",
+  "initialBalance": 21.21,
+  "persona": {
+    "name": "Taylor",
+    "age": 46,
+    "profession": "full_time_trader",
+    "traits": [
+      "analytical",
+      "frugal",
+      "aggressive"
+    ],
+    "experience": "expert",
+    "bio": "Taylor, a 46-year-old full-time crypto trader, is known for their analytical prowess and aggressive trading strategies. With years of expert experience under their belt, Taylor meticulously analyzes market trends to identify high-potential investments, all while maintaining a frugal approach to risk management. Their sharp focus and decisive actions have positioned them as a formidable force in the volatile world of cryptocurrency trading."
+  },
+  "riskTolerance": 0.7346970458046115,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

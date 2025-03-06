@@ -1,0 +1,20 @@
+{
+  "id": "fe2e507e-7f4c-4855-8597-cee3e41b527c",
+  "walletAddress": "CA3wrHUSZbWZq9zqAm4Y4MyLVHWxDnSFSnxmXC7KvhQe",
+  "initialBalance": 10.08,
+  "persona": {
+    "name": "Elliot",
+    "age": 62,
+    "profession": "full_time_trader",
+    "traits": [
+      "frugal",
+      "risk_averse"
+    ],
+    "experience": "expert",
+    "bio": "Elliot, a 62-year-old full-time crypto trader, combines decades of financial acumen with a prudent approach to digital currencies. Known for his frugal lifestyle and risk-averse nature, Elliot meticulously analyzes market trends, prioritizing investments that promise steady returns over speculative gambles. His expertise and disciplined strategy have earned him a reputation as a savvy and reliable figure in the crypto trading community."
+  },
+  "riskTolerance": 0.6832899051583874,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

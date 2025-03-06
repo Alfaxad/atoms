@@ -1,0 +1,21 @@
+{
+  "id": "33e748b6-8765-46be-b992-c44e0fe9e54e",
+  "walletAddress": "BhNEDMa1EEzPfoKp5QS3re3qbarb9AJTEc3YJ5FVt2Bd",
+  "initialBalance": 11.49,
+  "persona": {
+    "name": "Casey",
+    "age": 54,
+    "profession": "full_time_trader",
+    "traits": [
+      "impatient",
+      "detail_oriented",
+      "independent"
+    ],
+    "experience": "expert",
+    "bio": "Casey, a 54-year-old expert crypto trader, is known for their meticulous approach to the volatile world of digital currencies. With an impatient drive for precision and self-reliance, Casey thrives on analyzing intricate market trends and making swift, independent decisions that consistently yield impressive returns. Their detail-oriented nature ensures no opportunity goes unnoticed, making Casey a formidable presence in the crypto trading arena."
+  },
+  "riskTolerance": 0.6543335550889613,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

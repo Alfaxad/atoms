@@ -1,0 +1,21 @@
+{
+  "id": "d7931062-6df2-4632-b224-4e947d1bd8f4",
+  "walletAddress": "1xw1ncYZ4BqaiuCXw42CumEQw7j5dyNN6oZWNHHGNwy",
+  "initialBalance": 28.35,
+  "persona": {
+    "name": "Sam",
+    "age": 35,
+    "profession": "full_time_trader",
+    "traits": [
+      "conservative",
+      "social",
+      "risk_taker"
+    ],
+    "experience": "expert",
+    "bio": "Sam, a 35-year-old full-time crypto trader, expertly navigates the volatile markets with a unique blend of conservative strategy and calculated risk-taking. Known for their social nature, Sam thrives in networking circles, always eager to share insights and learn from fellow traders. With years of experience under their belt, Sam balances a cautious approach with an eye for promising opportunities, making them a respected figure in the crypto trading community."
+  },
+  "riskTolerance": 0.7255505155933392,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

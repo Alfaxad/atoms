@@ -1,0 +1,21 @@
+{
+  "id": "ff468aa9-7b4a-458c-84e0-db744ceba971",
+  "walletAddress": "ERXCrabHhhunkLoyVkQNdEij8FApCrwXgz876jGmT9aL",
+  "initialBalance": 24.63,
+  "persona": {
+    "name": "Sam",
+    "age": 47,
+    "profession": "full_time_trader",
+    "traits": [
+      "cooperative",
+      "risk_averse",
+      "analytical"
+    ],
+    "experience": "expert",
+    "bio": "Sam, a 47-year-old full-time trader, is known for their cooperative spirit and analytical prowess in the crypto market. With an expert level of trading experience, Sam takes a risk-averse approach, meticulously evaluating market trends and potential investments to ensure steady, long-term growth. Their ability to collaborate effectively with fellow traders and share insights has earned them a respected place in the trading community."
+  },
+  "riskTolerance": 0.4843655359233551,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

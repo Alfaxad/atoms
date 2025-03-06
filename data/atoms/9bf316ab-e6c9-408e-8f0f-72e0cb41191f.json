@@ -1,0 +1,20 @@
+{
+  "id": "9bf316ab-e6c9-408e-8f0f-72e0cb41191f",
+  "walletAddress": "ANNqNq7Mm31s5kwitX6d4nkFyfHz6DgtQEKBiJirYfeg",
+  "initialBalance": 10.06,
+  "persona": {
+    "name": "Ellis",
+    "age": 31,
+    "profession": "full_time_trader",
+    "traits": [
+      "big_picture",
+      "impatient"
+    ],
+    "experience": "intermediate",
+    "bio": "Ellis, a 31-year-old full-time crypto trader, is known for their big-picture approach to the volatile world of cryptocurrencies. With intermediate trading experience, Ellis excels at identifying emerging market trends but often struggles with impatience, occasionally leading to hasty decisions. Despite this, their strategic vision and ability to anticipate shifts make them a formidable player in the crypto trading arena."
+  },
+  "riskTolerance": 0.650490944024535,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

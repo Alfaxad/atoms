@@ -1,0 +1,21 @@
+{
+  "id": "d4cffb62-b797-4070-9c1b-ca27631deeb7",
+  "walletAddress": "F9ahS5fHTfNsKSX6SnCpmWDZM2ngYWHqN78JMdy9SHw4",
+  "initialBalance": 34.63,
+  "persona": {
+    "name": "Jordan",
+    "age": 40,
+    "profession": "full_time_trader",
+    "traits": [
+      "patient",
+      "methodical",
+      "analytical"
+    ],
+    "experience": "expert",
+    "bio": "Jordan, a 40-year-old full-time trader, is renowned for their patient and methodical approach to crypto investing. With years of experience and an analytical mindset, Jordan expertly navigates the volatile crypto markets, relying on data-driven strategies and careful risk management. Their calm demeanor and meticulous planning have earned them respect and success in the trading community."
+  },
+  "riskTolerance": 0.7538580567313959,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": "7c5e23f4-ed33-41a8-964c-5e930e391b71",
+  "atomId": "0508a051-81d1-4723-bc66-52fdbb75d56e",
+  "walletAddress": "CH3AiSMrNet3aLzNJP91sTi5CFgFuv25gKVgouB6x8oC",
+  "tokenSymbol": "ATOMS",
+  "tokenAddress": "D2afkkeWAixapVch9gZh7bzTs7ZZ831wfj1EM72krkyv",
+  "type": "sell",
+  "amount": 31,
+  "price": 0.5,
+  "transactionSignature": "sim_tx_1741289955518_ouj2m4g",
+  "timestamp": 1741289955518,
+  "success": true
+}

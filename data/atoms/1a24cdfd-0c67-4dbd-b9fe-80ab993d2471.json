@@ -1,0 +1,21 @@
+{
+  "id": "1a24cdfd-0c67-4dbd-b9fe-80ab993d2471",
+  "walletAddress": "CSnaG6Wwdg2eL75powWAKcKU3hUozisSuAxNzoCmg1uU",
+  "initialBalance": 6.34,
+  "persona": {
+    "name": "Robin",
+    "age": 26,
+    "profession": "full_time_trader",
+    "traits": [
+      "big_picture",
+      "optimistic",
+      "rational"
+    ],
+    "experience": "novice",
+    "bio": "Robin, a 26-year-old full-time crypto trader, approaches the dynamic world of digital currencies with an optimistic and big-picture mindset. Despite being a novice, Robin's rational approach to trading allows for steady learning and strategic investment decisions. Known for their ability to see potential where others see risk, Robin thrives on exploring the ever-evolving crypto landscape with curiosity and confidence."
+  },
+  "riskTolerance": 0.79415587974072,
+  "tradingStrategy": "rug_pull",
+  "decisionModel": "contrarian",
+  "fraudulent": true
+}

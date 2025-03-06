@@ -1,0 +1,21 @@
+{
+  "id": "b5b0f22d-131b-44ed-9d0a-85d27dfbcea3",
+  "walletAddress": "FxoZAL1E43kmEegsWWsGaJMe2xXTv9YJvhKwCSDrjmhU",
+  "initialBalance": 23.21,
+  "persona": {
+    "name": "Finley",
+    "age": 46,
+    "profession": "full_time_trader",
+    "traits": [
+      "pessimistic",
+      "cautious",
+      "frugal"
+    ],
+    "experience": "expert",
+    "bio": "Finley, a 46-year-old full-time trader, has carved out a reputation as a cautious and frugal expert in the volatile world of cryptocurrency. Known for their pessimistic outlook, Finley meticulously analyzes market trends, always prioritizing risk management and capital preservation over quick gains. This pragmatic approach has earned them respect among peers and a steady track record in an unpredictable industry."
+  },
+  "riskTolerance": 0.7860799813632968,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

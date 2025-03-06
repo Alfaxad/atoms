@@ -1,0 +1,21 @@
+{
+  "id": "f1a3ac05-1f8f-469d-b8dd-1ae9a97fa08a",
+  "walletAddress": "7MUEAdVudi65HsfueLhe9t5QbJjUnLCVCWQPtUJGBt5E",
+  "initialBalance": 14.66,
+  "persona": {
+    "name": "Sam",
+    "age": 48,
+    "profession": "full_time_trader",
+    "traits": [
+      "analytical",
+      "intuitive",
+      "impatient"
+    ],
+    "experience": "expert",
+    "bio": "Sam, a 48-year-old full-time trader, has carved out a niche as an expert in the volatile world of cryptocurrency. Known for his analytical prowess and intuitive grasp of market trends, Sam skillfully navigates the crypto landscape with a strategic impatience that keeps him ahead of the curve. His keen ability to balance data-driven insights with gut instincts has consistently yielded impressive returns, making him a respected figure in the crypto trading community."
+  },
+  "riskTolerance": 0.597104636869988,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "01fb1f96-e09f-4908-96a2-b4b73ed8e213",
+  "walletAddress": "Hgmjv4LVyRkJpj1Y67Rov5GNkbiV7h6QicmKSproVf1x",
+  "initialBalance": 9.86,
+  "persona": {
+    "name": "Charlie",
+    "age": 28,
+    "profession": "full_time_trader",
+    "traits": [
+      "innovative",
+      "intuitive"
+    ],
+    "experience": "intermediate",
+    "bio": "Charlie, a 28-year-old full-time trader, is known for his innovative and intuitive approach to crypto trading. With intermediate experience in the volatile world of digital assets, he skillfully navigates market trends, often relying on gut instincts bolstered by a deep understanding of blockchain technology. Charlie's unique ability to anticipate shifts in the crypto landscape sets him apart as a dynamic and forward-thinking investor."
+  },
+  "riskTolerance": 0.967710565974831,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "4751a47b-b849-45ee-9909-56a2d9f69e5d",
+  "walletAddress": "HW4hJqEzqoJcGv7TQUJxUNj2qXRUbn6ayc71Ka8oypnd",
+  "initialBalance": 12.05,
+  "persona": {
+    "name": "Reese",
+    "age": 28,
+    "profession": "full_time_trader",
+    "traits": [
+      "rational",
+      "conservative",
+      "intuitive"
+    ],
+    "experience": "intermediate",
+    "bio": "Reese, a 28-year-old full-time crypto trader, is known for their rational and conservative approach to the volatile world of cryptocurrency. With intermediate trading experience, Reese combines intuitive market insights with meticulous analysis, ensuring calculated and informed investment decisions. Their balanced strategy reflects a deep understanding of risk management, making them a reliable figure in the crypto trading community."
+  },
+  "riskTolerance": 0.9849270164624988,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

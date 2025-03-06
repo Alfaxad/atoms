@@ -1,0 +1,20 @@
+{
+  "id": "30777841-23ba-4753-96e8-1707cb091888",
+  "walletAddress": "C6gRc7XHohaUh8NzGU5np4etJmkJ8CH867vVVWtkPz7P",
+  "initialBalance": 9.93,
+  "persona": {
+    "name": "Sage",
+    "age": 28,
+    "profession": "full_time_trader",
+    "traits": [
+      "conservative",
+      "emotional"
+    ],
+    "experience": "novice",
+    "bio": "Sage, a 28-year-old full-time crypto trader, approaches the volatile world of digital currencies with a conservative mindset, prioritizing risk management and cautious investment strategies. Despite being a novice in the field, Sage's emotional nature drives a keen intuition, often guiding decisions that balance both safety and potential growth. This budding trader's journey is defined by a careful, methodical approach, ensuring each step into the crypto market is thoughtfully considered."
+  },
+  "riskTolerance": 0.7131329416428405,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

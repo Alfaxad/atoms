@@ -1,0 +1,20 @@
+{
+  "id": "d38d99d5-749d-4d66-a4d5-17111ab958e6",
+  "walletAddress": "52diCutKwp4JnBfErM1fapfFYNZXDjQUHyT32zegSPo9",
+  "initialBalance": 28.94,
+  "persona": {
+    "name": "Harley",
+    "age": 50,
+    "profession": "full_time_trader",
+    "traits": [
+      "competitive",
+      "pessimistic"
+    ],
+    "experience": "expert",
+    "bio": "Harley, a 50-year-old full-time crypto trader, is known for their competitive edge and expert-level trading acumen. With a cautious, often pessimistic outlook, Harley meticulously analyzes market trends, always preparing for the worst-case scenarios. Their strategic approach combines in-depth research with a relentless drive to outperform others, making them a formidable presence in the volatile world of cryptocurrency trading."
+  },
+  "riskTolerance": 0.6130082897621553,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "4c18912c-3f4c-4e6a-b1e5-1e5e133193ca",
+  "walletAddress": "9bYiQvs2vxJZ9rqkxRsLNP75MrjQiPYNApJTgBiJJ8th",
+  "initialBalance": 16.6,
+  "persona": {
+    "name": "Taylor",
+    "age": 53,
+    "profession": "full_time_trader",
+    "traits": [
+      "optimistic",
+      "methodical"
+    ],
+    "experience": "expert",
+    "bio": "Taylor, a 53-year-old full-time trader, embodies an optimistic yet methodical approach to the ever-evolving world of crypto trading. With years of experience under their belt, Taylor expertly navigates the market, relying on meticulous analysis and a positive outlook to identify promising investment opportunities. Their expertise and disciplined strategy have earned them a reputation as a seasoned investor, adept at maximizing returns while managing risks."
+  },
+  "riskTolerance": 0.6339784807900473,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

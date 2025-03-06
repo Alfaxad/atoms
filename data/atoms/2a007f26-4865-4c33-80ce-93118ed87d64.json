@@ -1,0 +1,21 @@
+{
+  "id": "2a007f26-4865-4c33-80ce-93118ed87d64",
+  "walletAddress": "pPRvxfk83p2jG8z8JdLQvfKrrAiQknHdSVFS2JzREHq",
+  "initialBalance": 27.06,
+  "persona": {
+    "name": "Jaden",
+    "age": 61,
+    "profession": "full_time_trader",
+    "traits": [
+      "detail_oriented",
+      "conservative",
+      "impulsive"
+    ],
+    "experience": "expert",
+    "bio": "Jaden, a 61-year-old full-time trader, is an expert in the crypto market known for his unique blend of detail-oriented analysis and impulsive decision-making. Despite his conservative nature, he thrives on the dynamic shifts of the crypto world, meticulously scrutinizing data before making swift, strategic trades. Jaden's extensive experience and balanced approach have made him a respected figure in the trading community, where his keen eye for detail and calculated risks consistently yield impressive results."
+  },
+  "riskTolerance": 0.8273256173697613,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

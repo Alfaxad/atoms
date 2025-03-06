@@ -1,0 +1,21 @@
+{
+  "id": "ffc0757a-adc2-4bff-b36f-e57fefe88a37",
+  "walletAddress": "CuW9UKFAbi4qDN8UudWYy7Jh642dc2kDGHGm6HhJJnFp",
+  "initialBalance": 22.77,
+  "persona": {
+    "name": "Phoenix",
+    "age": 47,
+    "profession": "full_time_trader",
+    "traits": [
+      "conservative",
+      "intuitive",
+      "detail_oriented"
+    ],
+    "experience": "expert",
+    "bio": "Phoenix, a 47-year-old full-time crypto trader, is known for their conservative yet intuitive approach to the volatile world of digital currencies. With years of expert trading experience, Phoenix meticulously analyzes market trends and data, ensuring each decision is backed by thorough research and a keen attention to detail. Their strategic, risk-averse nature has earned them a reputation for consistently achieving steady returns amidst the fluctuations of the crypto market."
+  },
+  "riskTolerance": 0.7563067543549671,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

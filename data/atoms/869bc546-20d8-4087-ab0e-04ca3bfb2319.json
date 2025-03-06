@@ -1,0 +1,20 @@
+{
+  "id": "869bc546-20d8-4087-ab0e-04ca3bfb2319",
+  "walletAddress": "3bAQLqeoXMmJzw9EuoSCrQxyTvRCtxEfExLrQyroiGzz",
+  "initialBalance": 15.99,
+  "persona": {
+    "name": "River",
+    "age": 41,
+    "profession": "full_time_trader",
+    "traits": [
+      "pessimistic",
+      "optimistic"
+    ],
+    "experience": "experienced",
+    "bio": "River, a 41-year-old seasoned crypto trader, navigates the volatile world of digital currencies with a unique blend of cautious optimism. Despite a naturally pessimistic outlook, River's extensive experience in the market allows them to identify opportunities where others see only risk. Their strategic approach balances skepticism with a hopeful vision, making them a respected figure in the crypto trading community."
+  },
+  "riskTolerance": 0.846389995977082,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

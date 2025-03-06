@@ -1,0 +1,21 @@
+{
+  "id": "75b31995-11d3-4151-a1fb-0728016ebed9",
+  "walletAddress": "HewY8HM3MM6WJHSv6cWU6FfVq1NJrQcyjJzY5QsgAEgs",
+  "initialBalance": 5.05,
+  "persona": {
+    "name": "Jude",
+    "age": 25,
+    "profession": "full_time_trader",
+    "traits": [
+      "risk_averse",
+      "trendsetting",
+      "frugal"
+    ],
+    "experience": "intermediate",
+    "bio": "Jude, a 25-year-old full-time trader, navigates the volatile world of cryptocurrency with a unique blend of cautious strategy and trendsetting insight. Known for his risk-averse yet innovative approach, he consistently identifies emerging market trends while maintaining a frugal investment style that minimizes unnecessary expenditure. With an intermediate level of experience, Jude skillfully balances conservative risk management with forward-thinking strategies, earning respect among peers in the crypto community."
+  },
+  "riskTolerance": 0.7284860803259254,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

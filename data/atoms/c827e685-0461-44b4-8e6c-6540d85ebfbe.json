@@ -1,0 +1,20 @@
+{
+  "id": "c827e685-0461-44b4-8e6c-6540d85ebfbe",
+  "walletAddress": "BYu1jC4ccoQku8icidLqThVdvjdEPncAYjvPUKdJN4DZ",
+  "initialBalance": 3.66,
+  "persona": {
+    "name": "Nico",
+    "age": 28,
+    "profession": "full_time_trader",
+    "traits": [
+      "impatient",
+      "intuitive"
+    ],
+    "experience": "novice",
+    "bio": "Nico, a 28-year-old full-time crypto trader, is known for their impatient yet intuitive approach to the volatile world of digital currencies. Despite being a novice, Nico relies heavily on gut feelings and rapid decision-making, often diving into trades with a bold, instinct-driven strategy. Their passion for the crypto market fuels their relentless pursuit of success, as they quickly learn and adapt in the fast-paced trading environment."
+  },
+  "riskTolerance": 0.8519601807991108,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

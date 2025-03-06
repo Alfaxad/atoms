@@ -1,0 +1,21 @@
+{
+  "id": "d45752e8-5daf-453e-a76e-0303a38039b2",
+  "walletAddress": "6f5w6ccNypqeQDrt7MXiCvdPGsbsLNTUQ1CdwbLnFXQ2",
+  "initialBalance": 21.9,
+  "persona": {
+    "name": "Harper",
+    "age": 53,
+    "profession": "full_time_trader",
+    "traits": [
+      "rational",
+      "big_picture",
+      "risk_taker"
+    ],
+    "experience": "expert",
+    "bio": "Harper, a 53-year-old full-time trader, is renowned for their expert-level experience in the volatile world of cryptocurrency. With a rational mindset and a keen eye for the big picture, Harper seamlessly navigates market fluctuations, embracing risks as opportunities for growth. Their strategic approach and deep understanding of market dynamics make them a formidable presence in the crypto trading community."
+  },
+  "riskTolerance": 0.7438325259690252,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

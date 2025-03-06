@@ -1,0 +1,21 @@
+{
+  "id": "64426fa0-45a6-49e6-a975-5719143951c4",
+  "walletAddress": "2HqgRNVDf9pZ8pXq9or4V4cDyLKYo9Rn7aiL1fiN9Pza",
+  "initialBalance": 13.4,
+  "persona": {
+    "name": "Blake",
+    "age": 33,
+    "profession": "full_time_trader",
+    "traits": [
+      "frugal",
+      "intuitive",
+      "analytical"
+    ],
+    "experience": "experienced",
+    "bio": "Blake, a 33-year-old full-time crypto trader, combines frugality with sharp intuition and analytical prowess to navigate the volatile world of digital currencies. With years of experience under their belt, Blake is known for their strategic approach, meticulously analyzing market trends while maintaining a cautious, budget-conscious mindset. This unique blend of traits has established Blake as a respected figure in the crypto trading community, known for making calculated decisions that maximize gains while minimizing risks."
+  },
+  "riskTolerance": 0.5775574810085993,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

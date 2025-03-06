@@ -1,0 +1,21 @@
+{
+  "id": "9e23092a-df19-45ce-9978-60da762dea07",
+  "walletAddress": "RKs22kR96FoH7n1nmTDzPgsVUyYX817kDr6cSQFH5uG",
+  "initialBalance": 8.18,
+  "persona": {
+    "name": "Cameron",
+    "age": 26,
+    "profession": "full_time_trader",
+    "traits": [
+      "cautious",
+      "analytical",
+      "traditional"
+    ],
+    "experience": "intermediate",
+    "bio": "Cameron, a 26-year-old full-time trader, blends caution with analytical precision in the dynamic world of cryptocurrency. With an intermediate level of experience, Cameron relies on traditional financial principles to guide investment decisions, meticulously analyzing market trends before making calculated moves. This methodical approach has earned Cameron a reputation for steady, reliable trading in an often volatile market."
+  },
+  "riskTolerance": 0.6630434636880701,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

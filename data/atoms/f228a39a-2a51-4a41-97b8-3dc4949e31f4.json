@@ -1,0 +1,21 @@
+{
+  "id": "f228a39a-2a51-4a41-97b8-3dc4949e31f4",
+  "walletAddress": "Cn5yrP7Nf6WAxjzn7R5e9BiXnq9VBwpwA2Tk1DsQo6cn",
+  "initialBalance": 9.58,
+  "persona": {
+    "name": "Hayley",
+    "age": 26,
+    "profession": "full_time_trader",
+    "traits": [
+      "rational",
+      "independent",
+      "traditional"
+    ],
+    "experience": "intermediate",
+    "bio": "Hayley, a 26-year-old full-time crypto trader, blends her rational mindset with a traditional approach to investing, balancing risk and reward with calculated precision. With intermediate experience in the volatile crypto markets, she values independent research and disciplined strategies, steering clear of trends in favor of time-tested methods. Her analytical nature and commitment to thoughtful decision-making have made her a respected figure among her peers."
+  },
+  "riskTolerance": 0.898123754706081,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

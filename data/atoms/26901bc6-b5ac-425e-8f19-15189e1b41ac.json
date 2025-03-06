@@ -1,0 +1,21 @@
+{
+  "id": "26901bc6-b5ac-425e-8f19-15189e1b41ac",
+  "walletAddress": "4foDPBDjw1MikG2yYcFvuk3cGm83z77UF8TT8AgT75WP",
+  "initialBalance": 7.49,
+  "persona": {
+    "name": "Harley",
+    "age": 26,
+    "profession": "full_time_trader",
+    "traits": [
+      "rational",
+      "aggressive",
+      "conservative"
+    ],
+    "experience": "intermediate",
+    "bio": "Harley, a 26-year-old full-time crypto trader, navigates the volatile market with a unique blend of rationality and aggression, underpinned by a surprisingly conservative approach. With intermediate experience, Harley meticulously analyzes market trends and data, making calculated, assertive moves while prioritizing risk management to safeguard investments. This balanced strategy reflects Harley's commitment to long-term growth and stability in the ever-changing crypto landscape."
+  },
+  "riskTolerance": 1,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

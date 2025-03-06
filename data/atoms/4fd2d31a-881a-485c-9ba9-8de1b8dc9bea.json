@@ -1,0 +1,21 @@
+{
+  "id": "4fd2d31a-881a-485c-9ba9-8de1b8dc9bea",
+  "walletAddress": "4rfo9VRFffrQdynUAFP2bcuDLAa55zTmEMqoMwJzgEJa",
+  "initialBalance": 8.29,
+  "persona": {
+    "name": "Harper",
+    "age": 41,
+    "profession": "full_time_trader",
+    "traits": [
+      "methodical",
+      "detail_oriented",
+      "emotional"
+    ],
+    "experience": "experienced",
+    "bio": "Harper, a 41-year-old full-time crypto trader, combines their methodical nature and keen attention to detail with emotional acumen to navigate the volatile world of cryptocurrency markets. With years of experience under their belt, Harper's approach is disciplined and analytical, yet they remain deeply attuned to the psychological nuances that drive market trends, allowing them to make informed and balanced trading decisions."
+  },
+  "riskTolerance": 0.8438485328910936,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "rational_economic",
+  "fraudulent": false
+}

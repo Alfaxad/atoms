@@ -1,0 +1,20 @@
+{
+  "id": "8d0e3074-5fe6-4328-868f-a107bb713284",
+  "walletAddress": "5evS3MRzvZXEg7o4TjZSngLt3nJBxXywbNrvapp6Xvmy",
+  "initialBalance": 13.35,
+  "persona": {
+    "name": "Charlie",
+    "age": 64,
+    "profession": "full_time_trader",
+    "traits": [
+      "cautious",
+      "frugal"
+    ],
+    "experience": "expert",
+    "bio": "Charlie, a 64-year-old full-time crypto trader, is known for his cautious and frugal approach to the volatile world of digital currencies. With years of experience under his belt, Charlie expertly navigates the markets, meticulously analyzing trends and prioritizing risk management to protect his investments. His prudent strategies have earned him a reputation as a reliable and savvy investor among his peers."
+  },
+  "riskTolerance": 0.5917650312727678,
+  "tradingStrategy": "pump_and_dump",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": true
+}

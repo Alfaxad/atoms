@@ -1,0 +1,20 @@
+{
+  "id": "c06dc01a-b85a-4f91-ad59-4f94a98f25b6",
+  "walletAddress": "9LfhJ6b5kbiEYjxJRvkwEoznpUcPJaAEn6JtKHe2MgCY",
+  "initialBalance": 13.56,
+  "persona": {
+    "name": "Spencer",
+    "age": 27,
+    "profession": "full_time_trader",
+    "traits": [
+      "optimistic",
+      "generous"
+    ],
+    "experience": "intermediate",
+    "bio": "Spencer, a 27-year-old full-time crypto trader, navigates the dynamic world of digital currencies with an optimistic outlook and an intermediate level of experience. Known for his generous spirit, he often shares insights and strategies with fellow traders, fostering a supportive community. Spencer's approach to trading is characterized by a balanced blend of risk-taking and cautious analysis, always seeking to capitalize on emerging trends while maintaining a positive long-term perspective."
+  },
+  "riskTolerance": 0.88319130709717,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "behavioral_finance",
+  "fraudulent": false
+}

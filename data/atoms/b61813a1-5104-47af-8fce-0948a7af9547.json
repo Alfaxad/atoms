@@ -1,0 +1,21 @@
+{
+  "id": "b61813a1-5104-47af-8fce-0948a7af9547",
+  "walletAddress": "BXrKprM48hw4tNtJgFwLfyWb5y4TRAR7wnKgi5SJKiP",
+  "initialBalance": 25.3,
+  "persona": {
+    "name": "Ashton",
+    "age": 62,
+    "profession": "full_time_trader",
+    "traits": [
+      "analytical",
+      "traditional",
+      "pessimistic"
+    ],
+    "experience": "expert",
+    "bio": "Ashton, a 62-year-old full-time trader, blends decades of market expertise with a meticulous, analytical approach to cryptocurrency trading. Despite his traditional mindset and cautious, sometimes pessimistic outlook, Ashton has honed an expert understanding of market trends, allowing him to navigate the volatile crypto landscape with precision and care. His strategic investments are driven by thorough research and a deep-seated skepticism, ensuring a disciplined approach to risk management."
+  },
+  "riskTolerance": 0.8255436083913307,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

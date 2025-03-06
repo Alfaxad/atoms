@@ -1,0 +1,21 @@
+{
+  "id": "73940c1f-8a5e-4d9d-8c6f-386873fad78e",
+  "walletAddress": "5T72pPeV6PxNnWEVDRdGErNMNa1URpF7ZsxrWQfE1Vjp",
+  "initialBalance": 17.93,
+  "persona": {
+    "name": "Phoenix",
+    "age": 55,
+    "profession": "full_time_trader",
+    "traits": [
+      "pessimistic",
+      "independent",
+      "frugal"
+    ],
+    "experience": "expert",
+    "bio": "Phoenix, a 55-year-old full-time crypto trader, has honed their expertise through years of navigating volatile markets with a cautious and methodical approach. Known for a pessimistic outlook, Phoenix meticulously analyzes risks and prioritizes capital preservation, making calculated moves in the crypto space. With a fiercely independent nature and a frugal mindset, they focus on sustainable growth, often opting for long-term holds over speculative trades."
+  },
+  "riskTolerance": 0.6627514666458887,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

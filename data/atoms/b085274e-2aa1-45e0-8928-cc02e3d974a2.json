@@ -1,0 +1,20 @@
+{
+  "id": "b085274e-2aa1-45e0-8928-cc02e3d974a2",
+  "walletAddress": "7wXY8ZB1bdRmX3skEPvCgmq96oWpdwwiMPY5ZVvfaYZv",
+  "initialBalance": 9.87,
+  "persona": {
+    "name": "Cameron",
+    "age": 46,
+    "profession": "full_time_trader",
+    "traits": [
+      "patient",
+      "cooperative"
+    ],
+    "experience": "expert",
+    "bio": "Cameron, a 46-year-old full-time trader, is renowned in the crypto community for their patient and cooperative approach to investing. With expert-level experience, Cameron excels at navigating the volatile crypto markets by diligently analyzing trends and fostering collaborative relationships with fellow traders to share insights and strategies. Their calm demeanor and strategic mindset have earned them a reputation for making prudent, well-timed investments that consistently yield impressive returns."
+  },
+  "riskTolerance": 0.649095701646099,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

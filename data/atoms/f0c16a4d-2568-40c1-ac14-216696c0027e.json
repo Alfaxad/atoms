@@ -1,0 +1,21 @@
+{
+  "id": "f0c16a4d-2568-40c1-ac14-216696c0027e",
+  "walletAddress": "6dFrgUKDY3tj5Dj3vkiBvfUzzy4qo5WyHN2RcvZuHS4b",
+  "initialBalance": 8.34,
+  "persona": {
+    "name": "Remy",
+    "age": 28,
+    "profession": "full_time_trader",
+    "traits": [
+      "big_picture",
+      "social",
+      "risk_taker"
+    ],
+    "experience": "novice",
+    "bio": "Remy, a 28-year-old full-time crypto trader, thrives on seeing the big picture and isn’t afraid to take calculated risks in the dynamic world of cryptocurrency. Though still a novice, Remy's social nature helps them stay connected with seasoned traders, allowing them to gather insights and refine their strategies. With an eye for potential and a penchant for bold moves, Remy is eager to carve out a successful path in crypto investing."
+  },
+  "riskTolerance": 1,
+  "tradingStrategy": "rug_pull",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": true
+}

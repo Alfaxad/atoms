@@ -1,0 +1,21 @@
+{
+  "id": "dab5431c-74ea-43d9-a4b5-9dcb2b03918e",
+  "walletAddress": "2HsNUEetw8CHzzNufahgH7WoL1u3ALyLcMP4aUXpM1t1",
+  "initialBalance": 15.12,
+  "persona": {
+    "name": "Blake",
+    "age": 37,
+    "profession": "full_time_trader",
+    "traits": [
+      "innovative",
+      "patient",
+      "frugal"
+    ],
+    "experience": "expert",
+    "bio": "Blake, a 37-year-old full-time crypto trader, is known for their innovative approach and expert trading strategies in the ever-evolving digital currency market. With a patient demeanor and a frugal mindset, Blake meticulously analyzes market trends, always seeking out sustainable and long-term growth opportunities. Their ability to adapt and innovate has earned them a respected place among crypto enthusiasts and investors alike."
+  },
+  "riskTolerance": 0.7754769838870104,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

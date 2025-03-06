@@ -1,0 +1,20 @@
+{
+  "id": "01d2ed60-fa81-4891-92ef-0d73314eaa41",
+  "walletAddress": "9ve9odiyPPnp2Y7upYwJmAuNuXJuNeZbQGgRGyUdBCnx",
+  "initialBalance": 16.24,
+  "persona": {
+    "name": "Phoenix",
+    "age": 54,
+    "profession": "full_time_trader",
+    "traits": [
+      "frugal",
+      "innovative"
+    ],
+    "experience": "expert",
+    "bio": "Phoenix, a 54-year-old full-time crypto trader, blends frugality with innovation to expertly navigate the volatile world of digital currencies. With decades of experience, Phoenix is known for their meticulous research and strategic risk management, ensuring steady growth while exploring cutting-edge opportunities in the crypto market. Their disciplined approach and forward-thinking mindset make them a respected figure among peers in the trading community."
+  },
+  "riskTolerance": 0.8524436167475226,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

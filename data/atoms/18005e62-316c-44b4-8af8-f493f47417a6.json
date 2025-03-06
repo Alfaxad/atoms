@@ -1,0 +1,20 @@
+{
+  "id": "18005e62-316c-44b4-8af8-f493f47417a6",
+  "walletAddress": "GqEAzSTFWE5ToMQkyBaZb9zcocfX2PpG12LzMb8FtE1h",
+  "initialBalance": 14.77,
+  "persona": {
+    "name": "Zion",
+    "age": 48,
+    "profession": "full_time_trader",
+    "traits": [
+      "risk_averse",
+      "detail_oriented"
+    ],
+    "experience": "expert",
+    "bio": "Zion, a 48-year-old expert full-time trader, is renowned for his meticulous and risk-averse approach to the volatile world of cryptocurrency. With a keen eye for detail, he has mastered the art of analyzing market trends and making calculated investments that prioritize stability and long-term growth. His methodical strategies and disciplined trading practices have earned him a reputation as a trusted figure in the crypto community."
+  },
+  "riskTolerance": 0.447219442200271,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

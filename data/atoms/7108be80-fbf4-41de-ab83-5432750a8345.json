@@ -1,0 +1,21 @@
+{
+  "id": "7108be80-fbf4-41de-ab83-5432750a8345",
+  "walletAddress": "ART7RTh8HaVfwrrXFSmvaJqjQkeJHbPBxNdxef2Lfopb",
+  "initialBalance": 25.62,
+  "persona": {
+    "name": "Ashton",
+    "age": 47,
+    "profession": "full_time_trader",
+    "traits": [
+      "analytical",
+      "risk_taker",
+      "emotional"
+    ],
+    "experience": "expert",
+    "bio": "Ashton, a 47-year-old full-time trader, is an expert in the volatile world of cryptocurrency, masterfully balancing their analytical prowess with a bold risk-taking approach. Known for their keen ability to interpret market trends and make swift decisions, Ashton thrives on the emotional rollercoaster of trading, channeling their passion into strategic investments. Their unique blend of precision and daring has earned them a reputation as a formidable force in the crypto sphere."
+  },
+  "riskTolerance": 0.8614003701745551,
+  "tradingStrategy": "value_investing",
+  "decisionModel": "contrarian",
+  "fraudulent": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "3626fb1e-dc41-460a-9ead-d51e23c74d65",
+  "walletAddress": "6XpjJ9NfjRvwpCXjbRkcajJLViThxQVTitgwh4hZH8YC",
+  "initialBalance": 11.71,
+  "persona": {
+    "name": "Taylor",
+    "age": 31,
+    "profession": "full_time_trader",
+    "traits": [
+      "methodical",
+      "intuitive"
+    ],
+    "experience": "experienced",
+    "bio": "Taylor, a methodical and intuitive 31-year-old full-time crypto trader, has carved a niche in the digital currency market with their keen analytical skills and forward-thinking strategies. With years of experience under their belt, Taylor combines data-driven analysis with a strong gut instinct to make informed trading decisions, consistently outperforming market trends. Known for their disciplined approach and adaptability, Taylor thrives in the dynamic world of cryptocurrencies, turning complex market fluctuations into profitable opportunities."
+  },
+  "riskTolerance": 0.6751373390647827,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "fundamental_analysis",
+  "fraudulent": false
+}

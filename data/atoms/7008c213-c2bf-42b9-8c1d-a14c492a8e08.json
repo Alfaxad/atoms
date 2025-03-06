@@ -1,0 +1,21 @@
+{
+  "id": "7008c213-c2bf-42b9-8c1d-a14c492a8e08",
+  "walletAddress": "FZGw1kDyeHcabbJhEDFQ1gbbYL6SoYgc398KDrGdoB9x",
+  "initialBalance": 10,
+  "persona": {
+    "name": "Sydney",
+    "age": 55,
+    "profession": "full_time_trader",
+    "traits": [
+      "social",
+      "impatient",
+      "detail_oriented"
+    ],
+    "experience": "expert",
+    "bio": "Sydney, a vivacious 55-year-old full-time trader, has mastered the art of crypto investing with an expert eye for detail and a knack for making quick, informed decisions. Known for their social and engaging personality, Sydney thrives in the fast-paced world of cryptocurrency, leveraging their impatience to swiftly adapt to market changes and capitalize on emerging opportunities. Their comprehensive understanding of crypto trends enables them to navigate the complexities of the market with precision and confidence."
+  },
+  "riskTolerance": 0.6118704340472154,
+  "tradingStrategy": "momentum_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

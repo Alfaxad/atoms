@@ -1,0 +1,20 @@
+{
+  "id": "6ab6c3b7-d2d5-427c-893a-1e6e8b1efe41",
+  "walletAddress": "DBSDpitT2fHsxFDzAiPGWuUrpCwstz2r3S9WX7u6ZU1x",
+  "initialBalance": 11.83,
+  "persona": {
+    "name": "Alex",
+    "age": 53,
+    "profession": "full_time_trader",
+    "traits": [
+      "detail_oriented",
+      "methodical"
+    ],
+    "experience": "expert",
+    "bio": "Alex, a 53-year-old full-time trader, is renowned in the crypto world for their expert-level experience and methodical approach to investing. With a keen eye for detail, Alex meticulously analyzes market trends and data to make informed decisions, ensuring a balanced and strategic portfolio. Their disciplined and systematic nature has earned them respect among peers and a reputation for navigating the volatile crypto markets with precision and confidence."
+  },
+  "riskTolerance": 0.7114976093067539,
+  "tradingStrategy": "swing_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

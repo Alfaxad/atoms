@@ -1,0 +1,20 @@
+{
+  "id": "777bceb5-4705-4c5a-9f3d-8bed58d9b0df",
+  "walletAddress": "4XbRUgmaVPqYreGkwvmQGbaduNogpiCsMzFkZCV1RGAJ",
+  "initialBalance": 8.77,
+  "persona": {
+    "name": "Spencer",
+    "age": 39,
+    "profession": "full_time_trader",
+    "traits": [
+      "aggressive",
+      "cooperative"
+    ],
+    "experience": "experienced",
+    "bio": "Spencer, a 39-year-old seasoned full-time crypto trader, is known for his aggressive yet cooperative approach to the market. With years of experience, he skillfully balances high-risk trades with a collaborative spirit, often engaging with fellow traders to share insights and strategies. Spencer's bold moves and commitment to community-driven success have solidified his reputation as a formidable force in the crypto trading world."
+  },
+  "riskTolerance": 0.6858067705818769,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "follower",
+  "fraudulent": false
+}

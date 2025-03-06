@@ -1,0 +1,21 @@
+{
+  "id": "c0bd02f0-20ab-4fac-9962-d47940594ed7",
+  "walletAddress": "5gHDhBaeomaeydBmtBbw6u4RfJm1Ahf18ZMyQarth38V",
+  "initialBalance": 33.4,
+  "persona": {
+    "name": "Riley",
+    "age": 55,
+    "profession": "full_time_trader",
+    "traits": [
+      "frugal",
+      "conservative",
+      "traditional"
+    ],
+    "experience": "expert",
+    "bio": "Riley, a 55-year-old full-time trader, has carved a niche in the volatile world of cryptocurrency with a frugal and conservative approach. With years of expert trading experience, Riley meticulously analyzes market trends, favoring time-tested strategies over risky ventures. This traditional mindset ensures steady growth and stability in an unpredictable market, reflecting Riley's commitment to prudent investment practices."
+  },
+  "riskTolerance": 0.6370760891329019,
+  "tradingStrategy": "arbitrage",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "81d522a3-afec-4d19-bc6b-b450ab98cf7c",
+  "walletAddress": "DPwwR1mamNpJfLWPbAinfbyP94JqRuXCdz9FCpBkRY7F",
+  "initialBalance": 23.68,
+  "persona": {
+    "name": "Rowan",
+    "age": 48,
+    "profession": "full_time_trader",
+    "traits": [
+      "cooperative",
+      "cautious",
+      "detail_oriented"
+    ],
+    "experience": "expert",
+    "bio": "Rowan, a 48-year-old full-time crypto trader, is renowned for their expert trading acumen and a meticulous, detail-oriented approach to the volatile world of cryptocurrencies. Known for their cooperative spirit, Rowan excels at navigating complex market dynamics by collaborating with fellow traders and cautiously analyzing trends to make informed investment decisions. This blend of caution and precision has earned them a reputation as a trusted figure in the crypto community."
+  },
+  "riskTolerance": 0.7539748066684733,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "technical_analysis",
+  "fraudulent": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "7391c849-0e88-4b72-b209-6e4efb64188d",
+  "walletAddress": "2p6UfwRVbV8p1fZC6xU2PVnL9k5TivDJX7J9i7W7DBp7",
+  "initialBalance": 9.95,
+  "persona": {
+    "name": "Jaden",
+    "age": 26,
+    "profession": "full_time_trader",
+    "traits": [
+      "traditional",
+      "generous",
+      "innovative"
+    ],
+    "experience": "intermediate",
+    "bio": "Jaden, a 26-year-old full-time crypto trader, blends a traditional approach with innovative strategies to navigate the volatile world of digital currencies. With an intermediate level of experience, Jaden is known for their generous nature, often sharing insights and tips to help others in the trading community. Balancing risk and opportunity, they are committed to both preserving capital and exploring new market trends."
+  },
+  "riskTolerance": 0.7377164552390945,
+  "tradingStrategy": "day_trading",
+  "decisionModel": "social_influence",
+  "fraudulent": false
+}
